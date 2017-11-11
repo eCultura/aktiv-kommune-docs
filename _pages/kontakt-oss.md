@@ -23,4 +23,6 @@ Du kan delta på <a href="https://join.slack.com/t/aktivkommune/shared_invite/en
 
 # Send oss en melding
 
+Eposten din blir sendt til ansvarlig forvalter av AktivKommune.
+
 <strong><code>[pirate_forms]</code></strong>
