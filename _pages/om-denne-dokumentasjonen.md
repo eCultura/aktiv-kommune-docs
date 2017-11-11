@@ -22,7 +22,7 @@ Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en 
  	<li>Generelt</li>
 </ul>
 ## Wordpress
-I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Innlegget</em> kan man så velge hvilke kategori temaet skal knyttes til.
+I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Innlegget</em> kan man så velge hvilke kategori temaet skal knyttes til. Det anbefales å skrive i Tekst-modus (ikke Visuell) da det blir enklere å få kontroll på formatering og bruk av Markdown syntax.
 
 <img class="alignnone size-medium wp-image-62" src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/wp_kategorier-300x246.jpg" alt="" width="300" height="246" />
 
