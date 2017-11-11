@@ -10,7 +10,7 @@ post_date: 2017-11-11 12:43:36
 ---
 Her finner du generell informasjon om metode for vedlikehold av denne dokumentasjonen.
 
-Når denne dokumentasjonen skrives kan Markdown syntax benyttes. Syntax referanse: [Slate markdown](https://github.com/tripit/slate/wiki/Markdown-Syntax)
+Når denne dokumentasjonen skrives kan Markdown syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
 
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er delt inn i disse kategoriene:
@@ -23,7 +23,9 @@ Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en 
 </ul>
 ## Wordpress
 
-`Dette er en test på metode for dokumentasjon.`
+```
+Dette er en test på metode for dokumentasjon
+```
 
 # Endringslogg
 
