@@ -1,6 +1,6 @@
 ---
 ID: 110
-post_title: Generelt
+post_title: 'Spøsmål og Svar &#8211; Generelt'
 author: Admin WP
 post_excerpt: ""
 layout: page
