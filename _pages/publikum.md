@@ -1,7 +1,7 @@
 ---
 ID: 112
 post_title: 'Spørsmål og Svar &#8211; Publikum'
-author: Admin WP
+author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
 permalink: >
