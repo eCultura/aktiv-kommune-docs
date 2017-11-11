@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-23 14:21:27
 ---
-![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/slack-chat.png "slack")   ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/github_logo-e1510420098925.png "github")
+![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/slack-chat-e1510420049137.png "slack")   ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/github_logo-e1510420098925.png "github")
 
 AktivKommune utvikles som åpen kildekode. Også dokumentasjonen utvikles på denne måten. Derfor finner du oss på <a href="https://join.slack.com/t/aktivkommune/shared_invite/enQtMjcwODA0NDM0NTk2LTcwZGJhOWE3OTMxZTMxNGVjZjQxYTVkYjc0YTMzMmNkOTIyMzkwZTFlYTQwZmNkZmI3ZTgxMDc2NzkyMTNjN2U">#Slack</a> og <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>
 
