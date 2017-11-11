@@ -13,7 +13,7 @@ Her finner du generell informasjon om metoder for vedlikehold av denne dokumenta
 Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
 
 ## Målgrupper
-Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er delt inn i disse kategoriene:
+Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
 <ul>
  	<li>Publikum</li>
  	<li>Saksbehandler</li>
@@ -22,6 +22,7 @@ Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en 
  	<li>Generelt</li>
 </ul>
 ## Wordpress
+I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Innlegget</em> kan man så velge hvilke kategori temaet skal knyttes til.
 
 ```
 MERK: Dette er kun en test på metode for dokumentasjon
