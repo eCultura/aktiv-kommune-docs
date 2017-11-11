@@ -15,11 +15,11 @@ Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
 
-Publikum
-Saksbehandler
-Systemadministrator
-Utvikler
-Generelt
+* Publikum
+* Saksbehandler
+* Systemadministrator
+* Utvikler
+* Generelt
 
 ## Wordpress
 I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Innlegget</em> kan man så velge hvilke kategori temaet skal knyttes til. Det anbefales å skrive i Tekst-modus (ikke Visuell) da det blir enklere å få kontroll på formatering og bruk av Markdown syntax.
