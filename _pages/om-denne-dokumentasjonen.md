@@ -8,9 +8,9 @@ permalink: http://manual.aktiv-kommune.no/
 published: true
 post_date: 2017-11-11 12:43:36
 ---
-Her finner du generell informasjon om metode for vedlikehold av denne dokumentasjonen.
+Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen.
 
-Når denne dokumentasjonen skrives kan Markdown syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
+Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
 
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er delt inn i disse kategoriene:
@@ -24,7 +24,7 @@ Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en 
 ## Wordpress
 
 ```
-Dette er en test på metode for dokumentasjon
+MERK: Dette er kun en test på metode for dokumentasjon
 ```
 
 # Endringslogg
