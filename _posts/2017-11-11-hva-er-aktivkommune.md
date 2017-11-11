@@ -1,6 +1,6 @@
 ---
 ID: 145
-post_title: Hva er AktivKommune
+post_title: Hva er AktivKommune?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
