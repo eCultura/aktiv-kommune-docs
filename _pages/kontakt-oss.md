@@ -1,13 +1,13 @@
 ---
 ID: 9
 post_title: Kontakt oss
-author: reidar
+author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
 permalink: >
   http://manual.aktiv-kommune.no/?page_id=9
 published: true
-post_date: 2017-09-23 14:21:27
+post_date: 2017-11-11 14:21:27
 ---
 ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/slack-chat-e1510420049137.png "slack") ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/github_logo-e1510420098925.png "github")
 
