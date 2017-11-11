@@ -1,6 +1,6 @@
 ---
 ID: 87
-post_title: Hvordan endre på utseende?
+post_title: Hvordan endre på design?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
