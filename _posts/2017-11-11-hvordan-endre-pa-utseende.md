@@ -1,7 +1,7 @@
 ---
 ID: 87
 post_title: Hvordan endre på utseende?
-author: Admin WP
+author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=87
