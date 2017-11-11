@@ -1,7 +1,7 @@
 ---
 ID: 149
 post_title: >
-  Hvordan delta i utviklen av
+  Hvordan delta i utviklingen av
   AktivKommune?
 author: Arild M. Halvorsen
 post_excerpt: ""
