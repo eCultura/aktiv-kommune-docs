@@ -14,8 +14,8 @@ Du finner en oversikt over syntax for template **her**.
 
 [code language="css"]
 .center {
-    text-align: center;
-    color: red;
+text-align: center;
+color: red;
 }
 [/code]
 
