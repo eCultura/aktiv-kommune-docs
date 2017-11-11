@@ -32,9 +32,3 @@ MERK: Dette er kun en test på metode for dokumentasjon
 
 ## GitHub
 Denne dokumentasjonen lages som åpen kildekode og være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. I GitHub vil denne dokumentasjonen være tilgjengelig til bruk i andre sammenhenger.
-
-# Endringslogg
-
-## 11 november, 2017
-
-- La inn `Om denne dokumentasjonen`. Dette for å gjøre det tydelig for leseren hva dokumentasjonen inneholder og for hvem den er beregnet. [Les mer](http://manual.aktiv-kommune.no/?page_id=37)
