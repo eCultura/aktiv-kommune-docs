@@ -10,9 +10,10 @@ post_date: 2017-11-11 12:43:36
 ---
 # AktivKommune versjon 1.0
 
-Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen.
+Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høyt fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Gi oss gjerne er **tilbakemelding**.
 
-Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/). Her er en oversikt over hvordan man kan skrive eksempelkode i dokumentasjonen: [Posting Source Code](https://en.support.wordpress.com/code/posting-source-code/)
+## Mardown format
+Når denne dokumentasjonen skrives benyttes <em>Markdown</em> syntax. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/). Her er en oversikt over hvordan man kan skrive eksempelkode i dokumentasjonen: [Posting Source Code](https://en.support.wordpress.com/code/posting-source-code/)
 
 ```
 MERK: Dette er kun en test på metode for dokumentasjon
