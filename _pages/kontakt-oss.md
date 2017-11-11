@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2017-09-23 14:21:27
 ---
+![Alt](/wp.png "Title")   ![Alt](/wp.png "Title")
+
 AktivKommune utvikles som åpen kildekode. Også dokumentasjonen utvikles på denne måten. Derfor finner du oss på <a href="https://join.slack.com/t/aktivkommune/shared_invite/enQtMjcwODA0NDM0NTk2LTcwZGJhOWE3OTMxZTMxNGVjZjQxYTVkYjc0YTMzMmNkOTIyMzkwZTFlYTQwZmNkZmI3ZTgxMDc2NzkyMTNjN2U">#Slack</a> og <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>
 
 Er du bruker av <strong>GitHub</strong> kan du legge inn feil eller forslag til endringer <a href="https://github.com/eCultura/aktiv-kommune-docs/issues">her</a>.
