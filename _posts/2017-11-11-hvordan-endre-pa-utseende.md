@@ -13,7 +13,6 @@ Det er enkelt å endre utseende i AktivKommune. AktivKommune benytter templates 
 Du finner en oversikt over syntax for template **her**.
 
 Eksempel på CSS kode:
-
 [code language="css"]
 .center {
 text-align: center;
@@ -22,7 +21,6 @@ color: red;
 [/code]
 
 Eksempel på PHP kode:
-
 [code language="php"]
 $stylesheets[] = &quot;/{$app}/css/bootstrap.css&quot;;
 [/code]
