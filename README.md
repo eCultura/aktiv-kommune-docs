@@ -1,5 +1,5 @@
 ---
-post_title: 'Om dokumetasjonen'
+post_title: Om denne dokumetasjonen
 layout: page
 published: true
 ---
@@ -9,9 +9,7 @@ AktivKommune dokumentasjon ([https://manual.aktiv-kommune.no](https://manual.akt
 
 Denne dokumentasjonen bruker Markdown syntax. Syntax referanse: [Slate markdown](https://github.com/tripit/slate/wiki/Markdown-Syntax)
 
-<aside class="warning">
-Dette er bare en test på metode for dokumentasjon.
-</aside>
+`Dette er en test på metode for dokumentasjon.`
 
 # Endringslogg
 
