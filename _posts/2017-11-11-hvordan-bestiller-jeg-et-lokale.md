@@ -1,7 +1,7 @@
 ---
 ID: 85
 post_title: Hvordan bestiller jeg et lokale?
-author: Admin WP
+author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=85
