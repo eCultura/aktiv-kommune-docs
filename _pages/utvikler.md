@@ -1,6 +1,6 @@
 ---
 ID: 114
-post_title: Utvikler
+post_title: 'Spørsmål og Svar &#8211; Utvikler'
 author: Admin WP
 post_excerpt: ""
 layout: page
