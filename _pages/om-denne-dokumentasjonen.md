@@ -10,7 +10,7 @@ post_date: 2017-11-11 12:43:36
 ---
 Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen.
 
-Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/)
+Når denne dokumentasjonen skrives kan <em>Markdown</em> syntax benyttes. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/). Her er en oversikt over hvordan man kan skrive eksempelkode i dokumentasjonen: [Posting Source Code](https://en.support.wordpress.com/code/posting-source-code/)
 
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
