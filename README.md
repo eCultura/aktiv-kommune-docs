@@ -1,6 +1,6 @@
 ---
 post_title: 'Om dokumetasjonen'
-layout: post
+layout: page
 published: true
 ---
 # AktivKommune - Dokumentasjon
