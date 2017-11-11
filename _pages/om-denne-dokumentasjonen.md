@@ -12,7 +12,7 @@ post_date: 2017-11-11 12:43:36
 
 Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høyt fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
 
-## Mardown format
+## Markdown format
 Når denne dokumentasjonen skrives benyttes <em>Markdown</em> syntax. Syntax referanse: [Wordpress Markdown](https://en.support.wordpress.com/markdown-quick-reference/). Her er en oversikt over hvordan man kan skrive eksempelkode i dokumentasjonen: [Posting Source Code](https://en.support.wordpress.com/code/posting-source-code/)
 
 ```
