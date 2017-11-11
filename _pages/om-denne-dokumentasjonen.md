@@ -1,7 +1,7 @@
 ---
 ID: 37
 post_title: Om denne dokumentasjonen
-author: Admin WP
+author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
 permalink: http://manual.aktiv-kommune.no/
