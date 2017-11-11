@@ -31,4 +31,4 @@ I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Inn
 <img class="alignnone size-medium wp-image-62" src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/wp_kategorier-300x246.jpg" alt="" width="300" height="246" />
 
 ## GitHub
-Denne dokumentasjonen lages som åpen kildekode og være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. I GitHub vil denne dokumentasjonen være tilgjengelig til bruk i andre sammenhenger.
+Denne dokumentasjonen lages som åpen kildekode og vil være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. I GitHub vil dokumentasjonen være tilgjengelig for alle til bruk også i andre sammenhenger.
