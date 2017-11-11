@@ -1,3 +1,8 @@
+---
+post_title: 'Om dokumetasjonen'
+layout: post
+published: true
+---
 # AktivKommune - Dokumentasjon
 
 AktivKommune dokumentasjon ([https://wiki.prosjekt.io](https://wiki.prosjekt.io))
