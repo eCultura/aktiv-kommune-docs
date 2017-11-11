@@ -30,6 +30,9 @@ I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Inn
 MERK: Dette er kun en test på metode for dokumentasjon
 ```
 
+## GitHub
+Denne dokumentasjonen lages som åpen kildekode og være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. I GitHub vil denne dokumentasjonen være tilgjengelig til bruk i andre sammenhenger.
+
 # Endringslogg
 
 ## 11 november, 2017
