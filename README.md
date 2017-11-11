@@ -5,7 +5,7 @@ published: true
 ---
 # AktivKommune - Dokumentasjon
 
-AktivKommune dokumentasjon ([https://wiki.prosjekt.io](https://wiki.prosjekt.io))
+AktivKommune dokumentasjon ([https://manual.aktiv-kommune.no](https://manual.aktiv-kommune.no/))
 
 Denne dokumentasjonen bruker Markdown syntax. Syntax referanse: [Slate markdown](https://github.com/tripit/slate/wiki/Markdown-Syntax)
 
