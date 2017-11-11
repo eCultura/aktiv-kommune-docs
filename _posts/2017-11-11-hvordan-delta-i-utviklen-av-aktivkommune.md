@@ -14,4 +14,4 @@ Har du erfaring med PHP og WEB-utvikling?
 
 AktivKommune utvikles som åpen kildekode. Arbeidet med utviklingen er i stor grad dugnadsbasert. Vi ønsker derfor å komme i kontakt med andre WEB-utviklere i offentlig sektor som ønsker å bidra.
 
-Send oss en meldig [her](https://manual.aktiv-kommune.no/?page_id=9) om du er interresert.
+Send oss en meldig [her](https://manual.aktiv-kommune.no/?page_id=9) om du er interessert.
