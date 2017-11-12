@@ -15,7 +15,7 @@ AktivKommune utvikles som åpen kildekode. Også dokumentasjonen utvikles på de
 
 Er du bruker av <strong>GitHub</strong> kan du legge inn feil eller forslag til endringer <a href="https://github.com/eCultura/aktiv-kommune-docs/issues">her</a>.
 
-Du kan delta på [#Slack](https://join.slack.com/t/aktivkommune/shared_invite/enQtMjcwODA0NDM0NTk2LTcwZGJhOWE3OTMxZTMxNGVjZjQxYTVkYjc0YTMzMmNkOTIyMzkwZTFlYTQwZmNkZmI3ZTgxMDc2NzkyMTNjN2U)  dersom du vil bidra aktiv til skriving av dokumentasjon. I hovedsak er det ansatte i norske kommuner som benytter denne plattformen til samhandling knyttet til AktivKommune. Andre med spesiell interesse kan selvsagt også delta på denne dugnaden. AktivKommune har følgende kanaler på #Slack:
+Du kan delta på [#Slack](https://join.slack.com/t/aktivkommune/shared_invite/enQtMjcwODA0NDM0NTk2LTcwZGJhOWE3OTMxZTMxNGVjZjQxYTVkYjc0YTMzMmNkOTIyMzkwZTFlYTQwZmNkZmI3ZTgxMDc2NzkyMTNjN2U)  dersom du vil bidra aktiv til skriving av dokumentasjon. I hovedsak er det ansatte i norske kommuner som benytter denne plattformen til samhandling knyttet til AktivKommune. Andre med spesiell interesse og evner kan selvsagt også delta på denne dugnaden ved behov. AktivKommune har følgende kanaler på #Slack:
 
 * #dokumentasjon
 * #utviklere
