@@ -12,14 +12,14 @@ post_date: 2017-11-11 12:43:36
 
 Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høyt fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
 
-## Markdown format
-Når denne dokumentasjonen skrives benyttes <em>Markdown</em> syntax. Syntax referanse: [GitHub Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+## Markdown formateringssyntax
+Når denne dokumentasjonen skrives benyttes *Markdown* syntax. Syntax referanse: [GitHub Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ```
 MERK: Dette er kun en test på metode for dokumentasjon
 ```
 
-Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer.
+Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer. Du finner mer informasjon og eksempler på bruk [her](http://manual.aktiv-kommune.no/?p=193). 
 
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator for den enkelte kommune og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
