@@ -23,6 +23,8 @@ Du kan delta på [#Slack](https://join.slack.com/t/aktivkommune/shared_invite/en
 
 # Send oss en melding
 
+*Denne funskjonen er dessverre ute av drift.*
+
 Meldingen din blir sendt til ansvarlig forvalter av AktivKommune. Sensitive personopplysninger skal ikke sendes med meldingen.
 
 [pirate_forms]
