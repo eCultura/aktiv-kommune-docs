@@ -14,6 +14,8 @@ Når du skal skrive dokumentasjon må du logge deg på [AktivKommune - Brukervei
 ## Legg til nytt Innlegg
 Dokumentasjon skrives som **Innlegg**, ikke Sider. Velg **Legg til nytt** i **Kontrollpanelet**. Øverst i Innlegg legger du inn en **Overskrift**. Oversikriften bør utformes som et spørsmål.
 
+>I Wordpress skriver vi dokumentasjon med *Markdown* formateringssyntax i **Tekst-modus**, ikke Visuell-modus.
+
 ## Skrive innhold
 For best mulig resultat må du sørge for at du benyttet **Tekst-modus**, ikke Visuell. Du benytte Markdown syntax når du skriver dokumentasjonen. Du finner informasjon om Markdown syntax [her](https://en.support.wordpress.com/markdown-quick-reference/). **Lagre kladd** underveis i arbeidet, men vent med å Publisere til du er helt ferdig med dokumentet. Ønsker du at andre skal se gjennom arbeidet før det Publiseres kan du velge *Status: Rediger* og endre *Kladd* til **Venter på Gjennomgang**. Klikk på knappen **Forhåndsvis** for å se hvordan innholdet blir presentert for brukeren.
 
