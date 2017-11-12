@@ -1,6 +1,6 @@
 ---
 ID: 69
-post_title: Hvordan komme i gang?
+post_title: Hvordan komme i gang med AktivKommune?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -15,3 +15,4 @@ Før du kan bruke AktivKommune må kommunen ha opprettet en driftsavtale med Sta
 Hver kommune må ha en systemansvarlig eller sørge for at en person, eller ekstern bedrift, blir tildelt denne rollen. En systemansvarlig, i denne sammenheng, er en person med generell god digital kompetanse, eller person som evner å forstå og utføre veiledningen under.
 
 ## Logg på Aktiv kommune
+... osv
