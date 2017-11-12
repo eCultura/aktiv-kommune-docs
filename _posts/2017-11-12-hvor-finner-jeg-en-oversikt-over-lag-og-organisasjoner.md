@@ -11,7 +11,7 @@ published: true
 post_date: 2017-11-12 11:38:30
 ---
 ## data.norge.no - Difi
-Du kan finne en oversikt over lag og organisasjoner i din kommune på den offetlige tjenesten [data.norge.no](http://hotell.difi.no/?dataset=brreg/frivillighetsregisteret). Dataene hentes ut fra Frivilligregisteret.
+Du kan finne en oversikt over lag og organisasjoner i din kommune på den offetlige tjenesten [data.norge.no](http://hotell.difi.no/?dataset=brreg/frivillighetsregisteret). Dataene hentes ut fra **Frivilligregisteret**.
 
 ## Data fra din kommune
 Ved hjelp av **Filter** kan du velge din kommune ved hjelp av Kommunenummer eller Kommunenavn. Klikk på **Filter: Av** for å skrive inn ditt  aktuelle kommunenummer eller kommunenavn.
