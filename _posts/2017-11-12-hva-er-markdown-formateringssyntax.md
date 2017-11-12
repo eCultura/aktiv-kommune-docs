@@ -14,7 +14,7 @@ Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det s
 
 ## Eksempler på bruk av Markdown formateringssyntax
 
->I Wordpress skriver vi dokumentasjon med **Markdown** formateringssyntax i *Tekst-modus*, ikke Visuell-modus.
+>I Wordpress skriver vi dokumentasjon med *Markdown* formateringssyntax i **Tekst-modus**, ikke Visuell-modus.
 
 *Denne teksten er kursiv*
 
