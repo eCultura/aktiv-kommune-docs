@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=227
 published: true
 post_date: 2017-11-12 16:14:51
 ---
-Du kan benytte GitHub REST API for å hente ut denne dokumentasjonen. i GitHub blir dokumentasjonen lagret med Markdown formateringssyntax. Under ser du et eksempel på hvordan dokumentasjonen blir lagret.
+Du kan benytte *GitHub REST API* for å hente ut denne dokumentasjonen i løsninger. i GitHub blir dokumentasjonen lagret med Markdown formateringssyntax. Under ser du et eksempel på hvordan dokumentasjonen blir lagret.
 
 ```
 ---
