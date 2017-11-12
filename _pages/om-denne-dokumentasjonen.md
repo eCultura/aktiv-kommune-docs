@@ -22,7 +22,7 @@ MERK: Dette er kun en test på metode for dokumentasjon
 Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer.
 
 ## Målgrupper
-Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
+Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator for den enkelte kommune og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
 
 * Publikum
 * Saksbehandler
