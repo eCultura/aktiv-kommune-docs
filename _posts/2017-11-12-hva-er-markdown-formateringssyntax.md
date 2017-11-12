@@ -36,3 +36,6 @@ Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det s
  * Tekstdel 3b
 
 [Dette er en lenke til GitHub.com](http://github.com)
+
+Markdown syntax kan også vise bilder
+![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/github_logo-e1510420098925.png "github")
