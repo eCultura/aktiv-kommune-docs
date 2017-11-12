@@ -38,4 +38,4 @@ I Wordpress benyttes <em>Innlegg</em> når dokumentasjon skal skrives. I <em>Inn
 Mer informasjon om hvordan du skriver dokumentasjon i Wordpress finner du [her](http://manual.aktiv-kommune.no/?p=171).
 
 ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/github_logo-e1510420098925.png "github")
-Denne dokumentasjonen lages som åpen kildekode og vil være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. Her vil dokumentasjonen være tilgjengelig for alle til bruk i andre sammenhenger.
+Denne dokumentasjonen lages som åpen kildekode og vil være tilgjengelig på <a href="https://github.com/eCultura/aktiv-kommune-docs">GitHub</a>. Her vil dokumentasjonen være tilgjengelig til bruk i andre systemer og på andre plattformer.
