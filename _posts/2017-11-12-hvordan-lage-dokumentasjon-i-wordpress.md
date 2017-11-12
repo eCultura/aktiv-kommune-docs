@@ -22,7 +22,7 @@ For best mulig resultat må du sørge for at du benyttet **Tekst-modus**, ikke V
 ![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/wp_tekst-modus-e1510503610695.jpg)
 
 ## Kategorier
-Du må velge den Kategorien som passer best for ditt Innlegg. Dersom dokumentasjonen du skriver er rettet mot Publikum, velger du Publikum som Kategori. Dersom dokumentasjonen er av Generell karakter, velger du Generelt.
+Du må velge den Kategorien som passer best for ditt Innlegg. Dersom dokumentasjonen du skriver er rettet mot Publikum, velger du Publikum som Kategori. Dersom dokumentasjonen er av Generell karakter, velger du Generelt. Det er mulig å velge flere kategorier.
 
 ## Versjon og Delsystem
 For fremtidig bruk må du velge hvilke **Versjon** og **Delsystem** dokumentasjonen omhandler.
