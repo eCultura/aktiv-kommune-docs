@@ -15,3 +15,5 @@ post_date: 2017-11-12 19:46:57
 
 [	
 Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732)
+
+Les mer om hvordan du kan [endrer design](https://manual.aktiv-kommune.no/?p=87) i AktivKOmmune.
