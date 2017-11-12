@@ -34,3 +34,5 @@ Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det s
 3. Tekstdel 3
  * Tekstdel 3a
  * Tekstdel 3b
+
+[Dette er en lenke til GitHub.com](http://github.com)
