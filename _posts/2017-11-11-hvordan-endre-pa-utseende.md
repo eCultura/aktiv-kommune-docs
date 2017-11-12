@@ -8,9 +8,9 @@ permalink: http://manual.aktiv-kommune.no/?p=87
 published: true
 post_date: 2017-11-11 16:49:45
 ---
-Det er enkelt å endre på design i AktivKommune. AktivKommune benytter templates som benytter et spesielt syntax i tillegg til vanlig HTML.
+Det er enkelt å endre på design i AktivKommune. AktivKommune bruker templates som benytter et spesielt syntax i tillegg til vanlig HTML.
 
-Du finner en oversikt over syntax for template **her**.
+Du finner en oversikt over syntax for templates **her**.
 
 Eksempel på CSS kode:
 [code language="css"]
