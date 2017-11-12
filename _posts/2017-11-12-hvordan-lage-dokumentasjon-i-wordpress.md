@@ -17,7 +17,7 @@ Dokumentasjon skrives som **Innlegg**, ikke Sider. Velg **Legg til nytt** i **Ko
 ## Skrive innhold
 For best mulig resultat må du sørge for at du benyttet **Tekst-modus**, ikke Visuell. Du benytte Markdown syntax når du skriver dokumentasjonen. Du finner informasjon om Markdown syntax [her](https://en.support.wordpress.com/markdown-quick-reference/). **Lagre kladd** underveis i arbeidet, men vent med å Publisere til du er helt ferdig med dokumentet. Ønsker du at andre skal se gjennom arbeidet før det Publiseres kan du velge *Status: Rediger* og endre *Kladd* til **Venter på Gjennomgang**. Klikk på knappen **Forhåndsvis** for å se hvordan innholdet blir presentert for brukeren.
 
-![Alt http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/wp_tekst-modus-e1510502884739.jpg]
+![Alt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/wp_tekst-modus-e1510502884739.jpg)
 
 ## Kategorier
 Du må velge den Kategorien som passer best for ditt Innlegg. Dersom dokumentasjonen du skriver er rettet mot Publikum, velger du Publikum som Kategori. Dersom dokumentasjonen er av Generell karakter, velger du Generelt.
