@@ -18,7 +18,7 @@ Her finner du generell informasjon om metoder for vedlikehold av denne dokumenta
 Når denne dokumentasjonen skrives benyttes *Markdown* syntax. Syntax referanse: [GitHub Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ```
-Dette er et eksemple på bruk av Markdown formateringssyntax
+Dette er et eksempel på bruk av Markdown formateringssyntax
 ```
 
 Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer. Du finner mer informasjon og eksempler på bruk [her](http://manual.aktiv-kommune.no/?p=193). 
