@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-11 16:22:48
 ---
 ## 12 november, 2017 - Utvikler
--Opprettet `Hvordan tilrettelegge for universell utforming?`. Vi har behov for å ha større fokus på dette. [Les mer]()
+-Opprettet `Hvordan tilrettelegge for universell utforming?`. Vi har behov for å ha større fokus på dette. [Les mer](http://manual.aktiv-kommune.no/?p=247)
 
 ## 11 november, 2017 - Generelt
 - Opprettet `Om denne dokumentasjonen`. Dette for å gjøre det tydelig for leseren hva dokumentasjonen inneholder og for hvem den er beregnet. [Les mer](http://manual.aktiv-kommune.no/?page_id=37)
