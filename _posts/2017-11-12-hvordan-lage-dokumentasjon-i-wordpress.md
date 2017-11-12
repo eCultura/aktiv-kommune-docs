@@ -9,7 +9,7 @@ published: true
 post_date: 2017-11-12 09:56:10
 ---
 ## Logg på
-Når du skal skrive dokumentasjon må du logge deg på [AktivKommune - Brukerveiledning](https://manual.aktiv-kommune.no/wp-admin). Før du kan logge deg på må du opprettes som bruker. I hovedsak er det ansatte i offentlig sektor som skriver denne dokumentasjonen. Andre med spesiell interesse kan selvsagt også få tilgang. Vil du bli bruker sender kommunens **Systemansvarlig** oss en melding [her](https://manual.aktiv-kommune.no/?page_id=9).
+Når du skal skrive dokumentasjon må du logge deg på [AktivKommune - Brukerveiledning](https://manual.aktiv-kommune.no/wp-admin). Før du kan logge deg på må du opprettes som bruker. I hovedsak er det ansatte i offentlig sektor som skriver denne dokumentasjonen. Andre med spesiell interesse og evner kan selvsagt også få tilgang ved behov. Vil du bli bruker sender kommunens **Systemansvarlig** oss en melding [her](https://manual.aktiv-kommune.no/?page_id=9).
 
 ## Legg til nytt Innlegg
 Dokumentasjon skrives som **Innlegg**, ikke Sider. Velg **Legg til nytt** i **Kontrollpanelet**. Øverst i Innlegg legger du inn en **Overskrift**. Oversikriften bør utformes som et spørsmål.
