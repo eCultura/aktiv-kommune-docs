@@ -24,4 +24,4 @@ Du må velge den Kategorien som passer best for ditt Innlegg. Dersom dokumentasj
 For fremtidig bruk må du velge hvilke **Versjon** og **Delsystem** dokumentasjonen omhandler.
 
 ## Publiser
-Når du er ferdig med dokumentasjonen trykker du **Publiser**. Da blir Innlegget og dokumentasjonen tilgjengelig for alle på [AktivKommune - Manual](https://manual.aktiv-kommune.no). AktivKommune er åpen kildekode og en kopi av Innlegget blir sendt til **GitHub** som er et av flere samlingsteder for åpen kildekode.
+Når du er ferdig med dokumentasjonen trykker du **Publiser**. Da blir Innlegget og dokumentasjonen tilgjengelig for alle på [AktivKommune - Brukerveiledning](https://manual.aktiv-kommune.no). AktivKommune er åpen kildekode og en kopi av Innlegget blir sendt til **GitHub** som er et av flere samlingsteder for åpen kildekode.
