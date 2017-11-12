@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=193
 published: true
 post_date: 2017-11-12 14:13:25
 ---
-Markdown er et tekst-til-HTML-konverteringsverktøy for webforfattere. Markdown lar deg skrive ved hjelp av et lettlest og lett skrivbart tekstformat for deretter å konverte det til gyldig XHTML eller HTML format.
+*Markdown* er et tekst-til-HTML-konverteringsverktøy for webforfattere. Markdown lar deg skrive ved hjelp av et lettlest og lett skrivbart tekstformat for deretter å konverte det til gyldig XHTML eller HTML format.
 
 Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det så lesbart som mulig. Tanken er at et Markdown-formatert dokument bør publiseres som det er, som ren tekst.
 
