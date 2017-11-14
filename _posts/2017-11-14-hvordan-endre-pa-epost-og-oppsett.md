@@ -1,6 +1,6 @@
 ---
 ID: 274
-post_title: Hvordan endre på epost innstillinger?
+post_title: Hvordan endre på epostinnstillinger?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
