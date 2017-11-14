@@ -17,4 +17,11 @@ Hver kommune må ha en systemansvarlig eller sørge for at en person, eller ekst
 ## Logg på Aktiv kommune
 ... osv
 
+- Angi tittel for nettstedet:
+- Angi url for logo: 
+eks.: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
+Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen) 
+- Epost brukerstøtte:
+	eks.: informasjon@fjell.kommune.no
+
 - Neste trinn er å legge inn [Grunndata](#)
