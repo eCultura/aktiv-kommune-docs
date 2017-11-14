@@ -16,3 +16,5 @@ Hver kommune må ha en systemansvarlig eller sørge for at en person, eller ekst
 
 ## Logg på Aktiv kommune
 ... osv
+
+- Neste trinn er å legge inn [Grunndata](#)
