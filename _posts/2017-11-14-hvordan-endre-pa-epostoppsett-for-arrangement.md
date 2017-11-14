@@ -10,6 +10,6 @@ permalink: http://manual.aktiv-kommune.no/?p=278
 published: true
 post_date: 2017-11-14 11:28:43
 ---
-Du kan endre på epostopsset for arragement under **Administrasjon->Instillinger->Arrangement E-postopsett**
+Du kan endre på epostinstillinger for arragement under **Administrasjon->Instillinger->Arrangement E-postopsett**
 
 Neste trinn er [oppsett for søknader](#).
