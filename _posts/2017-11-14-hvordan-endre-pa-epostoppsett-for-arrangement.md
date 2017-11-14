@@ -12,4 +12,4 @@ post_date: 2017-11-14 11:28:43
 ---
 Du kan endre på epostopsset for arragement under **Administrasjon->Instillinger->Arrangement E-postopsett**
 
-Neste trinn er [oppsett for søknader](#)
+Neste trinn er [oppsett for søknader](#).
