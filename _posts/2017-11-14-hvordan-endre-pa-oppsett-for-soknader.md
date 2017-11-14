@@ -1,6 +1,8 @@
 ---
 ID: 281
-post_title: Hvordan endre på oppsett for søknader?
+post_title: >
+  Hvordan endre på innstillinger for
+  søknader?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
