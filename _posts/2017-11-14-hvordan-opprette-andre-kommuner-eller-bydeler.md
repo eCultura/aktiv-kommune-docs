@@ -10,10 +10,10 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-14 13:42:18
 ---
-Velg **Administrasjon->Eiendom->Registrer lokalisering->Bydel
+Velg **Administrasjon->Eiendom->Registrer lokalisering->Bydel**
 - Klikk *Ny*
-- ID **Et fortløpende nummer**
-- Navn **Navn på kommune eller bydel**
+- Skriv inn *ID* **Et fortløpende nummer**
+- Skriv inn *Navn* **Navn på kommune eller bydel**
 - Lagre
 
 Gå til **Eiendom->Lokalisering->building i Booking->Bygg/Anlegg**.
