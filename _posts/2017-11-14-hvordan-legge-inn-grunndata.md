@@ -14,6 +14,13 @@ Før du kan ta løsningen i bruk er det behov for å legge inn data i noen tabel
 - Målgruppe
 - Aldersgruppe
 
+## Aktiviteter
+
+## Målgruppe
+
+## Aldersgruppe
+
+
 Dette gjøres i Administrasjon->Booking
 
 Neste trinn er å legge i [brukergrupper og brukere](#)
