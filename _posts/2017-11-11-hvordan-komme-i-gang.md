@@ -24,4 +24,4 @@ Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommune
 - Epost brukerstøtte:
 	eks.: informasjon@fjell.kommune.no
 
-- Neste trinn er å legge inn [Grunndata](#)
+Neste trinn er å legge inn [Grunndata](#)
