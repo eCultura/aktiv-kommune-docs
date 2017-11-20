@@ -10,7 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-14 13:42:18
 ---
-## Registrer lokalisering
+Dette beskriver en minimumsløsning for hvordan opprette flere kommuner eller bydeler i AktivKommune. I eksempelet under oppretter vi en kommune (lokalisering) og en eiendom. Først knytter vi lokalisering til eiendommen for deretter å knytte bygg eller anlegg til eiendommen. I eksempelet under lager vi en eiendom for hele kommunen. 
+
+## Opprette lokalisering
 Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 - Klikk *Ny*
 - Skriv inn *ID* (Et fortløpende nummer)
@@ -19,7 +21,7 @@ Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 
 ![Bydel](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokalisering_bydel-e1511167484971.png)
 
-## Registrer eiendom
+## Opprette eiendom
 Gå til *Eiendom->Lokalisering->Eiendom*.
 
 - Klikk *Ny*
@@ -28,6 +30,7 @@ Gå til *Eiendom->Lokalisering->Eiendom*.
 
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
 
+## Knytte bygg til eiendom
 I *Booking->Bygg/Anlegg
 - Klikk på et bygg
 - Velg *Rediger*
