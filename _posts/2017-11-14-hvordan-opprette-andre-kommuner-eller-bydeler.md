@@ -36,4 +36,4 @@ I *Booking->Bygg/Anlegg
 - Velg *Rediger*
 - I *Lokasjonskode* skriver du inn nummer på aktuell kommune eller bydel (eks. 1246 for Fjell)
 
-![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511166959477.png)
+![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511173813483.png)
