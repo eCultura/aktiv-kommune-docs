@@ -46,4 +46,4 @@ I *Booking->Bygg/Anlegg*
 ![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511173813483.png)
 
 ## Opprette bygg i Eiendom
-Det mest hensiktsmessige er å opprette alle bygg i Eiendom, ikke bare i Booking. Les mer om hvordan dette gjøres [her](#).
+Det mest hensiktsmessige er å opprette alle bygg i Eiendom, ikke bare i Booking. Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
