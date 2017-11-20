@@ -36,7 +36,7 @@ Gå til *Eiendom->Lokalisering->Eiendom*.
 
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
 
-## Knytte bygg til eiendom
+## Knytte bygg til eiendom i Booking
 I *Booking->Bygg/Anlegg*
 - Klikk på et bygg
 - Velg *Rediger*
@@ -46,4 +46,4 @@ I *Booking->Bygg/Anlegg*
 ![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511173813483.png)
 
 ## Opprette bygg i Eiendom
-Det mest hensiktsmessige er å lage flere eiendommer i en kommune, ikke bare èn.
+Det mest hensiktsmessige er å opprette alle bygg i Eiendom, ikke bare i Booking. Les mer om hvordan dette gjøres [her](#).
