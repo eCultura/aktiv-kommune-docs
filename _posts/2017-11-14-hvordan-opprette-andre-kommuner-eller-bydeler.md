@@ -29,9 +29,9 @@ Gå til *Eiendom->Lokalisering->Eiendom*.
 - Klikk *Ny*
 - Skriv inn *Eiendom* (eks.: 1246)
 - Skriv inn *Navn* (eks.: Eigedom i Fjell)
-- Velg *SOMETHING* i *Kategori*
+- Velg *SOMETHING* i *Kategori* eller les [her](#) for å legge inn Kategorier
 - Velg *Bydel* som tidligere er lagt inn i avsnittet over 
-- Eier må være *blank*
+- Eier må være *blank* eller les [her](#)her for å legge inn Eiere
 - Lagre
 
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
@@ -48,4 +48,6 @@ I *Booking->Bygg/Anlegg*
 ## Opprette bygg i Eiendom
 Det mest hensiktsmessige er å opprette alle kommunens bygg i *Eiendom->Lokalisering->Bygning*, ikke bare i *Booking->Bygg/Anlegg*. Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
 
-Bygget knyttes da til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (eks.: 1246-1200) i *Lokaliseringskode*.
+Bygget kan da knyttes da til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (eks.: 1246-1200) i *Lokaliseringskode*.
+
+![Booking ](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/booking_bygg-anlegg-e1511184434853.png)
