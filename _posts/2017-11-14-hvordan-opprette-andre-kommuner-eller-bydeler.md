@@ -35,7 +35,7 @@ Gå til *Eiendom->Lokalisering->Eiendom*.
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
 
 ## Knytte bygg til eiendom
-I *Booking->Bygg/Anlegg
+I *Booking->Bygg/Anlegg*
 - Klikk på et bygg
 - Velg *Rediger*
 - I *Lokasjonskode* skriver du inn nummer på aktuell kommune eller bydel (eks. 1246 for Fjell)
