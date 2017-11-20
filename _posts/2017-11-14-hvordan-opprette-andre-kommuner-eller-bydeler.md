@@ -19,9 +19,10 @@ Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 
 ![Bydel](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokalisering_bydel-e1511167484971.png)
 
-Gå til *Eiendom->Lokalisering->building i Booking->Bygg/Anlegg*.
+Gå til *Eiendom->Lokalisering->Eiendom*.
 
 Gjør følgende:
+- Klikk *Ny*
 - Opprettet *Bydel* (eks.: 1246 Fjell)
 - Oppretter *Property* (eks.: 1246 - Eigedom i Fjell og knyttet Bydel 1246 Fjell)
 
