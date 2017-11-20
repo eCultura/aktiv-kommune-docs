@@ -31,7 +31,7 @@ Gå til *Eiendom->Lokalisering->Eiendom*.
 - Skriv inn *Navn* (eks.: Eigedom i Fjell)
 - Velg *SOMETHING* i *Kategori* eller les [her](#) for å legge inn Kategorier
 - Velg *Bydel* som tidligere er lagt inn i avsnittet over 
-- Eier må være *blank* eller les [her](#)her for å legge inn Eiere
+- Eier må være *blank* eller les [her](#) for å legge inn Eiere
 - Lagre
 
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
