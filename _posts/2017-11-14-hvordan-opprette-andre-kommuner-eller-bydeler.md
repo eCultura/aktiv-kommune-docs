@@ -17,6 +17,8 @@ Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 - Skriv inn *Navn* (Navn på kommune eller bydel)
 - Lagre
 
+![Bydel](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokalisering_bydel-e1511167484971.png)
+
 Gå til *Eiendom->Lokalisering->building i Booking->Bygg/Anlegg*.
 
 Gjør følgende:
