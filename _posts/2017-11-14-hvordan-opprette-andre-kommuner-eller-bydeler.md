@@ -48,6 +48,6 @@ I *Booking->Bygg/Anlegg*
 ## Opprette bygg i Eiendom
 Det mest hensiktsmessige er å opprette alle kommunens bygg i *Eiendom->Lokalisering->Bygning*, ikke bare i *Booking->Bygg/Anlegg*. Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
 
-Bygget kan da knyttes da til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (eks.: 1246-1200) i *Lokaliseringskode*.
+Bygget kan da knyttes til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (eks.: 1246-1200) i *Lokaliseringskode*.
 
 ![Booking ](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/booking_bygg-anlegg-e1511184434853.png)
