@@ -25,8 +25,12 @@ Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 Gå til *Eiendom->Lokalisering->Eiendom*.
 
 - Klikk *Ny*
-- Opprettet *Bydel* (eks.: 1246 Fjell)
-- Oppretter *Property* (eks.: 1246 - Eigedom i Fjell og knyttet Bydel 1246 Fjell)
+- Skriv inn *Eiendom* (eks.: 1246)
+- Skriv inn *Navn* (eks.: Eigedom i Fjell)
+- Velg *SOMETHING* i *Kategori*
+- Velg *Bydel* som tidligere er lagt inn i avsnittet over 
+- Eier må være *blank*
+- Lagre
 
 ![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
 
@@ -35,5 +39,6 @@ I *Booking->Bygg/Anlegg
 - Klikk på et bygg
 - Velg *Rediger*
 - I *Lokasjonskode* skriver du inn nummer på aktuell kommune eller bydel (eks. 1246 for Fjell)
+- Husk å lagre endringene
 
 ![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511173813483.png)
