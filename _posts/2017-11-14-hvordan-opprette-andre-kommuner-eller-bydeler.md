@@ -10,6 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-14 13:42:18
 ---
+## Registrer lokalisering
 Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
 - Klikk *Ny*
 - Skriv inn *ID* (Et fortløpende nummer)
