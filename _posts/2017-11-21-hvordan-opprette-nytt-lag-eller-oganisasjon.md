@@ -1,7 +1,7 @@
 ---
 ID: 333
 post_title: >
-  Hvordan opprette nytt lag eller
+  Hvordan registrere nytt lag eller
   oganisasjon?
 author: Arild M. Halvorsen
 post_excerpt: ""
