@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=265
 published: true
 post_date: 2017-11-14 10:25:00
 ---
-Før du kan ta løsningen i bruk er det behov for å legge inn data i noen tabeller:
+Før du kan ta løsningen i bruk er det behov for å legge inn grunndata:
 
 - Aktiviteter
 - Målgruppe
