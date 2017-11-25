@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 19:00:18
 ---
+**Viktig! Før du tar i bruk AktivKommune som sakbehandler må du lese denne domumentasjonen:**
 Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/aktivkommune_brukerveiledning.pdf).
 
 [display-posts category="Saksbehandler" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
