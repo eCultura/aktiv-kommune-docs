@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2017-11-11 18:58:10
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/acwEWDZV-y4" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" src="https://www.youtube.com/embed/acwEWDZV-y4" frameborder="0" allowfullscreen></iframe>
 
 [display-posts category="Publikum" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
