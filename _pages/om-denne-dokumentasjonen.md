@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/
 published: true
 post_date: 2017-11-11 12:43:36
 ---
-# Hvordan skrive dokumentasjon her
+# AktivKommune v.1.0
 
 Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høyt fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
 
