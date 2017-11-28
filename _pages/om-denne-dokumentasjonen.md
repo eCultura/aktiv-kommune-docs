@@ -14,6 +14,9 @@ Her finner du generell informasjon om metoder for vedlikehold av denne dokumenta
 
 >MERK: Dette er kun et forslag til løsning og test på metode for dokumentasjon av **AktivKommune**
 
+## Klart språk
+Innholdet på kommunens nettsider, i trykksaker, brev og annen skriftlig kommunikasjon skal være lett å forstå og oppleves som relevant for publikum. Når du skal skrive til en leser, er det lurt å følge noen enkle råd. Du finner gode råd for *klart språk* [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/klart_spraak.pdf).
+
 ## Markdown formateringssyntax
 Når denne dokumentasjonen skrives benyttes *Markdown* syntax. Syntax referanse: [GitHub Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
