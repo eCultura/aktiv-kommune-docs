@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2017-11-11 16:22:48
 ---
+## 28 november, 2017 - Generelt
+- Lagt inn informasjon om *Klart språk* på Forsiden. [Les mer](https://manual.aktiv-kommune.no) 
+
 ## 12 november, 2017 - Utvikler
 - Opprettet *Hvordan tilrettelegge for universell utforming?*. Vi har behov for å ha større fokus på dette. [Les mer](http://manual.aktiv-kommune.no/?p=247)
 
