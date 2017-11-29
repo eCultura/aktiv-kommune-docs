@@ -17,6 +17,9 @@ Her finner du generell informasjon om metoder for vedlikehold av denne dokumenta
 ## Klart språk
 Innholdet på kommunenes nettsider, i trykksaker, brev og annen skriftlig kommunikasjon skal være lett å forstå og oppleves som relevant for publikum. Når du skal skrive til en leser, er det lurt å følge noen enkle råd. Du finner gode råd for *Klart språk* [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/klart_spraak.pdf). Mer utfyllende informasjon om *Klart språk* finner du hos [Språkrådet](http://www.sprakradet.no/Klarsprak/).
 
+## Universell utforming
+For å følge regelverk knyttet til *universell utforming* benyttes regelverk som du finner [her](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden).
+
 ## Markdown formateringssyntax
 Når denne dokumentasjonen skrives benyttes *Markdown* syntax. Syntax referanse: [GitHub Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
