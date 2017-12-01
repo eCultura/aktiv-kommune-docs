@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-11 16:22:48
 ---
 ## 1. desember, 2017 - Utvikler
-- Lagt inn veileder for etablering av utviklermiljø. [Les mer]()
+- Lagt inn veileder for etablering av utviklermiljø. [Les mer](https://manual.aktiv-kommune.no/?p=370)
 
 ## 28. november, 2017 - Generelt
 - Lagt inn informasjon om *Klart språk* på Forsiden. [Les mer](https://manual.aktiv-kommune.no) 
