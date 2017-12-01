@@ -1,6 +1,6 @@
 ---
 ID: 378
-post_title: Hvordan kan keg oversette AktivKommune?
+post_title: Hvordan kan jeg oversette AktivKommune?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
