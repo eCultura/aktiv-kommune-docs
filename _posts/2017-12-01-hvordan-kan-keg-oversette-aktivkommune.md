@@ -8,6 +8,6 @@ permalink: http://manual.aktiv-kommune.no/?p=378
 published: true
 post_date: 2017-12-01 17:04:55
 ---
-Her ser du oversetting av AktivKommune. Gi oss gjerne en tilbakemelding om du kan bidrag til bedre oversetting. Du kan sende oss en melding [her](#):
+Her ser du oversetting av AktivKommune. Du kan sende oss en melding [her](#) dersom du kan bidra til en bedre oversetting:
 
 [table id=1 /]
