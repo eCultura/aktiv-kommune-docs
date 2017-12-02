@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-11 16:22:48
 ---
 ## 2. desember, 2017 - Generelt
-- Laget oversikt over oversettelse av frontend. [Les mer](#)
+- Laget oversikt over oversettelse av frontend. [Les mer](https://manual.aktiv-kommune.no/?p=378)
 
 ## 1. desember, 2017 - Utvikler
 - Lagt inn veileder for etablering av utviklermiljø. [Les mer](https://manual.aktiv-kommune.no/?p=370)
