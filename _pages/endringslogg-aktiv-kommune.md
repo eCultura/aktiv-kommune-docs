@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-12-03 10:12:30
 ---
-Her finner du informasjon om siste gyldige versjon av AktivKommune.
+Her finner du informasjon om siste gyldige versjoner av AktivKommune.
 
 # PRODUKSJON
 - Mer informasjon kommer
@@ -18,4 +18,4 @@ Her finner du informasjon om siste gyldige versjon av AktivKommune.
 # TEST
 
 ## 3. desember, 2017 
-- Informasjon om siste gyldige versjon for *Test*. [Les mer](#)
+- Informasjon om siste gyldige versjon for *Test* finner du [her](#)
