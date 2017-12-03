@@ -1,6 +1,6 @@
 ---
 ID: 399
-post_title: 'Endringslogg &#8211; Aktiv kommune'
+post_title: 'Endringslogg &#8211; AktivKommune'
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
