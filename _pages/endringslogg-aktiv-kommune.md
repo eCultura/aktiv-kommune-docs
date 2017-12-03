@@ -10,6 +10,10 @@ published: true
 post_date: 2017-12-03 10:12:30
 ---
 ## Produksjon
+- Mer informasjon kommer
 
 
 ## Test
+
+## 3. desember, 2017 - Versjonskontroll
+- Informasjon om siste gyldige versjon for *Test*. [Les mer](#)
