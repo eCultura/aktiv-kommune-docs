@@ -1,6 +1,6 @@
 ---
 ID: 82
-post_title: Endringslogg
+post_title: 'Endringslogg &#8211; Dokumentasjon'
 author: Admin WP
 post_excerpt: ""
 layout: page
