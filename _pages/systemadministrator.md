@@ -12,6 +12,6 @@ published: true
 post_date: 2017-11-11 19:01:07
 ---
 **Viktig!** Før du tar i bruk AktivKommune som systemadministrator må du lese Brukerveiledningen.
-Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/aktivkommune_brukerveiledning.pdf).
+Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/brukerveiledning_administratorer_saksbehandlere_v_1-2-1.pdf).
 
 [display-posts category="Systemadministrator" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
