@@ -27,14 +27,14 @@ sudo apt-get update
 sudo apt-get install -y postgresql postgresql-contrib
 ~~~
 
-### Fix permissions
-Fixing listen_addresses on postgresql.conf&quot;
+### Sette lytterettigheter for PostgreSQL
+Sette listen_addresses i postgresql.conf:
 ~~~
     sudo sed -i "s/#listen_address.*/listen_addresses '*'/" /etc/postgresql/9.6/main/postgresql.conf
 ~~~
 
-### Fixing postgres pg_hba.conf file
-Replace the ipv4 host line with the above line
+### Endre PostgreSQL pg_hba.conf file
+Erstatte ipv4 host linje satt med kommandoen over:
 ~~~
 sudo cat >> /etc/postgresql/9.6/main/pg_hba.conf <<EOF
 # Accept all IPv4 connections - FOR DEVELOPMENT ONLY!!!
@@ -42,7 +42,7 @@ host    all         all         0.0.0.0/0             md5
 EOF
 ~~~
 
-### Create Role and login
+### Lage Rolle og Bruker
 ~~~
 sudo su postgres -c 'psql -c "CREATE ROLE portico SUPERUSER LOGIN PASSWORD '"'"'portico'"'"'" '
 sudo apt install -y whois
@@ -50,14 +50,24 @@ sudo useradd -p `mkpasswd "portico"` -d /home/"portico" -m -g users -s /bin/bash
 sudo echo 'portico  ALL=(ALL:ALL) ALL' >> /etc/sudoers
 ~~~
 
+### Lage html område
+~~~
 sudo mkdir /var/www/html/portico
 sudo chown portico.users /var/www/html/portico
+~~~
 
+### Oppgradere Ubuntu programvare
+~~~
 sudo apt-get upgrade -y
+~~~
 
+### Endre php.ini
+~~~
 sudo sed -i 's/"GP"/"GPCS"/' /etc/php/7.0/apache2/php.ini
 sudo sed -i 's/"GP"/"GPCS"/' /etc/php/7.0/cli/php.ini
+~~~
 
+~~~
 sudo cat > /etc/php/7.0/apache2/conf.d/91-app.ini <<EOF
 xdebug.max_nesting_level=200
 xdebug.overload_var_dump=Off
@@ -80,10 +90,13 @@ upload_max_filesize = 8M
 EOF
 
 sudo cp /etc/php/7.0/apache2/conf.d/91-app.ini /etc/php/7.0/cli/conf.d/91-app.ini
+~~~
 
+### Starte service på nytt
+~~~
 sudo service postgresql restart
 sudo service apache2 restart
-~~~~
+~~~
 
 ## Backup av PostgreSQL database
 ~~~
