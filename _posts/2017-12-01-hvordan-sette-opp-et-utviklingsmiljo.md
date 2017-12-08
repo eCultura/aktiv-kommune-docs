@@ -24,5 +24,3 @@ sudo -u postgres createdb portico
 ~~~
 psql -U portico portico &lt; portico_backup.sql
 ~~~
-
-[code lang="plain"][/code]pg_dump -U portico portico > portico_backup.sql[/plain]
