@@ -22,5 +22,5 @@ sudo -u postgres createdb portico
 
 ## Restore PostgreSQL database
 ~~~
-psql -U portico portico &lt; portico_backup.sql
+psql -U portico portico &gt; portico_backup.sql
 ~~~
