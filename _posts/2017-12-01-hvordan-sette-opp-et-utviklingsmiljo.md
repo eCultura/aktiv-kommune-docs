@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=370
 published: true
 post_date: 2017-12-01 09:39:15
 ---
-Ønsker du å sette opp et utviklingsmiljø for AktivKommune tilpasset *Vargant* og *Netbeans* kan du lese mer [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/aktivkommune_oppsett_av_utviklingsmiljo.pdf).
+Ønsker du å sette opp et utviklingsmiljø for AktivKommune tilpasset *Vagrant* og *Netbeans* kan du lese mer [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/aktivkommune_oppsett_av_utviklingsmiljo.pdf).
 
 ## Setup Ubuntu server
 ~~~
