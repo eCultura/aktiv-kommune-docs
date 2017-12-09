@@ -8,6 +8,6 @@ permalink: http://manual.aktiv-kommune.no/?p=274
 published: true
 post_date: 2017-11-14 11:00:42
 ---
-Du finner oppsett for epost under Administrasjon->Instillinger->E-postoppsett
+Du finner oppsett for epost under Administrasjon->Innstillinger->E-postoppsett
 
 Neste trinn er [epostoppsett for arrangement](#)
