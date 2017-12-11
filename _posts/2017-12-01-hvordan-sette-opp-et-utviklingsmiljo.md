@@ -125,4 +125,4 @@ cd /var/www/portico
 svn up
 ~~~
 
-Les mer om *SVN* versjonskontroll [her](https://openoffice.apache.org/svn-basics.html).
+Les mer om **SVN** versjonskontroll [her](https://openoffice.apache.org/svn-basics.html).
