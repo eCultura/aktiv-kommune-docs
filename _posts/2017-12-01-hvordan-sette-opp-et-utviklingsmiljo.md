@@ -112,3 +112,9 @@ sudo -u postgres createdb portico
 ~~~
 psql -U portico portico < portico_backup.sql
 ~~~
+
+## Hente siste versjon av Portico Estate
+~~~
+cd /var/www/portico
+
+~~~
