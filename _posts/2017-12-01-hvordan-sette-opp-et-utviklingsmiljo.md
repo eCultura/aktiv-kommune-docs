@@ -99,6 +99,7 @@ sudo service apache2 restart
 ~~~
 
 ## Backup av PostgreSQL database
+Det kan være hensiktsmessig å hente en kopi av en ekisterende Portico database. Ta backup med følgende kommando:
 ~~~
 pg_dump -U portico portico > portico_backup.sql
 ~~~
