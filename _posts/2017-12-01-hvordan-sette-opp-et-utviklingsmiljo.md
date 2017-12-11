@@ -116,5 +116,11 @@ psql -U portico portico < portico_backup.sql
 ## Hente siste versjon av Portico Estate
 ~~~
 cd /var/www/portico
+svn co svn://svn.savannah.nongnu.org/fmsystem/trunk .
+~~~
 
+## Oppdatere siste versjon av Portico Estate
+~~~
+cd /var/www/portico
+svn up
 ~~~
