@@ -119,8 +119,10 @@ cd /var/www/portico
 svn co svn://svn.savannah.nongnu.org/fmsystem/trunk .
 ~~~
 
-## Oppdatere siste versjon av Portico Estate
+## Oppdatere til siste versjon av Portico Estate
 ~~~
 cd /var/www/portico
 svn up
 ~~~
+
+Les mer om SVN versjonskontroll [her](https://openoffice.apache.org/svn-basics.html).
