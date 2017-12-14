@@ -15,4 +15,4 @@ Her kommer en beskrivelse om hvordan du som representant for et lag eller organi
 ## Registrering i Frivilligreisteret
 En forusetning for å legge inn et lag eller organisasjon i AktivKommune, er at det er registrert i Brønnøysundregistrene
 
-...
+![Skjermbilde org](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-org-e1513246230220.png)
