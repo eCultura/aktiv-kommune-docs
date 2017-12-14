@@ -2,7 +2,7 @@
 ID: 333
 post_title: >
   Hvordan registrere nytt lag eller
-  oganisasjon?
+  organisasjon?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
