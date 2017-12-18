@@ -23,6 +23,21 @@ Klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 Fyll ut informasjonen om organisasjonen:
+**Organisasjon:** Her fylles inn navn på organisasjonen.
+**Kortnavn:** Brukes ikke
+**Organisasjonsnummer:** (9 siffer)
+**Hjemmeside:** Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
+**Telefon:** Telefonnummer til kontaktperson i organisasjonen.
+**E-post:** E-post til kontaktperson i organisasjonen.
+
+**Fakturainformasjon:** Velg en av nedtrekksmeny valgene.
+**Intern kunde:** For internt bruk i kommunen.
+**Ressursnummer:** For internt bruk i kommunen.
+**Gate:** Organisasjonens adresse.
+**Postnummer:** Organisasjonens postnummer.
+**Poststed:** Organisasjonens poststed.
+**Bydel:** Organisasjonens bydel.
+**Vis i portal:** 
 
 
 Når du er ferdig trykker du på 
