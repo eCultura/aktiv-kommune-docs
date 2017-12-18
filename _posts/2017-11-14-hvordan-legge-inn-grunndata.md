@@ -1,6 +1,6 @@
 ---
 ID: 265
-post_title: Hvordan legge inn grunndata?
+post_title: Hvordan legge inn aktivitet.
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
