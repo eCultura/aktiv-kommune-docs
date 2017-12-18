@@ -15,4 +15,4 @@ Bygg og anlegg må opprettes i systemet før man kan opprette tildelinger. For �
 BOOKING => BYGG/ANLEGG
 
 Du får da opp dette skjermbilde: 
-![bygg og anlegg](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildebyggoganlegg-300x149.png)
+![bygg og anlegg](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildebyggoganlegg-1-300x196.png)
