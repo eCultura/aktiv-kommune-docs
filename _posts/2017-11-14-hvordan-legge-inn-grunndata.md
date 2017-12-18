@@ -18,7 +18,7 @@ BOOKING => INNSTILINGER => AKTIVITETER
 
 Skjermbildet ser da slikt ut: 
 
-![skjermbilde aktivitet](http://manual.aktiv-kommune.no/?attachment_id=477)
+![skjermbilde aktivitet](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildeaktivitet-300x251.png)
 
 
 Dette gjøres i Administrasjon->Booking
