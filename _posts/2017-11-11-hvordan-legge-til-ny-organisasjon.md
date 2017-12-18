@@ -14,7 +14,7 @@ Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysun
 
 Når du har organisasjonsnummeret er prosedyren slik:
 
-BOOKING = > ORGANISASJONER 
+BOOKING => ORGANISASJONER 
 
 Skjermbildet ser da slik ut; 
 ![skjermbilde ny organisasjon](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org.png)
