@@ -22,7 +22,7 @@ Skjermbildet ser da slik ut;
 Klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-## Fyll ut informasjonen om organisasjonen:
+### Fyll ut informasjonen om organisasjonen:
 **Organisasjon:** Her fylles inn navn på organisasjonen.
 **Kortnavn:** Brukes ikke
 **Organisasjonsnummer:** (9 siffer)
