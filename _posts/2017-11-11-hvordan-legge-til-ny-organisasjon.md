@@ -23,6 +23,6 @@ Klikk på NY og fyll ut informasjonen om organisasjonen:
 
 
 Når du er ferdig trykker du på 
-![lagre](
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
  og klikk LAGRE når du er ferdig.
