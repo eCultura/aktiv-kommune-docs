@@ -1,7 +1,7 @@
 ---
 ID: 265
 post_title: >
-  Hvordan legge inn ny eller endre
+  Hvordan legge til ny eller endre
   aktivitet?
 author: Arild M. Halvorsen
 post_excerpt: ""
