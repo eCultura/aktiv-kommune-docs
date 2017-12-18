@@ -23,7 +23,7 @@ Skjermbildet ser da slikt ut:
 Her kan man endre de eksisterende aktivitetene ved å klikke på mappene og lagre når ønsket endring er utført. 
 
 Finner man ikke en egnet aktivitet eller ønsker å opprette en ny aktivitet, så gjøres dette ved å klikke på 
-![verktoy](http://manual.aktiv-kommune.no/?attachment_id=481)
+![verktoy](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/verktoy.png)
 
 
 
