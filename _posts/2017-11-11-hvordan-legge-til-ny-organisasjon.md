@@ -40,7 +40,8 @@ Klikk på
 **Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
 **Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
-Hvordan legge inn ny aktivitet klikk [her](#). 
+Hvordan legge inn ny aktivitet klikk [her](http://manual.aktiv-kommune.no/?p=265). 
+
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
 Når du er ferdig trykker du på 
