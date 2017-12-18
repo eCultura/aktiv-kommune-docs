@@ -44,5 +44,7 @@ Hvordan legge inn ny aktivitet klikk [her](http://manual.aktiv-kommune.no/?p=265
 
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
+Legg tilslutt inn informasjon om hvem som er bookingansvarlig.
+
 Når du er ferdig trykker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
