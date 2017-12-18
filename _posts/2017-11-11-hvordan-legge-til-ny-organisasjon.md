@@ -40,6 +40,7 @@ Fyll ut informasjonen om organisasjonen:
 **Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
 **Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
+Hvordan legge inn ny aktivitet klikk [her](#). 
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
 Når du er ferdig trykker du på 
