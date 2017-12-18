@@ -23,7 +23,7 @@ For å opprette ny målgruppe klikker du på
 **Aktiviteter:** Velg i nedtrekksmenyen hvilken aktivitet du ønsker å knytte målgruppen til.
 **Målgruppe:** Navn på målgruppe.
 **Sortering:** ????????????????????????????
-**Beskrivelse:** Beskrivelse av målgruppen.
+**Beskrivelse:** Beskrivelse av målgruppen. Eks: Barn fra 0 til og med 16 år. 
 
 Når du er ferdig trykker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
