@@ -17,6 +17,6 @@ Når du har organisasjonsnummeret er prosedyren slik:
 BOOKING --> ORGANISASJONER 
 
 Skjermbildet ser da slik ut; 
-![skjermbilde ny organisasjon](<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org-300x219.png" alt="" width="300" height="219" class="alignnone size-medium wp-image-448" />)
+![skjermbilde ny organisasjon](/img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org-300x219.png" alt="" width="300" height="219" class="alignnone size-medium wp-image-448" /)
 
 Klikk på NY og fyll ut informasjonen om organisasjonen og klikk LAGRE når du er ferdig.
