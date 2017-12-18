@@ -27,9 +27,9 @@ Finner man ikke en egnet aktivitet eller ønsker å opprette en ny aktivitet, s�
 Deretter velger du 
 ![ny aktivitet](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/nyaktivitet.png)
 
-## Fyll ut informasjon om aktiviteten:
+### Fyll ut informasjon om aktiviteten:
 
-**Aktiviteter:** Hvilken aktiviteter det?
+**Aktiviteter:** Hvilken aktivitet er det?
 **Beskrivelse:** Beskrivelse av aktiviteten.
 **Overordnet kategori:** Hvis aktiviteten din er en underkategori av en annen aktivitet så kan du her knytte aktiviteten opp mot hovedaktiviteten. Eks: Teater kan være en aktivitet som er underordnet kultur. 
 
