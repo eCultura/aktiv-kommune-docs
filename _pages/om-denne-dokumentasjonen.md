@@ -10,9 +10,9 @@ post_date: 2017-11-11 12:43:36
 ---
 # AktivKommune v.1.0
 
-Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høyt fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
+Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høy fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
 
->MERK: Dette er kun et forslag til løsning og en test på metode for dokumentasjon av **AktivKommune v.1.0**
+&gt;MERK: Dette nettstedet skal etter hvert inneholde en komplett veiledning for de ulike brukergrupper og de oppgaver de skal utføre. Fram til første installasjon av **AktivKommune v.1.0** i januar 2018 vil dette nettstedet inneholde flere uferdige nettsider.
 
 ## Klart språk
 Innholdet på kommunenes nettsider, i trykksaker, brev og annen skriftlig kommunikasjon skal være lett å forstå og oppleves som relevant for publikum. Når du skal skrive til en leser, er det lurt å følge noen enkle råd. Du finner gode råd for *Klart språk* [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/klart_spraak.pdf). Mer utfyllende informasjon om *Klart språk* finner du hos [Språkrådet](http://www.sprakradet.no/Klarsprak/).
@@ -27,7 +27,7 @@ Når denne dokumentasjonen skrives benyttes *Markdown* syntax. Syntax referanse:
 Dette er et eksempel på bruk av Markdown formateringssyntax
 ```
 
-Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer. Du finner mer informasjon og eksempler på bruk [her](http://manual.aktiv-kommune.no/?p=193). 
+Markdown syntax benyttes for enklere å kunne benytte denne dokumentasjonen på tvers av andre systemer og plattformer. Du finner mer informasjon og eksempler på bruk [her](http://manual.aktiv-kommune.no/?p=193).
 
 ## Målgrupper
 Målgruppene for dokumentasjonen er; Innbygger i en kommune, Saksbehandler i en kommune, Systemadministrator for den enkelte kommune og Utvikler. Dokumentasjonen er er derfor delt inn i disse hovedkategoriene:
