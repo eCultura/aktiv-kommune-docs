@@ -37,8 +37,10 @@ Fyll ut informasjonen om organisasjonen:
 **Postnummer:** Organisasjonens postnummer.
 **Poststed:** Organisasjonens poststed.
 **Bydel:** Organisasjonens bydel.
-**Vis i portal:** 
+**Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
+**Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
+**Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
 Når du er ferdig trykker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
