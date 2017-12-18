@@ -19,3 +19,5 @@ Du får da opp dette skjermbilde:
 
 For å opprette nytt bygg/anlegg klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
+
+### Fyll ut informasjonen om bygg/anlegg:
