@@ -17,6 +17,7 @@ En aktivitet kan opprettes slik:
 BOOKING => INNSTILINGER => AKTIVITETER
 
 Skjermbildet ser da slikt ut: 
+
 ![skjermbilde aktivitet](http://manual.aktiv-kommune.no/?attachment_id=477)
 
 
