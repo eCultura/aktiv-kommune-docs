@@ -35,3 +35,5 @@ Deretter velger du
 
 Når alt er fylt ut så legger du til aktiviteten ved å klikke på 
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
+
+Ofte kan det være aktuelt å dele opp aktiviteter i to grupper, idrett og kultur, og deretter opprette underpunkter til hver av disse. Hvordan man ønsker å opprette aktiviteter, er opp til hver enkelt kommune. En aktivitet kan ikke slettes, men settes som inaktiv i systemet.
