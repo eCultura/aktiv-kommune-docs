@@ -16,3 +16,6 @@ BOOKING => BYGG/ANLEGG
 
 Du får da opp dette skjermbilde: 
 ![bygg og anlegg](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildebyggoganlegg-1.png)
+
+For å opprette nytt bygg/anlegg klikk på
+![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
