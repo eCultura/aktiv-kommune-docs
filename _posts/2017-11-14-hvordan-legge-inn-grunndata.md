@@ -10,12 +10,14 @@ permalink: http://manual.aktiv-kommune.no/?p=265
 published: true
 post_date: 2017-11-14 10:25:00
 ---
-Før du kan ta løsningen i bruk er det behov for å legge inn aktivitet
+En aktivitet sier noe om hvilke aktiviteter de ulike lag og organisasjoner driver med. Dette vil være nødvendig å fylle ut flere plasser i systemet, blant annet legger man inn hvilken aktivitet et bygg/anlegg tilhører. Det må opprettes minst en aktivitet i systemet. 
 
-- Aktiviteter
+En aktivitet kan opprettes slik:
 
-## Aktiviteter
+BOOKING => INNSTILINGER => AKTIVITETER
 
+Skjermbildet ser da slikt ut: 
+![skjermbilde aktivitet](http://manual.aktiv-kommune.no/?attachment_id=477)
 
 
 Dette gjøres i Administrasjon->Booking
