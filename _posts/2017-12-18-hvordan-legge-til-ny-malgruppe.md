@@ -25,5 +25,5 @@ For å opprette ny målgruppe klikker du på
 **Sortering:** ????????????????????????????
 **Beskrivelse:** Beskrivelse av målgruppen. Eks: Barn fra 0 til og med 16 år. 
 
-Når du er ferdig trykker du på 
+Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
