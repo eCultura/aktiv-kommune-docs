@@ -15,5 +15,5 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [h
 ## Hvordan komme i gang? / Nødvendige forberedelser
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
-## Hvordan behandle søknader?
+## Hvordan behandle søknader? / Om søknadsprosessen
 [display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="sortering"]
