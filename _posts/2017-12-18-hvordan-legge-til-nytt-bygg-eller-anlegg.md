@@ -21,3 +21,24 @@ For å opprette nytt bygg/anlegg klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om bygg/anlegg:
+**Bygg/anlegg:** Navn på bygg/anlegg.
+**Aktiviteter:** Hovedaktivitet som utføres på bygg/anlegg.
+**Telefon:** Telefonnummer til bygg/anlegg.
+**E-post:** E-post til bygg/anlegg.
+**Hjemmeside:** Internetthjemmeside til bygg/anlegg.
+**Lokasjonskode:** Forslag til lokasjonskoder vil dukke opp når man skriver (lokasjonskoden skal tidligere ha blitt lagt inn under oppretting av eiendom). Lokasjonskoden oppretter en kobling til eiendommen.
+**Gate:** Gateadresse til bygg/anlegg.
+**Postnummer:** Postnummer til bygg/anlegg.
+**Poststed:** Poststed til bygg/anlegg.
+**Bydel:** Bydel til bygg/anlegg.
+**Tilsynsvakt navn:** Navn på tilsynsvakt for bygg/anlegg.
+**Tilsynsvakt telefon:** Telefonnummer til tilsynsvakt for bygg/anlegg.
+**Tilsynsvakt e-post:** E-post til tilsynsvakt for bygg/anlegg.
+**Tilsynsvakt navn:** Navn på tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
+**Tilsynsvakt telefon:** Telefonnummer til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
+**Tilsynsvakt e-post:** E-post til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
+**Tekst bak kalenderknapp:**?????????????????????
+**Skildring:**???????????????
+
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
