@@ -31,6 +31,8 @@ For å opprette ny sesong klikker du på
 **Til:** Sesong er gyldig til. 
 
 
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 # Rammetid
 
