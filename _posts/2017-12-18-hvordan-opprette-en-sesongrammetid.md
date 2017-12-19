@@ -14,6 +14,23 @@ For å opprette en sesong går du til:
 
 BOOKING => BYGG/ANLEGG => SESONGER 
 
+Skjermbildet ser da slik ut:
+![skjermbilde sesonger](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildesesonger.png)
+
+For å opprette ny sesong klikker du på 
+![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
+
+
+### Fyll ut informasjonen om sesong:
+**Navn:** Navn på sesong.
+**Bygg/anlegg:** Navn på bygg/anlegg sesongen tilhører.
+**Saksbehandler:** Navn på saksbehandler.
+**Ressurser:** ???????????????
+**Status:** 
+**Fra:** Sesong er gyldig fra.
+**Til:** Sesong er gyldig til. 
+
+
 
 # Rammetid
 
