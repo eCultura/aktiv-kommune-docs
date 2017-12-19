@@ -42,3 +42,5 @@ For å opprette nytt bygg/anlegg klikk på
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+Når man har opprettet bygg/anlegg så er det neste steget å opprette [ressurser](http://manual.aktiv-kommune.no/?p=522) som er tilknyttet bygg/anlegg.
