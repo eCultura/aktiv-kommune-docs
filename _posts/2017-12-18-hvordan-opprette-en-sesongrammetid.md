@@ -34,6 +34,8 @@ For å opprette ny sesong klikker du på
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
+Etter en sesong er opprettet  må man legge til rammetid.
+
 # Rammetid
 
 Rammetid må settes på sesongen da rammetiden er med på å definere sesongen.  Etter en sesong er opprettet, klikk på den og velg knappen «Rammetid». Legg til ønskede dager og avgrens tidsrommet det skal være mulig å booke ressursen.
