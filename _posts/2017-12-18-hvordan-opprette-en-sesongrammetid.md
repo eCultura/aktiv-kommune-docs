@@ -35,7 +35,7 @@ Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 Etter en sesong er opprettet må man legge til rammetid ved å klikke på 
-![rammetid(http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbilderammetid.png) 
+![rammetid](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbilderammetid.png) 
 
 # Rammetid
 
