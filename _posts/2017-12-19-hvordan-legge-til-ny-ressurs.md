@@ -37,3 +37,5 @@ For å opprette ny ressurs klikker du på
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+Når man har opprettet ressurs så er neste steg å opprette [sesong og rammetid](http://manual.aktiv-kommune.no/?p=502) for å definere når ressursene er tilgjengelig for utleie/lån.
