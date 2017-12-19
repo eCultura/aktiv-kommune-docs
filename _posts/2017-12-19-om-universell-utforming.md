@@ -9,9 +9,11 @@ published: true
 post_date: 2017-12-19 16:22:25
 ---
 AktivKommune skal utvikles i henhold til prinsippene om universell utforming(UU). Under dette temaet er WCAG (versjon 2.0) standarden som er bransjeledende. Se:
+
 https://uu.difi.no/krav-og-regelverk/wcag-20-standarden
 
 Når det gjelder fargevalg, så ønsker prosjektet å benytte de farge- og kontrast-anbefalinger som gir best resultat. For å få dette til benytter vi verktøyet:
 Colour Contrast Analyser
 som vi finner via nettstedet: 
+
 https://developer.paciellogroup.com/resources/contrastanalyser/
