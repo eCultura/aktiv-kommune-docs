@@ -13,3 +13,5 @@ post_date: 2017-11-11 19:00:18
 Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/brukerveiledning_administratorer_saksbehandlere_v_1-3.pdf).
 
 [display-posts category="Saksbehandler" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
+
+[display-posts category="Søknad" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
