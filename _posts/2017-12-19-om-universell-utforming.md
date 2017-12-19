@@ -1,6 +1,6 @@
 ---
 ID: 581
-post_title: Om universell utforming
+post_title: Om universell utforming (IKKE FERDIG)
 author: Ragnar Buset
 post_excerpt: ""
 layout: post
