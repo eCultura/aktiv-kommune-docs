@@ -26,7 +26,7 @@ For å opprette ny sesong klikker du på
 **Bygg/anlegg:** Navn på bygg/anlegg sesongen tilhører.
 **Saksbehandler:** Navn på saksbehandler.
 **Ressurser:** Velg de ressursene du skal knytte til sesongen.
-**Status:** 
+**Status:** ???????????????????
 **Fra:** Sesong er gyldig fra.
 **Til:** Sesong er gyldig til. 
 
