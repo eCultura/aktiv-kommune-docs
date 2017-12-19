@@ -49,8 +49,8 @@ Ved å klikke på navnet på sesongen du ønsker å legge til rammetid på så f
 
 ### Fyll ut informasjonen om rammetid: 
 **Ukedag:** Velg ukedag du skal registrere fra nedfallsmenyen.
-**Fra:** Klokkeslettet det skal være tilgjelgelig fra på valgt dag.
-**Til:** Klokkeslettet det skal være tilgjengelig til på valgt dag. 
+**Fra:** Klokkeslettet ressursen skal være tilgjelgelig fra på valgt dag.
+**Til:** Klokkeslettet ressursen skal være tilgjengelig til på valgt dag. 
 
 Når du er ferdig klikker du på 
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
