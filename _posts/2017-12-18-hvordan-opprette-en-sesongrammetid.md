@@ -39,7 +39,7 @@ Etter en sesong er opprettet må man legge til rammetid ved å klikke på
 
 # Rammetid
 
-Rammetid må settes på sesongen da rammetiden er med på å definere sesongen. 
+Rammetid må legges til på sesongen da rammetiden er med på å definere sesongen. 
 Du kan også legge til rammetid ved å gå på:
 
 BOOKING =>BYGG/ANLEGG => SESONGER. 
