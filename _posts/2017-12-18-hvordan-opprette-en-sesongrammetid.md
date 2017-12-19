@@ -25,7 +25,7 @@ For å opprette ny sesong klikker du på
 **Navn:** Navn på sesong.
 **Bygg/anlegg:** Navn på bygg/anlegg sesongen tilhører.
 **Saksbehandler:** Navn på saksbehandler.
-**Ressurser:** ???????????????
+**Ressurser:** Velg de ressursene du skal knytte til sesongen.
 **Status:** 
 **Fra:** Sesong er gyldig fra.
 **Til:** Sesong er gyldig til. 
@@ -34,7 +34,8 @@ For å opprette ny sesong klikker du på
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Etter en sesong er opprettet  må man legge til rammetid.
+Etter en sesong er opprettet må man legge til rammetid ved å klikke på 
+![rammetid(http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbilderammetid.png) 
 
 # Rammetid
 
