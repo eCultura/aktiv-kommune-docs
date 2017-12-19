@@ -13,7 +13,7 @@ post_date: 2017-11-11 19:00:18
 Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/brukerveiledning_administratorer_saksbehandlere_v_1-3.pdf).
 
 ## Hvordan komme i gang?
-[display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="true" order="ASC" orderby="sortering"]
+[display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="sortering"]
 
 ## Hvordan behandle søknader?
-[display-posts category="Søknader" posts_per_page="-1" include_date="true" order="ASC" orderby="sortering"]
+[display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="sortering"]
