@@ -42,7 +42,7 @@ Etter en sesong er opprettet må man legge til rammetid ved å klikke på
 Rammetid må legges til på sesongen da rammetiden er med på å definere sesongen. 
 Du kan også legge til rammetid ved å gå på:
 
-BOOKING =>BYGG/ANLEGG => SESONGER. 
+BOOKING => BYGG/ANLEGG => SESONGER. 
 
 Ved å klikke på navnet på sesongen du ønsker å legge til rammetid på så får du opp et nytt skjermbilde hvor du har muligheten til å klikke på 
 ![rammetid](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbilderammetid.png) 
