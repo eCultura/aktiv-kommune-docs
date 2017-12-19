@@ -12,4 +12,21 @@ Man kan definere ulike aldersgrupper. Dette har, sammen med målgrupper, som for
 
 For å legge til aldersgruppe går du til:
 
-BOOKING => INNSTILLINGER =>
+BOOKING => INNSTILLINGER => ALDERSGRUPPE
+
+Skjermbilde ser da slik ut:
+![skjermbilde aldersgruppe](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildealdersgruppe.png)
+
+Ved å klikke på navnet på aldersgruppen kan du gjøre endringer i den valgte aldersgruppen. 
+
+For å lage ny aldersgruppe klikker du på
+![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
+
+### Fyll ut informasjonen om aldersgruppe: 
+**Aktiviteter:** Velg aktivitet aldersgruppen skal gjelde for.
+**Navn:** Navn på aldersgruppen.
+**Sortering:** ???????
+**Skildring:** Beskrivelse på aldersgruppen.
+
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
