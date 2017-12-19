@@ -17,7 +17,7 @@ En ressurs kan være:
 
 Ressursene kan leies ut hver for seg eller samlet.
 
-For å opprette en ressurs går du til:
+For å opprette en ny ressurs går du til:
 
 BOOKING => BYGG/ANLEGG => RESSURSER 
 
