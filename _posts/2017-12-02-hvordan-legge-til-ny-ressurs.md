@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=522
 published: true
-post_date: 2017-12-19 09:06:38
+post_date: 2017-12-02 09:06:38
 ---
 Når du har opprettet et bygg/anlegg så må du tilknytte ressurser til det. Ressurser knyttes opp mot et bygg/anlegg under opprettelse, og kan sorteres på tall. Sortering på ressursen definerer hvilken rekkefølge de vises i frontend.
 
