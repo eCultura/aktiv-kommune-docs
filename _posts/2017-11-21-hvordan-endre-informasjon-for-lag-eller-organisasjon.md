@@ -2,7 +2,7 @@
 ID: 338
 post_title: >
   Hvordan endre informasjon for lag eller
-  organisasjon?
+  ny organisasjon?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
