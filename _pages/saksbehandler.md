@@ -14,6 +14,7 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [h
 
 [display-posts category="Saksbehandler" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
 
+# Hvordan komme i gang?
 
-# Kapittel 1: Hvordan behandle søknader?
+# Hvordan behandle søknader?
 [display-posts category="Søknader" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
