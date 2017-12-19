@@ -1,6 +1,6 @@
 ---
 ID: 502
-post_title: Hvordan opprette en sesong/rammetid?
+post_title: Hvordan opprette en sesong og rammetid?
 author: Marie Aune
 post_excerpt: ""
 layout: post
