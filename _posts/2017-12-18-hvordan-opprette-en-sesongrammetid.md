@@ -39,4 +39,12 @@ Etter en sesong er opprettet må man legge til rammetid ved å klikke på
 
 # Rammetid
 
-Rammetid må settes på sesongen da rammetiden er med på å definere sesongen.  Etter en sesong er opprettet, klikk på den og velg knappen «Rammetid». Legg til ønskede dager og avgrens tidsrommet det skal være mulig å booke ressursen.
+Rammetid må settes på sesongen da rammetiden er med på å definere sesongen. Etter en sesong er opprettet, klikk på den og velg knappen «Rammetid». Legg til ønskede dager og avgrens tidsrommet det skal være mulig å booke ressursen. 
+
+### Fyll ut informasjonen om rammetid: 
+**Ukedag:** Velg ukedag du skal registrere fra nedfallsmenyen.
+**Fra:** Klokkeslettet det skal være tilgjelgelig fra på valgt dag.
+**Til:** Klokkeslettet det skal være tilgjengelig til på valgt dag. 
+
+Når du er ferdig klikker du på 
+![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
