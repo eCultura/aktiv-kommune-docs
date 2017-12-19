@@ -8,7 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=166
 published: true
-post_date: 2017-12-18 15:53:35
+post_date: 2017-12-01 15:53:35
 ---
 Bygg og anlegg må opprettes i systemet før man kan opprette tildelinger. For å opprette et nytt bygg/anlegg går du til
 
