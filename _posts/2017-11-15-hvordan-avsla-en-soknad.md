@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=300
 published: true
 post_date: 2017-11-15 12:32:36
 ---
-Hvis en søknad ikke oppfyller kravene eller søkeren ikke lengre ønsker bygg/anlegg eller ressurs så må vi avslå søknaden. 
+Hvis en søknad ikke oppfyller kravene eller søkeren ikke lengre ønsker å leie eller låne bygg/anlegg eller ressurs så må vi avslå søknaden. 
 
 For å gjøre dette går du til:
 
