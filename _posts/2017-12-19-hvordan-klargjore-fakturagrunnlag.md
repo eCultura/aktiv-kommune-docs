@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=571
 published: true
 post_date: 2017-12-19 13:20:33
 ---
-Hvert enkelt bygg/anlegg skal faktureres hver måned. Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil som skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
+Hvert enkelt bygg/anlegg **skal** faktureres hver måned. Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil som skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
 
 BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING
 
@@ -18,13 +18,12 @@ Skjermbildet ser da slik ut:
 Her skriver du inn bygg/anlegg (for eksempel Meyermarken), velger hvilken sesong og dato (siste dato i hver måned, for eksempel 31. mars), og klikker på 
 ![vis alle](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/visalle.png)
 
-Det kommer da opp en liste. Listen kan sorteres. Ved fakturering er det lurt å sortere etter pris, da alle med innlagt beløp vil fremkomme i rekkefølge.
+Det kommer da opp en liste. Listen kan sorteres. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til sjekklisten under [Hvordan behandle innkomne søknader](http://manual.aktiv-kommune.no/?p=298).
 
-Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til sjekklisten under [Hvordan behandle innkomne søknader](http://manual.aktiv-kommune.no/?p=298).
-
-5. Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at toatalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i AktivBy. (Her burde vi muligens ha inn et bilde som illustrasjon?)
+Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at toatalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i Aktivkommune. 
 Til orientering: En kunde som har leid en eller flere ressurser mer enn én gang i løpet av en måned vil kun motta én faktura. Dette vil være en samlefaktura som spesifiserer detaljene i leieforholdene. 
-6. Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt (se bildet under). Klikk så på «Eksport» en gang til.
+
+Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt (se bildet under). Klikk så på «Eksport» en gang til.
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
