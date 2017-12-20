@@ -8,7 +8,14 @@ permalink: http://manual.aktiv-kommune.no/?p=571
 published: true
 post_date: 2017-12-19 13:20:33
 ---
-Hvert enkelt bygg/anlegg skal faktureres hver måned. Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil som skal sendes til LRS innen den 10. hver måned. 
+Hvert enkelt bygg/anlegg skal faktureres hver måned. Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil som skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
+
+BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING
+
+Skjermbildet ser da slik ut: 
+![skjermbilde fakturering](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildefaktura.png)
+
+
 
 1. Velg Klar for fakturering
 2. Velg bygg/anlegg (for eksempel Meyermarken) og dato (siste dato i hver måned, for eksempel 31. mars).  Klikk på søk.
