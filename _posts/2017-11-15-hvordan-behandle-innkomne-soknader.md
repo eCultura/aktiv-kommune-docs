@@ -22,7 +22,10 @@ Under filter kan du velge status, bygg/anlegg og aktiviteter. Status skal stå s
 
 For å starte saksbehandling klikker du på søknaden, og velger "Bli saksbehandler". Når man er blitt saksbehandler kan man tildele passende ressurser for leieforholdet og sette leiepris. 
 
-Det er flere måter å tildele ressurser på (se beskrivelse under ## Ressurser og ## Aktiviteter). 
+Det er flere måter å tildele ressurser på (se beskrivelse under 
+## Ressurser 
+og 
+## Aktiviteter). 
 
 
 
