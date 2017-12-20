@@ -8,7 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=559
 published: true
-post_date: 2017-12-19 11:01:59
+post_date: 2017-12-02 11:01:59
 ---
 For å legge til bilder eller dokumenter til en ressurs går du til
 
