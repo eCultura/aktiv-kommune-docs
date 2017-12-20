@@ -22,13 +22,16 @@ Under filter kan du velge status, bygg/anlegg og aktiviteter. Status skal stå s
 
 For å starte saksbehandling klikker du på søknaden, og velger "Bli saksbehandler". Når man er blitt saksbehandler kan man tildele passende ressurser for leieforholdet og sette leiepris. 
 
-Det er flere måter å tildele ressurser på (se beskrivelse under 
-## Ressurser 
-og 
-## Aktiviteter). 
+Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
 
+Før en søknadsbehandlig ferdigstilles må saksbehadler sjekke at følgende punkter er ivaretatt: 
+1. Det må være ledige ressurser i kalenderen i Aktivkommune.
+2. Søkerend organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilgelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
+Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
+3. Du må se at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
+4. Pris kal være i henhold til prisliste og målgruppe. Derfor saksbehandler avviker fra dette, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Davil feltet "Kommentar til ny pris" dukke opp. 
 
-
+Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avså den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
 
 ## Ressurser
