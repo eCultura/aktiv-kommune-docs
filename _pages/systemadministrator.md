@@ -15,3 +15,6 @@ post_date: 2017-11-11 19:01:07
 Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/brukerveiledning_administratorer_saksbehandlere_v_1-3.pdf).
 
 [display-posts category="Systemadministrator" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
+
+## Hvordan endre språk og oversettinger i systemet? /
+[display-posts category="Språk og oversettinger" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
