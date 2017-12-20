@@ -14,6 +14,8 @@ Før man kan generere en fakturafil, må man [klargjøre fakturagrunnlag.](https
 
 Når dette er gjort kan man generere en fakturafil ved å gå til:
 
+OBS! Før man starter med genereringen må man vite at man har registrert rett system (Agresso brukes i beskrivelsen her, men det er likt for andre systemer). For å endre konteringsdimensjoner se [Hvordan endre konteringsdimensjoner for fakturaeksport.](http://manual.aktiv-kommune.no/?p=622)
+
 BOOKING => FAKTURAEKSPORTER => KLAR FOR GENERERING
 
 Skjermbildet ser da slik ut: 
