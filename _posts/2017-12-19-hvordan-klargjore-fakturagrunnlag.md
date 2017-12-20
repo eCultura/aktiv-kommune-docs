@@ -23,7 +23,7 @@ Det kommer da opp en liste. Listen kan sorteres. Kontroller at kunde-id (organis
 Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at toatalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i Aktivkommune. 
 Til orientering: En kunde som har leid en eller flere ressurser mer enn én gang i løpet av en måned vil kun motta én faktura. Dette vil være en samlefaktura som spesifiserer detaljene i leieforholdene. 
 
-Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt (se bildet under). Klikk så på «Eksport» en gang til.
+Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt. Klikk så på «Eksport» en gang til.
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
