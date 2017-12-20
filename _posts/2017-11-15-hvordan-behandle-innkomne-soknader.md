@@ -25,7 +25,7 @@ For å starte saksbehandling klikker du på søknaden, og velger "Bli saksbehand
 Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
 
 Før en søknadsbehandlig ferdigstilles må saksbehandler sjekke at følgende punkter er ivaretatt: 
-###Sjekkliste:
+**Sjekkliste:**
 1. Det må være ledige ressurser i kalenderen i Aktivkommune.
 2. Søkerend organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilgelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
 Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
