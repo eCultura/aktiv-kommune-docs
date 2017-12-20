@@ -15,7 +15,7 @@ For å gjøre dette går du til:
 BOOKING => SØKNADER
 
 Skjermbildet ser da slik ut:
-![skjermbilde søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildesoknader-300x85.png)
+![skjermbilde søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildesoknader.png)
 Som skjermbildet viser så vil vi i filteret være ha nye søknader oppe automatisk. Hvis dette er en søknad som er under behandlig så må vi under status velge "Under behandlig" fra nedtrekksmenyen. 
 Klikk på søknaden du ønsker å åpne for å kunne behandle den. Om du ikke er saksbehander for den må du bli dette ved å klikke på "bli saksbehandler".
 På bunnen av dette skjermbildet er det en overskrift som heter **Handling**.
