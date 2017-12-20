@@ -12,7 +12,7 @@ For å legge inn nytt lag eller organisasjon trenger du <em>Organisasjonsnummer<
 
 Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysundregisterne</a>.
 
-Når du har organisasjonsnummeret er prosedyren slik:
+Når du har organisasjonsnummeret, er prosedyren slik:
 
 BOOKING => ORGANISASJONER 
 
@@ -24,7 +24,7 @@ Klikk på
 
 ### Fyll ut informasjonen om organisasjonen:
 **Organisasjon:** Her fylles inn navn på organisasjonen.
-**Kortnavn:** Brukes ikke
+**Kortnavn:** Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
 **Organisasjonsnummer:** (9 siffer)
 **Hjemmeside:** Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
 **Telefon:** Telefonnummer til kontaktperson i organisasjonen.
@@ -40,11 +40,11 @@ Klikk på
 **Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
 **Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
-Hvordan legge inn ny aktivitet klikk [her](http://manual.aktiv-kommune.no/?p=265). 
+Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
 
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
-Legg tilslutt inn informasjon om hvem som er bookingansvarlig.
+Legg tilslutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
 
-Når du er ferdig klikker du på 
+Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
