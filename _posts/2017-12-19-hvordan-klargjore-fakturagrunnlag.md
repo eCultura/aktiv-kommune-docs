@@ -15,9 +15,9 @@ BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING
 Skjermbildet ser da slik ut: 
 ![skjermbilde fakturering](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildefaktura.png)
 
+Her skriver du inn bygg/anlegg (for eksempel Meyermarken), velger hvilken sesong og dato (siste dato i hver måned, for eksempel 31. mars), og klikker på 
+![vis alle](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/visalle.png)
 
-
-1. Velg Klar for fakturering
 2. Velg bygg/anlegg (for eksempel Meyermarken) og dato (siste dato i hver måned, for eksempel 31. mars).  Klikk på søk.
 3. Listen kan sorteres. Ved fakturering er det lurt å sortere etter pris, da alle med innlagt beløp vil fremkomme i rekkefølge.
 4. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til punkt 5 under «Søknadsbehandling».
