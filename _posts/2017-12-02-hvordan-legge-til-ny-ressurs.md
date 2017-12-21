@@ -38,4 +38,16 @@ For å opprette ny ressurs klikker du på
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
+På det nye skjermbildet vil det i bunnen ligge tre knapper med valgene: 
+![knappevalg ressurser](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilderessurs.png)
+
+Ønsker du å redigere ressursen du har lagt til klikker du på:
+![rediger](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png)
+
+Ønsker du å se kalenderoversikten for ressursen klikker du på:
+![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/ressurskalender.png)
+
+Ønsker du å gå tilbake til hovedsiden for ressurser, for å legge til enda en ny ressurs eller avslutte redigeringen av ressursen klikker du på:
+![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png)
+
 Når man har opprettet ressurs så er neste steg å opprette [sesong og rammetid](http://manual.aktiv-kommune.no/?p=502) for å definere når ressursene er tilgjengelig for utleie/lån.
