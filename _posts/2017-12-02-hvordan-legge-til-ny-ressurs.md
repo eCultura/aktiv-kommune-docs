@@ -38,8 +38,7 @@ For å opprette ny ressurs klikker du på
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-> Ønsker du å knytte bilde eller filer til ressusen kan dette gjøres i det nye skjermbildet ved å 
-> klikke på *Legg til dokument*
+< Ønsker du å knytte bilde eller filer til ressusen kan dette gjøres i det nye skjermbildet ved å klikke på *Legg til dokument*
 
 På det nye skjermbildet vil det i bunnen ligge tre knapper med valgene: 
 ![knappevalg ressurser](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilderessurs.png)
