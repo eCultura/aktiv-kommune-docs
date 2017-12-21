@@ -34,4 +34,4 @@ Når du er ferdig klikker du på
 Når man har lagt til et nytt bygg/anlegg eller en ressurs så vil man ha muligheten til å legge til bilde eller et dokument direkte og umiddelbart etter at det er lagret. Du vil få opp en boks i skjermbildet som ser slik ut:
 ![dokumenter](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/dokument.png)
 
-Ved å klikke på *Legg til dokument* så kan man knytte et bilde eller en fil til bygget eller ressursen direkte.
+Ved å klikke på *Legg til dokument* så kan du knytte et bilde eller en fil direkte til bygget eller ressursen.
