@@ -16,6 +16,8 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** 
 
 [display-posts category="Systemadministrator" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
 
+## Nødvendige forberedelser før systemet kan brukes
+[display-posts category="forberedelser-for-systemet-kan-brukes" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan legge inn og endre på epost-innstillingene? /Kontaktinformasjon og automatisk genererte svar
 [display-posts category="Epostsvar" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
