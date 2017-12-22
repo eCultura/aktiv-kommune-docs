@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=298
 published: true
 post_date: 2017-11-15 12:29:50
 ---
-#Søknadsbehandling
+# Søknadsbehandling
 Saksbehandlere må daglig inn i Aktivkommune for å sjekke om det har kommet inn søknader om å leie de respektive bygg/anlegg vedkommende har ansvar for. 
 
 Nye søknader finner du ved å gå til:
