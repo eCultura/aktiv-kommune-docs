@@ -9,7 +9,7 @@ published: true
 post_date: 2017-11-15 12:29:50
 ---
 #Søknadsbehandling
-Saksbehandlere må daglig inn i Aktivkommune for å sjekke om det har kommet søknader om leie de respektive bygg/anlegg vedkommende har ansvar for. 
+Saksbehandlere må daglig inn i Aktivkommune for å sjekke om det har kommet inn søknader om å leie de respektive bygg/anlegg vedkommende har ansvar for. 
 
 Nye søknader finner du ved å gå til:
 
@@ -20,7 +20,11 @@ Skjermbildet ser da slik ut:
 
 Under filter kan du velge status, bygg/anlegg og aktiviteter. Status skal stå som ny. Så kan du velge bygg/anlegg du vil se søknader for. Du kan også filtrere etter aktiviteter i forhold til bygg/anlegg og/eller status. 
 
-For å starte saksbehandling klikker du på søknaden, og velger "Bli saksbehandler". Når man er blitt saksbehandler kan man tildele passende ressurser for leieforholdet og sette leiepris. 
+For å starte saksbehandling klikker du på søknaden, og så klikker du på
+![Bli saksbehandler](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/blisaksbehandler.png). på toppen av skjermbildet.
+Dette vil sende deg ned til bunnen av siden hvor du må klikke på
+![bli saksbehandler knapp](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/blisaksbehandlerknapp.png)
+Du er nødt til å bli saksbehandler for å kunne godkjenne eller behandle søknaden. Når man er blitt saksbehandler kan man tildele passende ressurser for leieforholdet og sette leiepris. 
 
 Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
 
