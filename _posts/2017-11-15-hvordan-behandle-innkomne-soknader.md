@@ -41,7 +41,7 @@ Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummere
 3. Du må se at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
 4. Pris kal være i henhold til prisliste og målgruppe. Derfor saksbehandler avviker fra dette, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Davil feltet "Kommentar til ny pris" dukke opp. 
 
-Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avså den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
+Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
 
 ## Ressurser
