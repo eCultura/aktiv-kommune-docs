@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=502
 published: true
-post_date: 2017-12-05 15:01:51
+post_date: 2017-12-02 12:01:51
 ---
 Til en ressurs defineres en sesong. En sesong er et gitt tidsrom som ressursen kan leies eller lånes ut. Det opprettes en sesong for hvert bygg/anlegg, og sesongene varierer derfor fra bygg/anlegg til bygg/anlegg.
 
