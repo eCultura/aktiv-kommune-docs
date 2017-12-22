@@ -38,7 +38,7 @@ For å opprette nytt bygg/anlegg klikk på
 **Tilsynsvakt telefon:** Telefonnummer til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
 **Tilsynsvakt e-post:** E-post til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
 **Tekst bak kalenderknapp:**?????????????????????
-**Skildring:**???????????????
+**Skildring:** Beskrivelse av bygg/anlegg og hva som er tilgengelig.
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
