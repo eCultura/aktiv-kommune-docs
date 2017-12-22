@@ -16,7 +16,7 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [h
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan behandle søknader? / Om søknadsprosessen
-[display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="sortering"]
+[display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan fakturere? / Om faktureringsprosessen
 [display-posts category="Fakturering" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
