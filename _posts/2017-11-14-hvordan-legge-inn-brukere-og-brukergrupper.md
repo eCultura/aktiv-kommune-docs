@@ -10,17 +10,44 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-14 10:28:21
 ---
+Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere, endre informasjon om bygg/anlegg samt behandle innkommende søknader.  
+
+## Bruker
+
+For å opprette ny eller endre eksisterende brukerer går du til
+
+ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE 
+
+Skjermbildet ser da slik ut: 
+![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/administer.png)
+
+Her kan du endre eller slette eksisterende brukere. For å legge til ny bruker klikker du på
+![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil2.png)
+
+### Fyll ut informasjonen om brukeren under fanen brukerdata:
+**Aktiver bruker:** Hak av om brukeren skal være aktiv.
+**LoginID:** Brukernavnet som brukeren logger seg inn med.
+**Fornavn:** Fornavn på brukeren
+**Etternavn:** Etternavn på brukeren.
+**Passord:** Passord brukerens skal bruke når han/hun logger inn på siden.
+**Skriv inn passord igjen:** Gjenta passord.
+**Kan bytte passord:* Hak av om bruker selv ska lkunne bytte passord.
+**Anonym bruker(vises ikke i sesjonsliste):** Hak av om bruker skal være anonym. 
+**Utløpsdato:** Når brukeren ikke lengre skal ha tilgang.
+
+Under fanen *Grupper* haker du av for hvilke grupper brukeren skal tilhøre. 
+Under fanen *Applikasjoner* gir du tilgang til moduer og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
+> For å tilordne normal tilgang til en *Saksbehandler* haker du av for *Admin* ved *Booking*
+
+Når du har fylt inn den informasjonen som skal inn, klikker du på 
+![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
+
+
 ## Brukergrupper
-Du oppretter brukergrupper under valget *Administrasjon->Admin->Administrere grupper*.
 
-## Brukere
-Brukere opprettes i *Administrasjon->Admin->Administrere brukere*.
+I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere egne tilganger på gruppenivå under: 
 
-![Opprette bruker](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/legg_til_bruker-e1511455192527.jpg)
+ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
 
-- Klikk på *Legg til*
-- Skriv inn nødvendig informasjon
-- Velg *Applikasjoner*
-- Klikk på *Admin* ved *Booking* for å tilordne en normal tilgang til en *Saksbehandler*
 
-Neste trinn er [oppsett av epost](#)
+Neste steg er [oppsett av epost](https://manual.aktiv-kommune.no/?p=274)
