@@ -31,7 +31,7 @@ Her kan du endre eller slette eksisterende brukere. For å legge til ny bruker k
 **Etternavn:** Etternavn på brukeren.
 **Passord:** Passord brukerens skal bruke når han/hun logger inn på siden.
 **Skriv inn passord igjen:** Gjenta passord.
-**Kan bytte passord:** Hak av om bruker selv ska lkunne bytte passord.
+**Kan bytte passord:** Hak av om bruker selv skal kunne bytte passord.
 **Anonym bruker(vises ikke i sesjonsliste):** Hak av om bruker skal være anonym. 
 **Utløpsdato:** Når brukeren ikke lengre skal ha tilgang.
 
