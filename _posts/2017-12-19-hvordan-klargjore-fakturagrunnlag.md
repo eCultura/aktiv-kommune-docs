@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=571
 published: true
-post_date: 2017-12-19 13:20:33
+post_date: 2017-12-19 12:20:33
 ---
 Hvert enkelt bygg/anlegg **skal** faktureres hver måned. Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
 
