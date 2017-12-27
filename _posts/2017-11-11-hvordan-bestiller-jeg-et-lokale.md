@@ -1,6 +1,8 @@
 ---
 ID: 85
-post_title: Hvordan bestiller jeg et lokale?
+post_title: >
+  Hvordan bestiller jeg et lokale eller en
+  ressurs?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -16,5 +18,25 @@ Når du skal bestille et lokale må du ha tenkt gjennom følgende:
 * Hvem er ansvarlig for bestillingen
 ```
 
-## Finn lokale
-Du søker frem til egnet lokale ved å ...
+## Finn lokale eller ressurs
+Når du ønsker å leie et lokale eller utstyr så går du til [Aktivkommune](http://aktivby.alesund.kommune.no/bookingfrontend/).
+Skjembildet ser da slik ut:
+![Forsidebilde](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forsidebilde.png)
+
+Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du enter eller klikker på 
+![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forstorrelsesglass.png)
+
+Ønsker du et mer filtrert søk klikker du på 
+![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avansertsok.png) 
+Du vil så få muligheten til å sortere på bydel og hovedkategori, i tillegg til å sortere treffene dine. 
+Når du har haket av for det du ønsker klikker du på
+![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
+
+I begge tilfeller så vil søkeresultat som matcher søkekriteriene dukke opp under søkefeltet.
+
+Du klikker da på bygget/anlegget/ressursen/utstyret du ønsker å leie, og du får opp et nytt skjermbildet som gir informasjon om det du klikket på. 
+Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen så klikker du på 
+![kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/kalender.png)
+
+I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. Ønsker du å leie ressursen eller lokalet gjøres dette ved å klikke på ønsket dag og tid i kalenderen, eller ved å klikke på 
+![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/nysoknad.png) oppe i venstre hjørne.
