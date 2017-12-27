@@ -47,7 +47,7 @@ Du vil så bli tatt til søknaden og må fylle ut et skjema:
 **1. Hvorfor?** Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
 **2. Hvor mange?** Oppgi forventet eller estimert antall deltakere. 
 **3. Hvor?** Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser du ønsker å leie. 
-**Når?** Velg dato og  klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på #Legg til dato#
+**Når?** Velg dato og  klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på *Legg til dato*
 **5. Hvem?** Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. 
 **6. Kontaktinformasjon** Oppgi kontaktinformasjonen til bestillingsansvarlig.
 **7. Ansvarlig søker/Fakturainformasjon** Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. 
