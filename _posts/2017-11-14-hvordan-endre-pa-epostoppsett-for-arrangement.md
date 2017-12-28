@@ -19,4 +19,4 @@ Fyll inn de innstillingene du ønsker skal være i e-postene for arrangementer.
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Neste trinn er [oppsett for søknader](https://manual.aktiv-kommune.no/?p=281).
+Neste steg er [oppsett for søknader](https://manual.aktiv-kommune.no/?p=281).
