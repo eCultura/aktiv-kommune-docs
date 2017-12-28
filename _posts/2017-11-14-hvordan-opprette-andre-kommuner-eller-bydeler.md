@@ -21,37 +21,56 @@ ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALOSERING
 Skjembildet ser da slik ut: 
 ![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendom.png)
 
-Velg *Administrasjon->Eiendom->Registrer lokalisering->Bydel*.
-- Klikk *Ny*
-- Skriv inn *ID* (Et fortløpende nummer)
-- Skriv inn *Navn* (Navn på kommune eller bydel)
-- Lagre
+Her ifra velger du GATE, OMRÅDE eller BYDEL avhengig av hva du ønsker å registrere. 
 
-![Bydel](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokalisering_bydel-e1511167484971.png)
+I dette eksempelet valgte vi bydel:
+
+For å legge til ny bydel klikker du på 
+![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
+
+## Fyll inn informasjon om bydel:
+**ID:** Et fortløpende nummer.
+**Navn:** Navn på bydel. 
+**Leveringsadresse:**
+**Område:**
+
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
 
 ## Opprette eiendom
-I eksempelet under lager vi bare én eiendom for hver kommune.
+Nye eiendommer registreres av systemansvarlige. I eksempelet under lager vi bare én eiendom for hver kommune.
 
-Gå til *Eiendom->Lokalisering->Eiendom*.
+EIENDOM => LOKALISERING => EIENDOM 
 
-- Klikk *Ny*
-- Skriv inn *Eiendom* (eks.: 1246)
-- Skriv inn *Navn* (eks.: Eigedom i Fjell)
-- Velg *SOMETHING* i *Kategori* eller les [her](#) for å legge inn Kategorier
-- Velg *Bydel* som tidligere er lagt inn i avsnittet over 
-- Eier må være *blank*
-- Lagre
+For å registrere ny eiendom klikker du på 
+![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-![Eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/eiendom_lokalisering-e1511170040257.png)
+## Fyll inn informasjon om eiendom:
+**Eiendom:** Lokasjonskoden til eiendommen (for eksempel: 1246)
+**Navn:** Navnet på eiendommen (for eksempel: eiendom i Fjell)
+**Kategori:** Velg *something* fra nedtrekksmenyen [her](#) for å legge inn Kategorier.
+**Bydel** Velg bydel fra nedtrekksmenyen som eiendommen går under. 
+**Eier:** Må være blank.
+**Status:** Velg *ok* fra nedtrekksmenyen.
+**Merknad:** Hvis det er noe spesielt med eiendommen du ønsker å kommentere så skriver du det her. 
+
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 ## Knytte bygg til eiendom i Booking
-I *Booking->Bygg/Anlegg*
-- Klikk på et bygg
-- Velg *Rediger*
-- I *Lokasjonskode* skriver du inn kode som ble registrert i Eiendom->Lokalisering->Eiendom (eks. 1246 for Fjell)
-- Husk å lagre endringene
+Når en eiendom er registrert så må det registreres minst ett bygg/anlegg som tilhører eiendommen.  
 
-![Lokasjonskode](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/lokasjonskode-e1511173813483.png)
+EIENDOM => LOKALISERING => BYGNING
+
+Skjermbildet ser da slik ut: 
+![skjermbildet bygning](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendombygning.png)
+
+Her velger du et bygg for så å klikke på 
+![rediger](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png)
+I *Lokasjonskode* skriver du inn koden som ble registrert når du registrerte eiendom (for eksempel 1246 for Fjell).
+Når du er ferdig klikker du på 
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 ## Opprette bygg i Eiendom
 Det mest hensiktsmessige er å opprette alle kommunens bygg i *Eiendom->Lokalisering->Bygning*, ikke bare i *Booking->Bygg/Anlegg*. Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
