@@ -28,7 +28,7 @@ Skjermbildet ser da slik ut:
 For å registrere et nytt bygg klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-##Fyll informasjon om byggning: 
+## Fyll informasjon om byggning: 
 **Eiendom:** klikk på ruten og du får opp forslag til lokasjonskoder, velg en.
 **Bygning:** Type bygning (For eksempel: Idrettsanlegg).
 **Navn:** Navn på bygningen (For eksempel: Sandslihallen)
