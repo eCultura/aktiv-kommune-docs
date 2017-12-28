@@ -1,8 +1,6 @@
 ---
 ID: 291
-post_title: >
-  Hvordan opprette andre kommuner eller
-  bydeler?
+post_title: Hvordan opprette kommuner eller bydeler?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -69,12 +67,21 @@ Skjermbildet ser da slik ut:
 Her velger du et bygg for så å klikke på 
 ![rediger](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png)
 I *Lokasjonskode* skriver du inn koden som ble registrert når du registrerte eiendom (for eksempel 1246 for Fjell).
+
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 ## Opprette bygg i Eiendom
-Det mest hensiktsmessige er å opprette alle kommunens bygg i *Eiendom->Lokalisering->Bygning*, ikke bare i *Booking->Bygg/Anlegg*. Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
+Det mest hensiktsmessige er å opprette alle kommunens bygg i 
 
-Bygget kan da knyttes til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (eks.: 1246-1200) i *Lokaliseringskode*.
+EIENDOM => LOKALISERING => BYGNING
+
+og ikke bare i 
+
+BOOKING => BYGG/ANLEGG
+
+Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
+
+Bygget kan da knyttes til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (for eksempel: 1246-1200) i *Lokaliseringskode*.
 
 ![Booking ](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/booking_bygg-anlegg-e1511184434853.png)
