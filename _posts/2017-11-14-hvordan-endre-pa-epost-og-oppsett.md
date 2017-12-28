@@ -1,8 +1,8 @@
 ---
 ID: 274
 post_title: >
-  Hvordan endre på epostinnstillinger for
-  saksbehandler?
+  Hvordan endre på e-postinnstillinger
+  for saksbehandler?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
