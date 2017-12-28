@@ -19,7 +19,7 @@ Endringene som gjøres her påvirker frontend.
 Gjør de endringene du ønsker.
 
 ## Fyll ut feltene for oppsettet for søknader:
-**Ny søknad:* Denne teksten kommer i toppen av starten på søknaden i frontend. 
+**Ny søknad:** Denne teksten kommer i toppen av starten på søknaden i frontend. 
 **Aktiviteter:** Denne teksten kommer under hvorfor og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre. 
 **Ekstra informasjon på arrangement:** Teksten hører til feltet hvor man kan opplyse om spesielle behov i forbindelse med arrangementet. 
