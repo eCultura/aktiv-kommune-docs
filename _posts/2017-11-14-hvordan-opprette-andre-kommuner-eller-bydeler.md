@@ -47,7 +47,7 @@ For å registrere ny eiendom klikker du på
 ## Fyll inn informasjon om eiendom:
 **Eiendom:** Lokasjonskoden til eiendommen (for eksempel: 1246)
 **Navn:** Navnet på eiendommen (for eksempel: eiendom i Fjell)
-**Kategori:** Velg *something* fra nedtrekksmenyen eller klikk [her](https://manual.aktiv-kommune.no/?p=291) for å legge inn Kategorier.
+**Kategori:** Velg *something* fra nedtrekksmenyen eller klikk [her](https://manual.aktiv-kommune.no/?p=700) for å legge inn Kategorier.
 **Bydel** Velg bydel fra nedtrekksmenyen som eiendommen går under. 
 **Eier:** Må være blank.
 **Status:** Velg *ok* fra nedtrekksmenyen.
