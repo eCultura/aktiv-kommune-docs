@@ -12,4 +12,4 @@ post_date: 2017-11-14 11:00:42
 ---
 Du finner oppsett for epost til saksbehandler under Administrasjon->Booking->Innstillinger
 
-Neste trinn er [epostoppsett for arrangement](#)
+Neste steg er [epostoppsett for arrangement](http://manual.aktiv-kommune.no/?p=278)
