@@ -14,6 +14,9 @@ Du kan endre på oppsettet for søknader. For å gjøre dette går du til
 
 BOOKING => INNSTILLINGER => SØKNADSOPPSETT
 
+Skjermbildet ser da slik ut:
+![skjermbildet søknadsoppsett](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/soknadsoppsett.png)
+
 Endringene som gjøres her påvirker frontend.
 
 Gjør de endringene du ønsker å utføre.
