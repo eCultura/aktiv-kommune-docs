@@ -14,9 +14,9 @@ Dette beskriver en minimumsløsning for hvordan opprette flere kommuner eller by
 
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
 
-ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALOSERING
+ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING
 
-Skjembildet ser da slik ut: 
+Skjermbildet ser da slik ut: 
 ![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendom.png)
 
 Her ifra velger du GATE, OMRÅDE eller BYDEL avhengig av hva du ønsker å registrere. 
@@ -37,7 +37,7 @@ Når du er ferdig klikker du på
 
 
 ## Opprette eiendom
-Nye eiendommer registreres av systemansvarlige. I eksempelet under lager vi bare én eiendom for hver kommune.
+Nye eiendommer registreres av systemansvarlige. I eksempelet under lager vi bare én eiendom for hver kommune. For å legge til en eiendom går du til
 
 EIENDOM => LOKALISERING => EIENDOM 
 
