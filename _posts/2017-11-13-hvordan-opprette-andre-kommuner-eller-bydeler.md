@@ -84,3 +84,5 @@ I *Lokasjonskode* skriver du inn koden som ble registrert når du registrerte ei
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+Neste steg er å [opprette brukere og brukergrupper.](https://manual.aktiv-kommune.no/?p=267)
