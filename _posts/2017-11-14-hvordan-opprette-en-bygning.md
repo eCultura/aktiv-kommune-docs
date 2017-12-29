@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=321
 published: true
-post_date: 2017-11-20 13:45:18
+post_date: 2017-11-14 11:00:18
 ---
 Det er to måter å opprette en bygning på, enten gjennom
 
