@@ -30,7 +30,7 @@ Gjør de endringene du ønsker å utføre.
 **Hvor?** Teksten kommer i forbindelse med at man må velge bygg og ressurser som tilhører bygget som man ønsker å leie.
 **Når?** Teksten kommer i forbindelse med at man velger dato og klokkeslett for leieperioden.
 **Hvem?** Teksten kommer i forbindelse med at man skal krysse av for målgruppen for arrangementet. 
-**Kontaktinformasjon:** Tekstn kommer i forbindelse ved at søker skal oppgi kontaktinformasjonen sin.
+**Kontaktinformasjon:** Teksten kommer i forbindelse ved at søker skal oppgi kontaktinformasjonen sin.
 **Ansvarlig søker/Fakturainformasjon 1:** Teksten kommer i forbindelse med at søker må oppgi fødselsnummer/organisasjonsnummer for fakturainformasjon. 
 **Ansvarlig søker/Fakturainformasjon 2:** Teksten kommer i forbindelse med at søker må oppgi fødselsnummer/organisasjonsnummer for fakturainformasjon. Denne teksten kommer etter nedtrekksmenyen.
 **Juridiske vilkår 1:** Teksten kommer i forbindelse med de juridiske vilkårene, over hvor du haker av for at du har akseptert vilkårene. 
