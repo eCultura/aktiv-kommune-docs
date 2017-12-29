@@ -15,8 +15,6 @@ Før du kan bruke AktivKommune må kommunen ha opprettet en driftsavtale med Sta
 Hver kommune må ha en systemansvarlig eller sørge for at en person, eller ekstern bedrift, blir tildelt denne rollen. En systemansvarlig, i denne sammenheng, er en person med generell god digital kompetanse, eller person som evner å forstå og utføre veiledningen under.
 
 ## Logg på Aktiv kommune
-... osv
-
 - Angi tittel for nettstedet:
 - Angi url for logo: 
 eks.: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
@@ -24,4 +22,4 @@ Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommune
 - Epost brukerstøtte:
 	eks.: informasjon@fjell.kommune.no
 
-Neste trinn er å legge inn [Grunndata](#)
+Neste trinn er å legge inn [kommuner og bydeler](https://manual.aktiv-kommune.no/?p=291)
