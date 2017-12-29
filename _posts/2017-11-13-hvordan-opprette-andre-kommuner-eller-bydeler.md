@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-13 13:42:18
 ---
-Dette beskriver en minimumsløsning for hvordan opprette flere kommuner eller bydeler i AktivKommune. I eksempelet under oppretter vi en kommune (lokalisering) og en eiendom. Først knytter vi *lokalisering* til eiendommen for deretter å knytte bygg eller anlegg til *eiendommen*. I eksempelet under lager vi én eiendom for hele kommunen.
+Dette beskriver en minimumsløsning for hvordan opprette flere kommuner eller bydeler i Aktivkommune. I eksempelet under oppretter vi en kommune (lokalisering) og en eiendom. Først knytter vi *lokalisering* til eiendommen for deretter å knytte bygg eller anlegg til *eiendommen*. I eksempelet under lager vi én eiendom for hele kommunen.
 
 ## Opprette lokalisering
 
