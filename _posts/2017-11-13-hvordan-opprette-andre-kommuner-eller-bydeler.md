@@ -64,9 +64,7 @@ EIENDOM => LOKALISERING => BYGNING
 
 og ikke bare i 
 
-BOOKING => BYGG/ANLEGG
-
-Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).
+BOOKING => BYGG/ANLEGG (Les mer om hvordan dette gjøres [her](http://manual.aktiv-kommune.no/?p=321).)
 
 Bygget kan da knyttes til bygg eller anlegg i *Booking->Bygg/Anlegg* med en kombinasjon av *Lokaliseringskode* og *Bygningskode* (for eksempel: 1246-1200) i *Lokaliseringskode*.
 
