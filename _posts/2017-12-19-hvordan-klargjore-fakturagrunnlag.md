@@ -13,7 +13,7 @@ Hvert enkelt bygg/anlegg **skal** faktureres hver måned. Den som har ansvar for
 BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING
 
 Skjermbildet ser da slik ut: 
-![skjermbilde fakturering](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildefaktura.png)
+![skjermbilde fakturering](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildefaktura1.png)
 
 Her skriver du inn bygg/anlegg (for eksempel Meyermarken), velger hvilken sesong og dato (siste dato i hver måned, for eksempel 31. mars), og klikker på 
 ![vis alle](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/visalle.png)
