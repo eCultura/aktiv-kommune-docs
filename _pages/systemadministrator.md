@@ -20,7 +20,7 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** 
 
 
 ## Generelt
-[display-posts category="generelt-systemadministrator" posts_per_page="-1" include_date="true" order="ASC" orderby="date"]
+[display-posts category="generelt-systemadministrator" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 
 ## Hvordan legge inn og endre på epost-innstillingene? /Kontaktinformasjon og automatisk genererte svar
