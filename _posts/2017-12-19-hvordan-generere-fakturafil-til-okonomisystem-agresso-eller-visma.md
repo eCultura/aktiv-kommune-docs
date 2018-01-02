@@ -37,5 +37,5 @@ Send så mail med følgende tekst til følgende personer:
 Filnavnet skrives slik det ser ut når det ligger på serveren. Antall og beløp finner man i Portico. 
 Tips: Legg inn forsinkelse på mailen (kl.12.00 påfølgende dag) slik at mottakerne ikke får denne før filen er overført til Agresso.
 
-Dersom alt er OK mottar du en mail fra LRS som bekrefter antall elementer og totalsummen som er overført. Innholdet i filen har nå fått ordrenummer som begynneer på 3700(...). 
+Dersom alt er OK mottar du en mail fra LRS som bekrefter antall elementer og totalsummen som er overført. Innholdet i filen har nå fått ordrenummer som begynner på 3700(...). 
 Dersom det finnes feil i filen som er overført, vil den som har ansvar for genereringen motta en overikt over dette fra Agresso. Alle feil må korrigeres før filen blir fakturert i Agresso.
