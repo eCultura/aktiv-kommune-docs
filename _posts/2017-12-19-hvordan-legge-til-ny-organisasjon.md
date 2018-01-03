@@ -1,6 +1,8 @@
 ---
 ID: 79
-post_title: Hvordan legge til ny organisasjon?
+post_title: >
+  Hvordan legge til et nytt lag eller en
+  ny organisasjon?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,6 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=79
 published: true
 post_date: 2017-12-19 20:18:07
 ---
+Filmen viser i korte trekk hvordan du legger inn et nytt lag eller en organisasjon. For mer utdypet informasjon les teksten under.
+http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/ny-organisasjon-eller-lag.mp4
+
 For å legge inn nytt lag eller organisasjon trenger du <em>Organisasjonsnummer</em>.
 
 Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysundregisterne</a>.
