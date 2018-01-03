@@ -10,6 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=559
 published: true
 post_date: 2017-12-02 11:01:59
 ---
+Filmen viser i korte trekk hvordan du legger til bilder eller dokumenter til en ressurs. For mer utdypet informasjon lesteksten under. 
+![film; hvordan legge til bilde eller dokument tilknyttet en ressurs](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/laste-opp-nytt-bilde-eller-dokument.mp4)
+
 For å legge til bilder eller dokumenter til en ressurs går du til
 
 BOOKING => BYGG/ANLEGG => DOKUMENTER
