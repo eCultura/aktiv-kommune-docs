@@ -8,6 +8,10 @@ permalink: http://manual.aktiv-kommune.no/?p=522
 published: true
 post_date: 2017-12-02 09:06:38
 ---
+Filmen viser i korte trekk hvordan du legger til en ny ressurs. For mer utdypet informasjon les teksten under.
+http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Ny-ressurs.mp4
+
+
 Når du har opprettet et bygg/anlegg så må du tilknytte ressurser til det. Ressurser knyttes opp mot et bygg/anlegg under opprettelse, og kan sorteres på tall. Sortering på ressursen definerer hvilken rekkefølge de vises i frontend.
 
 En ressurs kan være:
