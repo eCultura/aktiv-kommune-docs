@@ -8,6 +8,9 @@ permalink: http://manual.aktiv-kommune.no/?p=502
 published: true
 post_date: 2017-12-02 12:01:51
 ---
+Filmen viser i korte trekk hvordan du oppretter en sesong og rammetid. For mer utdypet informasjon les teksten under.
+http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Sesong-og-rammetid.mp4
+
 Til en ressurs defineres en sesong. En sesong er et gitt tidsrom som ressursen kan leies eller lånes ut. Det opprettes en sesong for hvert bygg/anlegg, og sesongene varierer derfor fra bygg/anlegg til bygg/anlegg.
 
 For å opprette en sesong går du til:
