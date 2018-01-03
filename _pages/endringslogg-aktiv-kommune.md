@@ -14,8 +14,10 @@ Her finner du informasjon om siste gyldige versjoner av AktivKommune.
 # PRODUKSJON
 - Mer informasjon kommer
 
-
 # TEST
 
-## 3. desember, 2017 
+## 3. desember, 2017
 - Informasjon om siste gyldige versjon for *Test* finner du [her](#)
+
+
+[video width="1920" height="926" mp4="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/laste-opp-nytt-bilde-eller-dokument.mp4"][/video]
