@@ -10,6 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=166
 published: true
 post_date: 2017-12-01 15:53:35
 ---
+Filmen viser i korte trekk hvordan du legger til nytt bygg eller anlegg. For mer utdypet informasjon les teksten under.
+http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nytt-bygg-eller-anlegg.mp4
+
 Bygg og anlegg må opprettes i systemet før man kan opprette tildelinger. For å opprette et nytt bygg/anlegg går du til
 
 BOOKING => BYGG/ANLEGG
