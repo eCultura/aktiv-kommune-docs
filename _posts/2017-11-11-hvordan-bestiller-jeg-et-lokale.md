@@ -10,13 +10,6 @@ permalink: http://manual.aktiv-kommune.no/?p=85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
-## Forberedelser
-```
-Når du skal bestille et lokale må du ha tenkt gjennom følgende:
-* Når ønsker jeg lokalet
-* Hvor mange personer skal være med
-* Hvem er ansvarlig for bestillingen
-```
 
 ## Finn lokale eller ressurs
 Når du ønsker å leie et lokale eller utstyr så går du til [Aktivkommune](http://aktivby.alesund.kommune.no/bookingfrontend/).
