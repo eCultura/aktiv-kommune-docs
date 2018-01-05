@@ -28,8 +28,9 @@ Du er nødt til å bli saksbehandler for å kunne godkjenne eller behandle søkn
 
 Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
 
-Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avvise en søknad uten å gjøre noe først. Skal du derimot godkjenne en søknad må du utføre noen handlinger.
+Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avvise en søknad uten å gjøre noe først. 
 
+Skal du derimot godkjenne en søknad må du utføre noen handlinger.
 Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement, eventuelt interntildeling (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot type tildeling. Når denne informasjonen er fylt ut vil man kunne klikke
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/send.png).
 Siden vil da friske seg opp og informasjonen er lagret. Du kan da klikke 
