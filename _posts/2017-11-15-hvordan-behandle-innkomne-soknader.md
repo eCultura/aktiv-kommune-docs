@@ -28,7 +28,9 @@ Du er nødt til å bli saksbehandler for å kunne godkjenne eller behandle søkn
 
 Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
 
-Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avvise en søknad uten å gjøre noe først. Skal du derimot godkjenne en søknad må du utføre noen handlinger. Det første som må til er at du under *Når?* må velge hvilken type tildeling dette skal være. Du kan velge mellom tildeling, intern tildeling og arrangement (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot type tildeling. Når denne informasjonen er fylt ut vil man kunne klikke
+Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avvise en søknad uten å gjøre noe først. Skal du derimot godkjenne en søknad må du utføre noen handlinger.
+
+Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement, eventuelt interntildeling (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot type tildeling. Når denne informasjonen er fylt ut vil man kunne klikke
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/send.png).
 Siden vil da friske seg opp og informasjonen er lagret. Du kan da klikke 
 ![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png). for å komme tilbake til hovedoversikten over tildelingen du ga til søknaden. 
@@ -36,7 +38,7 @@ Siden vil da friske seg opp og informasjonen er lagret. Du kan da klikke
 Før en søknadsbehandlig ferdigstilles må saksbehandler sjekke at følgende punkter er ivaretatt: 
 **Sjekkliste:**
 1. Det må være ledige ressurser i kalenderen i Aktivkommune.
-2. Søkerend organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilfelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
+2. Søkerens organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilfelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
 Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
 3. Du må se at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
 4. Pris kal være i henhold til prisliste og målgruppe. Derfor saksbehandler avviker fra dette, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Davil feltet "Kommentar til ny pris" dukke opp. 
