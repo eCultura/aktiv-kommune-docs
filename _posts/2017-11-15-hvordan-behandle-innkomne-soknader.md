@@ -49,7 +49,7 @@ Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjenne
 Laveste nivå er «Ressurser»
 Ressurser kan bookes etter følgende prioritet:
 -- Tildeling (allocation)
--- Booking (booking)
+-- Interntildeling
 -- Arrangement (event)
 
 Forklaring:
@@ -57,8 +57,8 @@ Tildeling er laveste nivå – og kan for eksempel gis til et idrettslag for en 
 - vises som opptatt i kalenderen
 - kan ikke dobbelbookes.
 
-Booking legges oppå Tildelingen – og gjelder f.eks gruppe innenfor idrettslaget som har fått tildelingen.
-- vises fortsatt som opptatt, men nå med eier av bookingen som «bruker».
+Interntildeling legges oppå Tildelingen – og gjelder for eksempel en gruppe innenfor idrettslaget som har fått tildelingen.
+- vises fortsatt som opptatt, men nå med eier av tildelingen som «bruker».
 - kan ikke dobbelbookes.
 
 Arrangement kan legges over en tildeling/booking – og vil «vinne» plassen i kalenderen
