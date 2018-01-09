@@ -32,10 +32,7 @@ Under "loggfil" kan du klikke på "last ned" og lagre filen som et dokument i en
 
 Klikk så "last opp" under "eksport". Filen legger seg da på en server hvor den vil bli hentet og overført til Agresso i løpet av en kjøring som finner sted om natten. 
 
-Send så mail med følgende tekst til følgende personer: 
-![mail](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/filoverforing.png)
-Filnavnet skrives slik det ser ut når det ligger på serveren. Antall og beløp finner man i Portico. 
-Tips: Legg inn forsinkelse på mailen (kl.12.00 påfølgende dag) slik at mottakerne ikke får denne før filen er overført til Agresso.
+Send så mail med fakturafil til de aktuelle personene i din kommune (fakturering/økonomi).
 
 Dersom alt er OK mottar du en mail fra LRS som bekrefter antall elementer og totalsummen som er overført. Innholdet i filen har nå fått ordrenummer som begynner på 3700(...). 
 Dersom det finnes feil i filen som er overført, vil den som har ansvar for genereringen motta en overikt over dette fra Agresso. Alle feil må korrigeres før filen blir fakturert i Agresso.
