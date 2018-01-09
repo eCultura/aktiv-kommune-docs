@@ -9,7 +9,7 @@ published: true
 post_date: 2017-11-11 15:27:56
 ---
 Prosesskart for nødvendige forberedelser for systemadministrator:
-![prosesskart](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-JPEG.jpg)
+![prosesskart]http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-før-oppstart-JPEG.jpg)
 
 ## Forberedelser
 Før du kan bruke AktivKommune må kommunen ha opprettet en driftsavtale med Stavanger kommune. Du kan trykke [her](#) for å fylle ut et skjema. Dette skjemaet sendes deretter til driftsansvarlig for godkjennelse. Når driftsavtalen er på plass vil systemansvarlig i din kommune motta en e-post med brukernavn og passord samt henvisning til denne siden.
