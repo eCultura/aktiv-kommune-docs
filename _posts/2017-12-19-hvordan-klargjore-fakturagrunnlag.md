@@ -22,7 +22,7 @@ Her skriver du inn bygg/anlegg (for eksempel Meyermarken), velger hvilken sesong
 
 Det kommer da opp en liste. Listen kan sorteres. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til sjekklisten under [Hvordan behandle innkomne søknader](http://manual.aktiv-kommune.no/?p=298).
 
-Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at toatalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i Aktivkommune. 
+Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at totalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i Aktivkommune. 
 Til orientering: En kunde som har leid en eller flere ressurser mer enn én gang i løpet av en måned vil kun motta én faktura. Dette vil være en samlefaktura som spesifiserer detaljene i leieforholdene. 
 
 Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt. Klikk så på «Eksport» en gang til.
