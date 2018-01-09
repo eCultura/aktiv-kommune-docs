@@ -20,7 +20,7 @@ Skjermbildet ser da slik ut:
 Her skriver du inn bygg/anlegg (for eksempel Meyermarken) og dato (siste dato i hver måned, for eksempel 31. mars), og klikker på 
 ![vis alle](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/visalle.png)
 
-Det kommer da opp en liste. Listen kan sorteres. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til sjekklisten under [Hvordan behandle innkomne søknader](http://manual.aktiv-kommune.no/?p=298).
+Det kommer da opp en liste. Listen kan sorteres, trykk her på pris slik at de med høyest pris kommer først på på listen. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert i henhold til sjekklisten under [Hvordan behandle innkomne søknader](http://manual.aktiv-kommune.no/?p=298).
 
 Før listen eksporteres må det lages en kopi av fakturagrunnlaget, gjerne ved å «ta et bilde» med Utklippsverktøyet. Videre må det også utføres en manuell sjekk for å kontrollere at totalbeløpet til fakturagrunnlaget stemmer overens med totalsummen som er generert i Aktivkommune. 
 Til orientering: En kunde som har leid en eller flere ressurser mer enn én gang i løpet av en måned vil kun motta én faktura. Dette vil være en samlefaktura som spesifiserer detaljene i leieforholdene. 
