@@ -26,7 +26,7 @@ Når alle filene fra kulturkontorene er klar, klikk på
 ![generer filer](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildegenererfiler.png)
 Filene vil nå samles i en fil og få tildelt et ID-nummer. 
 
-Under "logfil" kan du klikke på "last ned" og lagre filen som et dokument i en egen mappe på datamaskinen. Se skjermbilde for navn og forklaring på fil
+Under "loggfil" kan du klikke på "last ned" og lagre filen som et dokument i en egen mappe på datamaskinen. Se skjermbilde for navn og forklaring på fil
 ![skjermbilde fil navn og forklaring](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forklaringfildato.png)
 1502021 står for 15 = år, 02 = måned 02 = dag, er nummrering av antall filer, en kan sende flere filer på samme dag, og neste fil vil da måtte ha 2 til slutt.
 
