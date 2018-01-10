@@ -42,7 +42,7 @@ Før en søknadsbehandlig ferdigstilles må saksbehandler sjekke at følgende pu
 2. Søkerens organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilfelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
 Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
 3. Du må se at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
-4. Pris skal være i henhold til prisliste og målgruppe. Derfor saksbehandler avviker fra dette, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Da vil feltet "Kommentar til ny pris" dukke opp. 
+4. Pris skal være i henhold til prisliste og målgruppe. Om saksbehandler avviker fra prislisten og legger inn ny pris, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Da vil feltet "Kommentar til ny pris" dukke opp. 
 
 Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
