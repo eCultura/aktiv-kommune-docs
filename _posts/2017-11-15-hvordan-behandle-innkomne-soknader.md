@@ -8,7 +8,9 @@ permalink: http://manual.aktiv-kommune.no/?p=298
 published: true
 post_date: 2017-11-15 12:29:50
 ---
-Prosesskart for behandligen av søknader finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf.pdf)
+Prosesskart for behandligen av søknader som er korttidsleie eller arrangement finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf.pdf)
+
+Prosesskart for behandling av søknader som er en tildeling eller sesong finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-Tildelinger-PDF.pdf)
 
 # Søknadsbehandling
 Saksbehandlere må daglig inn i Aktivkommune for å sjekke om det har kommet inn søknader om å leie de respektive bygg/anlegg vedkommende har ansvar for. 
