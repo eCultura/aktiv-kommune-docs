@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=298
 published: true
 post_date: 2017-11-15 12:29:50
 ---
-Prosesskart for behandligen av søknader som er korttidsleie eller arrangement finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf.pdf)
+Prosesskart for behandligen av søknader som er korttidsleie eller arrangement finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf-1.pdf)
 
 Prosesskart for behandling av søknader som er en tildeling eller sesong finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-søknadsprosess-langtidsleiesesong-nivå-1-PDF.pdf)
 
