@@ -66,24 +66,3 @@ Interntildeling legges oppå Tildelingen – og gjelder for eksempel en gruppe i
 - kan ikke dobbelbookes.
 
 Arrangement kan legges over en tildeling/interntildeling– og vil overta plassen i kalenderen.
-
-Ressurser kan organiseres i ressurs-pooler.
-Eksempelvis:
-Haller, baner, kontorer er organisert i «bygg/anlegg»
-En ressurs kan teoretisk inngå i flere ressurs-pooler.
-
-## Aktiviteter
-Ressursene er knyttet til Aktiviteter.
-Aktiviteter er organisert hierarkisk med topp-nivåer som f.eks «Idrett», «Kultur», osv
-Hvert toppnivå kan ha en videre forgrening av underkategorier.
-Ressursene kan knyttes til flere toppnivåer – og ha ulike egenskaper pr toppnivå.
-Målgrupper og deltakerstatistikk er også i søknaden differensiert pr toppnivå.
-Kalender
-
-Kalenderen vises pr ressurs, og kan vises i to nivåer:
-1) pr ressurs
-- Når en viser kalender for en ressurs, vil det fremgå hva som er ledig tid.
-2) pr ressurs-pool («Bygg/Anlegg»)
-- vises bare for ressurser som har innslag i kalenderen.
--- ledig tid vises for ressurser som også er «opptatt» innenfor tidsrammen i kalenderen
--- ressurser som er helt ledig, vises ikke på dette nivået.
