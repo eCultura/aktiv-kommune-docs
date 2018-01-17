@@ -53,22 +53,21 @@ Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjenne
 
 ## Ressurser
 
-Laveste nivå er «Ressurser»
-Ressurser kan bookes etter følgende prioritet:
--- Tildeling (allocation)
--- Interntildeling
--- Arrangement (event)
+En ressurs kan bookes på to måter:
+1. Arrangement.
+2. Tildeling.
 
 Forklaring:
 Tildeling er laveste nivå – og kan for eksempel gis til et idrettslag for en sesong.
-- vises som opptatt i kalenderen
+- vises som opptatt i kalenderen.
 - kan ikke dobbelbookes.
+En tildeling kan splittes opp i flere interntildelinger om dette er ønskelig.
 
 Interntildeling legges oppå Tildelingen – og gjelder for eksempel en gruppe innenfor idrettslaget som har fått tildelingen.
 - vises fortsatt som opptatt, men nå med eier av tildelingen som «bruker».
 - kan ikke dobbelbookes.
 
-Arrangement kan legges over en tildeling/booking – og vil «vinne» plassen i kalenderen
+Arrangement kan legges over en tildeling/interntildeling– og vil overta plassen i kalenderen.
 
 Ressurser kan organiseres i ressurs-pooler.
 Eksempelvis:
