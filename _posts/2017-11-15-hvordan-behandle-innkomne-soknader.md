@@ -30,12 +30,10 @@ Dette vil sende deg ned til bunnen av siden hvor du må klikke på
 ![bli saksbehandler knapp](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/blisaksbehandlerknapp.png)
 Du er nødt til å bli saksbehandler for å kunne godkjenne eller behandle søknaden. Når man er blitt saksbehandler kan man tildele passende ressurser for leieforholdet og sette leiepris. 
 
-Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og Aktiviteter nedenfor). 
-
 Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avslå en søknad uten å gjøre noe først. 
 
 Skal du derimot godkjenne en søknad, må du utføre noen handlinger.
-Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot velget ditt. Når denne informasjonen er fylt ut vil man kunne klikke:
+Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement (se forklaring under *Booking av ressurser* nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot velget ditt. Når denne informasjonen er fylt ut vil man kunne klikke:
 ![Godkjenn](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/godkjenn.png) som lagrer endringene du har gjort og sender deg tilbake til søknaden,
 ![tilbake](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/tilbake.png) som tar deg tilbake til søknaden, eller
 ![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png) som avbryter prosessen og tar deg tilbake til hovedsiden for arrangementer eller tildelinger.
@@ -51,7 +49,7 @@ Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummere
 Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
 
-## Ressurser
+## Booking av Ressurser
 
 En ressurs kan bookes på to måter:
 1. Arrangement.
