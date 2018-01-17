@@ -17,7 +17,7 @@ For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du 
 ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING
 
 Skjermbildet ser da slik ut: 
-![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendom.png)
+![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png)
 
 Her ifra velger du GATE, OMRÅDE eller BYDEL avhengig av hva du ønsker å registrere. 
 
