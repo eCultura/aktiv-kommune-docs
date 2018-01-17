@@ -19,7 +19,7 @@ ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING
 Skjermbildet ser da slik ut: 
 ![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png)
 
-Her ifra velger du GATE, OMRÅDE eller BYDEL avhengig av hva du ønsker å registrere. 
+Her ifra velger du GATE, OMRÅDE (/kommunenavn) eller BYDEL(/geografisk område/poststed) avhengig av hva du ønsker å registrere. 
 
 I dette eksempelet valgte vi bydel:
 
