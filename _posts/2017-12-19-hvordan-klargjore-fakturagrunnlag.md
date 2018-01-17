@@ -8,6 +8,8 @@ permalink: http://manual.aktiv-kommune.no/?p=571
 published: true
 post_date: 2017-12-19 12:20:33
 ---
+Prosesskart for faktureringsprosessen kan du se [her](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-faktureringsprosessen-nivå-1-PDF.pdf)
+
 Vi anbefaler at hvert enkelt bygg/anlegg faktureres hver måned.
 
 Spesifikt for Bergen: Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
