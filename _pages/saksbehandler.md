@@ -16,6 +16,8 @@ Du kan laste ned **Brukerveildning for saksbehandler og systemadministrator** [h
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan behandle søknader? / Om søknadsprosessen
+Prosesskart for søknadsprosessen kan du e [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-søknadsprosessen-nivå-1-PDF.pdf)
+
 [display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan fakturere? / Om faktureringsprosessen
