@@ -31,10 +31,10 @@ Det er flere måter å tildele ressurser på (se beskrivelse under Ressurser og 
 Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avslå en søknad uten å gjøre noe først. 
 
 Skal du derimot godkjenne en søknad, må du utføre noen handlinger.
-Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement, eventuelt interntildeling (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot type tildeling. Når denne informasjonen er fylt ut vil man kunne klikke
-![send](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/send.png).
-Siden vil da friske seg opp og informasjonen er lagret. Du kan da klikke 
-![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png). for å komme tilbake til hovedoversikten over tildelingen du ga til søknaden. 
+Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement (se forklaring under Ressurser nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot velget ditt. Når denne informasjonen er fylt ut vil man kunne klikke:
+![Godkjenn](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/godkjenn.png) som lagrer endringene du har gjort og sender deg tilbake til søknaden,
+![tilbake](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/tilbake.png) som tar deg tilbake til søknaden, eller
+![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png) som avbryter prosessen og tar deg tilbake til hovedsiden for arrangementer eller tildelinger.
 
 Før en søknadsbehandlig ferdigstilles må saksbehandler sjekke at følgende punkter er ivaretatt: 
 **Sjekkliste:**
