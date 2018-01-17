@@ -61,17 +61,17 @@ På det nye skjermbildet vil det i bunnen ligge tre knapper med valgene:
 Ressursene er knyttet til Aktiviteter.
 Aktiviteter er organisert hierarkisk med topp-nivåer som f.eks «Idrett», «Kultur», osv
 Hvert toppnivå kan ha en videre forgrening av underkategorier.
-Ressursene kan knyttes til flere toppnivåer – og ha ulike egenskaper pr toppnivå.
-Målgrupper og deltakerstatistikk er også i søknaden differensiert pr toppnivå.
-Kalender
+Ressursene kan knyttes til flere toppnivåer – og ha ulike egenskaper per toppnivå.
+Målgrupper og deltakerstatistikk er også i søknaden differensiert per toppnivå.
 
-Kalenderen vises pr ressurs, og kan vises i to nivåer:
-1) pr ressurs
+## Kalender
+Kalenderen vises per ressurs, og kan vises i to nivåer:
+1) Per ressurs
 - Når en viser kalender for en ressurs, vil det fremgå hva som er ledig tid.
-2) pr ressurs-pool («Bygg/Anlegg»)
-- vises bare for ressurser som har innslag i kalenderen.
--- ledig tid vises for ressurser som også er «opptatt» innenfor tidsrammen i kalenderen
--- ressurser som er helt ledig, vises ikke på dette nivået.
+2) Per ressurs-pool («Bygg/Anlegg»)
+-  Kalenderen viser bare ressurser som er booket.
+-- Ledig tid vises for ressurser som også er «opptatt» innenfor tidsrammen i kalenderen.
+-- Ressurser som er helt ledig, vises ikke på dette nivået.
 
 
 Når man har opprettet ressurs så er neste steg å opprette [sesong og rammetid](http://manual.aktiv-kommune.no/?p=502) for å definere når ressursene er tilgjengelig for utleie/lån.
