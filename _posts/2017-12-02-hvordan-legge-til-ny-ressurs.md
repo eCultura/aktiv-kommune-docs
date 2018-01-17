@@ -18,6 +18,7 @@ En ressurs kan være:
 1. en del av et bygg, som f.eks. en hall, eller garderobe, eller 
 2. en del av et uteområde, f.eks. en park, en fotballbane, eller
 3. utstyr som kan leies/lånes ut, f.eks. AV-utstyr, håndballmål, kano
+En ressurs kan teoretisk inngå i flere ressurs-pooler.
 
 Ressursene kan leies ut hver for seg eller samlet.
 
@@ -55,11 +56,6 @@ På det nye skjermbildet vil det i bunnen ligge tre knapper med valgene:
 
 Ønsker du å gå tilbake til hovedsiden for ressurser, for å legge til enda en ny ressurs eller avslutte redigeringen av ressursen klikker du på:
 ![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png)
-
-Ressurser kan organiseres i ressurs-pooler.
-Eksempelvis:
-Haller, baner, kontorer er organisert i «bygg/anlegg»
-En ressurs kan teoretisk inngå i flere ressurs-pooler.
 
 ## Aktiviteter
 Ressursene er knyttet til Aktiviteter.
