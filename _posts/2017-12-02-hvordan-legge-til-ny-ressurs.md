@@ -33,7 +33,7 @@ For å opprette ny ressurs klikker du på
 
 ### Fyll ut informasjonen om ressurs: 
 **Navn:** Navn på ressurs.
-**Sortering:** ????????????????????????????
+**Sortering:** Ikke i bruk.
 **Bygg/anlegg:** Bygg/anlegg ressursen skal knyttes til. Bygg/anlegg må legges til før man legger til ressurs.For å legge til nytt bygg/anlegg se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg er lagt inn. 
 **Type ressurs:** Velg hvilken ressurs type du legger til fra nedtrekksmenyen.
 **Skildring:** Beskrivelse av ressursen.
@@ -56,6 +56,26 @@ På det nye skjermbildet vil det i bunnen ligge tre knapper med valgene:
 Ønsker du å gå tilbake til hovedsiden for ressurser, for å legge til enda en ny ressurs eller avslutte redigeringen av ressursen klikker du på:
 ![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png)
 
+Ressurser kan organiseres i ressurs-pooler.
+Eksempelvis:
+Haller, baner, kontorer er organisert i «bygg/anlegg»
+En ressurs kan teoretisk inngå i flere ressurs-pooler.
+
+## Aktiviteter
+Ressursene er knyttet til Aktiviteter.
+Aktiviteter er organisert hierarkisk med topp-nivåer som f.eks «Idrett», «Kultur», osv
+Hvert toppnivå kan ha en videre forgrening av underkategorier.
+Ressursene kan knyttes til flere toppnivåer – og ha ulike egenskaper pr toppnivå.
+Målgrupper og deltakerstatistikk er også i søknaden differensiert pr toppnivå.
+Kalender
+
+Kalenderen vises pr ressurs, og kan vises i to nivåer:
+1) pr ressurs
+- Når en viser kalender for en ressurs, vil det fremgå hva som er ledig tid.
+2) pr ressurs-pool («Bygg/Anlegg»)
+- vises bare for ressurser som har innslag i kalenderen.
+-- ledig tid vises for ressurser som også er «opptatt» innenfor tidsrammen i kalenderen
+-- ressurser som er helt ledig, vises ikke på dette nivået.
 
 
 Når man har opprettet ressurs så er neste steg å opprette [sesong og rammetid](http://manual.aktiv-kommune.no/?p=502) for å definere når ressursene er tilgjengelig for utleie/lån.
