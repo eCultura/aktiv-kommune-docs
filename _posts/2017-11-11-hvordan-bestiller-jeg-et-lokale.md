@@ -19,8 +19,8 @@ Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet d
 ![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forstorrelsesglass.png)
 
 Ønsker du et mer filtrert søk klikker du på 
-![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avansertsok.png) 
-Du vil så få muligheten til å sortere på bydel og hovedkategori, i tillegg til å sortere treffene dine. 
+![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
+Du vil så få muligheten til å sortere på område og hovedkategori, i tillegg til å sortere treffene dine. 
 Når du har haket av for det du ønsker klikker du på
 ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
 
