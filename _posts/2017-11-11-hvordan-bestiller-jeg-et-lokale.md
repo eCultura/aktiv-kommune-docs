@@ -15,7 +15,7 @@ Når du ønsker å leie et lokale eller utstyr så går du til [Aktivkommune](ht
 Skjembildet ser da slik ut:
 ![Forsidebilde](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/skjermbildefrontend.png)
 
-Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du enter eller klikker på 
+Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du *enter* eller klikker på 
 ![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forstorrelsesglass.png)
 
 Ønsker du et mer filtrert søk klikker du på 
