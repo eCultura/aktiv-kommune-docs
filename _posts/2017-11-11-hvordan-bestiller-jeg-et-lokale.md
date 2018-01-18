@@ -16,7 +16,7 @@ Skjembildet ser da omtrentlig slik ut:
 ![Forsidebilde](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/skjermbildefrontend.png)
 
 Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du *enter* eller klikker på 
-![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/forstorrelsesglass.png)
+![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/forstorrelsesglass.png)
 
 Ønsker du et mer filtrert søk klikker du på 
 ![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
