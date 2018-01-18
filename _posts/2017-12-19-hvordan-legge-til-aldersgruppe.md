@@ -25,7 +25,7 @@ For å lage ny aldersgruppe klikker du på
 ### Fyll ut informasjonen om aldersgruppe: 
 **Aktiviteter:** Velg aktivitet aldersgruppen skal gjelde for.
 **Navn:** Navn på aldersgruppen.
-**Sortering:** ???????
+**Sortering:** Ikke i bruk.
 **Skildring:** Beskrivelse på aldersgruppen.
 
 Når du er ferdig klikker du på 
