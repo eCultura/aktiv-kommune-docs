@@ -49,4 +49,4 @@ Du vil så bli tatt til søknaden og må fylle ut et skjema:
 Når søknaden er ferdig utfylt sender du den ved å klikke på 
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
 
-Du vil så få et nytt skjermbildet med oppsummering av søknaden din. Du får også tilsendt en mail som bekrefter at søknaden er sendt, og hvor det ligger en link som du kan følge søknadsfremgangen din på.
+Du vil så få et nytt skjermbildet med oppsummering av søknaden din. Du får også tilsendt en mail som bekrefter at søknaden er sendt, og hvor det ligger en link som du kan følge søknadsprosessen din via.
