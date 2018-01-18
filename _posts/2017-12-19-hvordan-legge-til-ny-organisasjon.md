@@ -29,7 +29,7 @@ Klikk på
 
 ### Fyll ut informasjonen om organisasjonen:
 **Organisasjon:** Her fylles inn navn på organisasjonen.
-**Kortnavn:** Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
+**Kortnavn (til organisasjon):** Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
 **Organisasjonsnummer:** (9 siffer)
 **Hjemmeside:** Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
 **Telefon:** Telefonnummer til kontaktperson i organisasjonen.
@@ -41,12 +41,11 @@ Klikk på
 **Gate:** Organisasjonens adresse.
 **Postnummer:** Organisasjonens postnummer.
 **Poststed:** Organisasjonens poststed.
-**Bydel:** Organisasjonens bydel.
+**Område/Bydel:** Organisasjonens bydel.
 **Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
 **Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
 Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
-
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
 Legg tilslutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
