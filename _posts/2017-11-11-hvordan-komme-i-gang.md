@@ -22,7 +22,7 @@ Brukernavn og passord vil du motta på mail fra systemansvarlig når driftsavtal
 Disse endringene gjøres under: 
  ADMINISTRASJON => ADMIN => GLOBAL KONFIGURASJON 
 - Angi tittel for nettstedet:
-På det nye skjermbildet finner du *Utseende*, og deretter kan du skrive inn ønsket navn under *Angi tittel for nettstedet:*
+På det nye skjermbildet finner du *Utseende*, og deretter kan du skrive inn ønsket navn under *Angi tittel for nettstedet*
 - Angi url for logo: 
 eks.: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
 Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen) 
