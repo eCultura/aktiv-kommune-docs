@@ -31,7 +31,7 @@ For å registrere et nytt bygg klikker du på
 ## Fyll informasjon om bygning: 
 **Endringstype:** Velg *Nye verdier* fra nedtrekksmenyen.
 **Eiendom:** klikk på ruten og du får opp forslag til lokasjonskoder, velg en.
-**Bygning:** Type bygning (For eksempel: Idrettsanlegg).
+**Bygning:** Nummer på bygning. Dette er et løpende nummer.
 **Navn:** Navn på bygningen (For eksempel: Sandslihallen)
 **Kategori:** Legg inn rett kategori eller klikk [her](https://manual.aktiv-kommune.no/?p=700) for å legge inn Kategorier.
 **Adresse:** Legg inn adressen til bygget.
