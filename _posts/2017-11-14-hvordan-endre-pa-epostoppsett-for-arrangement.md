@@ -12,7 +12,7 @@ post_date: 2017-11-14 11:28:43
 ---
 Du kan endre på e-postinnstillinger for arrangement under 
 
-ADMINISTRASJON => BOOKING => INNSTILLINGER => ARRANGEMENT E-POST OPPSETT
+BOOKING => INNSTILLINGER => ARRANGEMENT E-POST OPPSETT
 
 Fyll inn de innstillingene du ønsker skal være i e-postene for arrangementer.
 
