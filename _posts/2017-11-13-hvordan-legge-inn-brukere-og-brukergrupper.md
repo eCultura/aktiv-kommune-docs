@@ -8,7 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
-post_date: 2017-11-14 10:28:21
+post_date: 2017-11-13 10:28:21
 ---
 Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere, endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
 
@@ -51,4 +51,4 @@ I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere eg
 ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
 
 
-Neste steg er [å opprette en bygning](https://manual.aktiv-kommune.no/?p=321)
+Neste steg er [å opprette en kommune](https://manual.aktiv-kommune.no/?p=291)
