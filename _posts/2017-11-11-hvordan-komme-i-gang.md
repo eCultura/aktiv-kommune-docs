@@ -25,4 +25,4 @@ Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommune
 - Epost brukerstøtte:
 	eks.: informasjon@fjell.kommune.no
 
-Neste trinn er å legge inn [kommuner og bydeler](https://manual.aktiv-kommune.no/?p=291).
+Neste trinn er å legge inn [brukere og brukergrupper](https://manual.aktiv-kommune.no/?p=267).
