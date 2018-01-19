@@ -12,7 +12,6 @@ published: true
 post_date: 2017-11-11 19:01:07
 ---
 **Viktig!** Før du tar i bruk AktivKommune som systemadministrator må du lese Brukerveiledningen.
-Du kan laste ned **Brukerveildning for saksbehandler og systemadministratorer** [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/brukerveiledning_administratorer_saksbehandlere_v_1-3.pdf).
 
 Prosesskart for nødvendige forbredelser en systemadministrator må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-1.pdf)
 
