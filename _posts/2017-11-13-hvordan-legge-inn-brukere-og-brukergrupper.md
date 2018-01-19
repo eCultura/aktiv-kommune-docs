@@ -51,4 +51,4 @@ I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere eg
 ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
 
 
-Neste steg er [å opprette en kommune](https://manual.aktiv-kommune.no/?p=291)
+Neste steg er [å opprette en kommune.](https://manual.aktiv-kommune.no/?p=291)
