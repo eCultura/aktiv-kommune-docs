@@ -17,7 +17,8 @@ Før du kan bruke AktivKommune må kommunen ha opprettet en driftsavtale med Sta
 Hver kommune må ha en systemansvarlig eller sørge for at en person som er ansatt hos en samarbeidspartner/ekstern bedrift, blir tildelt denne rollen. En systemansvarlig, i denne sammenheng, er en person med generell god digital kompetanse, eller person som evner å forstå og utføre veiledningen under.
 
 ## Logg på Aktiv kommune
-- Brukernavn og passord vil du motta på mail fra systemansvarlig når driftsavtale er inngått. 
+Brukernavn og passord vil du motta på mail fra systemansvarlig når driftsavtale er inngått. 
+
 Disse endringene gjøres under: 
  ADMINISTRASJON => ADMIN => GLOBAL KONFIGURASJON 
 - Angi tittel for nettstedet:
