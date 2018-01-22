@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=700
 published: true
-post_date: 2017-12-28 11:01:42
+post_date: 2017-12-01 15:01:42
 ---
 For å legge til en ny kategori går du til
 
