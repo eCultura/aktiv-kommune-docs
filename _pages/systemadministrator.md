@@ -13,7 +13,7 @@ post_date: 2017-11-11 19:01:07
 ---
 **Viktig!** Før du tar i bruk AktivKommune som systemadministrator må du lese Brukerveiledningen.
 
-Prosesskart for nødvendige forbredelser en systemadministrator må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-2.pdf)
+Prosesskart for nødvendige forbredelser en systemadministrator må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-3.pdf)
 
 ## Nødvendige forberedelser før systemet kan brukes 
 [display-posts category="forberedelser-for-systemet-kan-brukes" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
