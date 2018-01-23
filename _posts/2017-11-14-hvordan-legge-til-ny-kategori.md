@@ -10,7 +10,7 @@ post_date: 2017-11-14 10:01:42
 ---
 For å legge til en ny kategori går du til
 
-ADMINISTRASJON => EIENDOM => ADMINISTER LOKALISERING => LOKALISERINGSTYPE => KATEGORIER
+ADMINISTRASJON => EIENDOM => ADMINISTER LOKALISERING => LOKALISERINGSTYPE => RESSURSGRUPPE KATEGORIER
 
 Skjermbildet ser da slik ut:
 ![skjermbilde kategori](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/kategorier.png)
