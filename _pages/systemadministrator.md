@@ -18,6 +18,8 @@ Prosesskart for nødvendige forbredelser en systemadministrator må gjøre før 
 ## Nødvendige forberedelser før systemet kan brukes 
 [display-posts category="forberedelser-for-systemet-kan-brukes" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
+Når punktene er utført så må man gå til brukerveiledningen for saksbehandler og fullføre denne før systemet kan tas helt i bruk.
+
 
 ## Generelt
 [display-posts category="generelt-systemadministrator" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
