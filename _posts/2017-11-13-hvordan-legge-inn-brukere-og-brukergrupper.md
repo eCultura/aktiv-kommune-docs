@@ -27,7 +27,7 @@ For å legge til ny bruker klikker du på
 
 ### Fyll ut informasjonen om brukeren under fanen brukerdata:
 **Aktiver bruker:** Hak av om brukeren skal være aktiv.
-**LoginID:** Brukernavnet som brukeren logger seg inn med.
+**Brukernavn:** Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker e-post adressen som brukernavn.
 **Fornavn:** Fornavn på brukeren
 **Etternavn:** Etternavn på brukeren.
 **Passord:** Passord brukerens skal bruke når han/hun logger inn på siden.
