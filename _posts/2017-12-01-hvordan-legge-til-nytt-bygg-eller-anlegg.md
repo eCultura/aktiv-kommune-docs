@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=166
 published: true
 post_date: 2017-12-01 15:53:35
 ---
-Filmen viser i korte trekk hvordan du legger til nytt bygg eller anlegg. For mer utdypet informasjon les teksten under.
+Filmen viser i korte trekk hvordan du legger til ny ressursgruppe (nytt bygg/anlegg). For mer utdypet informasjon les teksten under.
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nytt-bygg-eller-anlegg.mp4
 
 Bygg og anlegg må opprettes i systemet før man kan opprette tildelinger. For å opprette et nytt bygg/anlegg går du til
@@ -23,8 +23,8 @@ Du får da opp dette skjermbilde:
 For å opprette nytt bygg/anlegg klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-### Fyll ut informasjonen om bygg/anlegg:
-**Bygg/anlegg:** Navn på bygg/anlegg.
+### Fyll ut informasjonen om bygg/anlegg (ressursgruppa):
+**Bygg/anlegg:** Navn på bygg/anlegg (ressursgruppa). DET ER DETTE NAVNET SOM BLIR SØKBART I BOOKINGFRONTEND!
 **Aktiviteter:** Hovedaktivitet som utføres på bygg/anlegg.
 **Telefon:** Telefonnummer til bygg/anlegg.
 **E-post:** E-post til bygg/anlegg.
