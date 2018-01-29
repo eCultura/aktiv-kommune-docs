@@ -33,9 +33,9 @@ For å opprette ny ressurs klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om ressurs: 
-**Navn:** Navn på ressurs.
+**Navn:** Navn på ressurs. NB! DET ER DETTE SOM BLIR SØKBART (?) og VISES I BOOKINGFRONTEND
 **Sortering:** Ikke i bruk.
-**Bygg/anlegg:** Bygg/anlegg ressursen skal knyttes til. Bygg/anlegg må legges til før man legger til ressurs.For å legge til nytt bygg/anlegg se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg er lagt inn. 
+**Bygg/anlegg:** Bygg/anlegg (RESSURAGRUPPENO som ressursen skal knyttes til. Bygg/anlegg (Ressursgruppe) må legges til før man legger til ressurs.For å legge til ny ressursgruppe (nytt bygg/anlegg) se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg (ressursgruppe) er lagt inn. 
 **Type ressurs:** Velg hvilken ressurs type du legger til fra nedtrekksmenyen.
 **Skildring:** Beskrivelse av ressursen.
 **Organisasjons ID-er:** Her kan du legge inn en komma separert liste med organisasjons ID-er som vil få epost dersom noen avbestiller denne ressursen. 
