@@ -1,8 +1,8 @@
 ---
 ID: 166
 post_title: >
-  Hvordan legge til nytt bygg eller
-  anlegg?
+  Hvordan legge til ny ressursgruppe (nytt
+  bygg eller anlegg)?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
