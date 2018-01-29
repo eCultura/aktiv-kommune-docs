@@ -24,7 +24,7 @@ For å opprette nytt bygg/anlegg klikk på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om bygg/anlegg (ressursgruppa):
-**Bygg/anlegg:** Navn på bygg/anlegg (ressursgruppa). DET ER DETTE NAVNET SOM BLIR SØKBART I BOOKINGFRONTEND!
+**Bygg/anlegg:** Navn på bygg/anlegg (ressursgruppa). NB! DET ER DETTE NAVNET SOM BLIR SØKBART I BOOKINGFRONTEND!
 **Aktiviteter:** Hovedaktivitet som utføres på bygg/anlegg.
 **Telefon:** Telefonnummer til bygg/anlegg.
 **E-post:** E-post til bygg/anlegg.
