@@ -19,7 +19,7 @@ For å opprette ny eller endre eksisterende brukerer går du til
 ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE 
 
 Skjermbildet ser da slik ut: 
-![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/administer.png)
+![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
 Her kan du endre eller slette eksisterende brukere. 
 For å legge til ny bruker klikker du på
