@@ -19,7 +19,7 @@ Skjermbildet ser da slik ut:
 
 Endringene som gjøres her påvirker frontend.
 
-Gjør de endringene du ønsker å utføre.
+Det er lagt inn standardiserte forkaringer, men du kan gjøre de endringene du ønsker å utføre.
 
 ## Fyll ut feltene for oppsettet for søknader:
 **Ny søknad:** Denne teksten kommer i toppen av starten på søknaden i frontend. 
