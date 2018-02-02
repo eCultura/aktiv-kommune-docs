@@ -13,7 +13,7 @@ post_date: 2017-12-19 20:18:07
 Filmen viser i korte trekk hvordan du legger inn et nytt lag eller en organisasjon. For mer utdypet informasjon les teksten under.
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/ny-organisasjon-eller-lag.mp4
 
-For å legge inn nytt lag eller organisasjon trenger du <em>Organisasjonsnummer</em>.
+For å legge inn nytt lag eller organisasjon trenger du <em>organisasjonsnummer</em>.
 
 Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysundregisterne</a>.
 
@@ -21,7 +21,7 @@ Når du har organisasjonsnummeret, er prosedyren slik:
 
 BOOKING => ORGANISASJONER 
 
-Skjermbildet ser da slik ut; 
+Skjermbildet ser da slik ut:
 ![skjermbilde ny organisasjon](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org.png)
 
 Klikk på
@@ -41,7 +41,7 @@ Klikk på
 **Gate:** Organisasjonens adresse.
 **Postnummer:** Organisasjonens postnummer.
 **Poststed:** Organisasjonens poststed.
-**Område/Bydel:** Organisasjonens bydel.
+**Område/bydel:** Organisasjonens bydel.
 **Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
 
 **Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
