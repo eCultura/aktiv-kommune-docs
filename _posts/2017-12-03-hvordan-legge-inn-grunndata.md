@@ -29,7 +29,7 @@ Deretter velger du
 
 ### Fyll ut informasjon om aktiviteten:
 
-**Aktiviteter:** Hvilken aktivitet er det?
+**Aktiviteter:** Hvilken aktivitet det er.
 **Beskrivelse:** Beskrivelse av aktiviteten.
 **Overordnet kategori:** Hvis aktiviteten din er en underkategori av en annen aktivitet så kan du her knytte aktiviteten opp mot hovedaktiviteten. Eks: Teater kan være en aktivitet som er underordnet kultur. 
 
