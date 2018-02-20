@@ -22,7 +22,7 @@ For å opprette ny målgruppe klikker du på
 ### Fyll ut informasjonen om målgruppen:
 **Aktiviteter:** Velg i nedtrekksmenyen hvilken aktivitet du ønsker å knytte målgruppen til.
 **Målgruppe:** Navn på målgruppe.
-**Sortering:** Ikke i bruk
+**Sortering:** Ikke i bruk.
 **Beskrivelse:** Beskrivelse av målgruppen. Eks: Barn fra 0 til og med 16 år. 
 
 Når du er ferdig klikker du på 
