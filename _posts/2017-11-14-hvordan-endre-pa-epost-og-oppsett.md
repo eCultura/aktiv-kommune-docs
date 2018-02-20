@@ -17,7 +17,7 @@ Du finner oppsett for epost til saksbehandler under
 ADMINISTRASJON => BOOKING => INNSTILLINGER => E-post oppsett
 
 Skjermbildet ser da slik ut: 
-![skjermbildet epost](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildeepost.png) 
+![skjermbildet epost](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/Skjermbilde23.png) 
 
 Gjør de ønskede endringene. 
 
