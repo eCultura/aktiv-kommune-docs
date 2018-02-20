@@ -38,7 +38,7 @@ For å opprette ny ressurs klikker du på
 **Bygg/anlegg:** Bygg/anlegg (RESSURSGRUPPEN) som ressursen skal knyttes til. Bygg/anlegg (Ressursgruppe) må legges til før man legger til ressurs. For å legge til ny ressursgruppe (nytt bygg/anlegg) se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg (ressursgruppe) er lagt inn. 
 **Type:** Velg hvilken ressurstype du legger til fra nedtrekksmenyen.
 **Beskrivelse:** Beskrivelse av ressursen.
-**Organisasjons ID-er:** Her kan du legge inn en komma separert liste med organisasjons ID-er som vil få epost dersom noen avbestiller denne ressursen. 
+**Organisasjons ID-er:** Her kan du legge inn en komma separert liste med organisasjons ID-er som vil få e-post dersom noen avbestiller denne ressursen. 
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
