@@ -14,7 +14,7 @@ Både systemadministrator og saksbehandler kan endre på e-postinnstillingene ti
 
 Du finner oppsett for epost til saksbehandler under 
 
-ADMINISTRASJON => BOOKING => INNSTILLINGER 
+ADMINISTRASJON => BOOKING => INNSTILLINGER => E-post oppsett
 
 Skjermbildet ser da slik ut: 
 ![skjermbildet epost](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildeepost.png) 
