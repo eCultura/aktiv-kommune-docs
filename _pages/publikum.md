@@ -1,6 +1,6 @@
 ---
 ID: 112
-post_title: Spørsmål og Svar – Publikum
+post_title: Spørsmål og Svar – Innbygger
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
