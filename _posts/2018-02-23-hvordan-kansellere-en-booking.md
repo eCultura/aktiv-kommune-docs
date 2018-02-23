@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=958
 published: true
 post_date: 2018-02-23 13:30:29
 ---
-Av ulike grunner kan du som innbygger ha behov for å kansellere en booking du har bestilt. 
+Av ulike grunner kan du som innbygger ha behov for å kansellere en booking.
 
 Dette er ikke mulig å gjøre selv, men må gjøres gjennom en saksbehandler.
 
