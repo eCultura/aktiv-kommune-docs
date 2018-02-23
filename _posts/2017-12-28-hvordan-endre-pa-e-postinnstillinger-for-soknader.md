@@ -11,7 +11,7 @@ published: true
 post_date: 2017-12-28 12:56:11
 ---
 For å kunne sende e-post ut til innbyggere må du inn å endre på e-post innstillingene. 
-for å gjøre dette går du til:
+For å gjøre dette går du til:
 
 ADMINISTRASJON => ADMIN => BOOKING
 
