@@ -25,7 +25,7 @@ Når punktene er utført så må man gå til brukerveiledningen for saksbehandle
 [display-posts category="generelt-systemadministrator" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 
-## Hvordan legge inn og endre på epost-innstillingene? /Kontaktinformasjon og automatisk genererte svar
+## Hvordan legge inn og endre på e-postinnstillingene? /Kontaktinformasjon og automatisk genererte svar
 [display-posts category="Epostsvar" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 
