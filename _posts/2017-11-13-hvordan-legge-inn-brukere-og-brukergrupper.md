@@ -45,6 +45,7 @@ Under fanen *Applikasjoner* gir du tilgang til moduer og definerer hvorvidt bruk
 Når du har fylt inn den informasjonen som skal inn, klikker du på 
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
+Brukeren er da lagt til og du må klikke på *Avbryt* for å komme ut av skjermbildet. 
 
 ## Brukergrupper
 
