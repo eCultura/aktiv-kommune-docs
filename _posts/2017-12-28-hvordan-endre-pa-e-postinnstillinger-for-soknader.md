@@ -16,7 +16,7 @@ for å gjøre dette går du til:
 ADMINISTRASJON => ADMIN => BOOKING
 
 Skjermbildet ser da slik ut: 
-[Skjermbilde booking](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/skjermbildebooking.png)
+![Skjermbilde booking](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/skjermbildebooking.png)
 
 
 Du kan endre oppsettet for e-post svarene som sendes i forbindelse med en søknad. 
