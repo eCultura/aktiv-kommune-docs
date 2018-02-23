@@ -1,6 +1,6 @@
 ---
 ID: 942
-post_title: 'Spørsmål og svar &#8211; Lag og organisasjoner'
+post_title: Lag og organisasjoner
 author: reidar
 post_excerpt: ""
 layout: page
