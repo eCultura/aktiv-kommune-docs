@@ -12,7 +12,7 @@ Av ulike grunner kan du som innbygger ha behov for å kansellere en booking.
 
 Dette er ikke mulig å gjøre dette selv. Det må gjøres gjennom en saksbehandler.
 
-Det du gjør er å bruke en av linkene du fikk på e-post når du mottok bekreftelse på at søknaden er mottatt eller når du fikk bekreftelse på at bookingen er godkjent og at du har fått leie/låne bygg/anlegg eller ressurs. Når du klikker på linken blir du sendt til søknaden din. 
+Det du gjør er å bruke en av linkene du fikk på e-post når du mottok bekreftelse på at søknaden er mottatt, eller når du fikk bekreftelse på at bookingen er godkjent og at du har fått leie/låne bygg/anlegg eller ressurs. Når du klikker på linken blir du sendt til søknaden din. 
 
 I søknaden din legger du inn en kommentar om at du ønsker å kansellere bookingen din. Husk å lagre kommentaren. 
 
