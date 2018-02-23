@@ -21,7 +21,7 @@ Skjermbildet ser da slik ut:
 Under *Ekstern verts adresse* må du legge inn url for at e-post utsendring skal fungere. 
 
 Når du har gjort dette klikker du på 
-! [lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png)
+![lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png)
 
 
 Du kan også endre oppsettet for e-post svarene som sendes i forbindelse med en søknad. 
