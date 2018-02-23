@@ -32,5 +32,18 @@ BOOKING => INNSTILLINGER => E-POST OPPSETT
 
 Her gjør du de ønskede endringene eller legger inn de svarene du ønsker. 
 
+**System navn:** Navnet på systemet.
+**Tema:** Hva som vises som emne i e-post linjen. 
+**E-post tekst for søknad opprettet:** Teksten som sendes ut i e-post når en søknad har blitt opprettet. 
+**E-post tekst for søknad under behandling:** Teksten som sendes ut i e-post når en søknad er under behandling. 
+**E-post tekst for søknad akseptert:** Teksten som sendes ut i e-post når søknaden er akseptert.
+**Send kvittering til ansvarlig ved akseptert:** Hak av her om ansvarlig for søknaden skal ha e-post når søknaden er akseptert. 
+**E-post tekst for søknad avslått:** Teksten som sendes ut i e-post hvis søknaden blir avslått. 
+**Signatur:** Signaturen som kommer i bunnen av e-postene som sendes ut. 
+
+**Emne saksbehandler:** Hva som vises som emne hos saksbehandler. 
+**Tema:** Hva som vises som emne i e-post linjen. 
+**Ekstra e-post tekst for kommentar:** Ønsker man å tilføre ekstra kommentar så skrives det her. 
+
 Når du er ferdig klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
