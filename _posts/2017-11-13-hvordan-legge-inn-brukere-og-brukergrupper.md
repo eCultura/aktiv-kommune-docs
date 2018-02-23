@@ -1,8 +1,8 @@
 ---
 ID: 267
 post_title: >
-  Hvordan opprette brukere og
-  brukergrupper?
+  Hvordan opprette/endre/inaktivere
+  brukere og brukergrupper?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
