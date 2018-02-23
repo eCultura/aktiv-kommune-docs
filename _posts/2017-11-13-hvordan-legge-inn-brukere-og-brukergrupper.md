@@ -51,6 +51,13 @@ Brukeren er da lagt til og du må klikke på *Avbryt* for å komme ut av skjermb
 
 Brukere skal ikke slettes, men settes som inaktiv om de ikke lengre skal ha tilgang til systemet. For å gjøre dette går du til 
 
+ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE 
+
+Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet haker du vekk for *Bruker er aktiv* og klikker på 
+![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
+
+Brukeren er da inaktiv og har ikke lengre tilgang til systemet.
+
 ## Brukergrupper
 
 I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere egne tilganger på gruppenivå under: 
@@ -58,4 +65,4 @@ I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere eg
 ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
 
 
-Neste steg er [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
+Nete steg er [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
