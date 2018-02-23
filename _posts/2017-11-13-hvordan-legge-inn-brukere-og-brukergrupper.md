@@ -21,7 +21,7 @@ ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE
 Skjermbildet ser da slik ut: 
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
-Her kan du vise, endre eller slette eksisterende brukere. 
+Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. 
 
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
@@ -46,6 +46,10 @@ Når du har fylt inn den informasjonen som skal inn, klikker du på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
 Brukeren er da lagt til og du må klikke på *Avbryt* for å komme ut av skjermbildet. 
+
+## Inaktivering av bruker
+
+Brukere skal ikke slettes, men settes som inaktiv om de ikke lengre skal ha tilgang til systemet. For å gjøre dette går du til 
 
 ## Brukergrupper
 
