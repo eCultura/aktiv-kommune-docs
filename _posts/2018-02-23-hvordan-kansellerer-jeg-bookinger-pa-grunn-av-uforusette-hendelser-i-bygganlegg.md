@@ -23,4 +23,4 @@ Her klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 Her følger du søkeprosessen hvor du velger bygg/anlegg eller ressurs det gjelder. Når søknaden er sendt er det viktig at du husker å gå inn å godkjenne søknaden og gir den tildeling som arrangement, ellers vil det ikke overskrive eksisterende arrangementer og tildelinger. 
-Lurer du på hvordan du kjør dette kan du følge manualen for (Hvordan behandle innkomne søknader?] (https://manual.aktiv-kommune.no/?p=298)
+Lurer du på hvordan du kjør dette kan du følge manualen for [Hvordan behandle innkomne søknader?] (https://manual.aktiv-kommune.no/?p=298)
