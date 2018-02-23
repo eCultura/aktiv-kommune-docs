@@ -18,14 +18,17 @@ ADMINISTRASJON => ADMIN => BOOKING
 Skjermbildet ser da slik ut: 
 ![Skjermbilde booking] (http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/skjermbildebooking.png)
 
-![Skjermbilde booking] (http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/skjermbildebooking.png)
+Under *Ekstern verts adresse* må du legge inn url for at e-post utsendring skal fungere. 
+
+Når du har gjort dette klikker du på 
+! [lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png)
 
 
-Du kan endre oppsettet for e-post svarene som sendes i forbindelse med en søknad. 
+Du kan også endre oppsettet for e-post svarene som sendes i forbindelse med en søknad. 
 
 For å gjøre dette går du til
 
-BOOKING => INNSTILLINGER => E-POSTOPPSETT
+BOOKING => INNSTILLINGER => E-POST OPPSETT
 
 Her gjør du de ønskede endringene eller legger inn de svarene du ønsker. 
 
