@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 19:00:18
 ---
-**Viktig!** Før du tar i bruk Aktivkommune som sakbehandler må du lese Brukerveiledningen.
+**Viktig!** Før du tar i bruk Aktivkommune som sakbehandler må du lese brukerveiledningen.
 
 ## Hvordan komme i gang? / Nødvendige forberedelser
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
