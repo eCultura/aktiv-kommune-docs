@@ -22,5 +22,22 @@ BOOKING => SØKNADER
 Her klikker du på 
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-Her følger du søkeprosessen hvor du velger bygg/anlegg eller ressurs det gjelder. Når søknaden er sendt er det viktig at du husker å gå inn å godkjenne søknaden og gir den tildeling som arrangement, ellers vil det ikke overskrive eksisterende arrangementer og tildelinger. 
+Du vil så bli tatt til søknaden og må fylle ut skjemaet: 
+
+### Fyll ut informasjon til søknaden.
+**1. Hvorfor?** Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen.  Informasjon om arrangementet er det som vil vises i kalenderen, og du legger derfor her inn den innformasjonen du ønsker skal vises i kalendere. For eksempel: Stengt grunnet reparasjoner. 
+**2. Hvor mange?** Du må oppgi forventet deltakere for å få lov til å sende inn søknaden, selv om ingen skal delta på arrangementet. 
+**3. Hvor?** Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser som skal stenges eller ikke være tilgjengelig. 
+**4. Når?** Velg dato og klokkeslett for perioden hvor ressursen skal være stengt eller utilgjengelig. Du kan legge til flere datoer ved å klikke på *Legg til dato* .
+**5. Hvem?** Selv om ikke dette er et arrangement for deltakere må man velge en målgruppe for å kunne sende inn søknaden. 
+**6. Kontaktinformasjon** Selv om dette er ikke en bestilling på den vanlige måte så må man oppgi en kontaktperson for søknaden.
+**7. Ansvarlig søker/Fakturainformasjon** Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. 
+**8. Juridiske betingelser** Du må akseptere de juridiske betingelsene for å få lov til å sende inn søknaden.
+**9. Vedlegg** Hvis det er behov for å legge med et vedlegg grunnet stengingen så kan det gjøres her. 
+
+Når søknaden er ferdig utfylt sender du den ved å klikke på 
+![send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
+
+
+Når søknaden er sendt er det viktig at du husker å gå inn å godkjenne søknaden og gir den tildeling som arrangement, ellers vil det ikke overskrive eksisterende arrangementer og tildelinger. 
 Lurer du på hvordan du gjør dette kan du følge manualen for [Hvordan behandle innkomne søknader?](https://manual.aktiv-kommune.no/?p=298)
