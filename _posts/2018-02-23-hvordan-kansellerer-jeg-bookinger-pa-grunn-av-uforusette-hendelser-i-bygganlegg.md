@@ -2,7 +2,7 @@
 ID: 982
 post_title: >
   Hvordan kansellerer jeg bookinger på
-  grunn av uforusette hendelser i
+  grunn av uforutsette hendelser i
   bygg/anlegg?
 author: Marie Aune
 post_excerpt: ""
