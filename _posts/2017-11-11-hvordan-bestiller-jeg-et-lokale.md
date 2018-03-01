@@ -26,7 +26,10 @@ I begge tilfeller så vil søkeresultat som matcher søkekriteriene dukke opp un
 
 Du klikker da på bygget/anlegget/ressursen/utstyret du ønsker å leie, og du får opp et nytt skjermbildet som gir informasjon om det du klikket på. 
 Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen så klikker du på 
-![kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png)
+![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/03/ressurskalender1.png)
+eller
+![Kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png) 
+avhengig av hvilket bilde du er inni. 
 
 I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. Ønsker du å leie ressursen eller lokalet gjøres dette ved å klikke på ønsket dag og tid i kalenderen, eller ved å klikke på 
 ![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nysoknad.png) oppe i venstre hjørne. 
