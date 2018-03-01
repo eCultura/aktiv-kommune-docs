@@ -11,16 +11,14 @@ published: true
 post_date: 2017-11-11 16:33:19
 ---
 ## Finn lokale eller ressurs
-Når du ønsker å leie et lokale eller utstyr så går du til [Aktivkommune](http://aktivby.alesund.kommune.no/bookingfrontend/).
-Skjembildet ser da omtrentlig slik ut:
-![Forsidebilde](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/skjermbildefrontend.png)
+Når du ønsker å leie et lokale eller utstyr så går du til nettsiden for aktiv kommune i din kommune. 
 
 Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du *enter* eller klikker på 
 ![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/forstorrelsesglass.png)
 
 Ønsker du et mer filtrert søk klikker du på 
 ![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
-Du vil så få muligheten til å sortere på område og hovedkategori, i tillegg til å sortere treffene dine. 
+Du vil så få muligheten til å spesifisere søket ditt eller filtrere treffene du har fått i frisøket. 
 Når du har haket av for det du ønsker klikker du på
 ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
 
