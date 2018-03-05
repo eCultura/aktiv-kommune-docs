@@ -22,4 +22,6 @@ Klikk på søknaden du ønsker å åpne for å kunne behandle den. Om du ikke er
 På bunnen av dette skjermbildet er det en overskrift som heter **Handling**.
 Under handlig har du mulighet til å avslå søknaden.
 Ønsker du å avslå søknaden klikker du på 
-![avslå sløknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildeavslaasoknad.png)
+![avslå sløknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildeavslaasoknad.png) 
+
+Søknaden er da avslått og søkeren vil få melding om dette.
