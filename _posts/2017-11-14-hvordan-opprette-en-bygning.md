@@ -14,7 +14,7 @@ BOOKING => BYGG/ANLEGG
 
 eller gjennom
 
-EIENDOM => LOKASJON => BYGG/ANLEGG
+EIENDOM => LOKASJON => BYGNING
 
 Å gå gjennom BOOKING => BYGG/ANLEGG er slik saksbehandlere som ikke har administrasjonsrettigheter må gjøre det. Forklaring på hvordan man gjør dette finnes [her](https://manual.aktiv-kommune.no/?p=166).
 
