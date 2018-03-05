@@ -11,12 +11,17 @@ permalink: http://manual.aktiv-kommune.no/?p=982
 published: true
 post_date: 2018-02-23 16:09:53
 ---
-Vi kan oppleve at bygg/anlegg eller ressursgruppen som er leid/lånt ut ikke kan leies ut på grunn av at noe utforutsett har skjedd. Dette kan for eksempel være at det har kommet en vannlekasje, eller at ressursen har blitt ødelagt og ikke kan brukes. Uansett grunn må innbyggere eller lag/organisasjoner som har fått godkjent booking varsles om at de ikke lengre kan bruke ressursen. 
+Vi kan oppleve at bygg/anlegg eller ressursgruppen som er leid ut ikke kan leies ut på grunn av at noe utforutsett har skjedd. Dette kan for eksempel være at det har kommet en vannlekasje, eller at ressursen har blitt ødelagt og ikke kan brukes. Uansett grunn må innbyggere eller lag/organisasjoner som har fått godkjent booking varsles om at de ikke lengre kan bruke ressursen. 
 
-Måten dette gjøres på er at man legger inn et arrangement på tidsrommet bygg/anlegg eller ressursen blir utilgjengelig. Arrangementet vil da overskrive andre arrangementer eller tildeliger som er gjort til innbygger eller lag og organisasjoner. På denne måten får de automatisk varsel (e-post) om at det er oppstått en situasjon som gjør at bookingen deres ikke lar seg gjennomføre.
+Måten dette gjøres på er at man legger inn et arrangement på tidsrommet bygg/anlegg eller ressursgruppen blir utilgjengelig. Arrangementet vil da overskrive andre tildeliger som er gjort til innbygger eller lag og organisasjoner. På denne måten får de automatisk varsel (e-post) om at det er oppstått en situasjon som gjør at bookingen deres ikke lar seg gjennomføre. Dette er derimot ikke mulig å gjøre før man har fjernet eventuelle arrangementer som skal foregå i samme periode. Dette er fordi arrangementer ikke kan overskrives. Du må derfor starte med å gå inn å avslå arrangementer som er i tidsrommet bygg/anlegg er utilgjengelig. 
+Dette gjør du ved å gå til 
+BOOKING => SØKNADER => ARRANGEMENTER
+
+Her sorterer du i filteret slik at du får rett bygg under bygg/anlegg. Du vil da se alle godkjente arrangement tilghørende dette bygget. Finn de arrangementene som ligger i tidsrommet hvor bygget skal stenges. Klikk på et av arrangementene. Du vil da bli tatt til et nytt skjermbilde som viser deg informasjon om det aktuelle arrangementet. På bunnen av denne siden er det en knapp som heter *Tilbake*. Når du klikker på denne blir du tatt til søknaden. Her kan du i bunnen av siden avslå søknaden hvis du allerede er saksbehandler, hvis ikke må du først bli saksbehandler for deretter å avså søknaden. 
+
+Fortsett med dette til du har avslått alle arrangementene som ligger i tidsrommet hvor bygg/anlegg er utilgjengelig. Når dette er gjort går du til steg nummer to som er å opprette et nytt arrangement for å overskrive alle tildelinger slik at de også får beskjed. 
 
 For å opprette et slikt arrangement går du til
-
 BOOKING => SØKNADER
 
 Her klikker du på 
