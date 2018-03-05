@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere, endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
+Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
 
 ## Bruker
 
