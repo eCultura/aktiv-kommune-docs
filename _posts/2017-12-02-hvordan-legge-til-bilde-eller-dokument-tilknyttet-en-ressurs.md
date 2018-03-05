@@ -27,7 +27,7 @@ For å opprette nytt bilde/dokumenter klikker du på
 
 ### Fyll ut informasjonen om bildet/dokumentet:
 **Dokumentet:** Legg til filen du ønsker å legge til ved å klikke på *Bla gjennom...* og velg fil. 
-**Skildring:** En kort beskrivelse av bildet/dokumentet.
+**Beskrivelse:** En kort beskrivelse av bildet/dokumentet.
 **Kategori:** Velg rett kategori fra nedtrekksmenyen som filen du har lagt ved passer i.
 **Bygg/anlegg:** Navn på bygg/anlegg du vil knytte bildet til. 
 
