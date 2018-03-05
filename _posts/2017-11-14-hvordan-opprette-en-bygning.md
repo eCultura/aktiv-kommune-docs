@@ -20,7 +20,7 @@ EIENDOM => LOKASJON => BYGNING
 
 Når du er systemadministrator er det mest hensiktsmessig å opprette kommunens bygg under
 
-EIENDOM => LOKASJON => BYGG/ANLEGG
+EIENDOM => LOKASJON => BYGNING
 
 Skjermbildet ser da slik ut:
 ![skjermbildet bygg](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendombygning.png)
