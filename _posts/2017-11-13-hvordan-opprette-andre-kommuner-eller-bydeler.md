@@ -30,7 +30,7 @@ For å legge til ny bydel klikker du på
 **ID:** Et fortløpende nummer.
 **Navn:** Navn på bydel. 
 **Leveringsadresse:**
-**Område:**
+**Område:** Velg område fra nedtrekksmenyen
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
