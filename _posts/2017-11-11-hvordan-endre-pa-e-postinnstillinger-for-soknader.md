@@ -8,7 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=715
 published: true
-post_date: 2017-12-28 12:56:11
+post_date: 2017-11-11 09:56:11
 ---
 For å kunne sende e-post ut til innbyggere må du inn å endre på e-post innstillingene. 
 For å gjøre dette går du til:
