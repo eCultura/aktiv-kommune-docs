@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=265
 published: true
 post_date: 2017-12-03 10:25:00
 ---
-En aktivitet sier noe om hvilke aktiviteter de ulike lag og organisasjoner driver med. Dette vil være nødvendig å fylle ut flere plasser i systemet, blant annet legger man inn hvilken aktivitet et bygg/anlegg tilhører. Det må opprettes minst en aktivitet i systemet. 
+En aktivitet sier noe om hvilke aktiviteter ulike lag og organisasjoner driver med. Dette vil være nødvendig å fylle ut flere plasser i systemet, blant annet legger man inn hvilken aktivitet et bygg/anlegg tilhører. Det må opprettes minst en aktivitet i systemet. 
 
 En aktivitet kan opprettes slik:
 
