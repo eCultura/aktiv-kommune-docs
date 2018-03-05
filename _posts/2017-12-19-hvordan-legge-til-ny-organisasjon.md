@@ -24,7 +24,7 @@ BOOKING => ORGANISASJONER
 Skjermbildet ser da slik ut:
 ![skjermbilde ny organisasjon](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org.png)
 
-Klikk på
+For å legge til ny organisasjon klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om organisasjonen:
