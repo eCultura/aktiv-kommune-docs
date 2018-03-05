@@ -34,7 +34,7 @@ For å legge til ny bruker klikker du på
 **Skriv inn passord igjen:** Gjenta passord.
 **Kontakt:**
 **Kan bytte passord:** Hak vekk om bruker ikke selv skal kunne bytte passord.
-**Anonym bruker(vises ikke i sesjonslisten):** Hak av om bruker skal være anonym. 
+**Anonym bruker (vises ikke i sesjonslisten):** Hak av om bruker skal være anonym. 
 **Utløpsdato:** Når brukeren ikke lengre skal ha tilgang. Denne er satt til aldri som standard. 
 **Kvote:** Kvote for hvor store filer brukeren kan laste opp. 
 
