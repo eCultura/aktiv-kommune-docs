@@ -39,7 +39,7 @@ Når du er ferdig klikker du på
 ## Opprette eiendom
 Nye eiendommer registreres av systemansvarlige. I eksempelet under lager vi bare én eiendom for hver kommune. For å legge til en eiendom går du til
 
-EIENDOM => LOKALISERING => EIENDOM 
+EIENDOM => LOKASJON => EIENDOM 
 
 For å registrere ny eiendom klikker du på 
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
