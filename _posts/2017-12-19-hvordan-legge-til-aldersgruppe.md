@@ -23,7 +23,7 @@ For å lage ny aldersgruppe klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om aldersgruppe: 
-**Aktiviteter:** Velg aktivitet aldersgruppen skal gjelde for.
+**Aktiviteter:** Velg aktivitet fra nedtrekksmenyen som aldersgruppen skal gjelde for.
 **Navn:** Navn på aldersgruppen.
 **Sortering:** Ikke i bruk.
 **Beskrivelse:** Beskrivelse på aldersgruppen.
