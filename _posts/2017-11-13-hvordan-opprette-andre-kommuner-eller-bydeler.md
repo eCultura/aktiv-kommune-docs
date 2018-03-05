@@ -73,7 +73,7 @@ Bygget kan da knyttes til bygg eller anlegg i *Booking->Bygg/Anlegg* med en komb
 ## Knytte bygg til eiendom i Booking
 Når en eiendom er registrert så må det registreres minst ett bygg/anlegg som tilhører eiendommen.  
 
-EIENDOM => LOKALISERING => BYGNING
+EIENDOM => LOKASJON => BYGNING
 
 Skjermbildet ser da slik ut: 
 ![skjermbildet bygning](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendombygning.png)
