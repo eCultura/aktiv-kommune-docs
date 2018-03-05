@@ -59,4 +59,4 @@ Når du er ferdig klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
 
-Rammetiden du la inn vil da bli synlig på skjermbildet. Du kan velge å slette den om du har lagt inn feil dag eller tidsrom. Du kan også fortsette å registrere andre dager og tider ressursen skal være tilgjengelig. Endringer lagres automatisk når de er lagt til rammetider eller når du har slettet rammetider.
+Rammetiden du la inn vil da bli synlig på skjermbildet. Du kan velge å slette den om du har lagt inn feil dag eller tidsrom. Du kan også fortsette å registrere andre dager og tider ressursen skal være tilgjengelig. Endringer lagres automatisk når det er lagt til rammetider eller når du har slettet rammetider.
