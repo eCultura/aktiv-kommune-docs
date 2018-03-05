@@ -35,7 +35,6 @@ For å opprette ny ressurs klikker du på
 ### Fyll ut informasjonen om ressurs: 
 **Navn:** Navn på ressurs. NB! DET ER DETTE SOM BLIR SØKBART og VISES I BOOKINGFRONTEND.
 **Sortering:** Ikke i bruk.
-**Type:** Velg fra nedtrekksmeny hvilken type ressurs dette er. 
 **Bygg/anlegg:** Bygg/anlegg (RESSURSGRUPPEN) som ressursen skal knyttes til. Bygg/anlegg (Ressursgruppe) må legges til før man legger til ressurs. For å legge til ny ressursgruppe (nytt bygg/anlegg) se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg (ressursgruppe) er lagt inn. 
 **Type:** Velg hvilken ressurstype du legger til fra nedtrekksmenyen.
 **Beskrivelse:** Beskrivelse av ressursen.
