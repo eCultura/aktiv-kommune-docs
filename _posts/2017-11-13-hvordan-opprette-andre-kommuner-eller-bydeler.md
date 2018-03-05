@@ -52,7 +52,7 @@ For å registrere ny eiendom klikker du på
 **Eier:** Må være blank.
 **Status:** Velg *ok* fra nedtrekksmenyen.
 **Merknad:** Hvis det er noe spesielt med eiendommen du ønsker å kommentere så skriver du det her. 
-De resterende feltene er det ikke behov for å fylle ut.
+De resterende feltene er det ikke behov for å fylle inn.
 
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
@@ -61,7 +61,7 @@ Når du er ferdig klikker du på
 ## Opprette bygg i Eiendom
 Det mest hensiktsmessige er å opprette alle kommunens bygg i 
 
-EIENDOM => LOKALISERING => BYGNING
+EIENDOM => LOKASJON => BYGNING
 
 og ikke bare i 
 
