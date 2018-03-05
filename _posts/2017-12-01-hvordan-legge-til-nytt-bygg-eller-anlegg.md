@@ -28,7 +28,7 @@ For å opprette nytt bygg/anlegg klikk på
 **Bygg/anlegg:** Navn på bygg/anlegg (ressursgruppa). NB! DET ER DETTE NAVNET SOM BLIR SØKBART I BOOKINGFRONTEND!
 **Gate:** Gate til det aktuelle bygg/anlegg.
 **Område/bydel:** Området eller bydel det aktuelle bygg/anlegg er knyttet til.
-**Aktiviteter:** Hovedaktivitet som utføres på bygg/anlegg.
+**Aktiviteter:** Velg hovedaktivitet som utføres på bygg/anlegg fra nedtrekksmeny.
 **Telefon:** Telefonnummer til bygg/anlegg.
 **E-post:** E-post til bygg/anlegg.
 **Hjemmeside:** Internetthjemmeside til bygg/anlegg.
