@@ -16,7 +16,7 @@ Skjermbildet ser da slik ut:
 ![skjermbilde kategori](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/Skjermbildekategorier.png)
 
 For å legge til en ny kategori klikker du på 
-![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil3.png)
+![NY](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ## Fyll ut informasjon om kategorien:
 **ID:** 
