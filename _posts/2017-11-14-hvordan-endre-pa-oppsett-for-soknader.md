@@ -17,7 +17,7 @@ BOOKING => INNSTILLINGER => SØKNADS OPPSETT
 Skjermbildet ser da slik ut:
 ![skjermbildet søknadsoppsett](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/soknadsoppsett.png)
 
-Endringene som gjøres her påvirker frontend.
+Endringene som gjøres her påvirker hjelpeteksten på søknaden i frontend.
 
 Det er lagt inn standardiserte forkaringer, men du kan gjøre de endringene du ønsker å utføre.
 
