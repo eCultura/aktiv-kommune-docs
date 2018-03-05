@@ -29,7 +29,7 @@ For å opprette ny sesong klikker du på
 **Bygg/anlegg:** Navn på bygg/anlegg sesongen tilhører.
 **Saksbehandler:** Navn på saksbehandler.
 **Ressurser:** Hak av de ressursene du skal knytte til sesongen. Ressursene du kan velge kommer opp når du har valgt bygg/anlegg.
-**Status:** Forteller om hvilken status man skal sitte sesongen i. Planlegging er når du ikke er klar for at den skal være synlig for booking. Publisert er når sesongen er synlig og kan bookes. Arkivert er når du setter sesongen inaktiv. 
+**Status:** Velg fra nedtrekksmenyen hvilken status sesongen skal ha. Planlegging er når du ikke er klar for at den skal være synlig for booking. Publisert er når sesongen er synlig og kan bookes. Arkivert er når du setter sesongen inaktiv. 
 **Fra:** Sesong er gyldig fra.
 **Til:** Sesong er gyldig til. 
 
