@@ -37,9 +37,9 @@ For å opprette nytt bygg/anlegg klikk på
 **Navn på tilsynsvakt:** Navn på tilsynsvakt for bygg/anlegg.
 **Telefon tilsynsvakt:** Telefonnummer til tilsynsvakt for bygg/anlegg.
 **E-post tilsynsvakt:** E-post til tilsynsvakt for bygg/anlegg.
-**Navn på tilsynsvakt:** Navn på tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
-**Telefon tilsynsvakt:** Telefonnummer til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
-**E-post tilsynsvakt:** E-post til tilsynsvakt nummer 2 for bygg/anlegg om de er flere.
+**Navn på tilsynsvakt:** Navn på tilsynsvakt nummer 2 for bygg/anlegg om det er flere.
+**Telefon tilsynsvakt:** Telefonnummer til tilsynsvakt nummer 2 for bygg/anlegg om det er flere.
+**E-post tilsynsvakt:** E-post til tilsynsvakt nummer 2 for bygg/anlegg om det er flere.
 **Tekst bak kalenderknapp:** 
 **Beskrivelse:** Beskrivelse av bygg/anlegg og hva som er tilgengelig.
 
