@@ -24,11 +24,15 @@ Når du har gjort dette klikker du på
 ![lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png)
 
 
-Du kan også endre oppsettet for e-post svarene som sendes i forbindelse med en søknad. 
+Både systemadministrator og saksbehandler kan endre på e-post svarene som sendes i forbindelse med en søknad. 
 
 For å gjøre dette går du til
 
 BOOKING => INNSTILLINGER => E-POST OPPSETT
+
+Skjermbildet ser da slik ut: 
+![skjermbildet e-post](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/Skjermbilde23.png) 
+
 
 Her gjør du de ønskede endringene eller legger inn de svarene du ønsker. 
 
