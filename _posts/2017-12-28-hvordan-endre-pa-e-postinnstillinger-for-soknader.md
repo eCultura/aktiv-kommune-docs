@@ -13,7 +13,7 @@ post_date: 2017-12-28 12:56:11
 For å kunne sende e-post ut til innbyggere må du inn å endre på e-post innstillingene. 
 For å gjøre dette går du til:
 
-ADMINISTRASJON => ADMIN => BOOKING
+ADMINISTRASJON => BOOKING
 
 Skjermbildet ser da slik ut: 
 ![Skjermbilde booking] (http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/skjermbildebooking.png)
