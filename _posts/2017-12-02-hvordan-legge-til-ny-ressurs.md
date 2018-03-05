@@ -15,9 +15,9 @@ http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Ny-ressurs.mp4
 Når du har opprettet et bygg/anlegg så må du tilknytte ressurser til det. Ressurser knyttes opp mot et bygg/anlegg under opprettelse.
 
 En ressurs kan være:
-1. en del av et bygg, som f.eks. en hall, eller garderobe, eller 
+1. en del av et bygg, som f.eks. en hall, garderobe, eller 
 2. en del av et uteområde, f.eks. en park, en fotballbane, eller
-3. utstyr som kan leies/lånes ut, f.eks. AV-utstyr, håndballmål, kano
+3. utstyr som kan leies/lånes ut, f.eks. AV-utstyr, håndballmål, kano.
 En ressurs kan teoretisk inngå i flere ressurs-pooler.
 
 Ressursene kan leies ut hver for seg eller samlet.
