@@ -39,7 +39,7 @@ For å legge til ny bruker klikker du på
 **Kvote:** Kvote for hvor store filer brukeren kan laste opp. 
 
 Under fanen *Grupper* haker du av for hvilke grupper brukeren skal tilhøre. 
-Under fanen *Applikasjoner* gir du tilgang til moduer og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
+Under fanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
 > For å tilordne normal tilgang til en *Saksbehandler* haker du av for *Admin* ved *Booking*
 
 Når du har fylt inn den informasjonen som skal inn, klikker du på 
