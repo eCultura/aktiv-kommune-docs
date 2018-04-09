@@ -33,14 +33,14 @@ Du vil så bli tatt til et nytt skjermbilde for søknader og må fylle ut skjema
 
 Del i søknad| Hva skal gjøres? /Forklaring
 ---------------------|-------------------------------
-**1. Hvorfor** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Informasjon om arrangementet er det som vil vises i kalenderen, og du legger derfor her inn den innformasjonen du ønsker skal vises i kalendere. For eksempel: Stengt grunnet reparasjoner. 
-**2. Hvor mange?** |Du må gi et estimat av antall deltakere for å kunne sende søknaden.
-**3. Hvor** |Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser som skal stenges eller ikke være tilgjengelig. 
-**4. Når?** |Velg dato og klokkeslett for perioden hvor ressursen skal være stengt eller utilgjengelig. Du kan legge til flere datoer ved å klikke på *Legg til dato* .
-**5. Hvem** |Selv om ikke dette er et arrangement for deltakere må man velge en målgruppe for å kunne sende inn søknaden. 
-**6. Kontaktinformasjon** |Selv om dette er ikke en bestilling på den vanlige måten, så må man oppgi en kontaktperson for arrangementet.
-**7. Ansvarlig søker/ fakturainformasjon** |Du må oppgi en person som skal stå ansvarlig for søknaden, oppgi gjerne deg selv. 
-**8. Juridiske betingelser** |Godkjenn de juridiske betingelsene.
+**1.Hvorfor** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Informasjon om arrangementet er det som vil vises i kalenderen, og du legger derfor her inn den innformasjonen du ønsker skal vises i kalendere. For eksempel: Stengt grunnet reparasjoner. 
+**2.Hvor mange?** |Du må gi et estimat av antall deltakere for å kunne sende søknaden.
+**3.Hvor** |Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser som skal stenges eller ikke være tilgjengelig. 
+**4.Når?** |Velg dato og klokkeslett for perioden hvor ressursen skal være stengt eller utilgjengelig. Du kan legge til flere datoer ved å klikke på *Legg til dato* .
+**5.Hvem** |Selv om ikke dette er et arrangement for deltakere må man velge en målgruppe for å kunne sende inn søknaden. 
+**6.Kontaktinformasjon** |Selv om dette er ikke en bestilling på den vanlige måten, så må man oppgi en kontaktperson for arrangementet.
+**7.Ansvarlig søker/ fakturainformasjon** |Du må oppgi en person som skal stå ansvarlig for søknaden, oppgi gjerne deg selv. 
+**8.Juridiske betingelser** |Godkjenn de juridiske betingelsene.
 
 Når søknaden er ferdig utfylt sender du den ved å klikke på 
 ![Send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
