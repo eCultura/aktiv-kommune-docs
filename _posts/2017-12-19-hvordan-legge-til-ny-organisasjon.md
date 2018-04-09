@@ -52,7 +52,7 @@ Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv
 
 Legg til slutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
 
-Organisasjonen kan selv legge inn flere delegater som kan bestille ressurser på vegne av organisasjonen, og ikke minst interntildele videre de rammetider (tildelinger) som organisasjonen/laget har fått. Dette kan gjøres via "Delegater" (lenke kommer)
+Organisasjonen kan selv legge inn flere **delegater** som kan bestille ressurser på vegne av organisasjonen, og ikke minst interntildele videre de rammetider (tildelinger) som organisasjonen/laget har fått. Dette kan gjøres via **"Delegater"** (lenke kommer)
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
