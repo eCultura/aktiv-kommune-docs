@@ -28,23 +28,25 @@ For å legge til ny organisasjon klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om organisasjonen:
-**Organisasjon:** Her fylles inn navn på organisasjonen.
-**Kortnavn (til organisasjon):** Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
-**Organisasjonsnummer:** (9 siffer)
-**Hjemmeside:** Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
-**Telefon:** Telefonnummer til kontaktperson i organisasjonen.
-**E-post:** E-post til kontaktperson i organisasjonen.
+Feltnavn|Hva skal gjøres her?/ Forklaring
+----------------------------|-----------------------------------------
+**Organisasjon:** |Her fylles inn navn på organisasjonen.
+**Kortnavn (til organisasjon):** |Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
+**Organisasjonsnummer:** |(9 siffer)
+**Hjemmeside:** |Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
+**Telefon:** |Telefonnummer til kontaktperson i organisasjonen.
+**E-post:** |E-post til kontaktperson i organisasjonen.
 
-**Fakturainformasjon:** Velg en av nedtrekksmeny valgene.
-**Intern kunde:** For internt bruk i kommunen.
-**Ressursnummer:** For internt bruk i kommunen.
-**Gate:** Organisasjonens adresse.
-**Postnummer:** Organisasjonens postnummer.
-**Poststed:** Organisasjonens poststed.
-**Område/bydel:** Organisasjonens bydel.
-**Vis i portal:** Skal informasjonen vises til publikum (ja/nei).
+**Fakturainformasjon:** |Velg en av nedtrekksmeny valgene.
+**Intern kunde:** |For internt bruk i kommunen.
+**Ressursnummer:** |For internt bruk i kommunen.
+**Gate:** |Organisasjonens adresse.
+**Postnummer:** |Organisasjonens postnummer.
+**Poststed:** |Organisasjonens poststed.
+**Område/bydel:** |Organisasjonens bydel.
+**Vis i portal:** |Skal informasjonen vises til publikum (ja/nei).
 
-**Aktiviteter:** Velg den som passer best fra nedtrekksmenyen.
+**Aktiviteter:** |Velg den som passer best fra nedtrekksmenyen.
 Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
