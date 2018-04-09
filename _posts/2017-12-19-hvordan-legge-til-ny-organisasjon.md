@@ -28,6 +28,7 @@ For å legge til ny organisasjon klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om organisasjonen:
+
 Feltnavn|Hva skal gjøres her?/ Forklaring
 ------------------------|----------------------------------------
 **Organisasjon:** |Her fylles inn navn på organisasjonen.
