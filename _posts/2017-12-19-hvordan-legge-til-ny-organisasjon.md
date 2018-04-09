@@ -36,7 +36,6 @@ Feltnavn|Hva skal gjøres her?/ Forklaring
 **Hjemmeside:** |Hjemmesiden til organisasjonen. Eks: http://www.klubbnavn.no
 **Telefon:** |Telefonnummer til kontaktperson i organisasjonen.
 **E-post:** |E-post til kontaktperson i organisasjonen.
-
 **Fakturainformasjon:** |Velg en av nedtrekksmeny valgene.
 **Intern kunde:** |For internt bruk i kommunen.
 **Ressursnummer:** |For internt bruk i kommunen.
