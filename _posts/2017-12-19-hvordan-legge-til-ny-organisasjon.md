@@ -17,7 +17,7 @@ For å legge inn nytt lag eller organisasjon trenger du <em>organisasjonsnummer<
 
 Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysundregisterne</a>.
 
-Når du har organisasjonsnummeret, er prosedyren slik:
+Når du har organisasjonsnummeret, velg kommandoen:
 
 BOOKING => ORGANISASJONER 
 
@@ -48,7 +48,9 @@ For å legge til ny organisasjon klikker du på
 Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
 **Beskrivelse:** Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
 
-Legg tilslutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
+Legg til slutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
+
+Organisasjonen kan selv legge inn flere delegater som kan bestille ressurser på vegne av organisasjonen, og ikke minst interntildele videre de rammetider (tildelinger) som organisasjonen/laget har fått. Dette kan gjøres via "Delegater" (lenke kommer)
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
