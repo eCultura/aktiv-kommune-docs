@@ -45,6 +45,7 @@ Feltnavn | Hva skal gjøres her?/ Forklaring
 **Poststed:** |Organisasjonens poststed.
 **Område/bydel:** |Organisasjonens bydel.
 **Vis i portal:** |Skal informasjonen vises til publikum (ja/nei).
+
 **Aktiviteter:** |Velg den som passer best fra nedtrekksmenyen.
 Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
 **Beskrivelse:** |Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.).
