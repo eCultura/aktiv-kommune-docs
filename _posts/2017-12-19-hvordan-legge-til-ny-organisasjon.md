@@ -47,7 +47,7 @@ Feltnavn|Hva skal gjøres her?/ Forklaring
 **Vis i portal:** |Skal informasjonen vises til publikum (ja/nei).
 **Aktiviteter:** |Velg den som passer best fra nedtrekksmenyen.
 Hvordan du legger inn ny aktivitet, kan du lese mer om [her](http://manual.aktiv-kommune.no/?p=265). 
-**Beskrivelse:** |Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.)
+**Beskrivelse:** |Kort beskrivelse av organisasjonen. (Hvilke aktiviteter driver organisasjonen med, målgrupper, ol.).
 
 Legg til slutt inn informasjon om hvem som er bookingansvarlig for organisasjonen. Opptil to kontaktpersoner kan legges inn.
 
