@@ -30,7 +30,7 @@ For å legge til ny organisasjon klikker du på
 ### Fyll ut informasjonen om organisasjonen:
 
 Feltnavn|Hva skal gjøres her?/ Forklaring
-------------------------|----------------------------------------
+----------------|-----------------------------------------
 **Organisasjon:** |Her fylles inn navn på organisasjonen.
 **Kortnavn (til organisasjon):** |Brukes normalt ikke. Kortnavn er ment å være kortversjonen av organisasjonsnavnet, til bruk i "kalendervisning" / informasjonstavler.
 **Organisasjonsnummer:** |(9 siffer)
