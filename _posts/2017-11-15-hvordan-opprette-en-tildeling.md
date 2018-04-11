@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=991
 published: true
-post_date: 2017-11-15 15:31:30
+post_date: 2017-11-15 15:30:30
 ---
 I systemet opererer vi med begrepet «Sesonger» for tildelinger som er like fra uke til uke. Det opprettes en sesong for hvert bygg, f.eks. vår eller høst. Kommunen gir rammer for når en organisasjon skal disponere en eller flere ressurser i et bygg/anlegg, og legger inn tildelinger til organisasjonene på de aktuelle tidspunktene.
 
