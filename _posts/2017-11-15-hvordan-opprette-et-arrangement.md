@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=988
 published: true
-post_date: 2018-04-11 09:42:42
+post_date: 2017-11-15 12:30:42
 ---
 Saksbehandlere i kommunen har mulighet for å opprette arrangementer, tildeling og bookinger uten at det ligger en søknad eller en sesong til grunn. Dette er nyttig dersom det kommer inn henvendelser pr telefon eller en organisasjon behøver til vedlikehold av tildelinger. Det er opp til hver enkelt kommune og saksbehandler om de velger å ta i mot slike forespørsler.
 
