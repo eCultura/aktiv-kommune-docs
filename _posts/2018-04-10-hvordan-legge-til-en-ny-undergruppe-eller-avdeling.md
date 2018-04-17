@@ -14,10 +14,10 @@ Dersom din organisasjon består av flere avdelinger eller undergrupper kan de le
 
 <img class="alignnone  wp-image-1090" src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/04/ny-gruppe-300x81.png" alt="" width="404" height="109" />
 
-Klikk på "Ny gruppe" for å legge til en ny undergruppe eller avdeling. Her kan du legg inn:
+Klikk på "Ny gruppe" for å legge til en ny undergruppe eller avdeling. Her kan du legge inn:
 <ul>
  	<li>Navn</li>
- 	<li>Kortnavn</li>
+ 	<li>Kortnavn</li> (vises i kalenderen)
  	<li>Type aktivitet</li>
  	<li>Kort beskrivelse</li>
  	<li>Ansvarlig gruppeleder</li>
