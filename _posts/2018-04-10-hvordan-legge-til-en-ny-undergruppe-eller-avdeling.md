@@ -17,7 +17,7 @@ Dersom din organisasjon består av flere avdelinger eller undergrupper kan de le
 Klikk på "Ny gruppe" for å legge til en ny undergruppe eller avdeling. Her kan du legge inn:
 <ul>
  	<li>Navn</li>
- 	<li>Kortnavn</li> (vises i kalenderen)
+ 	<li>Kortnavn</li> <em>(vises i kalenderen)
  	<li>Type aktivitet</li>
  	<li>Kort beskrivelse</li>
  	<li>Ansvarlig gruppeleder</li>
