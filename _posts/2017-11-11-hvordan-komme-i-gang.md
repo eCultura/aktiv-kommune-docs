@@ -25,8 +25,8 @@ Disse endringene gjøres under:
 - Angi tittel for nettstedet:
 På det nye skjermbildet finner du *Utseende*, og deretter kan du skrive inn ønsket navn under *Angi tittel for nettstedet*
 
-- Angi url for logo (hvor skal din instans hente (kommune)logoen fra): 
-eks.: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
+- Angi url for logo (hvor ligger (kommune)logoen): 
+eksempel: Fjell kommune henter sin logo fra: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
 Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen) 
 - E-post brukerstøtte:
 	eksempel: informasjon@fjell.kommune.no
