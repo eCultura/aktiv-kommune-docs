@@ -19,6 +19,7 @@ Hver kommune må ha en systemansvarlig eller sørge for at en person som er ansa
 ## Logg på Aktivkommune
 Brukernavn og passord vil du motta på mail fra systemansvarlig når driftsavtale er inngått. 
 
+## Oppsett av nettside; bilder,logo og framsidetekst 
 Disse endringene gjøres under: 
  <strong>ADMINISTRASJON => ADMIN => GLOBAL KONFIGURASJON</strong> 
 
