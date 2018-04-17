@@ -34,4 +34,8 @@ Se [Wikipedia](https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommune
 Når du er ferdig å fylle ut, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png)
 
+- For å skrive inn tekst som skal være på forsiden / startsiden velger du:
+ <strong>ADMINISTRASJON => BOOKINGFRONTEND => METADATA</strong>
+og skriver inn aktuell tekst for henholdsvis "Tekst over framsidebilde" og "Framsidetekst"
+
 Neste trinn er å legge inn [brukere og brukergrupper](https://manual.aktiv-kommune.no/?p=267).
