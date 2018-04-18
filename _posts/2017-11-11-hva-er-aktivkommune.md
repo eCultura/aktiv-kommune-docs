@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=145
 published: true
 post_date: 2017-11-11 20:56:54
 ---
-Aktivkommune er et bookingsystem hvor representanter fra:
+Aktivkommune er et bookingsystem hvor representanter for:
 
 * organisasjoner, 
 * lag og 
