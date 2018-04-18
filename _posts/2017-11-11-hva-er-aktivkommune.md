@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=145
 published: true
 post_date: 2017-11-11 20:56:54
 ---
-Aktivkommune er et bookingsystem hvor organisasjoner, lag og enkeltpersoner enkelt kan søke om å kunne leie kommunale ressursen som 
+Aktivkommune er et bookingsystem hvor organisasjoner, lag og enkeltpersoner enkelt kan søke om å kunne leie kommunale ressurser som: 
 
 * lokaler (rom, idrettshaller, festlokaler etc.)
 * bygg/anlegg (friluftsområder, idrettsanlegg, torg etc. )
