@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=581
 published: true
 post_date: 2017-12-19 16:22:25
 ---
-AktivKommune skal utvikles i henhold til prinsippene om universell utforming(UU). Under dette temaet er WCAG (versjon 2.0) standarden som er bransjeledende. Se:
+AktivKommune skal utvikles i henhold til prinsippene om <em>universell utforming</em>(UU). Under dette temaet er WCAG (versjon 2.0) standarden som er bransjeledende. Se:
 
 <a href="https://uu.difi.no/krav-og-regelverk/wcag-20-standarden">https://uu.difi.no/krav-og-regelverk/wcag-20-standarden</a>
 
