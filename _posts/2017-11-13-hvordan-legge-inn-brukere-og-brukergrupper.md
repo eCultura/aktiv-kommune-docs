@@ -26,12 +26,12 @@ For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
 Følgende skjermbilde dukker opp:
-![Ny-bruker-skjermbilde](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.pdf)
+![Ny-bruker-skjermbilde](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.png)
 
 Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
-----------------------|---------------------------------------------
+--------------------------|---------------------------------------------
 **Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
