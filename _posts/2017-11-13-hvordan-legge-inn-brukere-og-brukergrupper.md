@@ -10,18 +10,17 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
+Som systemadministrator eller superbruker, så har du tilgang til å oppdatere og endre informasjon om brukere og brukergrupper.  
 
 ## Bruker
 
-For å opprette ny eller endre eksisterende brukerer går du til
-
+For å opprette ny eller endre opplysninger om eksisterende brukere velger du kommandoen:
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE</strong> 
 
 Skjermbildet ser da slik ut: 
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
-Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. 
+Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. Når en saksbehandler eller superbruker slutter i kommunen, eller ikke lenger skal ha tilgang, så vil brukeren ikke slettes fra systemet, men kun gjøres inaktiv. Med dette grepet vil informasjon/historikk om saksbehandlingen beholdes.
 
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
@@ -29,7 +28,8 @@ For å legge til ny bruker klikker du på
 ### Fyll ut informasjonen om brukeren under fanen brukerdata:
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
 ----------------|--------------------------------------
-**Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker e-post adressen som brukernavn.
+**Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
+
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
 **Passord:** |Passord brukerens skal bruke når han/hun logger inn på siden.
@@ -37,17 +37,17 @@ For å legge til ny bruker klikker du på
 **Kontakt:**| (brukes ikke)
 **Kan bytte passord:** |Hak vekk om bruker ikke selv skal kunne bytte passord.
 **Anonym bruker (vises ikke i sesjonslisten):** |Hak av om bruker skal være anonym. 
-**Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til aldri som standard. 
+**Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard. 
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp. 
 
-Under fanen *Grupper* haker du av for hvilke grupper brukeren skal tilhøre. 
+Under fanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. 
 Under fanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
 > For å tilordne normal tilgang til en *Saksbehandler* haker du av for *Admin* ved *Booking*
 
 Når du har fylt inn den informasjonen som skal inn, klikker du på 
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
-Brukeren er da lagt til og du må klikke på *Avbryt* for å komme ut av skjermbildet. 
+Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjermbildet. 
 
 ## Inaktivering av bruker
 
@@ -58,13 +58,13 @@ ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE
 Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet haker du vekk for *Bruker er aktiv* og klikker på 
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
-Brukeren er da inaktiv og har ikke lengre tilgang til systemet.
+Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gjøres aktiv igjen om det blir aktuelt, for eksempel etter endt permisjon.
 
 ## Brukergrupper
 
-I stedet for å gi enkelttilganger under *Applikasjoner* så kan man definere egne tilganger på gruppenivå under: 
+I stedet for å gi enkelttilganger under *Applikasjoner*, så bør du som systemadministrator eller superbruker definere egne tilganger på gruppenivå under: 
 
 ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
 
 
-Nete steg er [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
+Neste steg vil være [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
