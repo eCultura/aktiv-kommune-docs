@@ -39,7 +39,7 @@ Disse tre brukergruppene bør omgående skifte navn til noe mer forståelig, og 
 * fra (Booking admin)     til      Superbruker 
 * fra (booking)           til      Saksbehandler 
 
-Det er i skrivende stund ikke besluttet om dette navneskiftet skal gjøres i forkant av leveransen, eller om den nye kommunen selv skal gjøre dette.
+Det er i skrivende stund ikke besluttet om dette navneskiftet på brukergruppene skal gjøres i forkant av leveransen, eller om den nye kommunen selv skal gjøre dette.
 
 Hver kommune kan definere nye brukergrupper ut over disse tre, men dette frarådes fordi support og brukermanualer i utgangspunktet kun omfatter disse tre gruppene.
 
@@ -56,7 +56,8 @@ Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommun
 
 (0. Logg på som Systemadministrator) STAVANGER?
 1. Klikk på "Ny bruker", og legg inn nødvendige opplysninger (se avsnitt under). Denne brukeren må krysses av og bli medlem av «booking admin» (gruppen "Superbruker"). 
-LAG EGET SKJERMBILDE
+
+LAG/sett inn EGET SKJERMBILDE
 
 (2. Logg av som  Systemadministrator) STAVANGER?
 3. Du som er tildelt rollen som superbruker (konkret person), tar konfigureringen av systemet videre.
