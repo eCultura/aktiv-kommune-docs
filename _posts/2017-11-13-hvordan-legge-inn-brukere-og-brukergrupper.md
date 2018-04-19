@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-Som systemadministrator eller superbruker, så har du tilgang til å oppdatere og endre informasjon om brukere og brukergrupper.  
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde-300x250.png" alt="" width="300" height="250" class="alignnone size-medium wp-image-1165" />Som systemadministrator eller superbruker, så har du tilgang til å oppdatere og endre informasjon om brukere og brukergrupper.  
 
 ## Bruker
 
