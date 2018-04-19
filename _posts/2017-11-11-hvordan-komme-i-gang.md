@@ -16,12 +16,37 @@ Før du kan bruke Aktivkommune, må kommunen ha opprettet en driftsavtale med St
 <h2>Systemansvarlig</h2>
 Hver kommune må ha en systemansvarlig eller sørge for at en person som er ansatt hos en samarbeidspartner/ekstern bedrift, blir tildelt denne rollen. En systemansvarlig, i denne sammenheng, er en person med generell god digital kompetanse, eller person som evner å forstå og utføre veiledningen under. En systemansvarlig vil ha tilgang til alle deler (kommandoer) i systemet.
 
-<h2>Oppretting av ny instans og roller i Aktivkommune</h2>
-Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen <em>instans</em> (systemkonto) for den nye kommunen /enheten. Som regel vil instansen ha samme navn som kommunen, men også kommunenummer og andre begreper kan benyttes som instansnavn. 
+<h2>Oppretting av ny instans i Aktivkommune</h2>
+Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen <em>instans</em> ("systemkonto") for den nye kommunen /enheten. Som regel vil instansen ha samme navn som kommunen, men også kommunenummer og andre begreper kan benyttes som instansnavn. 
 >En <em>instans</em> er avgrenset til :
 <li>1. de brukere (systemadministrator, superbruker, saksbehandler og innbyggere/lag/organisasjoner) som skal bruke løsningen, </li>
  og til
 <li>2. de utleie-ressurser(rom, anlegg, utstyr) som kommunen ønsker å leie ut. </li>
+
+En instans er altså 100% dedikert til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
+
+
+<h2>Første gangs pålogging på Aktivkommune / Om oppretting av roller i Aktivkommune</h2>
+Systemet leveres i utgangspunktet med tre predefinerte brukergrupper (default). Disse gruppene er:
+1. Admins:           alle rettigheter
+2. Booking admin:    reduserte admin-rettigheter
+3. booking:          saksbehandler for booking (Aktiv…)
+
+Disse tre brukergruppene bør skifte navn til noe mer forståelig, og forslag til nye gruppenavn er: 
+fra (admins)            til      Systemadministrator 
+fra (Booking admin)     til      Superbruker 
+fra (booking)           til      Saksbehandler 
+
+Hver kommune kan definere nye brukergrupper ut over disse tre, men dette frarådes fordi support og brukermanualer i utgangspunktet kun omfatter disse tre gruppene.
+
+For større kommuner kan det være aktuelt å opprett Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Ressurser</em>). Mer om dette i avsnittet "XXXXXXXX - kommer senere-  XXXXX " 
+
+Systemet kommer med to default brukere:
+1) Brukeren «sysadmin» er medlem av «Admins»
+Legg inn ny «superbruker»  som skal være medlem av «booking admin». Denne brukeren brukes til videre konfigurasjon av systemet
+2) Bookingguest. Definerer tilganger for frontendbruker. Tilgang gis «automagisk».
+
+
 
 
 Dernest vil systemansvarlig i kommunen/enheten via e-post få tilsendt brukernavn (til rollen systemadministrator) og via SMS et passord . Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt (med egen ident og passord). 
