@@ -10,13 +10,13 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-Aktivkommune blir levert med Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
+Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
 
 ## Bruker
 
 For å opprette ny eller endre eksisterende brukerer går du til
 
-ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE 
+<strong>ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE</strong> 
 
 Skjermbildet ser da slik ut: 
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
