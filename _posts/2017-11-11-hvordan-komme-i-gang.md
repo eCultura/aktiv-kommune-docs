@@ -28,14 +28,15 @@ En instans er altså 100% dedikert til en konkret kommune, og det vil ikke være
 
 <h2>Om brukergrupper og roller i Aktivkommune</h2>
 Systemet leveres i utgangspunktet med tre predefinerte brukergrupper (default). Disse gruppene er:
+
 1. Admins:           alle rettigheter
 2. Booking admin:    reduserte admin-rettigheter
 3. booking:          saksbehandler for booking (Aktiv…)
 
 Disse tre brukergruppene bør omgående skifte navn til noe mer forståelig, og forslag til nye gruppenavn er: 
-fra (admins)            til      Systemadministrator 
-fra (Booking admin)     til      Superbruker 
-fra (booking)           til      Saksbehandler 
+* fra (admins)            til      Systemadministrator 
+* fra (Booking admin)     til      Superbruker 
+* fra (booking)           til      Saksbehandler 
 
 Det er i skrivende stund ikke besluttet om dette navneskiftet skal gjøres i forkant av leveransen, eller om den nye kommunen selv skal gjøre dette.
 
@@ -44,13 +45,13 @@ Hver kommune kan definere nye brukergrupper ut over disse tre, men dette fraråd
 For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Ressurser</em>). Mer om dette i avsnittet "XXXXXXXX - kommer senere-  XXXXX " 
 
 Systemet blir levert med to default brukere:
-1) Brukeren «sysadmin», som er medlem av «Admins»/ (Systemadministrator). Denne brukeren har tilgang til alt i systemet (både menyvalg og kommandoer). Systemadministrator blir bare brukt når kommunen skal opprette ny superbruker.
-2) Bookingguest. Denne brukeren definerer tilganger for innbygger/bruker (bookingfrontend-bruker). Tilgang gis «automatisk» når innbygger/bruker åpner et søknadskjema i bookingsystemet (bruker blir et anonymt medlem ("gjestebruker") av modulen bookingfrontend).
+1) Brukeren «sysadmin»<. Denne brukeren er medlem av brukergruppen «Admins»/ (Systemadministrator), og den har tilgang til alt i systemet (både menyvalg og kommandoer). Systemadministrator blir bare brukt når kommunen skal opprette ny superbruker.
+2) Bookingguest. Denne brukeren definerer tilganger for innbygger/bruker (bookingfrontend-bruker). Tilgang gis «automatisk» når innbygger/bruker åpner et søknadskjema i bookingsystemet (bruker blir en anonym bruker ("gjestebruker") av modulen bookingfrontend).
 
 <h2>Hva skal gjøres ved første gangs bruk/pålogging i Aktivkommune</h2>
 
 Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommune) sende e-post til systemansvarlig i kommunen/enheten.
-I denne e-posten vi kommunen motta brukernavn (systemadministrator) og passord til systemadministrator. Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt med eget brukernavn(ident) og passord. Navn og passord bli delt ut på samme måte som for Systemadministrator (se over). NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.
+I denne e-posten vi kommunen motta brukernavn (systemadministrator) og passord til systemadministrator. Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt med eget brukernavn(ident) og passord. Navn og passord bli delt ut på samme måte som for Systemadministrator (se over).<strong> NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.</strong>
 
 (0. Logg på som Systemadministrator) STAVANGER?
 1. Klikk på "Ny bruker", og legg inn nødvendige opplysninger (se avsnitt under). Denne brukeren må krysses av og bli medlem av «booking admin» (gruppen "Superbruker"). 
