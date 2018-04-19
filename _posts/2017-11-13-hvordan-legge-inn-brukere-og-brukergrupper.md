@@ -25,11 +25,10 @@ Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. Når en saksbe
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
-#### Under fanen brukerdata fyller du ut informasjonen om brukeren:
+Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
-First header| Second Header
-----------------------|---------------------------------------------
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
+----------------------|---------------------------------------------
 **Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
@@ -41,8 +40,8 @@ First header| Second Header
 **Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard. 
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp. 
 
-Under fanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. 
-Under fanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
+Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. 
+Under arkfanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
 > For å tilordne normal tilgang til en *Saksbehandler* haker du av for *Admin* ved *Booking*
 
 Når du har fylt inn den informasjonen som skal inn, klikker du på 
@@ -52,9 +51,9 @@ Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjerm
 
 ## Inaktivering av bruker
 
-Brukere skal ikke slettes, men settes som inaktiv om de ikke lengre skal ha tilgang til systemet. For å gjøre dette går du til 
+Brukere skal ikke slettes fra systemet, men settes som inaktiv om de ikke lengre skal ha tilgang til systemet. For å gjøre dette velger du: 
 
-ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE 
+<strong>ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE</strong>
 
 Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet haker du vekk for *Bruker er aktiv* og klikker på 
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
@@ -65,7 +64,7 @@ Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gj�
 
 I stedet for å gi enkelttilganger under *Applikasjoner*, så bør du som systemadministrator eller superbruker definere egne tilganger på gruppenivå under: 
 
-ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.
+<strong>ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.</strong>
 
 
 Neste steg vil være [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
