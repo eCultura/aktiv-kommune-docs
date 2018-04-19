@@ -25,6 +25,9 @@ Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. Når en saksbe
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
+Følgende skjermbilde dukker opp:
+![lagre2]("http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.pdf">Ny bruker skjermbilde</a>
+
 Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
@@ -51,7 +54,7 @@ Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjerm
 
 ## Inaktivering av bruker
 
-Brukere skal ikke slettes fra systemet, men settes som inaktiv om de ikke lengre skal ha tilgang til systemet. For å gjøre dette velger du: 
+Brukere skal ikke slettes fra systemet, men settes som <em>inaktiv</em> om de ikke lengre skal ha tilgang til systemet. For å gjøre dette velger du: 
 
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRERE BRUKERE</strong>
 
