@@ -31,7 +31,7 @@ Systemet leveres i utgangspunktet med tre predefinerte brukergrupper (default). 
 
 1. Admins:           alle rettigheter
 2. Booking admin:    reduserte admin-rettigheter
-3. booking:          saksbehandler for booking (Aktiv…)
+3. booking:          saksbehandler for booking (Aktivkommune)
 
 Disse tre brukergruppene bør omgående skifte navn til noe mer forståelig, og forslag til nye gruppenavn er:
  
@@ -47,7 +47,7 @@ For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun ha
 
 Systemet blir levert med to default brukere:
 
-1. Brukeren «sysadmin»<. Denne brukeren er medlem av brukergruppen «Admins»/ (Systemadministrator), og den har tilgang til alt i systemet (både menyvalg og kommandoer). Systemadministrator blir bare brukt når kommunen skal opprette ny superbruker.
+1. Brukeren «sysadmin». Denne brukeren er medlem av brukergruppen «Admins»/ (Systemadministrator), og den har tilgang til alt i systemet (både menyvalg og kommandoer). Systemadministrator blir bare brukt når kommunen skal opprette ny superbruker.
 2. Brukeren "Bookingguest". Denne brukeren definerer tilganger for innbygger/bruker (bookingfrontend-bruker). Tilgang gis «automatisk» når innbygger/bruker åpner et søknadskjema i bookingsystemet (bruker blir en anonym bruker ("gjestebruker") av modulen bookingfrontend).
 
 <h2>Hva skal gjøres ved første gangs bruk/pålogging i Aktivkommune</h2>
