@@ -26,7 +26,7 @@ For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
 Følgende skjermbilde dukker opp:
-![lagre2]("http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.pdf">Ny bruker skjermbilde</a>
+![Ny-bruker-skjermbilde](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.pdf)
 
 Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
