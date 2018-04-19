@@ -29,7 +29,6 @@ For å legge til ny bruker klikker du på
 ### Fyll ut informasjonen om brukeren under fanen brukerdata:
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
 ----------------|--------------------------------------
-
 **Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker e-post adressen som brukernavn.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
