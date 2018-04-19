@@ -1,6 +1,6 @@
 ---
 ID: 291
-post_title: Hvordan opprette kommuner eller bydeler?
+post_title: 'Hvordan opprette kommuner og bydeler/områder &#8211; IKKE FERDI?'
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,13 +8,24 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-13 13:42:18
 ---
+Aktivkommune er et system som er tett knyttet opp mot fagområdet bygg- og eiendomsforvaltning. I Bergen kommune benyttes systemet også som FDV-system for de to byggforvaltningsetatene. 
+
+Den geografiske plasseringen er delt inn slik:
+1. Kommunenavn (instans)
+2. Område
+3. Bydeler 
+4. Eiendommer
+5. Bygg
+
+(vedlagt figur viser hierarkiet) IKKE FERDIG.....
+
 Dette beskriver en minimumsløsning for hvordan opprette flere kommuner eller bydeler i Aktivkommune. I eksempelet under oppretter vi en kommune (lokalisering) og en eiendom. Først knytter vi *lokalisering* til eiendommen for deretter å knytte bygg eller anlegg til *eiendommen*. I eksempelet under lager vi én eiendom for hele kommunen.
 
-## Opprette lokalisering
+## Opprette lokalisering 
 
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
 
-ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING
+<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING</strong>
 
 Skjermbildet ser da slik ut: 
 ![skjermbildet eiendom](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png)
