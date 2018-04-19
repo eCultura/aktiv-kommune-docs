@@ -46,7 +46,7 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe bør velges.
 
 Under arkfanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som bruker eller administrator. 
-> *Saksbehandler* må ha hake ved *Admin* for modulen *Booking*
+> *Saksbehandler* må ha hake ved *Admin* for applikasjonen (modulen) *Booking*
 
 Når du har fylt inn den informasjonen som skal inn, klikker du på 
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
