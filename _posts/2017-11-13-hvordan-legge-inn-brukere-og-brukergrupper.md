@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
+Aktivkommune blir levert med Enten man er administrator, saksbehandler eller begge, må man ha tilgang til systemet for å kunne oppdatere og endre informasjon om bygg/anlegg samt behandle mottatte søknader.  
 
 ## Bruker
 
@@ -27,16 +27,19 @@ For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
 ### Fyll ut informasjonen om brukeren under fanen brukerdata:
-**Brukernavn:** Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker e-post adressen som brukernavn.
-**Fornavn:** Fornavn på brukeren.
-**Etternavn:** Etternavn på brukeren.
-**Passord:** Passord brukerens skal bruke når han/hun logger inn på siden.
-**Skriv inn passord igjen:** Gjenta passord.
-**Kontakt:**
-**Kan bytte passord:** Hak vekk om bruker ikke selv skal kunne bytte passord.
-**Anonym bruker (vises ikke i sesjonslisten):** Hak av om bruker skal være anonym. 
-**Utløpsdato:** Når brukeren ikke lengre skal ha tilgang. Denne er satt til aldri som standard. 
-**Kvote:** Kvote for hvor store filer brukeren kan laste opp. 
+**Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
+----------------|--------------------------------------
+
+**Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker e-post adressen som brukernavn.
+**Fornavn:** |Fornavn på brukeren.
+**Etternavn:** |Etternavn på brukeren.
+**Passord:** |Passord brukerens skal bruke når han/hun logger inn på siden.
+**Skriv inn passord igjen:** |Gjenta passord.
+**Kontakt:**| (brukes ikke)
+**Kan bytte passord:** |Hak vekk om bruker ikke selv skal kunne bytte passord.
+**Anonym bruker (vises ikke i sesjonslisten):** |Hak av om bruker skal være anonym. 
+**Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til aldri som standard. 
+**Kvote:** |Kvote for hvor store filer brukeren kan laste opp. 
 
 Under fanen *Grupper* haker du av for hvilke grupper brukeren skal tilhøre. 
 Under fanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som administrator eller bruker. 
