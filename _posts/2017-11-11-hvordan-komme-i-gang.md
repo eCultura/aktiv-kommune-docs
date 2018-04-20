@@ -18,12 +18,14 @@ Hver kommune må ha en systemansvarlig eller sørge for at en person som er ansa
 
 <h2>Oppretting av ny instans i Aktivkommune</h2>
 Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen <em>instans</em> ("systemkonto") for den nye kommunen /enheten. Som regel vil instansen ha samme navn som kommunen, men også kommunenummer og andre begreper kan benyttes som instansnavn. 
->En <em>instans</em> er avgrenset til :
+
+<blockquote>En <em>instans</em> er avgrenset til :
 <li>1. de brukere (systemadministrator, superbruker, saksbehandler og innbyggere/lag/organisasjoner) som skal bruke løsningen, </li>
  og til
 <li>2. de utleie-ressurser(rom, anlegg, utstyr) som kommunen ønsker å leie ut. </li>
 
 En instans er altså 100% dedikert til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
+</blockquote>
 
 
 <h2>Om brukergrupper og roller i Aktivkommune</h2>
