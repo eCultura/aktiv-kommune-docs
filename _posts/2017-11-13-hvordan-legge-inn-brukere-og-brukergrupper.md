@@ -12,7 +12,6 @@ post_date: 2017-11-13 10:28:21
 ---
 For å kunne oppdatere og endre informasjon om brukere og brukergrupper, så må du ha rettighetene som systemadministrator eller superbruker.
 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde-300x250.png" alt="" width="300" height="250" class="alignnone size-medium wp-image-1165" /> 
 
 ## Bruker
 
