@@ -47,7 +47,7 @@ For å legge til ny bydel klikker du på
 <h2>Fyll inn informasjon om bydel:</h2>
 
 Feltnavn| Forklaring/ Aksjon
-------------------|--------------------------------
+--------------------|-----------------------------------
 <strong>ID:</strong> |Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |Navn på bydel (eller stedsnavn). 
 <strong>Leveringsadresse:|</strong> (dette kan være hovedadressen til kommunen) (BRUKES TIL???)
@@ -67,13 +67,13 @@ For å registrere ny eiendom klikker du på
 
 Feltnavn| Forklaring/ Aksjon
 ------------------|--------------------------------
-<strong>Eiendom:</strong> |Lokasjonskoden til eiendommen (for eksempel: 1246)
+<strong>Eiendom:</strong> |Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
 <strong>Navn:</strong> |Navnet på eiendommen (for eksempel: eiendom i Fjell)
 <strong>Kategori:</strong> |Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
-<strong>Bydel</strong> |Velg bydel fra nedtrekksmenyen som eiendommen går under. 
+<strong>Bydel</strong> |Velg bydel (eller område/stedsnavn) fra nedtrekksmenyen som eiendommen tilhører. 
 <strong>Eier:</strong> |NB! Må være blank.
 <strong>Status:</strong> |Velg <em>ok</em> fra nedtrekksmenyen.
-<strong>Merknad:</strong> |Hvis det er noe spesielt med eiendommen du ønsker å kommentere så skriver du det her.
+<strong>Merknad:</strong> |Hvis det er noe spesielt med eiendommen du ønsker å kommentere, så skriver du det her.
  
 De resterende feltene er det ikke behov for å fylle inn.
 
