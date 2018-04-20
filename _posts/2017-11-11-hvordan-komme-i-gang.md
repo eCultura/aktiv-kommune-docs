@@ -25,7 +25,14 @@ Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen
 <li>2. de utleie-ressurser(rom, anlegg, utstyr) som kommunen ønsker å leie ut. </li>
 
 En instans er altså 100% dedikert til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
-</blockquote>
+Instansen inneholder alle moduler i FDV-systemet (Portico Estate), men for å etablere og bruke Aktivkommune brukes følgende fire moduler:
+
+* Booking (full bruk)
+* Bookingfrontend (full bruk)
+* Administrasjon (delvis bruk)
+* Eiendom (delvis bruk)
+
+Denne manualen konsentrerer seg kun om de moduler og funksjoner som til sammen utgjør Aktivkommune </blockquote>
 
 
 <h2>Om brukergrupper og roller i Aktivkommune</h2>
@@ -66,11 +73,11 @@ LAG/sett inn EGET SKJERMBILDE
 Denne brukeren brukes til videre konfigurasjon av systemet
 
 
-><li>Instansen trenger normalt bare en <em>systemadministrator</em>, og denne brukeren vil ha tilgang til alle menyvalg/kommandoer i systemet.  </li> 
+><li>Instansen trenger normalt bare en <em>systemadministrator</em>, og denne brukeren vil ha tilgang til alle menyvalg/kommandoer i systemet. Systemadministrator vil ha tilgang til kommandoer som både vedrører FDV-delen og booking-delen av systemet Portico Estate </li> 
 
 De aller viktigeste konfigureringer av bookingsystemet gjøres av en person som har tilgang som superbruker. En instans bør ha flere enn en superbruker, men dette er ikke et absolutt krav.
 
-><li>En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum. </li>
+><li>En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis ti booking-delen av Portico Estate</li>
 
 
 <h2>Support/backup på roller/tilganger. </h2>
