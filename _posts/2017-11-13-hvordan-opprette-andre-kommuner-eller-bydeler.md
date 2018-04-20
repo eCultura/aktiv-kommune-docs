@@ -9,9 +9,9 @@ published: true
 post_date: 2017-11-13 13:42:18
 ---
 <blockquote>
-Aktivkommune er et system som er tett knyttet opp mot fagområdet bygg- og eiendomsforvaltning. I Bergen kommune benyttes systemet også som FDV-system for de to byggforvaltningsetatene. Den geografiske inndeling er delt inn slik: 
+Aktivkommune er et system som er tett knyttet opp mot fagområdet bygg- og eiendomsforvaltning. I Bergen kommune benyttes det utvidede systemet (Portico Estate) også som FDV-system for de to byggforvaltningsetatene. Den geografiske inndeling er delt inn slik: 
  
-</blockquote>
+
 <ol>
 <li>Kommunenavn (instans)</li> 
  
@@ -23,9 +23,13 @@ Aktivkommune er et system som er tett knyttet opp mot fagområdet bygg- og eiend
 <li>Bygg</li>
 </ol>
 Utleieressursene (ressursgrupper og ressurser) legges på nivå 4 (eiendom) og 5 (bygg). Mer om dette under <strong>rollen "Superbruker", og punktet XXX--kommer senere --XXX</strong>
+</blockquote>
+
 (vedlagt figur viser hierarkiet) IKKE FERDIG.....
-Hvordan nivå 1 (instans) ble opprettet ble forklart i avsnittet [hvordan komme i gang med Aktivkommune.]( <a href="http://manual.aktiv-kommune.no/?p=69"></a> eller bydeler i Aktivkommune. I eksempelet under oppretter vi en kommune (lokalisering) og en eiendom. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen. 
-<h2>Opprette lokalisering</h2>
+
+Hvordan nivå 1 (instans) ble opprettet ble forklart i avsnittet [hvordan komme i gang med Aktivkommune.]( <http://manual.aktiv-kommune.no/?p=69). I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter vi et område (det vil si en kommune (lokalisering) og en eiendom. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen. 
+<h2>Opprette område (lokalisering)</h2>
+
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
 <strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING</strong>
 Skjermbildet ser da slik ut: 
