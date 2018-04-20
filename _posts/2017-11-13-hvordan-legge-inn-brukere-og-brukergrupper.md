@@ -67,9 +67,9 @@ Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gj�
 
 ## Brukergrupper
 
-NB! I stedet for å gi enkelttilganger under *Applikasjoner*, så bør du som systemadministrator eller superbruker definere egne tilganger på gruppenivå under: 
+NB! I stedet for å gi enkelttilganger til en konkret (ny) bruker under *Applikasjoner*, så er klart beste praksis at tilgang gis ved at bruker blir meldt inn i en brukergruppe (enten som saksbehandler, superbruker eller systemadministrator). Dette skjer via kommandoen: 
 
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.</strong>
 
 
-Neste steg vil være [å opprette en kommune eller bydeler.](https://manual.aktiv-kommune.no/?p=291)
+Neste steg vil være [å opprette en kommune eller bydeler/områder.](https://manual.aktiv-kommune.no/?p=291)
