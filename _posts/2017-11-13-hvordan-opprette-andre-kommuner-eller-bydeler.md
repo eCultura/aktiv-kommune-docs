@@ -1,6 +1,6 @@
 ---
 ID: 291
-post_title: 'Hvordan opprette kommuner og bydeler/områder &#8211; IKKE FERDI?'
+post_title: 'Hvordan opprette kommuner og bydeler/områder? &#8211; IKKE FERDI'
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -80,19 +80,27 @@ De resterende feltene er det ikke behov for å fylle inn.
 Når du er ferdig klikker du på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
 <h2>Opprette bygg i Eiendom</h2>
-Det mest hensiktsmessige er å opprette alle kommunens bygg ved bruk av kommandoen
+
+
+Det mest hensiktsmessige er å opprette alle kommunens bygg i Eiendoms-modulen. Dette gjøres via kommandoen:
 
 <strong>EIENDOM => LOKASJON => BYGNING</strong>
-og ikke bare i
+
+(om ikke alle bygg er lest inn via et regneark. Kontakt driftsleverandør av Aktivkommune for å få bistand  her)
+
+> Det kan i noen sammenhenger se ut som om man gjør litt dobbelarbeid her, for hvorfor skal bygg registreres både i Eiendoms-modulen ("byggregister") og i Bookingmodulen? Forklaringen på det er at det komplette byggregisteret i kommunen (uavhengig av om det skal leies ut eller ikke) er plassert i byggregisteret, men at de ressurser (blant annet bygg) som skal leies ut via Aktivkommune registreres i Bookingmodulen.
+
+Bygg (og anlegg) legges inn bookingmodulen ved bruk av kommandoen:
 
 <strong>BOOKING => BYGG/ANLEGG</strong> 
 
 (Les mer om hvordan dette gjøres <a href="http://manual.aktiv-kommune.no/?p=321">her</a>.)
+
 Bygget kan da knyttes til bygg eller anlegg i <em>Booking->Bygg/Anlegg</em> med en kombinasjon av <em>Lokaliseringskode</em> og <em>Bygningskode</em> (for eksempel: 1246-1200) i <em>Lokaliseringskode</em>.
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/booking_bygg-anlegg-e1511184434853.png" alt="Booking " />
 
 <h2>Knytte bygg til eiendom i Booking</h2>
-Når en eiendom er registrert så må det registreres minst ett bygg/anlegg som tilhører eiendommen.
+Når en eiendom er registrert,  så kan det registreres bygg og/eller anlegg som er plassert på eller tilknyttet denne eiendommen. Dette skjer via kommandoen:
 
 <strong>EIENDOM => LOKASJON => BYGNING</strong>
 
@@ -106,4 +114,5 @@ I <em>Lokasjonskode</em> skriver du inn koden som ble registrert når du registr
 
 Når du er ferdig klikker du på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
+
 Neste steg er <a href="https://manual.aktiv-kommune.no/?p=321">å opprette en bygning.</a>
