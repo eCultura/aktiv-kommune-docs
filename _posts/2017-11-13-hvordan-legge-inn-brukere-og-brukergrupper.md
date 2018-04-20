@@ -10,7 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde-300x250.png" alt="" width="300" height="250" class="alignnone size-medium wp-image-1165" />Som systemadministrator eller superbruker, så har du tilgang til å oppdatere og endre informasjon om brukere og brukergrupper.  
+For å kunne oppdatere og endre informasjon om brukere og brukergrupper, så må du ha rettighetene som systemadministrator eller superbruker.
+
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde-300x250.png" alt="" width="300" height="250" class="alignnone size-medium wp-image-1165" /> 
 
 ## Bruker
 
@@ -20,7 +22,7 @@ For å opprette ny bruker eller endre opplysninger om eksisterende brukere velge
 Skjermbildet ser da slik ut: 
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
-Her kan du vise, endre eller gjøre eksisterende brukere inaktiv. Når en saksbehandler eller superbruker slutter i kommunen, eller ikke lenger skal ha tilgang, så vil brukeren ikke slettes fra systemet, men kun gjøres inaktiv. Med dette grepet vil informasjon/historikk om saksbehandlingen beholdes.
+Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbehandler eller superbruker slutter i kommunen, eller ikke lenger skal ha tilgang, så vil brukeren ikke slettes fra systemet, men kun gjøres inaktiv. Med dette grepet vil informasjon/historikk om saksbehandlingen beholdes.
 
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
@@ -66,7 +68,7 @@ Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gj�
 
 ## Brukergrupper
 
-I stedet for å gi enkelttilganger under *Applikasjoner*, så bør du som systemadministrator eller superbruker definere egne tilganger på gruppenivå under: 
+NB! I stedet for å gi enkelttilganger under *Applikasjoner*, så bør du som systemadministrator eller superbruker definere egne tilganger på gruppenivå under: 
 
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRERE GRUPPER.</strong>
 
