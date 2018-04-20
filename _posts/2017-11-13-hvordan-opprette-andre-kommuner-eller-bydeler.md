@@ -14,13 +14,13 @@ Den geografiske inndelingen i FDV-systemet (og dermed også Aktivkommune) er del
  
 
 <ol>
-<li>Kommunenavn (instans)</li> 
+<li><strong>Instansnavn</strong> (gjerne kommunenavn)</li> 
  
  
-<li>Område</li>
-<li>Bydeler </li>
-<li>Eiendommer</li>
-<li>Bygg</li>
+<li><strong>Område</strong> (kommunenavn eller områdenavn)</li>
+<li><strong>Bydeler</strong> (bydel eller et "mindre" områdenavn; stedsnavn, bygd, dal, øy etc), </li>
+<li><strong>Eiendommer</strong> (gårds- og bruksnummer)</li>
+<li><strong>Bygg</strong> (navn på bygg/ anlegg)</li>
 </ol>
 Utleieressursene (ressursgrupper og ressurser) legges på nivå 4 (eiendom) og 5 (bygg). Mer om dette under <strong>rollen "Superbruker", og punktet XXX--kommer senere --XXX</strong>
 </blockquote>
