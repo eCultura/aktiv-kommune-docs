@@ -9,7 +9,8 @@ published: true
 post_date: 2017-11-13 13:42:18
 ---
 <blockquote>
-Aktivkommune er et system som er tett knyttet opp mot fagområdet bygg- og eiendomsforvaltning. I Bergen kommune benyttes det utvidede systemet (Portico Estate) også som FDV-system for de to byggforvaltningsetatene. Den geografiske inndeling er delt inn slik: 
+Aktivkommune er et system som er har sitt utgangspunkt i FDV-systemet som kalles Portico Estate. FDV står for Forvaltning, Drift og Vedlikehold (av bygg og eiendommer). I Bergen kommune benyttes Portico Estate som FDV-system for de to bygg- og eiendomsforvaltningsetatene. 
+Den geografiske inndelingen i FDV-systemet (og dermed også Aktivkommune) er delt inn slik: 
  
 
 <ol>
