@@ -27,7 +27,7 @@ Utleieressursene (ressursgrupper og ressurser) legges på nivå 4 (eiendom) og 5
 
 (vedlagt figur viser hierarkiet) IKKE FERDIG.....
 
-Hvordan nivå 1 (instans) ble opprettet ble forklart i avsnittet [hvordan komme i gang med Aktivkommune.]( <http://manual.aktiv-kommune.no/?p=69). I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter vi et område (det vil si en kommune (lokalisering) og en eiendom. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen. 
+Hvordan nivå 1 (instans) ble opprettet ble forklart i avsnittet [hvordan komme i gang med Aktivkommune.](http://manual.aktiv-kommune.no/?p=69). I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter vi et område (det vil si en kommune (lokalisering) og en eiendom. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen. 
 <h2>Opprette område (lokalisering)</h2>
 
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
