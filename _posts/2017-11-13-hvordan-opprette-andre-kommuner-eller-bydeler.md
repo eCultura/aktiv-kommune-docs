@@ -82,13 +82,13 @@ Når du er ferdig klikker du på
 <h2>Opprette bygg i Eiendom</h2>
 
 
-Det mest hensiktsmessige er å opprette alle kommunens bygg i Eiendoms-modulen. Dette gjøres via kommandoen:
+Det mest hensiktsmessige er å opprette <em>alle</em>  kommunens bygg i Eiendoms-modulen. Dette gjøres via kommandoen:
 
 <strong>EIENDOM => LOKASJON => BYGNING</strong>
 
-(om ikke alle bygg er lest inn via et regneark. Kontakt driftsleverandør av Aktivkommune for å få bistand  her)
+(NB! om ikke alle bygg er lest inn via et regneark. Kontakt driftsleverandør av Aktivkommune for å få bistand her)
 
-> Det kan i noen sammenhenger se ut som om man gjør litt dobbelarbeid her, for hvorfor skal bygg registreres både i Eiendoms-modulen ("byggregister") og i Bookingmodulen? Forklaringen på det er at det komplette byggregisteret i kommunen (uavhengig av om det skal leies ut eller ikke) er plassert i byggregisteret, men at de ressurser (blant annet bygg) som skal leies ut via Aktivkommune registreres i Bookingmodulen.
+> Det kan i noen sammenhenger se ut som om man gjør litt dobbelarbeid her, for hvorfor skal bygg registreres både i Eiendoms-modulen ("byggregister") og i Bookingmodulen? Forklaringen på det er at det komplette byggregisteret i kommunen (uavhengig av om det skal leies ut eller ikke) er plassert i byggregisteret (Eiendomsmodulen), men at (kun) de ressurser (blant annet bygg) som skal leies ut via Aktivkommune registreres i Bookingmodulen. NB! Det er ingen forutsetning at HELE bygningsregisteret blir registrert inn i Eiendomsmodulen, men det vil forenkle arbeidet senere.
 
 Bygg (og anlegg) legges inn bookingmodulen ved bruk av kommandoen:
 
