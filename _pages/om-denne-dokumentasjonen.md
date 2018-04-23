@@ -18,7 +18,7 @@ Løsningen tilbyr:
 
 * Oversikt over tilgjengelige anlegg og bruksmuligheter
 
-* Administrativt verktøy for utleie (fakturering, avtaler, HMS) med grensesnitt mot kommunens administrative løsninger
+* Administrativt verktøy for utleie med grensesnitt mot kommunens administrative løsninger
 
 ## Brukerdel og administrasjonsdel
 
