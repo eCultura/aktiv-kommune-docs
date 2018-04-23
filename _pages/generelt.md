@@ -11,9 +11,9 @@ post_date: 2017-11-11 18:55:59
 ---
 [display-posts category="Generelt" posts_per_page="-1" include_date="true" order="ASC" orderby="title"]
 
-# AktivKommune v.1.0
+# Om Aktiv kommune manualen
 
-Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høy fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
+Her finner du generell informasjon om metoder for vedlikehold av denne manualen. Vi har høy fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
 
 &gt;MERK: Dette nettstedet skal etter hvert inneholde en komplett veiledning for de ulike brukergrupper av AktivKommune og de oppgaver de skal utføre. Fram til første installasjon av **AktivKommune versjon 1.0** i januar 2018 vil dette nettstedet inneholde flere uferdige nettsider.
 
