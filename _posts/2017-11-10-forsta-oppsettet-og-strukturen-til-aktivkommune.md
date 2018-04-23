@@ -2,7 +2,7 @@
 ID: 914
 post_title: >
   Forstå oppsettet og strukturen til
-  Aktivkommune.
+  Aktiv kommune
 author: Marie Aune
 post_excerpt: ""
 layout: post
@@ -10,12 +10,15 @@ permalink: http://manual.aktiv-kommune.no/?p=914
 published: true
 post_date: 2017-11-10 10:53:36
 ---
-For å kunne legge inn data på de riktige plassene i Aktivkommune er det viktig at du forstår sammenhengen og koblingen mellom de ulike grunnelementene i systemet. Fra denne siden skal det etter hvert bli mulig å finne flere beskrivelser og omtaler av systemet. 
+<strong>Oppbygning </strong>
 
-Det skal være mulig å følge instruksjonene som er beskrevet for "<em>Superbruker</em>"  og "<em>Saksbehandler</em>" , og få satt opp systemet på en grei måte. Men det vil være en fordel om man har sett gjennom dokumentasjonen fra denne siden.
+Før Aktiv kommune tas i bruk må det opprettes en del grunndata og da er det viktig at organisasjonen som tar løsningen i bruk forstår oppsettet på løsningen. Under forklares de ulike bookingbegrepene sesong, tildeling, booking og arrangement.
 
-Det vil være noe ulike behov for en kommune, og noen innstillinger og bruksmåter vil egne seg best for store kommuner, mens andre innstillinger vil egne seg bedre for mellomstore og små kommuner.
-
-Systemet er rimelig fleksibelt, og vil kunne takle ulike søknadskjemaer og saksbehandlingsprosesser for de ulike fagetatene i en kommune. I Bergen brukes for eksempel systemet både av idrett, kultur og bymiljøetaten, og etatene har noe ulik tilnærming til prosessn tilknyttet utleie, booking og saksbehandling.
- 
-<strong>UFERDIG......</strong>
+<strong><em>De ulike begrepene </em></strong>
+<ul>
+ 	<li>Sesong – en sesong varer gjerne et halvt år og baserer seg på rammetider som gjentas hver uke. Etter en sesong er etablert lages det en ukesplan med alle rammetidene som så rulles ut for hele sesongen</li>
+ 	<li>Tildeling – Dette er en rammetid for en organisasjon. Organisasjoner kan kan dele tildelinger videre til sine undergrupper</li>
+ 	<li>Interntildeling – Mens en tildeling registreres på en organisasjon, registreres en interntildeling oftest på en gruppe eller et lag i en organisasjon f.eks. jenter 13 og gutter 9 år</li>
+ 	<li>Arrangement – Enkeltstående hendelse over en eller flere dager. Kan legges over tildelinger ved behov. Typisk vil et arrangement være enkeltstående konserter, idrettsarrangement, bydager, politiske valg osv</li>
+</ul>
+&nbsp;
