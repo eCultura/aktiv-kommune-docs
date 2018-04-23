@@ -1,6 +1,6 @@
 ---
 ID: 37
-post_title: Om denne dokumentasjonen
+post_title: Velkommen til Aktiv kommune manualen
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
@@ -8,14 +8,23 @@ permalink: http://manual.aktiv-kommune.no/
 published: true
 post_date: 2017-11-11 12:43:36
 ---
-# AktivKommune v.1.0
+# Om Aktiv kommune
 
-Her finner du generell informasjon om metoder for vedlikehold av denne dokumentasjonen. Vi har høy fokus på brukervennlig dokumentasjon og trenger derfor tilbakemeldinger dersom noe er uklart eller uforståelig. Du kan kontakte oss [her](https://manual.aktiv-kommune.no/?page_id=9).
+Aktiv kommune er en bookingløsning som er utviklet i samarbeid mellom Stavanger, Bergen, Fjell og Ålesund kommune. Løsningen er skybasert og håndterer administrasjon av kommunale bygg og anlegg som idrettshaller og kulturlokaler.
 
-&gt;MERK: Dette nettstedet skal etter hvert inneholde en komplett veiledning for de ulike brukergrupper av AktivKommune og de oppgaver de skal utføre. Fram til første installasjon av **AktivKommune versjon 1.0** i januar 2018 vil dette nettstedet inneholde flere uferdige nettsider.
+Løsningen gir enkel:
 
-## Klart språk
-Innholdet på kommunenes nettsider, i trykksaker, brev og annen skriftlig kommunikasjon skal være lett å forstå og oppleves som relevant for publikum. Når du skal skrive til en leser, er det lurt å følge noen enkle råd. Du finner gode råd for *Klart språk* [her](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/klart_spraak.pdf). Mer utfyllende informasjon om *Klart språk* finner du hos [Språkrådet](http://www.sprakradet.no/Klarsprak/).
+* Oversikt til innbyggere om tilgjengelighet og åpningstider og gir mulighet til å søke om leie.
+
+* Informasjon til lag og organisasjoner om anlegg, søknadsprosess og leiemuligheter.
+
+* Administrativt verktøy for utleie (fakturering, avtaler, HMS), med grensesnitt mot kommunens administrative løsninger for arkiv, økonomi og bygg.
+
+* Oversikt over tilgjengelige anlegg og bruksmuligheter (type rom/baner/ utrustning)
+
+## Kort om Aktiv kommune og brukere
+
+Bookingmodulen består av en administrasjonsdel (backend) og en brukerdel (frontend). Frontend er løsningen som sluttbrukerne vil se på hjemmesiden. Fra frontend er det mulighet for å søke på bygg, organisasjon og ressurser. Herfra kan brukere hente informasjon om tilgjengelighet, treningstider, arrangementer. Lagledere og organisasjoner som er gitt tilgang til administrasjon av tildelte tider på de enkelte bygg, kan logge seg inn ved hjelp av Altinn for administrasjon via frontend. Fra frontend kan brukere søke om f.eks. leie av et anlegg. Kommunikasjonen foregår ved hjelp av elektronisk skjema og epost. Administrasjonsdelen (backend) består for det meste av administrasjonsfunksjoner for de ansvarlige i kommunen. Her finnes muligheter for registrering av organisasjoner, bygg, ressurser osv. I tillegg finnes det funksjoner for overføring til eksternt faktureringssystem. Fra denne delen av systemet vil de ansvarlige også kunne sette opp sesonger for et anlegg, dvs. bestemme hvilke dager og klokkeslett et lag/organisasjon får bestille tid i et bygg og hvem som skal ha tilgang til å gjøre dette de enkelte ukedager og tidspunkt. Fra backend vil de ansvarlige også håndtere søknader fra publikum.
 
 ## Universell utforming
 Vi skal ta hensyn til variasjonen i funksjonsevnene til ulike brukergrupper, inkludert personer med nedsatt funksjonsevne. For å følge regelverk knyttet til *universell utforming* kan du lese mer [her](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden).
