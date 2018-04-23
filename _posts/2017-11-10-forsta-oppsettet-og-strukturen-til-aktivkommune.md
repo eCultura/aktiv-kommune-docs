@@ -12,7 +12,7 @@ post_date: 2017-11-10 10:53:36
 ---
 <strong>Oppbygning </strong>
 
-Før Aktiv kommune tas i bruk må det opprettes en del grunndata og da er det viktig at organisasjonen som tar løsningen i bruk forstår oppsettet på løsningen. Under forklares de ulike bookingbegrepene sesong, tildeling, booking og arrangement.
+Før Aktiv kommune tas i bruk må det opprettes en del grunndata og da er det viktig at superbruker forstår oppsettet på løsningen. Under forklares de ulike bookingbegrepene sesong, tildeling, booking og arrangement.
 
 <strong><em>De ulike begrepene </em></strong>
 <ul>
