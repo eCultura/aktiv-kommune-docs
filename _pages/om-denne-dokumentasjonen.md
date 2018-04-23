@@ -24,7 +24,7 @@ Løsningen gir enkel:
 
 ## Brukerdel og administrasjonsdel
 
-Bookingmodulen består av en administrasjonsdel (backend) og en brukerdel (frontend).
+Bookingløsningen består av en administrasjonsdel (backend) og en brukerdel (frontend).
 
 Frontend er løsningen som sluttbrukerne vil se på hjemmesiden. Fra frontend er det mulighet for å søke på bygg, organisasjon og ressurser. Herfra kan brukere hente informasjon om tilgjengelighet, treningstider, arrangementer. Lagledere og organisasjoner som er gitt tilgang til administrasjon av tildelte tider på de enkelte bygg, kan logge seg inn ved hjelp av Altinn for administrasjon via frontend. Fra frontend kan brukere søke om f.eks. leie av et anlegg. Kommunikasjonen foregår ved hjelp av elektronisk skjema og epost.
 
