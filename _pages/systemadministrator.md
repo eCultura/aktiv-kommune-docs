@@ -17,7 +17,7 @@ Når Aktiv kommune installeres vil det opprettes en administrator for hele løsn
 
 Prosesskart for nødvendige forbredelser en superbruker (og systemadministrator) må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-3.pdf)
 
-## Nødvendige forberedelser før systemet kan brukes
+## Nødvendige forberedelser før oppstart
 [display-posts category="forberedelser-for-systemet-kan-brukes" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 Når punktene er utført så må man gå til brukerveiledningen for saksbehandler og fullføre denne før systemet kan tas helt i bruk. Når punktene er utført så må man gå til brukerveiledningen for saksbehandler og fullføre denne før systemet kan tas helt i bruk.
