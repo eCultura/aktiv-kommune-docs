@@ -1,6 +1,6 @@
 ---
 ID: 291
-post_title: 'Hvordan opprette kommuner og bydeler/områder? &#8211; IKKE FERDI'
+post_title: Opprette eiendom, bydeler og områder?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,19 +8,21 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-13 13:42:18
 ---
-<blockquote>Aktiv kommune deler inn kommunens ressurser slik:
-<ol>
- 	<li><strong>Instansnavn</strong> (kommunenavn)</li>
- 	<li><strong>Område</strong> (kommunenavn eller områdenavn)</li>
- 	<li><strong>Bydeler</strong> (bydel eller et "mindre" områdenavn; stedsnavn, bygd, dal, øy etc),</li>
- 	<li><strong>Eiendommer</strong> (gårds- og bruksnummer)</li>
+<blockquote>Aktiv kommune deler inn kommunens ressurser i 5 nivå:
+<ul>
  	<li><strong>Bygg</strong> (navn på bygg/ anlegg)</li>
-</ol>
-Utleieressursene (ressursgrupper og ressurser) legges på nivå 4 (eiendom) og 5 (bygg). Mer om dette under <strong>rollen [Superbruker](https://manual.aktiv-kommune.no/?page_id=118)</strong></blockquote>
-Hvordan nivå 1 Instansnavn (kommune) ble opprettet ble forklart i avsnittet [hvordan komme i gang med Aktivkommune](http://manual.aktiv-kommune.no/?p=69). I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter først et område (det vil si i praksis en kommune (i systemet kalt lokalisering) og en bydel (for de kommuner som ikke har bydeler kan stedsnavn, bygd, dal, øy brukes).
+ 	<li><strong>Eiendommer</strong> (gårds- og bruksnummer)</li>
+ 	<li><strong>Bydeler</strong> (bydel eller et "mindre" områdenavn; stedsnavn, bygd, dal, øy etc),</li>
+ 	<li><strong>Område</strong> (kommunenavn eller områdenavn)</li>
+ 	<li><strong>Instansnavn</strong> (kommunenavn)</li>
+</ul>
+Hver eiendom eller bygg kan ha flere ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
+Instansnavn er høyeste nivå (1). I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instansnavnet.
+
+I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter først et område (det vil si i praksis en kommune (i systemet kalt lokalisering) og en bydel (for de kommuner som ikke har bydeler kan stedsnavn, bygd, dal, øy brukes).
 
 Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen.
-<h2>Opprette område (lokalisering)</h2>
+<h2>Opprette område</h2>
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
 <strong>ADMINISTRASJON =&gt; EIENDOM =&gt; ADMINISTRER LOKALISERING</strong>
 
@@ -64,37 +66,7 @@ De resterende feltene er det ikke behov for å fylle inn.
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
-<h2>Opprette bygg i Eiendom</h2>
-Det mest hensiktsmessige er å opprette <em>alle</em> kommunens bygg i Eiendoms-modulen. Dette gjøres via kommandoen:
 
-<strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
-
-(NB! om ikke alle bygg er lest inn via et regneark. Kontakt driftsleverandør av Aktivkommune for å få bistand her)
-
-&gt; Det kan i noen sammenhenger se ut som om man gjør litt dobbelarbeid her, for hvorfor skal bygg registreres både i Eiendoms-modulen ("byggregister") og i Bookingmodulen? Forklaringen på det er at det komplette byggregisteret i kommunen (uavhengig av om det skal leies ut eller ikke) er plassert i byggregisteret (Eiendomsmodulen), men at (kun) de ressurser (blant annet bygg) som skal leies ut via Aktivkommune registreres i Bookingmodulen. NB! Det er ingen forutsetning at HELE bygningsregisteret blir registrert inn i Eiendomsmodulen, men det vil forenkle arbeidet senere.
-
-Bygg (og anlegg) legges inn bookingmodulen ved bruk av kommandoen:
-
-<strong>BOOKING =&gt; BYGG/ANLEGG</strong>
-
-(Les mer om hvordan dette gjøres <a href="http://manual.aktiv-kommune.no/?p=321">her</a>.)
-
-Bygget kan da knyttes til bygg eller anlegg i <em>Booking-&gt;Bygg/Anlegg</em> med en kombinasjon av <em>Lokaliseringskode</em> og <em>Bygningskode</em> (for eksempel: 1246-1200) i <em>Lokaliseringskode</em>.
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/booking_bygg-anlegg-e1511184434853.png" alt="Booking " />
-<h2>Knytte bygg til eiendom i Booking</h2>
-Når en eiendom er registrert, så kan det registreres bygg og/eller anlegg som er plassert på eller tilknyttet denne eiendommen. Dette skjer via kommandoen:
-
-<strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
-
-Skjermbildet ser da slik ut:
-
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendombygning.png" alt="skjermbildet bygning" />
-
-Her velger du et bygg for så å klikke på
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="rediger" />
-I <em>Lokasjonskode</em> skriver du inn koden som ble registrert når du registrerte eiendom (for eksempel 1246 for Fjell).
-
-Når du er ferdig klikker du på
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
+&nbsp;
 
 Neste steg er <a href="https://manual.aktiv-kommune.no/?p=321">å opprette en bygning.</a>
