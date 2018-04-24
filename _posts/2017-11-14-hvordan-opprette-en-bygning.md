@@ -2,7 +2,7 @@
 ID: 321
 post_title: >
   Hvordan opprette et bygg og en
-  ressursgruppe? Og hva er forskjellen?
+  ressursgruppe?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -10,13 +10,13 @@ permalink: http://manual.aktiv-kommune.no/?p=321
 published: true
 post_date: 2017-11-14 11:00:18
 ---
-Dette punktet kan i utgangspunktet virke noe forvirrende, for hvorfor er det to måter å opprette et bygg på i systemet? Forklaringen er denne:
-Oppretter du et bygg via Eiendoms-modulen, så registrerer du det fysiske bygget og kun det. Dette gjøres via kommandoen:
+Dette punktet kan i utgangspunktet virke noe forvirrende, for hvorfor er det to måter å opprette et bygg (og samme bygg) på i systemet? Forklaringen er denne:
+Oppretter du et bygg via Eiendoms-modulen, så registrerer du det fysiske bygget og kun det. Opprettelse av bygget gjøres via kommandoen:
 <strong>EIENDOM => LOKASJON => BYGNING</strong>
 
 Dette bygget kan ikke leies ut (fordi det ikke er registrert i Booking-modulen)
 
-Men oppretter du et bygg i Booking-modulen, så oppretter du bygget og klargjør dette for utleie. Dette gjøres via kommandoen:
+Men oppretter du et bygg i Booking-modulen, så oppretter du bygget og klargjør dette samtidig for utleie (NB! Ressurs må også kobles på senere). Opprettelse av bygget (egentlig ressursgruppen) gjøres via kommandoen:
 <strong>BOOKING => BYGG/ANLEGG</strong>
 
 Men kommandoen "BOOKING=>BYGG/ANLEGG" kan gjøre mer enn å bare å opprette bygg. Den brukes også til å opprette anlegg og utstyrsgrupper - som også kan utgjøre en basis for utleie av (enkelt)ressurser. Begrepet "BYGG/ANLEGG" er derfor noe misvisende, og det kan hende at vi på sikt bytter dette begrepet ut med et annet begrep. I bookingsammenheng snakker vi ofte om begrepet "Ressursgruppe". 
@@ -26,9 +26,9 @@ Men kommandoen "BOOKING=>BYGG/ANLEGG" kan gjøre mer enn å bare å opprette byg
 * <strong>Anlegg </strong>(uteanlegg; både idrett og kultur, friluftsområder, parker, torg etc.) 
 * <strong>Utstyrsgrupper </strong>(flyttbare eller faste installasjoner; f.eks. instrumenter, idrettsutstyr, kanoer, AV-utstyr etc. 
 
-I Aktivkommunesammenheng blir kommandoen "BYGG/ANLEGG" ofte omtalt som en "Ressursgruppe"; der en ressursgruppe kan inneholde en samling med (utleie)ressurser.
+I sammenheng med Aktivkommune  blir kommandoen "BYGG/ANLEGG" ofte omtalt som en "Ressursgruppe"; der en ressursgruppe kan inneholde en samling med (utleie)ressurser.
 
->Det er bare superbrukere og administratorer som kan legge inn og redigere "Bygg" i Eiendomsmodulen.
+>Det er bare superbrukere og administratorer som kan legge inn og redigere "Bygg" i Eiendomsmodulen. Og det er bare disse brukergruppene som kan legge inn og redigere "ressursgrupper" (BYGG/ANLEGG) i Bookingmodulen.
 
 ### Opprette bygg(, anlegg og utstyrsgrupper) i bookingmodulen
 
@@ -48,7 +48,7 @@ Skjermbildet ser da slik ut:
 For å registrere et nytt bygg klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
-## Fyll informasjon om bygning: 
+## Fyll informasjon om bygget: 
 Feltnavn| .      .
 ---------------|---------------------------------
 **Eiendom:** |Klikk på ruten og du får opp forslag til lokasjonskoder, velg rett kode.
