@@ -1,7 +1,7 @@
 ---
 ID: 278
 post_title: >
-  Endre på e-postinnstillinger for
+  Endre e-postinnstillinger for
   arrangement
 author: Arild M. Halvorsen
 post_excerpt: ""
