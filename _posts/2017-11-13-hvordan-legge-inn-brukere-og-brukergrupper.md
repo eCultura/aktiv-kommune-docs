@@ -53,8 +53,8 @@ Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjerm
 
 ## Begrenset tilgang til Aktiv kommune
 Roller i Aktiv kommune:
-*Administrator – Tilgang til å opprette nytt og endre
-*Saksbehandler – Kun tilgang til å endre
+**Administrator – Tilgang til å opprette nytt og endre
+**Saksbehandler – Kun tilgang til å endre
 
 Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet. Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
 
