@@ -27,7 +27,7 @@ For å opprette nytt bygg/anlegg (ny ressursgruppe) klikk på
 ### Fyll ut informasjonen om bygget/anlegget (ressursgruppa):
 
 <strong>Feltnavn</strong>| Forklaring/ Aksjon
-------------------|--------------------------------------
+-------------------------|--------------------------------------
 **Lokasjonskode:** |Lokasjonskoden til det aktuelle bygget/anlegget. Hvor er bygget eller anlegget lokalisert. Forslag til lokasjonskoder vil dukke opp når man skriver i feltet (lokasjonskoden skal tidligere ha blitt lagt inn under oppretting av eiendom). 
 **Bygg/anlegg:** |Navn på bygg/anlegg (ressursgruppa). Se kommentar under
 **Gate:** |Gate til det aktuelle bygg/anlegg.
@@ -47,7 +47,7 @@ For å opprette nytt bygg/anlegg (ny ressursgruppe) klikk på
 **Tekst bak kalenderknapp:** | --brukes ikke ?--
 **Beskrivelse:** |Gjerne en kort beskrivelse av bygg/anlegg (ressursgruppe) og hva som er tilgengelig av utleieressurser.
 
->NB! BYGG/ANLEGG. Det er navnet som blir lagt inn i dette feltet som i neste omgang blir søkbart i frontenddelen av Aktivkommune (oppstartstiden). Det er derfor viktig at vi velger ord og vendinger som er allment kjent blant innbyggerne, og som de kjenner igjen i vanlig dagligtale, og som de trolig vil bruke i søkefeltet i frontend-delen.
+>NB! BYGG/ANLEGG. Det er navnet som blir lagt inn i dette feltet som i neste omgang blir søkbart i frontenddelen av Aktivkommune (oppstartstiden). Det er derfor viktig at dere velger ord og vendinger om byggene/anleggene som er allment kjent og brukt blant innbyggerne, (og som de trolig vil bruke når de søker i søkefeltet i frontend-delen).
 
 
 Når du er ferdig klikker du på 
