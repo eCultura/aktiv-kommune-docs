@@ -10,11 +10,11 @@ permalink: http://manual.aktiv-kommune.no/?p=166
 published: true
 post_date: 2017-12-01 15:53:35
 ---
-Filmen viser i korte trekk hvordan du legger til ny ressursgruppe (nytt bygg/anlegg). For mer utdypet informasjon les teksten under.
+Filmen viser i korte trekk hvordan du legger til en ny ressursgruppe (i Aktivkommune omtalt som bygg/anlegg). For mer utdypet informasjon les teksten under.
 
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nytt-bygg-eller-anlegg.mp4
 
-Bygg og anlegg (ressursgrupper) må opprettes i systemet før man kan opprette  ressurser. For å opprette et nytt bygg/anlegg bruker du kommandoen:
+Ressursgrupper (Bygg/anlegg) må opprettes i systemet før man kan opprette ressurser. For å opprette et nytt bygg/anlegg bruker du kommandoen:
 
 <strong>BOOKING => BYGG/ANLEGG</strong>
 
@@ -26,9 +26,9 @@ For å opprette nytt bygg/anlegg (ny ressursgruppe) klikk på
 
 ### Fyll ut informasjonen om bygget/anlegget (ressursgruppa):
 
-Feltnavn| Forklaring/ Aksjon
+<strong>Feltnavn</strong>| Forklaring/ Aksjon
 --------------------|----------------------------------------
-**Lokasjonskode:** |Lokasjonskoden til det aktuelle bygget/anlegget. Forslag til lokasjonskoder vil dukke opp når man skriver (lokasjonskoden skal tidligere ha blitt lagt inn under oppretting av eiendom). Lokasjonskoden oppretter en kobling til eiendommen.
+**Lokasjonskode:** |Lokasjonskoden til det aktuelle bygget/anlegget. Hvor er bygget eller anlegget lokalisert. Forslag til lokasjonskoder vil dukke opp når man skriver i feltet (lokasjonskoden skal tidligere ha blitt lagt inn under oppretting av eiendom). 
 **Bygg/anlegg:** |Navn på bygg/anlegg (ressursgruppa).
 **Gate:** |Gate til det aktuelle bygg/anlegg.
 **Område/bydel:** |Området eller bydel det aktuelle bygg/anlegg er knyttet til.
