@@ -13,8 +13,6 @@ Et bygg opprettes på to måter i Aktiv kommune:
  	<li>Oppretting av fysisk bygg i eiendoms-modul gjennom menyvalg <strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong></li>
  	<li>Klargjøre bygg for utleie gjennom menyvalg <strong>BOOKING =&gt; BYGG/ANLEGG</strong> (NB! Ressurs må også kobles på senere)</li>
 </ul>
-&nbsp;
-
 Under "BYGG/ANLEGG" opprettes bygg, anlegg og utstyrsgrupper som utgjøre en basis for utleie av ressurser. I bookingsammenheng snakker vi ofte om begrepet "Ressursgruppe".
 
 &gt;Begrepet <strong>"Ressursgruppe"</strong> dekker både:
