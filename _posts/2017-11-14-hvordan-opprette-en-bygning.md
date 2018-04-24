@@ -14,22 +14,33 @@ Dette punktet kan i utgangspunktet virke noe forvirrende, for hvorfor er det to 
 Oppretter du et bygg via Eiendoms-modulen, så registrerer du det fysiske bygget og kun det. Dette gjøres via kommandoen:
 <strong>EIENDOM => LOKASJON => BYGNING</strong>
 
-Oppretter du et bygg i Booking-modulen, så oppretter du bygget og klargjør dette for utleie. Dette gjøres via kommandoen:
+Dette bygget kan ikke leies ut (fordi det ikke er registrert i Booking-modulen)
+
+Men oppretter du et bygg i Booking-modulen, så oppretter du bygget og klargjør dette for utleie. Dette gjøres via kommandoen:
 <strong>BOOKING => BYGG/ANLEGG</strong>
 
-Egentlig
+Men kommandoen "BOOKING=>BYGG/ANLEGG" kan gjøre mer enn å bare å opprette bygg. Den brukes også til å opprette anlegg og utstyrsgrupper - som også kan utgjøre en basis for utleie av (enkelt)ressurser. Begrepet "BYGG/ANLEGG" er derfor noe misvisende, og det kan hende at vi på sikt bytter dette begrepet ut med et annet begrep. I bookingsammenheng snakker vi ofte om begrepet "Ressursgruppe". 
 
+>Begrepet <strong>"Ressursgruppe"</strong> dekker både:
+* <strong>Bygg </strong>(skoler, idrettsbygg, kulturbygg, flerbruksbygg m.m.)
+* <strong>Anlegg </strong>(uteanlegg; både idrett og kultur, friluftsområder, parker, torg etc.) 
+* <strong>Utstyrsgrupper </strong>(flyttbare eller faste installasjoner; f.eks. instrumenter, idrettsutstyr, kanoer, AV-utstyr etc. 
 
+I Aktivkommunesammenheng blir kommandoen "BYGG/ANLEGG" ofte omtalt som en "Ressursgruppe"; der en ressursgruppe kan inneholde en samling med (utleie)ressurser.
 
-eller gjennom
+>Det er bare superbrukere og administratorer som kan legge inn og redigere "Bygg" i Eiendomsmodulen.
 
+### Opprette bygg(, anlegg og utstyrsgrupper) i bookingmodulen
 
+For å opprette bygg, anlegg og utstyrsgrupper i bookingmodulen bruks følgende kommando:
+<strong>BOOKING => BYGG/ANLEGG </strong>
 
-Å gå gjennom BOOKING => BYGG/ANLEGG er slik saksbehandlere som ikke har administrasjonsrettigheter må gjøre det. Forklaring på hvordan man gjør dette finnes [her](https://manual.aktiv-kommune.no/?p=166).
+Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
 
-Når du er systemadministrator er det mest hensiktsmessig å opprette kommunens bygg under
+### Opprette bygg i eiendomsmodulen
+For å opprette et bygg brukes følgende kommando
 
-EIENDOM => LOKASJON => BYGNING
+<strong>EIENDOM => LOKASJON => BYGNING</strong>
 
 Skjermbildet ser da slik ut:
 ![skjermbildet bygg](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/eiendombygning.png)
