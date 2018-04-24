@@ -26,14 +26,7 @@ I sammenheng med Aktiv kommune blir kommandoen "BYGG/ANLEGG" ofte omtalt som en 
 
 &gt;Det er bare superbrukere og administratorer som kan legge inn og redigere "Bygg" i Eiendomsmodulen. Og det er bare disse brukergruppene som kan legge inn og redigere "ressursgrupper" (BYGG/ANLEGG) i Bookingmodulen.
 
-### Opprette bygg, anlegg og utstyrsgrupper i bookingmodulen
-
-For å opprette bygg, anlegg og utstyrsgrupper i bookingmodulen bruks følgende kommando:
-<strong>BOOKING =&gt; BYGG/ANLEGG </strong>
-
-Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
-
-### Opprette bygg i eiendomsmodulen
+## Opprette bygg i eiendomsmodulen
 For å opprette et bygg brukes følgende kommando
 
 <strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
@@ -56,5 +49,22 @@ Feltnavn| . .
 **Merknad:** |Hvis det er noe spesielt med bygningen du ønsker å kommentere så skriver du det her.
 **Utleieområde:**|**Bruttoareal:**|**Nettoareal:**|**Bruksareal:**|
 
+## Opprette bygg, anlegg og utstyrsgrupper i bookingmodulen
+
+For å opprette bygg, anlegg og utstyrsgrupper i bookingmodulen bruks følgende kommando:
+<strong>BOOKING =&gt; BYGG/ANLEGG </strong>
+
+Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
+
+<strong>Knytte bygg til eiendom i Booking</strong>
+
+Når en eiendom er registrert, så kan det registreres bygg og/eller anlegg som er plassert på eller tilknyttet denne eiendommen. Dette skjer via kommandoen:
+
+<strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
+
+Her velger du et bygg for så å klikke på "Rediger". I <em>Lokasjonskode</em> skriver du inn koden som ble registrert når du registrerte eiendom (sifferkode).
+
 Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+&nbsp;
