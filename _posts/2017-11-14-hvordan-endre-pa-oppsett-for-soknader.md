@@ -20,7 +20,7 @@ eller lignende. I konfigurasjonen legges det lenke til hvor logo med kommunevåp
 I løsningen er det mulig å legge inn bilder f.eks. for de ulike haller og ressurser. Dersom det legges inn høytoppløselige bilder kan dette gå utover hastigheten på visningen i frontend. For å unngå
 problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
 
-ADMINISTRASJON =&gt; BOOKINGFRONTEND =&gt; KONFIGURASJON
+&nbsp;
 
 # Endre oppsett for søknader
 
