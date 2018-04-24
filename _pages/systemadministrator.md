@@ -20,8 +20,8 @@ Når Aktiv kommune installeres vil det opprettes en administrator for hele løsn
 
 Når punktene over er utført er systemet klart for å legge inn bookbare ressurser. Gå så til brukerveiledningen for [saksbehandler](https://manual.aktiv-kommune.no/?page_id=116) og fullfør denne før systemet tas i bruk.
 
-## Hvordan legge inn og endre på e-postinnstillingene? /Kontaktinformasjon og automatisk genererte svar
-Aktiv kommune bruker e-postkommunikasjon i søknadsbehandlingen. Noen e-poster genereres og sendes automatisk i løpet av saksbehandlingen. Hver kommune kan selv skrive egen tekst, men det er ønskelig at teksten blir noenlunde lik for alle kommuner. Det er planer om å lage en "beste praksis" for denne type meldinger.
+## E-postkommunikasjon gjennom Aktiv kommune
+Aktiv kommune bruker e-postkommunikasjon i søknadsbehandlingen. Noen e-poster genereres og sendes automatisk i løpet av saksbehandlingen. Hver kommune kan selv skrive egen tekst, men det er ønskelig at teksten blir noenlunde lik for alle kommuner.
 [display-posts category="Epostsvar" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan endre språk og oversettinger i systemet?
