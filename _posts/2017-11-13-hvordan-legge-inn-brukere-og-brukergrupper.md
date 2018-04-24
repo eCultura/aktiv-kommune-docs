@@ -1,6 +1,6 @@
 ---
 ID: 267
-post_title: Hvordan administrere brukere?
+post_title: Administrere brukere
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
