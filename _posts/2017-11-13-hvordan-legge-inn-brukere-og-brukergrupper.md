@@ -30,15 +30,7 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
 **Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
 --------------------------|---------------------------------------------
-**Brukernavn:**
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-|Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
+**Brukernavn:** |Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
 **Passord:** |Passord brukerens skal bruke når han/hun logger inn på siden.
