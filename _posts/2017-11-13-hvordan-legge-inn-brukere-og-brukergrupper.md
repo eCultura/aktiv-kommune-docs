@@ -9,16 +9,16 @@ published: true
 post_date: 2017-11-13 10:28:21
 ---
 For å kunne oppdatere og endre informasjon om brukere og brukergrupper, så må du være systemadministrator eller superbruker.
+<h2>Bruker</h2>
+&nbsp;
 
-## Bruker
-
-For å opprette ny bruker eller endre opplysninger om eksisterende brukere velger du kommandoen:
+Administrator kan opprette ny bruker eller endre opplysninger om eksisterende brukere ved menyvalg:
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE BRUKERE</strong>
 
 Skjermbildet ser da slik ut:
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
-Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbehandler eller superbruker slutter i kommunen, eller ikke lenger skal ha tilgang, så vil brukeren ikke slettes fra systemet, men kun gjøres inaktiv. Med dette grepet vil informasjon/historikk om saksbehandlingen beholdes.
+Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbehandler eller superbruker ikke lenger skal ha tilgang anbefales det å gjøre brukeren inaktiv heller enn å slette den for å beholde historikk om saksbehandlingen.
 
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
@@ -50,6 +50,13 @@ Når du har fylt inn den informasjonen som skal inn, klikker du på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
 Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjermbildet.
+
+## Begrenset tilgang til Aktiv kommune
+Roller i Aktiv kommune:
+*Administrator – Tilgang til å opprette nytt og endre
+*Saksbehandler – Kun tilgang til å endre
+
+Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet. Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
 
 ## Inaktivering av bruker
 
