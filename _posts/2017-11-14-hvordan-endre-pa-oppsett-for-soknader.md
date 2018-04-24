@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=281
 published: true
 post_date: 2017-11-14 10:31:59
 ---
-Det er mulig å sette opp en del innstillinger om språk, felter osv i Aktiv kommune.
+Det er mulig å sette opp en del innstillinger om [språk](https://manual.aktiv-kommune.no/?p=340), felter osv i Aktiv kommune.
 
 # Kort om noen innstillinger for Aktiv kommune
 
