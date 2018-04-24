@@ -1,6 +1,6 @@
 ---
 ID: 69
-post_title: Komme i gang med Aktivkommune?
+post_title: Komme i gang med Aktiv kommune
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
