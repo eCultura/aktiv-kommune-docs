@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 19:01:07
 ---
-Når Aktiv kommune installeres vil det opprettes en administrator for hele løsningen i tillegg til en «dummybruker» for innlogging fra frontend. Prosesskart for nødvendige forbredelser en superbruker (og systemadministrator) må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-3.pdf)
+Når Aktiv kommune installeres vil det opprettes en administrator for hele løsningen i tillegg til en «dummybruker» for innlogging fra frontend.
 
 **Viktig!** Før du tar i bruk Aktiv kommune som superbruker og/eller systemadministrator, bør du studere innholdet og lenkene fra denne siden spesielt, og fra siden for «<strong>saksbehandler</strong>». Første gang administrator går inn i løsningen bør det opprettes minst en gruppe for å gi brukere tilgang til Aktiv kommune på gruppenivå.
 
