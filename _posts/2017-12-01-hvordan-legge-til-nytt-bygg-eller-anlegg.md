@@ -45,7 +45,7 @@ For å opprette nytt bygg/anlegg (ny ressursgruppe) klikk på
 **Telefon tilsynsvakt:** |Telefonnummer til tilsynsvakt nummer 2 for bygg/anlegg om det er flere.
 **E-post tilsynsvakt:** |E-post til tilsynsvakt nummer 2 for bygg/anlegg om det er flere.
 **Tekst bak kalenderknapp:** | --brukes ikke ?--
-**Beskrivelse:** !Gjerne en kort beskrivelse av bygg/anlegg (ressursgruppe) og hva som er tilgengelig av utleieressurser.
+**Beskrivelse:** |Gjerne en kort beskrivelse av bygg/anlegg (ressursgruppe) og hva som er tilgengelig av utleieressurser.
 
 >NB! BYGG/ANLEGG. Det er navnet som blir lagt inn i dette feltet som i neste omgang blir søkbart i frontenddelen av Aktivkommune (oppstartstiden). Det er derfor viktig at vi velger ord og vendinger som er allment kjent blant innbyggerne, og som de kjenner igjen i vanlig dagligtale, og som de trolig vil bruke i søkefeltet i frontend-delen.
 
