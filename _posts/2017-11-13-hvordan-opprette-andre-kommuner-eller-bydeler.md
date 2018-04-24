@@ -1,6 +1,6 @@
 ---
 ID: 291
-post_title: Opprette eiendom, bydeler og områder?
+post_title: Opprette eiendom, bydeler og områder
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
