@@ -21,21 +21,18 @@ Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbeh
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
-Følgende skjermbilde dukker opp:
-![Ny-bruker-skjermbilde](http://manual.aktiv-kommune.no/wp-content/uploads/2017/11/Ny-bruker-skjermbilde.png)
-
 Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
-**Feltnavn**| Om feltet/ Aksjon (hva skal gjøres)
+**Feltnavn**| Hva fylles ut
 --------------------------|---------------------------------------------
-**Brukernavn:**|Brukernavnet som brukeren logger seg inn med. Vi anbefaler at organisasjoner og privatpersoner bruker sin e-postadresse som brukernavn. For saksbehandlere og superbrukere vil det være en fordel å bruke brukerident (id) som brukes til pålogging på kommunens nett. På sikt vil det bli enklere å bruke Singel Sign-On (SSO) for de kommuner som ønsker det. Bergen kommune har SSO-pålogging for sine saksbehandlere.
+**Brukernavn:**|Organisasjoner og privatpersoner anbefales å bruke sin e-postadresse som brukernavn. Saksbehandlere og superbrukere anbefales å bruke sin brukerID som brukes til pålogging på kommunens nett.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
-**Passord:** |Passord brukerens skal bruke når han/hun logger inn på siden.
+**Passord:** |Passord brukeren skal bruke ved innlogging på siden
 **Skriv inn passord igjen:** |Gjenta passord.
 **Kontakt:**| (brukes ikke)
-**Kan bytte passord:** |Hak vekk om bruker ikke selv skal kunne bytte passord.
-**Anonym bruker (vises ikke i sesjonslisten):** |Hak av om bruker skal være anonym.
+**Kan bytte passord:** |Fjern haken dersom bruker ikke selv skal kunne bytte passord
+**Anonym bruker (vises ikke i sesjonslisten):** |Hak av om bruker skal være anonym
 **Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard.
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp.
 
@@ -69,7 +66,7 @@ Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gj�
 
 ## Brukergrupper
 
-NB! I stedet for å gi enkelttilganger til en konkret (ny) bruker under *Applikasjoner*, så er klart beste praksis at tilgang gis ved at bruker blir meldt inn i en brukergruppe (enten som saksbehandler, superbruker eller systemadministrator). Dette skjer via kommandoen:
+NB! I stedet for å gi enkelttilganger til en ny bruker under *Applikasjoner* anbefales det å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator). Dette skjer via kommandoen:
 
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE GRUPPER.</strong>
 
