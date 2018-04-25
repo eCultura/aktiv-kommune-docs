@@ -1,6 +1,6 @@
 ---
 ID: 407
-post_title: Hvordan endre templates?
+post_title: Endre Aktiv kommunes brukergrensesnitt
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,11 +8,8 @@ permalink: http://manual.aktiv-kommune.no/?p=407
 published: true
 post_date: 2017-12-07 15:54:04
 ---
-For å endre templates må du velge *Innstillinger* i menylinjen oppe til høyre. Deretter velger du *innstillinger* nede på skjermbildet. 
+Det ligger flere predefinerte brukergrensesnitt inne i Aktiv kommune som også kan anvendes på backend. Det anbefales å beholde standardinnstillingene "portico". Dersom brukergrensesnittet skal forandres velger du *Innstillinger* i menylinjen oppe til <em>høyre</em>. Deretter velger du *innstillinger* nede på skjermbildet.
 
-Velg ønsket template fra nedtrekksmenyen.
+Velg ønsket brukergrensesnitt fra nedtrekksmenyen "template".
 
-Når du er ferdig klikker du på
-![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
-
-Den valgte templaten er nå aktiv.
+Når du er ferdig klikker du på "Lagre" og det valgte brukergrensesnittet aktiveres.
