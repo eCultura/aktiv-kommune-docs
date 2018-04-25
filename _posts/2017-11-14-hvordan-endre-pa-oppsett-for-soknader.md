@@ -12,15 +12,25 @@ Det er mulig å sette opp en del innstillinger om [språk](https://manual.aktiv-
 
 # Kort om noen innstillinger for Aktiv kommune
 
-ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON
-
-Her settes det opp ulike innstillinger for Aktiv kommune som adresse for host og hvilken avsender epost fra systemet skal ha. Ofte vil en slik avsenderadresse ha navn på system og f.eks. teksten «noreply»
-eller lignende. I konfigurasjonen legges det lenke til hvor logo med kommunevåpen ligger. Ved å lenke til kommunevåpen vil det vises oppe til venstre i forsiden på bookingmodulen.
+Under installasjonen av Aktiv kommune skal det legges inn informasjon om URL til nettside, e-post innstillinger og link til logo med kommunevåpen under menyvalg: ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON
 
 I løsningen er det mulig å legge inn bilder f.eks. for de ulike haller og ressurser. Dersom det legges inn høytoppløselige bilder kan dette gå utover hastigheten på visningen i frontend. For å unngå
 problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
 
-# Endre oppsett for søknader
+## Endre språkfil
+
+Aktiv kommune er tilrettelagt for både bokmål og nynorsk. Språket kan endres ved å:
+<div class="entry-content">
+<div class="pf-content">
+<ul>
+ 	<li>Gå til https://site1.aktiv-kommune.no/<em>[kommunenavn]</em>/setup/</li>
+ 	<li>Logg inn med riktig passord som er tilsendt i tidligere epost</li>
+ 	<li>Velg <em>Manage Languages</em></li>
+ 	<li>Velg <em>Install</em></li>
+</ul>
+</div>
+</div>
+## Endre oppsett for søknader
 
 Det er også mulig å endre oppsettet for søknader. For å gjøre dette går du til:
 
