@@ -45,12 +45,13 @@ Når du har fylt inn den informasjonen som skal inn, klikker du på
 
 Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjermbildet.
 
-## Begrenset tilgang til Aktiv kommune
-Roller i Aktiv kommune:
-**Administrator – Tilgang til å opprette nytt og endre
-**Saksbehandler – Kun tilgang til å endre
+## Begrenset tilgang til Aktivkommune
+De tre rollene Saksbehandler, Superbruker og Systemadministrator i Aktivkommune har med noen unntak følgende rettigheter:
+**Systemadministrator og Superbruker – Tilgang til å opprette nye, deaktivere/slette og endre elementer i Aktivkommune
+**Saksbehandler – Normalt kun tilgang til å endre på elementer i Aktivkommune.
+Eksempel på elementer er; områder, bydeler, eiendommer, bygg, ressursgrupper, ressurser
 
-Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet. Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
+Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet (fortrinnsvis som "Superbruker" eller unntaksvis som "Systemadministrator"). Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
 
 ## Inaktivering av bruker
 
