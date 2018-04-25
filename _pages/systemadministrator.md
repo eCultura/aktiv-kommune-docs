@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 19:01:07
 ---
-Når Aktiv kommune installeres vil det opprettes en administrator for hele løsningen i tillegg til en «dummybruker» for innlogging fra frontend. **Viktig!** Før du tar i bruk Aktiv kommune som superbruker og/eller systemadministrator, bør du studere innholdet under.
+Når Aktiv kommune installeres blir det opprettet både en systemadministrator for løsningen og en «dummybruker» for innlogging fra frontend. Før Aktiv kommune tas i bruk av superbruker og/eller systemadministrator er det viktig å studere innholdet under.
 
 ## Nødvendige forberedelser før oppstart
 [display-posts category="forberedelser-for-systemet-kan-brukes" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
