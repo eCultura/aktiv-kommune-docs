@@ -1,6 +1,6 @@
 ---
 ID: 407
-post_title: Endre Aktiv kommunes brukergrensesnitt
+post_title: Endre brukergrensesnitt i backend
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
