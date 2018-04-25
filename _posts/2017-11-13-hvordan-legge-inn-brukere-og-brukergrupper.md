@@ -47,8 +47,8 @@ Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjerm
 
 ## Begrenset tilgang til Aktivkommune
 De tre rollene Saksbehandler, Superbruker og Systemadministrator i Aktivkommune har med noen unntak følgende rettigheter:
-**Systemadministrator og Superbruker – Tilgang til å opprette nye, deaktivere/slette og endre elementer i Aktivkommune
-**Saksbehandler – Normalt kun tilgang til å endre på elementer i Aktivkommune.
+* Systemadministrator og Superbruker – Tilgang til å opprette nye, deaktivere/slette og endre elementer i Aktivkommune
+* Saksbehandler – Normalt kun tilgang til å endre på elementer i Aktivkommune.
 Eksempel på elementer er; områder, bydeler, eiendommer, bygg, ressursgrupper, ressurser
 
 Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet (fortrinnsvis som "Superbruker" eller unntaksvis som "Systemadministrator"). Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
@@ -66,7 +66,9 @@ Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gj�
 
 ## Brukergrupper
 
-NB! I stedet for å gi enkelttilganger til en ny bruker under *Applikasjoner* anbefales det å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator). Dette skjer via kommandoen:
+>NB! I stedet for å gi enkelttilganger til en ny bruker under *Applikasjoner* anbefales det å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator). 
+
+Du gir en bruker tilgang til grupper via kommandoen:
 
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE GRUPPER.</strong>
 
