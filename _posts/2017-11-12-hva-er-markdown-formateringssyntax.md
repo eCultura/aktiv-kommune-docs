@@ -14,7 +14,7 @@ Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det s
 
 ## Eksempler på bruk av Markdown formateringssyntax
 
->I Wordpress skriver vi dokumentasjon med *Markdown* formateringssyntax i **Tekst-modus**, ikke Visuell-modus.
+&gt;I Wordpress skriver vi dokumentasjon med *Markdown* formateringssyntax i **Tekst-modus**, ikke Visuell-modus.
 
 *Denne teksten er kursiv*
 
@@ -26,14 +26,14 @@ Det overordnede designmålet med Markdowns formateringssyntax er å gjøre det s
 
 * Tekstdel 1
 * Tekstdel 2
- * Tekstdel 2a
- * Tekstdel 2b
+* Tekstdel 2a
+* Tekstdel 2b
 
 1. Tekstdel 1
 2. Tekstdel 2
 3. Tekstdel 3
- * Tekstdel 3a
- * Tekstdel 3b
+* Tekstdel 3a
+* Tekstdel 3b
 
 [Dette er en lenke til GitHub.com](http://github.com)
 
