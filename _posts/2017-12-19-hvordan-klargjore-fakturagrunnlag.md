@@ -8,16 +8,16 @@ permalink: http://manual.aktiv-kommune.no/?p=571
 published: true
 post_date: 2017-12-19 12:20:33
 ---
->Vi anbefaler generelt at hvert enkelt bygg/anlegg faktureres minimum hver måned. Det bør ikke gå for lang tid etter leieforholdet er avsluttet til kunde mottar faktura.
+>Vi anbefaler generelt at hvert enkelt bygg/anlegg (eller ressursgruppe) faktureres minimum hver måned. Det bør ikke gå for lang tid etter leieforholdet er avsluttet til at kunde mottar faktura.
 
-De ulike kommunene har forskjellige utleiepriser og -regler. Aktivkommune er tilrettelagt for fakturering av utvalgte (eller alle) utleieforhold, avhengig av hva kommunen selv har bestemt skal være gratis utleie/utlån og hva som skal være fakturerbart. Aktivkommune er tilrettelagt for eksport av fakturagrunnlag til økonomisystemene Agresso og Visma, Det er mulig å tilrettelegge slik eksport også til andre økonomisystemer.
+De ulike kommunene har forskjellige utleiepriser og -regler. Aktivkommune er tilrettelagt for fakturering av utvalgte (eller alle) utleieforhold, avhengig av hva kommunen selv har bestemt skal være gratis utleie/utlån og hva som skal være fakturerbart. Aktivkommune er tilrettelagt for eksport av fakturagrunnlag til økonomisystemene Agresso og Visma. Det er mulig å tilrettelegge slik eksport også til andre økonomisystemer.
 
 ## Rutine for klargjøring av fakturagrunnlag
 For å starte med klargjøring starter du med kommandoen:
 
 <strong>BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING</strong>
 
-Skjermbildet ser da omtrent slik ut: 
+Skjermbildet ser da slik ut: 
 ![skjermbilde fakturering](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildefaktura1.png)
 
 Skriv inn de ressursgrupper (bygg/anlegg) som du ønsker å fakturere for, og velg dato (siste dato i aktuell måned, for eksempel 31.mars)
