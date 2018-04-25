@@ -39,7 +39,7 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe bør velges.
 
 Under arkfanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som bruker eller administrator.
-> Arkfanen "Applikasjoner" trenger normalt ikke brukes så lenge brukeren er tilknyttet minst en brukergruppe under arkfanen "Grupper"  
+&gt; Arkfanen "Applikasjoner" trenger normalt ikke brukes så lenge brukeren er tilknyttet minst en brukergruppe under arkfanen "Grupper"
 Når du har fylt inn den informasjonen som skal inn, klikker du på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
@@ -63,10 +63,8 @@ Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
 Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gjøres aktiv igjen om det blir aktuelt, for eksempel etter endt permisjon.
-
-## Brukergrupper
-
->NB! I stedet for å gi enkelttilganger til en ny bruker under *Applikasjoner* anbefales det å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator). 
+<h2>Brukergrupper</h2>
+Første gang administrator går inn i løsningen bør det opprettes minst en gruppe for å gi brukere tilgang til Aktiv kommune på gruppenivå. Da er det mulig å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator) heller enn å gi enkelttilganger til en ny bruker under *Applikasjoner*.
 
 Du gir en bruker tilgang til grupper via kommandoen:
 
