@@ -16,7 +16,7 @@ For å bestille leietid på en ressurs (et lokale, et anlegg eller utstyr), må 
 3. Fyll ut søknad
 4. Motta bekreftelse på søknad
 5. Eventuell korrigering av søknad
-6. Status for søknaden
+6. Om status for søknaden
 
 Mer om de ulike stegene her:
 ## 1. Finn aktuell ressurs
@@ -76,7 +76,7 @@ Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og
 ## 5. Eventuell korrigering på søknad
 Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i <strong>"Legg til en kommentar"</strong> , og trykke på "<strong>Legg til kommentar</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
 
-## 6. Status for søknaden
+## 6. Om status for søknaden
 Søknaden din vil normalt ha en av de følgende statuser;
 * "Ny"
 * "Under behandling"
