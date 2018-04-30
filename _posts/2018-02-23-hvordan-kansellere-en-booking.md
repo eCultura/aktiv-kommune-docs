@@ -14,7 +14,7 @@ Av ulike grunner kan du som alt har fått tildelt brukstid på en ressurs, ha be
 
 For å avbestille/kansellere en enkeltbooking gjør du følgende:
 
-1. Finn fram en av e-postene du fikk når du mottok bekreftelse på at søknaden er mottatt. Du kan også bruke lenken som ligger i e-posten som bekrefter at bookingen er godkjent og at du har fått leie/låne bygg/anlegg eller ressurs. 
+1. Finn fram en av e-postene du fikk når du mottok bekreftelse på at søknaden er mottatt. Du kan også bruke lenken som ligger i e-posten som bekrefter at bookingen er godkjent og at du har fått leie/låne ressursen. 
 2. Når du klikker på lenken i e-posten, blir du sendt direkte til søknaden din. 
 3. Legg til en kommentar om at du ønsker å kansellere/avbestille bookingen din. Husk å  trykke <strong>"Lagre" </strong>kommentaren. 
 4. Saksbehandler vil motta kommentaren din og vil sørge for å slette bookingen i systemet. Dette gjøres ved å <em>avslå </em> søknaden din.
