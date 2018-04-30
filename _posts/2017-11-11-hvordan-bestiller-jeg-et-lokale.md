@@ -50,7 +50,7 @@ Du vil kunne søke på tid som alt er "opptatt", og saksbehandler vil likevel ku
 
 Du vil så sendt til et nytt skjermbilde for selve søknaden og må fylle ut nødvendig informasjon: 
 
-## 3. Fyll ut informasjon søknaden.
+## 3. Fyll ut informasjon søknaden
 I søknadsskjemaet er det en rekke opplysninger som må fylles ut. De felt som er <em>obligatoriske </em>å fylle ut er merket med en <strong>stjerne (*)</strong>
 
 Feltnavn| Forklaring/ Aksjon
@@ -84,4 +84,4 @@ Søknaden din vil normalt ha en av de følgende statuser;
 
 Du vil kunne følge status til søknaden ved å trykke på lenken til søknaden som er oppgitt i en av e-postene du har fått i forbindelse med søknadsprosessen.
 
-Du vil få en egen melding via e-post når søknaden blir "<strong>Godkjent</strong>" eller "<strong>Avslått</strong>". Det nytter ikke å svare på e-postene du får fra systemet, men du kan sende meldinger til saksbehandler via systemet, se punkt 5. over.
+Du vil få en egen melding via e-post når søknaden blir "<strong>Godkjent</strong>" eller "<strong>Avslått</strong>". Det nytter ikke å svare på e-postene du får fra systemet, men du kan sende meldinger til saksbehandler via systemet, se punkt 5 over.
