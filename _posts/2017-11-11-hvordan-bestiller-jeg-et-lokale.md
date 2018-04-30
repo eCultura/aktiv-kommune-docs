@@ -11,21 +11,21 @@ published: true
 post_date: 2017-11-11 16:33:19
 ---
 ## Finn lokale eller ressurs
-Når du ønsker å leie et lokale eller utstyr så går du til nettsiden for aktiv kommune i din kommune. 
+Når du ønsker å leie et lokale, anlegg eller utstyr, så går du til nettsiden for Aktivkommune i din kommune. 
 
-Hvis du vet navnet på lokalet eller ressursen du ønsker å leie eller stedet du ønsker å leie fra så kan du skrive dette i frisøkfeltet. Når du har skrevet det du ønsker trykker du *enter* eller klikker på 
+Hvis du vet navnet på ressursen (det vil si et lokale, et anlegg eller utstyr) du ønsker å leie, så kan du skrive navnet på ressursen i frisøkfeltet. Når du har skrevet det du ønsker, trykker du på *enter* eller klikker på 
 ![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/forstorrelsesglass.png)
 
-Ønsker du et mer filtrert søk klikker du på 
+Ønsker du et mer filtrert søk (avansert søk), klikker du på 
 ![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
-Du vil så få muligheten til å spesifisere søket ditt eller filtrere treffene du har fått i frisøket. 
-Når du har haket av for det du ønsker klikker du på
+Ved avansert søke har du mulighet til å spesifisere søket ditt eller filtrere treffene du har fått i frisøket. 
+Når du har haket av for det du ønsker, klikker du på
 ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
 
-I begge tilfeller så vil søkeresultat som matcher søkekriteriene dukke opp under søkefeltet.
+I begge tilfeller vil søkeresultat som matcher søkekriteriene dukke opp under søkefeltet.
 
-Du klikker da på bygget/anlegget/ressursen/utstyret du ønsker å leie, og du får opp et nytt skjermbildet som gir informasjon om det du klikket på. 
-Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen så klikker du på 
+Du klikker da på ressursen du ønsker å leie, og du får opp et nytt skjermbilde som gir informasjon om det du klikket på. 
+Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen, så klikker du på 
 ![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/03/ressurskalender1.png)
 eller
 ![Kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png) 
@@ -34,20 +34,26 @@ avhengig av hvilket bilde du er inni.
 I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. Ønsker du å leie ressursen eller lokalet gjøres dette ved å klikke på ønsket dag og tid i kalenderen, eller ved å klikke på 
 ![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nysoknad.png) oppe i venstre hjørne. 
 
+Du vil kunne søke på tid som alt er "opptatt", og saksbehandler vil likevel kunne tildele den tiden du ønsker <em>gitt at </em> kommunen ønsker å prioritere din aktivitet/ditt arrangement spesielt. Hva som skal prioriteres vil variere fra kommune til kommune, men som regel vil aktiviteter tilknyttet barn og unge ha fortrinn.
+
 Du vil så bli tatt til søknaden og må fylle ut et skjema: 
 
 ### Fyll ut informasjon til søknaden.
-**Hvorfor?** Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
-**Hvor mange?** Oppgi forventet eller estimert antall deltakere. 
-**Hvor?** Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser du ønsker å leie. 
-**Når?** Velg dato og  klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på *Legg til dato*
-**Hvem?** Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. 
-**Kontaktinformasjon** Oppgi kontaktinformasjonen til bestillingsansvarlig.
-**Ansvarlig søker/Fakturainformasjon** Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. 
-**Juridiske betingelser** Du må akseptere de juridiske betingelsene for å få lov til å leie. 
-**Vedlegg** Har du behov for å legge ved vedlegg kan dette gjøres her.
+Feltnavn| Forklaring/ Aksjon
+----------------------------------|------------------------------------------------
+**Hvorfor?** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
+**Hvor mange?** |Oppgi forventet eller estimert antall deltakere. 
+**Hvor?** |Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser du ønsker å leie. 
+**Når?** |Velg dato og klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på *Legg til dato* . Alternativt kan du skrive i kommentarfeltet at du ønsker å leie/låne ressursen f.eks. tirsdager hver andre uke  fra kl. 18 til 21.
+**Hvem?** |Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. 
+**Kontaktinformasjon** |Oppgi kontaktinformasjonen til bestillingsansvarlig.
+**Ansvarlig søker/Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. 
+**Juridiske betingelser** |Du må akseptere de juridiske betingelsene for å få lov til å leie. 
+**Vedlegg** |Har du behov for å legge ved vedlegg kan dette gjøres her.
 
-Når søknaden er ferdig utfylt sender du den ved å klikke på 
+Når søknaden er ferdig utfylt, sender du den ved å klikke på 
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
 
-Du vil så få et nytt skjermbildet med oppsummering av søknaden din. Du får også tilsendt en mail som bekrefter at søknaden er sendt, og hvor det ligger en link som du kan følge søknadsprosessen din via.
+Du vil så få et nytt skjermbilde med oppsummering av søknaden din. 
+
+Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en link som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto, så finner du ikke e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
