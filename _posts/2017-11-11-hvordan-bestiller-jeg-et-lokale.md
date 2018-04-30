@@ -15,6 +15,7 @@ For å bestille en ressurs (et lokale, et anlegg eller utstyr), må du gjennom f
 2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
 3. Fyll ut søknad
 4. Motta bekreftelse på søknad
+5. Eventuell korrigering av søknad
 
 Mer om de ulike stegene her:
 ## 1. Finn aktuell ressurs
@@ -49,17 +50,17 @@ Du vil kunne søke på tid som alt er "opptatt", og saksbehandler vil likevel ku
 Du vil så sendt til et nytt skjermbilde for selve søknaden og må fylle ut nødvendig informasjon: 
 
 ## 3. Fyll ut informasjon søknaden.
-I søknadsskjemaet er det en rekke opplysninger som må fylles ut. De felt som er obligatoriske å fylle ut er merket med en stjerne (*)
+I søknadsskjemaet er det en rekke opplysninger som må fylles ut. De felt som er <em>obligatoriske </em>å fylle ut er merket med en <strong>stjerne (*)</strong>
 
 Feltnavn| Forklaring/ Aksjon
-----------------------------------|------------------------------------------------
-**(*) Hvorfor? ** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
+--------------------------------------------------|------------------------------------------------
+**(*) Hvorfor?** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
 **(*) Hvor mange?** |Oppgi forventet eller estimert antall deltakere. 
 **(*) Hvor?** |Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser du ønsker å leie. 
 **(*) Når?** |Velg dato og klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på *Legg til dato* . Alternativt kan du skrive i kommentarfeltet at du ønsker å leie/låne ressursen f.eks. tirsdager hver andre uke  fra kl. 18 til 21.
 **(*) Hvem?** |Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. 
 **(*) Kontaktinformasjon** |Oppgi kontaktinformasjonen til bestillingsansvarlig.
-**(*) Ansvarlig søker/Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
+**(*) Ansvarlig søker/ Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
 **(*) Juridiske betingelser** |Du må akseptere de juridiske betingelsene for å få lov til å leie. 
 **Vedlegg** |Har du behov for å legge ved vedlegg kan dette gjøres her.
 
@@ -71,5 +72,5 @@ Du vil så få et nytt skjermbilde med oppsummering av søknaden din. En tekst m
 
 Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto, så finner du ikke e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
-## 5. Endring på søknad
-Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "Lagre", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller booking](http://manual.aktiv-kommune.no/?p=958)
+## 5. Eventuell korrigering på søknad
+Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "<strong>Lagre</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller booking](http://manual.aktiv-kommune.no/?p=958)
