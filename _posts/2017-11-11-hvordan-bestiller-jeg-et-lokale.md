@@ -41,14 +41,12 @@ avhengig av hvilket bilde du er inni.
 
 I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. 
 
-## 3. Fyll ut søknad
-
 Ønsker du å leie ressursen eller lokalet gjøres dette ved å klikke på ønsket dag og tid i kalenderen, eller ved å klikke på 
 ![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nysoknad.png) oppe i venstre hjørne. 
 
 Du vil kunne søke på tid som alt er "opptatt", og saksbehandler vil likevel kunne tildele den tiden du ønsker <em>gitt at </em> kommunen ønsker å prioritere din aktivitet/ditt arrangement spesielt. Hva som skal prioriteres vil variere fra kommune til kommune, men som regel vil aktiviteter tilknyttet barn og unge ha fortrinn.
 
-Du vil så bli tatt til søknaden og må fylle ut et skjema: 
+Du vil så sendt til et nytt skjermbilde for selve søknaden og må fylle ut nødvendig informasjon: 
 
 ## 3. Fyll ut informasjon søknaden.
 I søknadsskjemaet er det en rekke opplysninger som må fylles ut. De felt som er obligatoriske å fylle ut er merket med en stjerne (*)
@@ -74,4 +72,4 @@ Du vil så få et nytt skjermbilde med oppsummering av søknaden din. En tekst m
 Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto, så finner du ikke e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
 ## 5. Endring på søknad
-Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "Lagre", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: <a href="http://manual.aktiv-kommune.no/?p=958"></a>
+Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "Lagre", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller booking](http://manual.aktiv-kommune.no/?p=958)
