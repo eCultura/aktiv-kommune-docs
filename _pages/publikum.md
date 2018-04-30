@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 18:58:10
 ---
-Kommunen din har ulike ressurser som de kan leie ut, og som innbygger må du være klar over følgende: De ulike fagavdelinger i en kommune har ulike praksis for hvordan denne utleien skjer. Og ikke minst: Prioriteringene som de ulike saksbehandlere må gjøre i forbindelse med utleie er basert på politiske vedtak, og disse kan variere fra fagfelt til fagfelt. 
+Kommunen din har ulike ressurser som de kan leie ut, og som innbygger må du være klar over følgende: De ulike fagavdelinger i en kommune har ofte ulik praksis for hvordan denne utleien skjer. Og ikke minst: Prioriteringene som de ulike saksbehandlere må gjøre i forbindelse med utleie er basert på politiske vedtak, og disse kan variere fra fagfelt til fagfelt. 
 
 For noen kommuner vil det bare være noen få fagfelt som benytter bookingsystemet "Aktivkommune" for å leie ut ressurser. Søknadsprosessene for de ulike fagfelt er også noe ulike. Noen eksempler:
 1. <strong>Idrett</strong>. Leie/lån av idrettsressurser vil normalt skje via en egen tildelingsrunde (som går utenom dette bookingsystemet), der hvert idrettslag får tildelt faste brukstider for hver ukedag i avgrensende sesonger. For innendørs anlegg brukes oftest "Vår" og "Høst", mens for uteanlegg brukes oftest sesongbegrepene "Sommer" og "Vinter". Men sesongene kan ha andre navn.
