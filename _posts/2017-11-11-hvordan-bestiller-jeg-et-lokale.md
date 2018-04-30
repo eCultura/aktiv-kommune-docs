@@ -10,8 +10,8 @@ permalink: http://manual.aktiv-kommune.no/?p=85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
-For å bestille en ressurs (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
-1. Finne aktuell ressurs
+For å bestille leietid på en ressurs (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
+1. Finn aktuell ressurs
 2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
 3. Fyll ut søknad
 4. Motta bekreftelse på søknad
@@ -62,15 +62,15 @@ Feltnavn| Forklaring/ Aksjon
 **(*) Kontaktinformasjon** |Oppgi kontaktinformasjonen til bestillingsansvarlig.
 **(*) Ansvarlig søker/ Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
 **(*) Juridiske betingelser** |Du må akseptere de juridiske betingelsene for å få lov til å leie. 
-**Vedlegg** |Har du behov for å legge ved vedlegg kan dette gjøres her.
+**Vedlegg** |Har du behov for å legge ved vedlegg/filer (et dokument, bilde) kan dette gjøres her.
 
 Når søknaden er ferdig utfylt, sender du den ved å klikke på 
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
 
 ## 4. Bekreftelse på mottatt søknad
-Du vil så få et nytt skjermbilde med oppsummering av søknaden din. En tekst med grønn bakgrunn vil fortelle hva som skjer med søknaden.
+Du vil så få et nytt skjermbilde med oppsummering av søknaden din. Øverst vil en tekst med grønn bakgrunn fortelle hva som skjer med søknaden.
 
-Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto, så finner du ikke e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
+Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto. Så om du ikke finner e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
 ## 5. Eventuell korrigering på søknad
-Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "<strong>Lagre</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller booking](http://manual.aktiv-kommune.no/?p=958)
+Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i "kommentar", og trykke på "<strong>Lagre</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
