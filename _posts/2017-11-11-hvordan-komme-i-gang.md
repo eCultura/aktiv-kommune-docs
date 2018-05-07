@@ -105,7 +105,7 @@ og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidete
 Når du er ferdig å fylle ut, klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png" alt="lagre" />
 
-## Opprett kategorier.
+## Opprett eier-kategorier.
 Før oppstart må det legges til minimum en kategori for eierforholdet; Dette gjøres underkommandoen:
 
 <strong>ADMINISTRASJON => EIENDOM => EIER => (Eier kategorier).</strong>
