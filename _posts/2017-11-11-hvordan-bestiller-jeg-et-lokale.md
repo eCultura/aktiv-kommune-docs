@@ -1,8 +1,8 @@
 ---
 ID: 85
 post_title: >
-  Hvordan bestiller jeg et lokale eller en
-  ressurs?
+  Hvordan bestiller jeg et utleieobjekt
+  (lokale, anlegg eller utstyr)?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -10,10 +10,9 @@ permalink: http://manual.aktiv-kommune.no/?p=85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
-<!--more--> kva er dette more?
 
-For å bestille leietid på en ressurs (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
-1. Finn aktuell ressurs
+For å bestille leietid på en ressurs/utleieobjekt (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
+1. Finn aktuell ressurs/utleieobjekt
 2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
 3. Fyll ut søknad
 4. Motta bekreftelse på søknad
@@ -21,7 +20,7 @@ For å bestille leietid på en ressurs (et lokale, et anlegg eller utstyr), må 
 6. Om status for søknaden
 
 Mer om de ulike stegene her:
-## 1. Finn aktuell ressurs
+## 1. Finn aktuell ressurs/utleieobjekt
 Når du ønsker å leie et lokale, anlegg eller utstyr, så går du til nettsiden for Aktivkommune i din kommune. 
 
 Hvis du vet navnet på ressursen (det vil si et lokale, et anlegg eller utstyr) du ønsker å leie, så kan du skrive navnet på ressursen i frisøkfeltet. Når du har skrevet det du ønsker, trykker du på *enter* eller klikker på 
@@ -76,7 +75,7 @@ Du vil så få et nytt skjermbilde med oppsummering av søknaden din. Øverst vi
 Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto. Så om du ikke finner e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
 ## 5. Eventuell korrigering på søknad
-Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i <strong>"Legg til en kommentar"</strong> , og trykke på "<strong>Legg til kommentar</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
+Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i <strong>"Legg til en kommentar"</strong> , og deretter trykke på "<strong>Legg til kommentar</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
 
 ## 6. Om status for søknaden
 Søknaden din vil normalt ha en av de følgende statuser;
