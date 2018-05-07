@@ -16,10 +16,14 @@ For å registrere en ny delegat for din organisasjon, klikk på din organisasjon
 
 <img class="alignnone size-medium wp-image-1094" src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/04/ny-delegert-300x149.png" alt="" width="300" height="149" />
 
-Klikk på «Ny delegert». Her blir du bedt om å legge inn:
+Klikk på «Ny delegert», og et nytt skjermbilde dukker opp.
+
+I det nye skjermbildet kan du legge inn opplysninger om delegaten:
 <ul>
  	<li>Navn til delegaten</li>
  	<li>Fødselsnummer (11-siffer)</li>
  	<li>E-post til delegaten</li>
  	<li>Telefonnr. til delegaten</li>
+
+Trykk "<strong>Lagre</strong>" til slutt.
 </ul>
