@@ -10,6 +10,8 @@ permalink: http://manual.aktiv-kommune.no/?p=85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
+<!--more--> kva er dette more?
+
 For å bestille leietid på en ressurs (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
 1. Finn aktuell ressurs
 2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
