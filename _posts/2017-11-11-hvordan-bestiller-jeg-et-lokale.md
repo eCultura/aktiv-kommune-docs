@@ -33,7 +33,7 @@ Når du har haket av for det du ønsker, klikker du på
            ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
 
 I begge tilfeller vil søkeresultat som matcher søkekriteriene dukke opp under søkefeltet.
-Etter å ha funnet aktuell(e) ressurs(er), så får du opp et nytt skjermbilde som gir informasjon om det du klikket på.
+Etter å ha funnet aktuell(e) ressurs(er), så får du opp et nytt skjermbilde som gir informasjon om det den ressursen/det utleieobjektet du klikket på.
  
 ## 2. Finn aktuelt leietidspunkt
 Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen, så klikker du på 
