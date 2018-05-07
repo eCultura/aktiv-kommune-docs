@@ -104,4 +104,13 @@ og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidete
 </ul>
 Når du er ferdig å fylle ut, klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png" alt="lagre" />
+
+## Opprett kategorier.
+Før oppstart må det legges til minimum en kategori for eierforholdet; Dette gjøres underkommandoen:
+
+<strong>ADMINISTRASJON => EIENDOM => EIER => (Eier kategorier).</strong>
+Velg "Ny" , og legg inn minimum en eierkategori.
+
+Vanligvis er det nok å legge inn "offentlig" eller "kommunal" eigd, men i den grad kommunen har disposisjonsrett og skal drive utleie på private bygg og anlegg, så må også motsatt kategori legges inn, for eksempel "ikke-kommunal" eigd eiendom/bygg også legges inn.
+
 Neste trinn er å legge inn <a href="https://manual.aktiv-kommune.no/?p=267">brukere og brukergrupper</a>.
