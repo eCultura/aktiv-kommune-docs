@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-11 18:58:10
 ---
-Kommunen din har ulike ressurser som kan leies ut, og som innbygger må du være klar over følgende: 
+Kommunen din har ulike utleieobjekter /(ressurser) som kan leies ut, og som innbygger må du være klar over følgende: 
 * De ulike fagavdelinger i en kommune har ofte ulik praksis for hvordan denne utleien skjer. Og: 
 * Prioriteringene som de ulike saksbehandlere må gjøre i forbindelse med utleie er (ofte) basert på politiske vedtak, og disse kan variere fra fagfelt til fagfelt. 
 
