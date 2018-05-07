@@ -27,6 +27,7 @@ Hvis du vet navnet på ressursen (det vil si et lokale, et anlegg eller utstyr) 
 
 Ønsker du et mer filtrert søk (avansert søk), klikker du på 
 ![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
+
 Ved avansert søke har du mulighet til å spesifisere søket ditt eller filtrere treffene du har fått i frisøket. 
 Når du har haket av for det du ønsker, klikker du på
            ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
@@ -37,14 +38,17 @@ Etter å ha funnet aktuell(e) ressurs(er), så får du opp et nytt skjermbilde s
 ## 2. Finn aktuelt leietidspunkt
 Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen, så klikker du på 
    ![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/03/ressurskalender1.png)
+
 eller
    ![Kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png) 
+
 avhengig av hvilket bilde du er inni. 
 
 I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. 
 
 Ønsker du å leie ressursen eller lokalet gjøres dette ved å klikke på ønsket dag og tid i kalenderen, eller ved å klikke på 
-![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nysoknad.png) oppe i venstre hjørne. 
+![ny søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nysoknad.png) 
+oppe i venstre hjørne. 
 
 Du vil kunne søke på tid som alt er "opptatt", og saksbehandler vil likevel kunne tildele den tiden du ønsker <em>gitt at </em> kommunen ønsker å prioritere din aktivitet/ditt arrangement spesielt. Hva som skal prioriteres vil variere fra kommune til kommune, men som regel vil aktiviteter tilknyttet barn og unge ha fortrinn.
 
