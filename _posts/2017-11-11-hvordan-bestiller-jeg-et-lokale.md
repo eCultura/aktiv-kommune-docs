@@ -10,7 +10,6 @@ permalink: http://manual.aktiv-kommune.no/?p=85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
-
 For å bestille leietid på en ressurs/utleieobjekt (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
 1. Finn aktuell ressurs/utleieobjekt
 2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
@@ -30,16 +29,16 @@ Hvis du vet navnet på ressursen (det vil si et lokale, et anlegg eller utstyr) 
 ![Avansert søk](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/avansertsok.png) 
 Ved avansert søke har du mulighet til å spesifisere søket ditt eller filtrere treffene du har fått i frisøket. 
 Når du har haket av for det du ønsker, klikker du på
-![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
+           ![oppdater resultat](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Oppdaterresultat.png) 
 
 I begge tilfeller vil søkeresultat som matcher søkekriteriene dukke opp under søkefeltet.
 Etter å ha funnet aktuell(e) ressurs(er), så får du opp et nytt skjermbilde som gir informasjon om det du klikket på.
  
 ## 2. Finn aktuelt leietidspunkt
 Ønsker du å se ledig tid/hva som skjer på den aktuelle ressursen, så klikker du på 
-![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/03/ressurskalender1.png)
+   ![ressurskalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/03/ressurskalender1.png)
 eller
-![Kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png) 
+   ![Kalender](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/kalender.png) 
 avhengig av hvilket bilde du er inni. 
 
 I det nye skjermbildet vil en kalender vise når ressursen/lokalet er booket av andre eller når det er ledig. 
