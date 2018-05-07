@@ -25,5 +25,5 @@ I det nye skjermbildet kan du legge inn opplysninger om delegaten:
  	<li>E-post til delegaten</li>
  	<li>Telefonnr. til delegaten</li>
 
-Trykk "<strong>Lagre</strong>" til slutt.
+Trykk "<strong>Legg til</strong>" til slutt.
 </ul>
