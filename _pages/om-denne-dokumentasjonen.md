@@ -45,7 +45,7 @@ Rollene er:
    -    > fakturering, 
    -    > oppsett av ressursgrupper og utleieobjekter
 
-* <strong>Superbruker </strong>
+* <strong>Superbruker (systemadministrator) </strong>
    -    > enklere versjon av systemadminstrator, 
    -    > oppsett av systemet
 
