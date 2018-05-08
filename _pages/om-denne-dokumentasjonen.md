@@ -41,10 +41,10 @@ Rollene er:
    -    > opprette interntildelinger
 
 * <strong>Saksbehandler </strong>
+   -    > oppsett av ressursgrupper og utleieobjekter
    -    > søknadsbehandling, 
    -    > fakturering, 
-   -    > oppsett av ressursgrupper og utleieobjekter
-
+  
 * <strong>Superbruker (systemadministrator) </strong>
    -    > enklere versjon av systemadminstrator, 
    -    > oppsett av systemet
