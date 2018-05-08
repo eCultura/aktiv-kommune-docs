@@ -26,4 +26,11 @@ Frontend er løsningen som sluttbrukerne vil se på hjemmesiden. Fra frontend er
 
 Administrasjonsdelen (backend) består for det meste av administrasjonsfunksjoner for de ansvarlige i kommunen. Her finnes muligheter for registrering av organisasjoner, bygg, ressurser osv. I tillegg finnes det funksjoner for overføring av fakturainformasjon til kommunens økonomisystem. Fra denne delen av systemet vil de ansvarlige også kunne sette opp sesonger for et anlegg, dvs. bestemme hvilke dager og klokkeslett et lag/organisasjon får bestille tid i et bygg og hvem som skal ha tilgang til å gjøre dette de enkelte ukedager og tidspunkt. Fra backend vil de ansvarlige også håndtere søknader fra publikum.
 
+## Om manualen
+De resterende sider i denne manualen omtaler de mest aktuelle rollene, og hva de kan gjøre (i parantes). Rollene er:
+* Innbygger (finne ressurs og sende søknad)
+* Lag og organisasjoner (oppdatere opplysninger om lag/organisasjon, opprette delegater og interntildeling)
+* Saksbehandler (søknadsbehandling, fakturering, oppsett av ressursgrupper og utleieobjekter)
+* Superbruker (enklere versjon av systemadminstrator, oppsett av systemet)
+
 &nbsp;
