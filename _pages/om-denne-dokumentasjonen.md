@@ -35,19 +35,19 @@ Rollene er:
    -     > eventuelt avlyse tildelt tid
 
 * <strong>Lag og organisasjoner</strong> 
--    > oppdatere opplysninger om lag/organisasjon, 
--    > opprette undergrupper og delegater og 
--    > opprette interntildelinger
+   -    > oppdatere opplysninger om lag/organisasjon, 
+   -    > opprette undergrupper og delegater og 
+   -    > opprette interntildelinger
 
 * <strong>Saksbehandler </strong>
--    > søknadsbehandling, 
--    > fakturering, 
--    > oppsett av ressursgrupper og utleieobjekter
+   -    > søknadsbehandling, 
+   -    > fakturering, 
+   -    > oppsett av ressursgrupper og utleieobjekter
 * <strong>Superbruker </strong>
--    > enklere versjon av systemadminstrator, 
--    > oppsett av systemet
+   -    > enklere versjon av systemadminstrator, 
+   -    > oppsett av systemet
 
 * <strong>Utvikler </strong>
--    >om systemet og utviklingen av det; kun for spesielt interesserte
+   -    > om systemet og utviklingen av det; kun for spesielt interesserte
 
 &nbsp;
