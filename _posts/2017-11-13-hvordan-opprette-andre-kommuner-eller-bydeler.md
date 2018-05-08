@@ -30,20 +30,28 @@ For å legge inn data om ulike gatenavn, områder og bydeler i kommunen, må fø
 Stegene som må gjennomføres før oppstart er disse:
 
 ### 1. Opprette gatenavn
-Se kommando over, velg "Gate".
-Alle gater/veier som kan knyttes til utleieobjekter må registreres, minimum en gate/vei må registreres. Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
+Velg: ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE.
+Alle gater/veier som kan knyttes til utleieobjekter må registreres. Minimum en gate/vei må registreres for instansen. 
+Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
 
 ### 2. Opprette område
-Se kommando over, velg "Område".
+Velg: ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => OMRÅDE
 
-Instans er alt opprettet, og under instansen er neste nivå <em>områder</em>. På sett og vis er <em>område </em>det høyeste nivået under instansen, og ofte vil navn på område være det samme som navnet på instansen (kommunenavnet). Dette gjelder for kommuner som ikke skal utføre kommunesammenslåing. Skal din kommune slås sammen med andre kommuner, ta kontakt med support i Stavanger, så skal du få råd om hvordan område skal fylles ut for å sikre god kommunesammenslåing senere.
+Instans er alt opprettet (av driftsoperatør av Aktivkommune; Stavanger kommune).
+Under instans er neste nivå <em>områder</em>. På sett og vis er <em>område </em>det høyeste nivået under instansen, og ofte vil navn på område være det samme som navnet på instansen (kommunenavnet). Dette gjelder for kommuner som <strong>ikke</strong> skal utføre kommunesammenslåing. Skal din kommune slås sammen med andre kommuner, ta kontakt med support i Stavanger, så skal du få råd om hvordan område skal fylles ut for å sikre en god kommunesammenslåing senere.
+Minimum ett område må opprettes før bydeler kan registreres (se under).
 
 ### 3. Opprette bydel.
+Velg ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => BYDEL
 
-Se kommando over, velg "Bydel".
-For de kommuner som ikke har bydeler, så kan dette ordet "bydel" tilsvare navn på et sted/område, en bygd, en dal, en øy etc..
+For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
+En bydel er alltid koplet på et (og bare ett) område.
+Minimum en bydel må opprettes før eiendommer kan registreres (se under)
+ 
+> NB! Det er de steder/bydeler som opprettes her som vises som valg i Aktivkommune - frontend, men da under begrepet "Område". Det kan være litt forvirrende da vi i backend av Aktivkommune omtaler både område (se over) og bydeler (dette avsnittet).
 
 Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
+
 <h2>Opprette område</h2>
 
 
