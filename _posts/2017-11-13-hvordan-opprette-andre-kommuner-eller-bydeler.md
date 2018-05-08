@@ -30,7 +30,7 @@ For å legge inn data om ulike gatenavn, områder og bydeler i kommunen, må fø
 Stegene som må gjennomføres før oppstart er disse:
 
 ### 1. Opprette gatenavn
-Se kommando over, velg "Gatenavn".
+Se kommando over, velg "Gate".
 Alle gater/veier som kan knyttes til utleieobjekter må registreres, minimum en gate/vei må registreres. Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
 
 ### 2. Opprette område
