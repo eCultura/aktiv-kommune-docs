@@ -1,6 +1,6 @@
 ---
 ID: 291
-post_title: Opprette eiendom, bydeler og områder
+post_title: Opprette områder, bydeler og eiendommer
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,20 +8,23 @@ permalink: http://manual.aktiv-kommune.no/?p=291
 published: true
 post_date: 2017-11-13 13:42:18
 ---
-<blockquote>Aktiv kommune deler inn kommunens ressurser i 5 nivå:
+<blockquote>Aktiv kommune deler inn kommunen i 5 nivå:
 <ul>
- 	<li><strong>Bygg</strong> (navn på bygg/ anlegg)</li>
- 	<li><strong>Eiendommer</strong> (gårds- og bruksnummer)</li>
- 	<li><strong>Bydeler</strong> (bydel eller et "mindre" områdenavn; stedsnavn, bygd, dal, øy etc),</li>
- 	<li><strong>Område</strong> (kommunenavn eller områdenavn)</li>
  	<li><strong>Instansnavn</strong> (kommunenavn)</li>
+        <li><strong>Område</strong> (kommunenavn eller områdenavn)</li>
+        <li><strong>Bydeler</strong> (bydel eller et "mindre" områdenavn; stedsnavn, bygd, dal, øy etc),</li>
+        <li><strong>Eiendommer</strong> (gårds- og bruksnummer)</li>
+        <li><strong>Bygg</strong> (navn på bygg/ anlegg)</li>
+ 	
+ 	
+ 	
 </ul>
-Hver eiendom eller bygg kan ha flere ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
+Hver eiendom eller bygg kan ha flere utleieobjekter/ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
 Instansnavn er høyeste nivå (1). I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instansnavnet.
 
-I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter først et område (det vil si i praksis en kommune (i systemet kalt lokalisering) og en bydel (for de kommuner som ikke har bydeler kan stedsnavn, bygd, dal, øy brukes).
+I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter først et område (det vil si i praksis en kommune (i systemet kalt lokalisering) og en bydel (for de kommuner som ikke har bydeler kan navn på sted/område, bygd, dal, øy brukes).
 
-Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. Først knytter vi <em>lokalisering</em> til eiendommen for deretter å knytte bygg eller anlegg til <em>eiendommen</em>. I eksempelet under lager vi én eiendom for hele kommunen.
+Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn. I eksempelet under lager vi én eiendom for hele kommunen.
 <h2>Opprette område</h2>
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
 <strong>ADMINISTRASJON =&gt; EIENDOM =&gt; ADMINISTRER LOKALISERING</strong>
@@ -52,6 +55,7 @@ Nye eiendommer registreres av en person som har rettigheter som systemadministra
 For å registrere ny eiendom klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
 <h2>Fyll inn informasjon om eiendom:</h2>
+
 Feltnavn| Forklaring/ Aksjon
 ------------------|--------------------------------
 <strong>Eiendom:</strong> |Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
