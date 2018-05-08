@@ -41,7 +41,7 @@ Stegene som må gjennomføres før oppstart er disse:
 Alle gater/veier som (senere i installasjonen) skal knyttes til utleieobjekter må registreres.
 
 For å registrere et gatenavn velger du
-Velg: 
+
 <strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE.</strong>
 
 og klikk deretter på 
@@ -52,7 +52,7 @@ og klikk deretter på
 
 Feltnavn| Forklaring/ Aksjon
 ----------------------|-----------------------------------
-<strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv). Dette kan også være ID-en som brukes kommunens gateregister (hentet fra matrikkelen).
+<strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv). Dette kan med fordel være gate-ID-en som brukes kommunens gateregister (hentet fra matrikkelen).
 <strong>Navn:</strong> |  Skriv inn selve gatenavnet.
 
 Når du er ferdig klikker du på
@@ -79,7 +79,7 @@ og deretter klikker du på:
 
 #### Fyll inn aktuell informasjon om området:
 
-Feltnavn| Forklaring/ Aksjon
+  Feltnavn   | Forklaring/ Aksjon
 -----------------------|-----------------------------------
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel/område (eller stedsnavn).
@@ -94,8 +94,8 @@ Minimum ett område må opprettes før bydeler kan registreres (se under).
 En bydel er alltid er alltid knyttet til et (og bare ett) område (i systemet)
 
 > For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
-En bydel er alltid koplet på et (og bare ett) område.
-Minimum en bydel må opprettes før eiendommer kan registreres (se under)
+
+
  
 > NB! Det er de steder/bydeler som opprettes her som vises som valg i Aktivkommune - frontend, men da under begrepet "Område". Det kan være litt forvirrende da vi i backend av Aktivkommune omtaler både område (se over) og bydeler (dette avsnittet). Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
 
@@ -118,7 +118,7 @@ Feltnavn| Forklaring/ Aksjon
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
 
-Minimum en bydel må registreres før eiendommer kan opprettes.
+Minimum en bydel må opprettes før eiendommer kan opprettes.
 
 
 <h2>4. Opprette eiendom</h2>
@@ -137,7 +137,7 @@ og deretter klikker du på:
 
        Feltnavn       | Forklaring/ Aksjon
 ------------------|--------------------------------
-<strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
+<strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør (helst) være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
 <strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
 <strong>Kategori:</strong> |  Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
 <strong>Bydel</strong> |  Velg bydel (eller område/stedsnavn) fra nedtrekksmenyen som eiendommen tilhører.
