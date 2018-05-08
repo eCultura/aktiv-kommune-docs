@@ -22,12 +22,30 @@ post_date: 2017-11-13 13:42:18
 Hver eiendom eller bygg kan ha flere utleieobjekter/ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
 Instansnavn er høyeste nivå (1). I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instansnavnet.
 
-I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. Vi oppretter først et område (det vil si i praksis en kommune (i systemet kalt lokalisering) og en bydel (for de kommuner som ikke har bydeler kan navn på sted/område, bygd, dal, øy brukes).
+I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. 
 
-Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn. I eksempelet under lager vi én eiendom for hele kommunen.
-<h2>Opprette område</h2>
-For å legge inn data om ulike gatenavn, områder og bydeler i kommunen går du til:
+For å legge inn data om ulike gatenavn, områder og bydeler i kommunen, må følgende kommando brukes (flere ganger):
 <strong>ADMINISTRASJON =&gt; EIENDOM =&gt; ADMINISTRER LOKALISERING</strong>
+
+Stegene som må gjennomføres før oppstart er disse:
+
+### 1. Opprette gatenavn
+Se kommando over, velg "Gatenavn".
+Alle gater/veier som kan knyttes til utleieobjekter må registreres, minimum en gate/vei må registreres. Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
+
+### 2. Opprette område
+Se kommando over, velg "Område".
+
+Instans er alt opprettet, og under instansen er neste nivå <em>områder</em>. På sett og vis er <em>område </em>det høyeste nivået under instansen, og ofte vil navn på område være det samme som navnet på instansen (kommunenavnet). Dette gjelder for kommuner som ikke skal utføre kommunesammenslåing. Skal din kommune slås sammen med andre kommuner, ta kontakt med support i Stavanger, så skal du få råd om hvordan område skal fylles ut for å sikre god kommunesammenslåing senere.
+
+### 3. Opprette bydel.
+
+Se kommando over, velg "Bydel".
+For de kommuner som ikke har bydeler, så kan dette ordet "bydel" tilsvare navn på et sted/område, en bygd, en dal, en øy etc..
+
+Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
+<h2>Opprette område</h2>
+
 
 Skjermbildet ser da slik ut:
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png" alt="skjermbildet eiendom" />
