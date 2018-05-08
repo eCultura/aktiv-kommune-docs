@@ -124,7 +124,7 @@ Minimum en bydel må registreres før eiendommer kan opprettes.
 <h2>4. Opprette eiendom</h2>
 > Eiendommer er som regel avgrenset av gårds- og bruksnummer, men det er mulig å splitte dette ytterligere opp om det er aktuelt.
 
-En eiendom skal alltid knyttes til en (og bare en) "bydel"/"stedsnavn"), som er registert i punkt 3 over. 
+En eiendom skal alltid knyttes til en (og bare en) "bydel"/"stedsnavn", og som er registrert i punkt 3 over. 
 
 For å opprette en ny eiendom velger du:
 <strong>EIENDOM =&gt; LOKASJON =&gt; EIENDOM</strong>
@@ -135,7 +135,7 @@ og deretter klikker du på:
 
 #### Fyll inn aktuell informasjon om eiendom:
 
-Feltnavn| Forklaring/ Aksjon
+       Feltnavn       | Forklaring/ Aksjon
 ------------------|--------------------------------
 <strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
 <strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
