@@ -137,13 +137,13 @@ og deretter klikker du på:
 
        Feltnavn       | Forklaring/ Aksjon
 ------------------|--------------------------------
-<strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør (helst) være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
-<strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
-<strong>Kategori:</strong> |  Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
-<strong>Bydel</strong> |  Velg bydel (eller område/stedsnavn) fra nedtrekksmenyen som eiendommen tilhører.
-<strong>Eier:</strong> |  NB! Må være blank.
-<strong>Status:</strong> |  Velg <em>ok</em> fra nedtrekksmenyen.
-<strong>Merknad:</strong> |  Hvis det er noe spesielt med eiendommen du ønsker å kommentere, så skriver du det her.
+ <strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør (helst) være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
+ <strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
+ <strong>Kategori:</strong> |  Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
+ <strong>Bydel</strong> |  Velg bydel (eller område/stedsnavn) fra nedtrekksmenyen som eiendommen tilhører.
+ <strong>Eier:</strong> |  NB! Må være blank.
+ <strong>Status:</strong> |  Velg <em>ok</em> fra nedtrekksmenyen.
+ <strong>Merknad:</strong> |  Hvis det er noe spesielt med eiendommen du ønsker å kommentere, så skriver du det her.
 
 De resterende feltene er det ikke behov for å fylle inn.
 
