@@ -10,7 +10,7 @@ post_date: 2017-11-11 12:43:36
 ---
 # Om Aktiv kommune
 
-Aktiv kommune er en bookingløsning som er utviklet i samarbeid mellom Stavanger, Bergen, Fjell og Ålesund kommune. Løsningen er skybasert og håndterer administrasjon og utleie av kommunale bygg, anlegg som for eksempel idrettshaller og kulturlokaler og kommualt eigd utstyr som for eksempel AV-utstyr, idrettsutstyr og kanoer.
+Aktiv kommune er en bookingløsning som er utviklet i samarbeid mellom Stavanger, Bergen, Fjell og Ålesund kommune. Løsningen er skybasert og håndterer administrasjon og utleie av kommunale bygg, anlegg som for eksempel idrettshaller og kulturlokaler og kommualt eiet utstyr som for eksempel AV-utstyr, idrettsutstyr og kanoer.
 
 Løsningen tilbyr:
 <ul>
