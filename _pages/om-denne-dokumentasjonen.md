@@ -29,7 +29,10 @@ Administrasjonsdelen (backend) består for det meste av administrasjonsfunksjone
 ## Om manualen
 De resterende sider i denne manualen omtaler de mest aktuelle rollene, og hva de kan gjøre (i parantes). 
 Rollene er:
-* <strong>Innbygger </strong>(finne ressurs og sende søknad)
+* <strong>Innbygger </strong>
+   - finne ressurs, 
+   - sende søknad og 
+   - eventuelt avlyse tildelt tid
 * <strong>Lag og organisasjoner</strong> (oppdatere opplysninger om lag/organisasjon, opprette undergrupper og delegater og interntildeling)
 * <strong>Saksbehandler </strong>(søknadsbehandling, fakturering, oppsett av ressursgrupper og utleieobjekter)
 * <strong>Superbruker </strong>(enklere versjon av systemadminstrator, oppsett av systemet)
