@@ -31,11 +31,23 @@ Skjermbildet ser da slik ut:
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png" alt="skjermbildet eiendom" />
 Her ifra velger du <strong>GATE</strong>, <strong>OMRÅDE</strong> (/kommunenavn) eller <strong>BYDEL</strong>(/geografisk område/poststed) avhengig av hva du ønsker å registrere.
 
+
+
 Stegene som må gjennomføres før oppstart er disse:
 
+
 ### 1. Opprette gatenavn
-Velg: ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE.
+
 Alle gater/veier som (senere i installasjonen) skal knyttes til utleieobjekter må registreres.
+
+For å registrere et gatenavn velger du
+Velg: 
+<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE.</strong>
+
+og klikk deretter på 
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
+
+#### Skriv inn aktuell informasjon i det nye skjermbildet:
 
 
 Feltnavn| Forklaring/ Aksjon
@@ -49,15 +61,19 @@ Når du er ferdig klikker du på
 Minimum en gate/vei må registreres for instansen. 
 Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
 
+
+
 ### 2. Opprette område
-Velg: ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => OMRÅDE
 
 Instans er alt opprettet (av driftsoperatør av Aktivkommune; Stavanger kommune).
 Under instans er neste nivå <em>områder</em>. 
 
 >På sett og vis er <em>område </em>det høyeste nivået under instansen, og ofte vil navn på område være det samme som navnet på instansen (kommunenavnet). Dette gjelder for kommuner som <strong>ikke</strong> skal utføre kommunesammenslåing. Skal din kommune slås sammen med andre kommuner, ta kontakt med support i Stavanger, så skal du få råd om hvordan område skal fylles ut for å sikre en god kommunesammenslåing senere.
 
-For å legge til et nytt område klikker du på
+For å legge til et nytt område velger du:
+<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => OMRÅDE</strong>
+
+og deretter klikker du på:
 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
 
@@ -73,17 +89,21 @@ Når du er ferdig klikker du på
 
 Minimum ett område må opprettes før bydeler kan registreres (se under).
 
-### 3. Opprette bydel.
-Velg ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => BYDEL
 
-For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
+### 3. Opprette bydel.
+En bydel er alltid er alltid knyttet til et (og bare ett) område (i systemet)
+
+> For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
 En bydel er alltid koplet på et (og bare ett) område.
 Minimum en bydel må opprettes før eiendommer kan registreres (se under)
  
 > NB! Det er de steder/bydeler som opprettes her som vises som valg i Aktivkommune - frontend, men da under begrepet "Område". Det kan være litt forvirrende da vi i backend av Aktivkommune omtaler både område (se over) og bydeler (dette avsnittet). Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
 
-For å legge til ny bydel klikker du på
+For å legge til ny bydel velger du:
 
+<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => BYDEL</strong>
+
+og deretter klikker du på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
 
 #### Fyll inn aktuell informasjon om bydel:
@@ -93,22 +113,27 @@ Feltnavn| Forklaring/ Aksjon
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel (eller stedsnavn).
 <strong>Leveringsadresse:|</strong> (dette kan være hovedadressen til kommunen) (BRUKES TIL???)
-<strong>Område:</strong> |  Velg område fra nedtrekksmeny.
+<strong>Område:</strong> |  Velg område som "bydelen/stedsnavnet tilhører fra nedtrekksmeny (dette er opprettet under "Område").
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
 
 Minimum en bydel må registreres før eiendommer kan opprettes.
 
-<h2>Opprette eiendom</h2>
-Nye eiendommer registreres av en person som har rettigheter som systemadministrator eller superbruker. I eksempelet under lager vi bare én eiendom. For å legge til en eiendom går du til
 
+<h2>4. Opprette eiendom</h2>
+> Eiendommer er som regel avgrenset av gårds- og bruksnummer, men det er mulig å splitte dette ytterligere opp om det er aktuelt.
+
+En eiendom skal alltid knyttes til en (og bare en) "bydel"/"stedsnavn"), som er registert i punkt 3 over. 
+
+For å opprette en ny eiendom velger du:
 <strong>EIENDOM =&gt; LOKASJON =&gt; EIENDOM</strong>
 
-For å registrere ny eiendom klikker du på
+og deretter klikker du på:
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
 
-#### Fyll inn informasjon om eiendom:
+
+#### Fyll inn aktuell informasjon om eiendom:
 
 Feltnavn| Forklaring/ Aksjon
 ------------------|--------------------------------
