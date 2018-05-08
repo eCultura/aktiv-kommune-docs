@@ -136,7 +136,7 @@ og deretter klikker du på:
 #### Fyll inn aktuell informasjon om eiendom:
 
 Feltnavn       | Forklaring/ Aksjon
-------------------|--------------------------------
+--------------------------|-----------------------------------
  <strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør (helst) være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
  <strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
  <strong>Kategori:</strong> |  Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
