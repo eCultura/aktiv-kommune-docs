@@ -83,7 +83,7 @@ og deretter klikker du på:
 -----------------------|-----------------------------------
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel/område (eller stedsnavn).
-<strong>Leveringsadresse</strong>: | (brukes ikke i bookingsammenheng)
+<strong>Leveringsadresse</strong>: | (brukes ikke i bookingsammenheng - kan stå tomt)
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
@@ -113,7 +113,7 @@ Feltnavn| Forklaring/ Aksjon
 ----------------------|-----------------------------------
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel (eller stedsnavn).
-<strong>Leveringsadresse:|</strong> (dette kan være hovedadressen til kommunen) (BRUKES TIL???)
+<strong>Leveringsadresse:|</strong> (brukes ikke i bookingsammenheng - kan stå tomt)
 <strong>Område:</strong> |  Velg område som "bydelen/stedsnavnet" tilhører fra nedtrekksmeny (dette er opprettet under "Område").
 
 Når du er ferdig klikker du på
@@ -152,6 +152,7 @@ Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
 
 Minimum en eiendom må opprettes før bygg kan opprettes/registreres.
+Eiendommer kan også leses inn maskinelt (via et Excel-ark). Data er da oftest hentet fra "eiendomsregisteret" i din kommune.
 
 &nbsp;
 
