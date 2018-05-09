@@ -114,24 +114,22 @@ Følgende steg må gjennomføres før oppstart:
 
 Velg først kommandoen:
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; GLOBAL KONFIGURASJON</strong>
-<ul>
+
 Forklaring for noen av feltnavnene som må fylles ut kommer her:
 (NB! De felt som ikke blir omtalt her trenger ikke å bli fylt ut)
 
 Feltnavn | Aksjoner/ forklaring
 ----------------------------------------|------------------------------------------------------------
- <li>Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.</li>
- <li>Angi url for logo (hvor ligger (kommune)logoen):
-|eksempel: Fjell kommune henter sin logo fra:
+<li>Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.</li>
+<li>Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
 https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
 Se <a href="https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen">Wikipedia</a></li>
- <li>E-post brukerstøtte:|Her legger man inn epostkontoen for brukerstøtte. NB! Det må etableres en rutine for å sjekke og lese eventuelle e-poster.
-eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no</li>
+<li>E-post brukerstøtte:|Her legger man inn epostkontoen for brukerstøtte. NB! Det må etableres en rutine for å sjekke og lese eventuelle e-poster. Eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no</li>
 
  	<li>For å skrive inn tekst som skal være på forsiden / startsiden velger du:
 <strong>ADMINISTRASJON =&gt; BOOKINGFRONTEND =&gt; METADATA</strong>
 og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidetekst"</li>
-</ul>
+
 
 Når du er ferdig å fylle ut, klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png" alt="lagre" />
