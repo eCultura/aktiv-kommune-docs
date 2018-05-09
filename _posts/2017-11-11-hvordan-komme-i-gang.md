@@ -67,7 +67,7 @@ Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommun
 
 <strong> NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.</strong>
 
-(0. Logg på som Systemadministrator) STAVANGER?
+(0. Logg på som Systemadministrator) Utføres av STAVANGER?
 For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 
 1. Velg kommandoen:
@@ -88,7 +88,7 @@ Følgende skjermbilde dukker opp:
 
 Den nye brukeren har dermed blitt medlem av gruppen "Superbruker" , default «booking admin», og vil ha nødvendige tilganger til å gjøre det meste i Aktivkommune.
 
-(2. Logg av som Systemadministrator) STAVANGER?
+(2. Logg av som Systemadministrator) Utføres av STAVANGER?
 3. Du som er tildelt rollen som superbruker (konkret person), tar konfigureringen av systemet videre.
 Du må være pålogget med "Superbruker"-rettigheter for å kunne gjøre resten av konfigureringene av Aktivkommune/systemet.
 
