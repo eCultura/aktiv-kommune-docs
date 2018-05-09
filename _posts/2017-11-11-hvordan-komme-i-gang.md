@@ -63,7 +63,9 @@ Systemet blir levert med to default brukere:
 2. Brukeren "Bookingguest". Denne brukeren definerer tilganger for innbygger/bruker (bookingfrontend-bruker). Tilgang gis «automatisk» når innbygger/bruker åpner et søknadskjema i bookingsystemet (bruker blir en anonym bruker ("gjestebruker") av modulen bookingfrontend).
 
 <h2>Hva skal gjøres ved første gangs bruk/pålogging i Aktivkommune</h2>
-Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommune) sende e-post til systemansvarlig i kommunen/enheten. I denne e-posten vi kommunen motta brukernavn (systemadministrator). Passord til systemadministrator blir sendt i en egen SMS. Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt med eget brukernavn(ident) og passord. Navn og passord bli delt ut på samme måte som for Systemadministrator (se over).<strong> NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.</strong>
+Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommune) sende e-post til systemansvarlig i kommunen/enheten. I denne e-posten vi kommunen motta brukernavn (systemadministrator). Passord til systemadministrator blir sendt i en egen SMS. Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt med eget brukernavn(ident) og passord. Navn og passord bli delt ut på samme måte som for Systemadministrator (se over).
+
+<strong> NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.</strong>
 
 (0. Logg på som Systemadministrator) STAVANGER?
 For å legge til ny bruker i systemet, må følgende steg gjennomføres:
@@ -72,7 +74,7 @@ For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE</strong>
 
 Følgende skjermbilde dukker opp:
-href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Opprette enkelbruker.png">her.</a>
+href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny bruker.png">her.</a>
 
 
 2. Klikk på "Legg til"-knappen
