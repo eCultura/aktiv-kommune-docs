@@ -1,6 +1,6 @@
 ---
 ID: 69
-post_title: Komme i gang med Aktiv kommune
+post_title: Hvordan komme i gang med Aktiv kommune?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -69,10 +69,10 @@ Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommun
 For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 
 1. Velg kommandoen:
-ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE.
+<strong>ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE</strong>
 
 Følgende skjermbilde dukker opp:
-href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Opprette enkelbruker.pdf">her.</a>
+href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Opprette enkelbruker.png">her.</a>
 
 
 2. Klikk på "Legg til"-knappen
@@ -81,7 +81,7 @@ href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Opprette enkelbr
  <a href="http://manual.aktiv-kommune.no/?p=267">"Administrer brukere"</a>
 
 4. Velg arkfanen "Grupper", og sett et kryss for valget : 
-    Gruppe, superbruker
+    <strong>Gruppe, superbruker</strong>
 
 
 Den nye brukeren har dermed blitt medlem av gruppen "Superbruker" , default «booking admin», og vil ha nødvendige tilganger til å gjøre det meste i Aktivkommune.
@@ -98,14 +98,16 @@ De aller viktigeste konfigureringer av bookingsystemet gjøres av en person som 
 
 &gt;
 <ul>
- 	<li>En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis ti booking-delen av Portico Estate</li>
+ 	<li>En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis være alle kommandoer i booking-delen og noen av kommandoene i eiendoms-delen av Portico Estate</li>
 </ul>
+
 <h2>Support/backup på roller/tilganger.</h2>
 Driftsleverandør vil ha egen pålogging til kommunens instans. Skulle for eksempel systemansvarlig miste passordet sitt, så vil driftsleverandør kunne bistå med nytt passord. I en oppstartsfase vil kommunen trolig ha noe behov for at driftsleverandør kan gå inn og kontrollere, eventuelt gi råd om oppsett og konfigurasjon av systemet. Før dette skjer, vil driftsleverandør avtale med systemansvarlig hvordan dette best kan foregå.
+
 <h2>Oppsett av nettside (frontend); Om framsidebilder, logo og framsidetekst</h2>
 Kommunene må selv legge inn logo (kommunelogo), framsidebilde og tekst/informasjon. Det er ikke etablert en beste praksis her, så tipset er å se hva andre kommuner har gjort for å få dette til.
 
-BØR VI OPPGI LENKER TIL ANDRE KOMMUNER HER?
+<strong>BØR VI OPPGI LENKER TIL ANDRE KOMMUNER HER?</strong><em>
 
 Følgende steg må gjennomføres før oppstart:
 
@@ -125,15 +127,16 @@ eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no</li
 <strong>ADMINISTRASJON =&gt; BOOKINGFRONTEND =&gt; METADATA</strong>
 og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidetekst"</li>
 </ul>
+
 Når du er ferdig å fylle ut, klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png" alt="lagre" />
 
-## Opprett eier-kategorier.
+## Opprette eier-kategorier.
 Før oppstart må det legges til minimum en kategori for eierforholdet; Dette gjøres underkommandoen:
 
 <strong>ADMINISTRASJON => EIENDOM => EIER => (Eier kategorier).</strong>
 Velg "Ny" , og legg inn minimum en eierkategori.
 
-Vanligvis er det nok å legge inn "offentlig" eller "kommunal" eigd, men i den grad kommunen har disposisjonsrett og skal drive utleie på private bygg og anlegg, så må også motsatt kategori legges inn, for eksempel "ikke-kommunal" eigd eiendom/bygg også legges inn.
+> Vanligvis er det nok å legge inn "offentlig" eller "kommunal" eiet, men i den grad kommunen har disposisjonsrett og skal drive utleie på private bygg og anlegg, så må også motsatt kategori legges inn, for eksempel "ikke-kommunal" eiet eiendom/bygg også legges inn.
 
 Neste trinn er å legge inn <a href="https://manual.aktiv-kommune.no/?p=267">brukere og brukergrupper</a>.
