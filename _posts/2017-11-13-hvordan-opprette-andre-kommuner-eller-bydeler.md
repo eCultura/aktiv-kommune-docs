@@ -72,9 +72,9 @@ og deretter klikker du på:
 
 Feltnavn | Forklaring/ Aksjon
 -----------------------|-----------------------------------
-<strong>ID:</strong> | Et fortløpende nummer (som du skriver inn selv).
-<strong>Navn:</strong> | Navn på bydel/område (eller stedsnavn).
-<strong>Leveringsadresse</strong>: | (brukes ikke i bookingsammenheng - kan stå tomt)
+<strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
+<strong>Navn:</strong> |  Navn på bydel/område (eller stedsnavn).
+<strong>Leveringsadresse</strong>: |   (brukes ikke i bookingsammenheng - kan stå tomt)
 
 
 <style>
