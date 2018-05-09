@@ -20,7 +20,7 @@ post_date: 2017-11-13 13:42:18
  	
 </ul>
 Hver eiendom eller bygg kan ha flere utleieobjekter/ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
-Instansnavn er høyeste nivå. I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instans- og instansnavnet.
+Instansnavn er høyeste nivå. I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instansen og instansnavnet.
 
 
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen, må følgende kommando brukes (flere ganger):
