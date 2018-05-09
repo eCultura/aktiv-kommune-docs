@@ -74,7 +74,7 @@ For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE</strong>
 
 Følgende skjermbilde dukker opp:
-href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny bruker.png">her.</a>
+href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny brukar.png">her.</a>
 
 
 2. Klikk på "Legg til"-knappen
