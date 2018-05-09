@@ -74,7 +74,7 @@ For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE</strong>
 
 Følgende skjermbilde dukker opp:
-href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny brukar.png">her.</a>
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny brukar.png" alt = "ny bruker"/a>
 
 
 2. Klikk på "Legg til"-knappen
@@ -92,16 +92,15 @@ Den nye brukeren har dermed blitt medlem av gruppen "Superbruker" , default «bo
 3. Du som er tildelt rollen som superbruker (konkret person), tar konfigureringen av systemet videre.
 Du må være pålogget med "Superbruker"-rettigheter for å kunne gjøre resten av konfigureringene av Aktivkommune/systemet.
 
-&gt;
+
 <ul>
  	<li>Instansen trenger normalt bare en <em>systemadministrator</em>, og denne brukeren vil ha tilgang til alle menyvalg/kommandoer i systemet. Systemadministrator vil ha tilgang til kommandoer som både vedrører FDV-delen og booking-delen av systemet Portico Estate</li>
 </ul>
-De aller viktigeste konfigureringer av bookingsystemet gjøres av en person som har tilgang som superbruker. En instans bør ha flere enn en superbruker, men dette er ikke et absolutt krav.
+De aller viktigste konfigureringer av bookingsystemet gjøres av en person som har tilgang som superbruker. En instans bør ha flere enn en superbruker, men dette er ikke et absolutt krav.
 
-&gt;
-<ul>
- 	<li>En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis være alle kommandoer i booking-delen og noen av kommandoene i eiendoms-delen av Portico Estate</li>
-</ul>
+
+> En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis være alle kommandoer i booking-delen og noen av kommandoene i eiendoms-delen av Portico Estate
+
 
 <h2>Support/backup på roller/tilganger.</h2>
 Driftsleverandør vil ha egen pålogging til kommunens instans. Skulle for eksempel systemansvarlig miste passordet sitt, så vil driftsleverandør kunne bistå med nytt passord. I en oppstartsfase vil kommunen trolig ha noe behov for at driftsleverandør kan gå inn og kontrollere, eventuelt gi råd om oppsett og konfigurasjon av systemet. Før dette skjer, vil driftsleverandør avtale med systemansvarlig hvordan dette best kan foregå.
