@@ -86,31 +86,6 @@ table, th, td {
 </head>
 <body>
 
-<h2>Collapsed Borders</h2>
-<p>If you want the borders to collapse into one border, add the CSS border-collapse property.</p>
-
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
@@ -120,9 +95,9 @@ Minimum ett område må opprettes før bydeler kan registreres (se under).
 ### 3. Opprette bydel.
 En bydel er alltid er alltid knyttet til et (og bare ett) område (i systemet)
 
-&gt; For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
+> For de kommuner som ikke har bydeler, så kan ordet "bydel" tilsvare enten navn på et sted/område, en bygd, en dal, en øy etc.
 
-&gt; NB! Det er de steder/bydeler som opprettes her som vises som valg i Aktivkommune - frontend, men da under begrepet "Område". Det kan være litt forvirrende da vi i backend av Aktivkommune omtaler både område (se over) og bydeler (dette avsnittet). Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
+> NB! Det er de steder/bydeler som opprettes her som vises som valg i Aktivkommune - frontend, men da under begrepet "Område". Det kan være litt forvirrende da vi i backend av Aktivkommune omtaler både område (se over) og bydeler (dette avsnittet). Når ett eller flere område(r) og en eller flere bydel(er) er lagt inn, kan eiendom opprettes. En eiendom er alltid knyttet til en bydel (eller stedsnavn; se over). Først knytter vi <em>lokaliseringskoden</em> til eiendommen til en bydel/stedsnavn.
 
 For å legge til ny bydel velger du:
 
@@ -145,7 +120,7 @@ Når du er ferdig klikker du på
 
 Minimum en bydel må opprettes før eiendommer kan opprettes.
 <h2>4. Opprette eiendom</h2>
-&gt; Eiendommer er som regel avgrenset av gårds- og bruksnummer, men det er mulig å splitte dette ytterligere opp om det er aktuelt.
+> Eiendommer er som regel avgrenset av gårds- og bruksnummer, men det er mulig å splitte dette ytterligere opp om det er aktuelt.
 
 En eiendom skal alltid knyttes til en (og bare en) "bydel"/"stedsnavn", og som er registrert i punkt 3 over.
 
