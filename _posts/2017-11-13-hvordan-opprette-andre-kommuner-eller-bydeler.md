@@ -20,17 +20,17 @@ post_date: 2017-11-13 13:42:18
  	
 </ul>
 Hver eiendom eller bygg kan ha flere utleieobjekter/ressurser til utleie eller utlån (de deles ressursgrupper og ressurser)</blockquote>
-Instansnavn er høyeste nivå (1). I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instansnavnet.
+Instansnavn er høyeste nivå. I avsnittet [Hvordan komme i gang med Aktiv kommune](http://manual.aktiv-kommune.no/?p=69) forklares opprettelsen av instans- og instansnavnet.
 
-I eksempelet under viser vi beste praksis for en kommune som IKKE skal gjennomføre kommunesammenslåing. 
 
 For å legge inn data om ulike gatenavn, områder og bydeler i kommunen, må følgende kommando brukes (flere ganger):
 <strong>ADMINISTRASJON =&gt; EIENDOM =&gt; ADMINISTRER LOKALISERING</strong>
 
 Skjermbildet ser da slik ut:
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png" alt="skjermbildet eiendom" />
-Her ifra velger du <strong>GATE</strong>, <strong>OMRÅDE</strong> (/kommunenavn) eller <strong>BYDEL</strong>(/geografisk område/poststed) avhengig av hva du ønsker å registrere.
 
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbildeeiendom.png" alt="skjermbildet eiendom" />
+
+Her ifra velger du <strong>GATE</strong>, <strong>OMRÅDE</strong> (/kommunenavn) eller <strong>BYDEL</strong>(/geografisk område/poststed) avhengig av hva du ønsker å registrere.
 
 
 Stegene som må gjennomføres før oppstart er disse:
@@ -42,7 +42,7 @@ Alle gater/veier som (senere i installasjonen) skal knyttes til utleieobjekter m
 
 For å registrere et gatenavn velger du
 
-<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE.</strong>
+<strong>ADMINISTRASJON => EIENDOM => ADMINISTRER LOKALISERING => GATE</strong>
 
 og klikk deretter på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png" alt="ny" />
@@ -52,13 +52,13 @@ og klikk deretter på
 
 Feltnavn| Forklaring/ Aksjon
 ----------------------|-----------------------------------
-<strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv). Dette kan med fordel være gate-ID-en som brukes kommunens gateregister (hentet fra matrikkelen).
+<strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv). Dette nummeret kan med fordel være den unike gate-ID-en som brukes kommunens gateregister (hentet fra matrikkelen).
 <strong>Navn:</strong> |  Skriv inn selve gatenavnet.
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
 
-Minimum en gate/vei må registreres for instansen. 
+Minimum en gate/vei må registreres i instansen. 
 Gateregisteret til kommunen kan også leses inn maskinelt (via et Excel-ark).
 
 
@@ -83,6 +83,7 @@ og deretter klikker du på:
 -----------------------|-----------------------------------
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel/område (eller stedsnavn).
+<strong>Leveringsadresse</strong>: | (brukes ikke i bookingsammenheng)
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
@@ -113,7 +114,7 @@ Feltnavn| Forklaring/ Aksjon
 <strong>ID:</strong> |  Et fortløpende nummer (som du skriver inn selv).
 <strong>Navn:</strong> |  Navn på bydel (eller stedsnavn).
 <strong>Leveringsadresse:|</strong> (dette kan være hovedadressen til kommunen) (BRUKES TIL???)
-<strong>Område:</strong> |  Velg område som "bydelen/stedsnavnet tilhører fra nedtrekksmeny (dette er opprettet under "Område").
+<strong>Område:</strong> |  Velg område som "bydelen/stedsnavnet" tilhører fra nedtrekksmeny (dette er opprettet under "Område").
 
 Når du er ferdig klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="lagre" />
@@ -136,7 +137,7 @@ og deretter klikker du på:
 #### Fyll inn aktuell informasjon om eiendom:
 
 Feltnavn       | Forklaring/ Aksjon
---------------------------|-----------------------------------
+----------------------------|-----------------------------------
  <strong>Eiendom:</strong> |  Lokasjonskoden til eiendommen (for eksempel: 1246). Lokasjonskoden bør (helst) være den samme koden som eiendomsavdelingen i din kommune bruker på eiendommen.
  <strong>Navn:</strong> |  Navnet på eiendommen (for eksempel: eiendom i Fjell)
  <strong>Kategori:</strong> |  Velg eiendomskategori fra nedtrekksmenyen eller klikk <a href="https://manual.aktiv-kommune.no/?p=700">her</a> for å legge inn kategorier.
