@@ -83,8 +83,7 @@ table, th, td {
     border-collapse: collapse;
 }
 </style>
-</head>
-<body>
+
 
 
 Når du er ferdig klikker du på
