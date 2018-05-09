@@ -36,10 +36,10 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 **Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard.
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp.
 
-Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe bør velges.
+Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe må velges.
 
 Under arkfanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som bruker eller administrator.
-&gt; Arkfanen "Applikasjoner" trenger normalt ikke brukes så lenge brukeren er tilknyttet minst en brukergruppe under arkfanen "Grupper"
+> Arkfanen "Applikasjoner" trenger normalt ikke brukes så lenge brukeren er tilknyttet minst en brukergruppe under arkfanen "Grupper"
 Når du har fylt inn den informasjonen som skal inn, klikker du på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
