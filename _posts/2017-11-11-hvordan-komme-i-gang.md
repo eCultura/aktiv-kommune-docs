@@ -74,7 +74,7 @@ For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 <strong>ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE</strong>
 
 Følgende skjermbilde dukker opp:
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny brukar.png" alt = "ny bruker"/a>
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Skjermbilde Opprette ny brukar.png" />
 
 
 2. Klikk på "Legg til"-knappen
@@ -108,7 +108,7 @@ Driftsleverandør vil ha egen pålogging til kommunens instans. Skulle for eksem
 <h2>Oppsett av nettside (frontend); Om framsidebilder, logo og framsidetekst</h2>
 Kommunene må selv legge inn logo (kommunelogo), framsidebilde og tekst/informasjon. Det er ikke etablert en beste praksis her, så tipset er å se hva andre kommuner har gjort for å få dette til.
 
-<strong>BØR VI OPPGI LENKER TIL ANDRE KOMMUNER HER?</strong><em>
+<strong>BØR VI OPPGI LENKER TIL ANDRE KOMMUNER HER?</strong>
 
 Følgende steg må gjennomføres før oppstart:
 
