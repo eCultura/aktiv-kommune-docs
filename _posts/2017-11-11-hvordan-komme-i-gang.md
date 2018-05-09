@@ -9,22 +9,27 @@ published: true
 post_date: 2017-11-11 15:27:56
 ---
 Prosesskart for nødvendige forberedelser før oppstart finner du <a href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-før-oppstart-PDF-1.pdf">her.</a>
+
 <h2>Forberedelser</h2>
-Før du kan bruke Aktivkommune, må kommunen ha opprettet en driftsavtale med Stavanger kommune. Du kan trykke <a href="#">her</a> for å fylle ut et skjema. Dette skjemaet sendes deretter til driftsansvarlig for godkjennelse. Når driftsavtalen er på plass vil systemansvarlig i din kommune motta en e-post med brukernavn og passord samt henvisning til denne siden.
+Før du kan bruke Aktivkommune, må kommunen ha opprettet en driftsavtale med Stavanger kommune. Du kan trykke <a href="#">her</a> for å fylle ut et skjema. Dette skjemaet sendes deretter til driftsansvarlig for godkjennelse. Når driftsavtalen er på plass vil systemansvarlig (en superbruker) i din kommune motta en e-post med brukernavn og en SMS med passord, samt henvisning til denne siden.
+
 <h2>Systemansvarlig</h2>
 Hver kommune må ha en systemansvarlig eller sørge for at en person som er ansatt hos en samarbeidspartner/ekstern bedrift, blir tildelt denne rollen. En systemansvarlig, i denne sammenheng, er en person med generell god digital kompetanse, eller person som evner å forstå og utføre veiledningen under. En systemansvarlig vil ha tilgang til alle deler (kommandoer) i systemet.
+
 <h2>Oppretting av ny instans i Aktivkommune</h2>
 Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen <em>instans</em> ("systemkonto") for den nye kommunen /enheten. Som regel vil instansen ha samme navn som kommunen, men også kommunenummer og andre begreper kan benyttes som instansnavn.
+
 <blockquote>En <em>instans</em> er avgrenset til :
 <ul>
- 	<li>1. de brukere (systemadministrator, superbruker, saksbehandler og innbyggere/lag/organisasjoner) som skal bruke løsningen,</li>
+ 	<li>1. de brukere (systemadministrator, superbruker, saksbehandler og innbyggere/lag/organisasjoner) som skal bruke løsningen i din kommune,</li>
 </ul>
 og til
 <ul>
- 	<li>2. de utleie-ressurser(rom, anlegg, utstyr) som kommunen ønsker å leie ut.</li>
+ 	<li>2. de utleieobjekter og ressurser (rom, anlegg, utstyr) som din kommune ønsker å leie ut.</li>
 </ul>
-En instans er altså 100% dedikert til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
-Instansen inneholder alle moduler i FDV-systemet (Portico Estate), men for å etablere og bruke Aktivkommune brukes følgende fire moduler:
+En instans er altså helt avgrenset til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
+
+Instansen inneholder alle moduler i FDV-systemet (Portico Estate), men for å etablere og bruke Aktivkommune brukes kun følgende fire moduler:
 
 * Booking (full bruk)
 * Bookingfrontend (full bruk)
@@ -32,6 +37,7 @@ Instansen inneholder alle moduler i FDV-systemet (Portico Estate), men for å et
 * Eiendom (delvis bruk)
 
 Denne manualen konsentrerer seg kun om de moduler og funksjoner som til sammen utgjør Aktivkommune</blockquote>
+
 <h2>Om brukergrupper og roller i Aktivkommune</h2>
 Systemet leveres i utgangspunktet med tre predefinerte brukergrupper (default). Disse gruppene er:
 
@@ -49,23 +55,40 @@ Disse tre brukergruppene bør omgående skifte navn til noe mer forståelig, og 
 
 Hver kommune kan definere nye brukergrupper ut over disse tre, men dette frarådes fordi support og brukermanualer i utgangspunktet kun omfatter disse tre gruppene.
 
-For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Ressurser</em>). Mer om dette i avsnittet "XXXXXXXX - kommer senere- XXXXX "
+For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Utleieobjekter (ressurser) </em>). Mer om dette i avsnittet "XXXXXXXX - kommer senere- XXXXX "
 
 Systemet blir levert med to default brukere:
 
 1. Brukeren «sysadmin». Denne brukeren er medlem av brukergruppen «Admins»/ (Systemadministrator), og den har tilgang til alt i systemet (både menyvalg og kommandoer). Systemadministrator blir bare brukt når kommunen skal opprette ny superbruker.
 2. Brukeren "Bookingguest". Denne brukeren definerer tilganger for innbygger/bruker (bookingfrontend-bruker). Tilgang gis «automatisk» når innbygger/bruker åpner et søknadskjema i bookingsystemet (bruker blir en anonym bruker ("gjestebruker") av modulen bookingfrontend).
+
 <h2>Hva skal gjøres ved første gangs bruk/pålogging i Aktivkommune</h2>
 Etter at instans er opprettet (se over), vil driftsleverandør (Stavanger kommune) sende e-post til systemansvarlig i kommunen/enheten. I denne e-posten vi kommunen motta brukernavn (systemadministrator). Passord til systemadministrator blir sendt i en egen SMS. Hver kommune vil også få en eller flere <em>superbrukere</em> tildelt med eget brukernavn(ident) og passord. Navn og passord bli delt ut på samme måte som for Systemadministrator (se over).<strong> NB STAVANGER MÅ LEGGE DETTE INN I "OPPSTARTS"-RUTINEN! ELLERS MÅ DETTE GJØRES AV KOMMUNENS SYSTEMADMINISTRATOR.</strong>
 
 (0. Logg på som Systemadministrator) STAVANGER?
-1. Klikk på "Ny bruker", og legg inn nødvendige opplysninger (se avsnitt under). Denne brukeren må krysses av og bli medlem av «booking admin» (gruppen "Superbruker").
+For å legge til ny bruker i systemet, må følgende steg gjennomføres:
 
-LAG/sett inn EGET SKJERMBILDE
+1. Velg kommandoen:
+ADMINISTRASJON => ADMIN => ADMINISTRER BRUKERE.
+
+Følgende skjermbilde dukker opp:
+href="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Opprette enkelbruker.pdf">her.</a>
+
+
+2. Klikk på "Legg til"-knappen
+
+3. Skriv inn nødvendige opplysninger i arkfanen "Brukerdata", se avsnittet 
+ <a href="http://manual.aktiv-kommune.no/?p=267">"Administrer brukere"</a>
+
+4. Velg arkfanen "Grupper", og sett et kryss for valget : 
+    Gruppe, superbruker
+
+
+Den nye brukeren har dermed blitt medlem av gruppen "Superbruker" , default «booking admin», og vil ha nødvendige tilganger til å gjøre det meste i Aktivkommune.
 
 (2. Logg av som Systemadministrator) STAVANGER?
 3. Du som er tildelt rollen som superbruker (konkret person), tar konfigureringen av systemet videre.
-Denne brukeren brukes til videre konfigurasjon av systemet
+Du må være pålogget med "Superbruker"-rettigheter for å kunne gjøre resten av konfigureringene av Aktivkommune/systemet.
 
 &gt;
 <ul>
