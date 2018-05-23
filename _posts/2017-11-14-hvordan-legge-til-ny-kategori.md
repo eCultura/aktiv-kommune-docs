@@ -16,7 +16,7 @@ post_date: 2017-11-14 10:01:42
 
 >I utleiesammenheng i Aktivkommune brukes bare kategoriene eiendom og bygg. I prinsippet kan også inngang og leilighet også benyttes for utleie av kommunale boliger og leiligheter. Er dette aktuelt; ta kontakt med support i Stavanger kommune.
 
-For å legge til en ny kategori går du til
+For å legge til en ny kategori velger du kommandoen:
 
 <strong>ADMINISTRASJON =&gt; EIENDOM =&gt; ADMINISTER LOKALISERING =&gt; LOKALISERINGSTYPE =&gt; EIENDOM KATEGORIER</strong>
 
@@ -29,12 +29,13 @@ For å legge til en ny kategori klikker du på
 ## Fyll ut informasjon om kategorien:
 
 Feltnavn |      Aksjon / Forklaring
-----------------|----------------------------
-**ID:** | Stigende løpenummer
+---------------------|----------------------------
+**ID:** |Stigende løpenummer
 **Beskrivelse:** |Beskrivelse av kategorien / hva er kategorien.
 
-Minimum en kategori må registreres, for eksempel "Offentlig eigd" (eller "Kommunalt eigd"). 
-Dersom det er aktuelt å leie ut andre eiendommer og bygg via Aktivkommune, og som ikke er kommunalt eigd, kan dere også legge inn en kategori som heter "Privat eigd" (eller "Ikke kommunalt eigd")
+
+Minimum en kategori må registreres, for eksempel "Offentlig eiendom" (eller "Kommunal eiendom"). 
+Dersom det er aktuelt å leie ut andre eiendommer og bygg via Aktivkommune, og som ikke er kommunalt eiendom, kan dere også legge inn en kategori som heter "Privat eiendom" (eller "Ikke-kommunal eiendom")
 
 Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
