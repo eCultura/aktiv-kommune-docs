@@ -1,6 +1,8 @@
 ---
 ID: 267
-post_title: Administrere brukere
+post_title: >
+  Opprette og administrere brukertilganger
+  i systemet
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -8,15 +10,16 @@ permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
 post_date: 2017-11-13 10:28:21
 ---
-For å kunne oppdatere og endre informasjon om brukere og brukergrupper, så må du være systemadministrator eller superbruker.
-<h2>Bruker</h2>
+For å kunne opprette, oppdatere og endre informasjon om brukere og brukergrupper, så må du ha tilgang som systemadministrator eller superbruker.
+
+<h2>Opprette og endre på bruker</h2>
 Administrator kan opprette ny bruker eller endre opplysninger om eksisterende brukere ved menyvalg:
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE BRUKERE</strong>
 
 Skjermbildet ser da slik ut:
 ![administrere brukere](http://manual.aktiv-kommune.no/wp-content/uploads/2018/02/brukereogbrukergrupper.png)
 
-Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbehandler eller superbruker ikke lenger skal ha tilgang anbefales det å gjøre brukeren inaktiv heller enn å slette den for å beholde historikk om saksbehandlingen.
+Her kan du vise, endre eller gjøre eksisterende bruker inaktiv. Når en saksbehandler eller superbruker ikke lenger skal ha tilgang til systemet, så anbefales det å gjøre brukeren inaktiv heller enn å slette brukeren. Da vil man kunne beholde historikk om saksbehandlingen.
 
 For å legge til ny bruker klikker du på
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
@@ -25,16 +28,18 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 
 **Feltnavn**| Hva fylles ut
 --------------------------|---------------------------------------------
-**Brukernavn:**|Organisasjoner og privatpersoner anbefales å bruke sin e-postadresse som brukernavn. Saksbehandlere og superbrukere anbefales å bruke sin brukerID som brukes til pålogging på kommunens nett.
+**Brukernavn:**|Organisasjoner og privatpersoner anbefales å bruke sin e-postadresse som brukernavn. For saksbehandlere og superbrukere (ansatte i kommunen) anbefales det at disse får tildelt som kommunale bruker-ID også som brukernavn. Det er mulig å knytte Singel Sign On (SSO) på løsningen for de kommuner som har dette.
 **Fornavn:** |Fornavn på brukeren.
 **Etternavn:** |Etternavn på brukeren.
-**Passord:** |Passord brukeren skal bruke ved innlogging på siden
+**Passord:** |Passord brukeren skal bruke ved innlogging på siden.
 **Skriv inn passord igjen:** |Gjenta passord.
 **Kontakt:**| (brukes ikke)
 **Kan bytte passord:** |Fjern haken dersom bruker ikke selv skal kunne bytte passord
 **Anonym bruker (vises ikke i sesjonslisten):** |Hak av om bruker skal være anonym
 **Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard.
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp.
+
+> Det er mulig å forandre kravene til passordstyrke (passordregler). Systemet leveres med normalt god passordstyrke.
 
 Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe må velges.
 
@@ -59,7 +64,7 @@ Brukere skal ikke slettes fra systemet, men settes som <em>inaktiv</em> om de ik
 
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE BRUKERE</strong>
 
-Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet haker du vekk for *Bruker er aktiv* og klikker på
+Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet  tar du vekk haken for *Bruker er aktiv* og klikker på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
 Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gjøres aktiv igjen om det blir aktuelt, for eksempel etter endt permisjon.
