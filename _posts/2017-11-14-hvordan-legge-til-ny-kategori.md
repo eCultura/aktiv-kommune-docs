@@ -8,13 +8,13 @@ permalink: http://manual.aktiv-kommune.no/?p=700
 published: true
 post_date: 2017-11-14 10:01:42
 ---
-&gt;Begrepet kategori har sitt utspring fra FDV-delen av Portico Estate, og er i utgangspunktet knyttet til eierforhold for bygg og eiendommer i kommune. Det kan i Aktivkommune-sammenheng være fristende å endre på disse slik at de uttrykkene blir mer knyttet til booking og utleieobjekter. Men enn så lenge vil beste praksis være å la kategori være FDV-relatert. Det vil si at kommunene legger inn kategori slik skjermbildet under viser (med inndelingen :
-* eiendom -&gt; 
-* bygg -&gt; 
-* inngang -&gt; 
-* leilighet.) 
+&gt;Begrepet kategori har sitt utspring fra FDV-delen av Portico Estate, og er i utgangspunktet knyttet til eierforhold for bygg og eiendommer i kommune. Det kan i Aktivkommune-sammenheng være fristende å endre på disse slik at de uttrykkene blir mer knyttet til booking og utleieobjekter. Men enn så lenge vil beste praksis være å la kategori være FDV-relatert. Det vil si at kommunene utgangspunktet bruker følgende inndeling:
+* eiendom  
+* bygg 
+* inngang 
+* leilighet.
 
->I utleiesammenheng i Aktivkommune brukes bare kategoriene eiendom og bygg. I prinsippet kan også inngang og leilighet også benyttes for utleie av kommunale boliger og leiligheter. Er dette aktuelt; ta kontakt med support i Stavanger kommune.
+>I utleiesammenheng i Aktivkommune brukes bare kategoriene eiendom og bygg. I prinsippet kan også inngang og leilighet også benyttes ved utleie av kommunale boliger og leiligheter. Er dette aktuelt; ta kontakt med support i Stavanger eller Bergen kommune.
 
 For å legge til en ny kategori velger du kommandoen:
 
@@ -35,7 +35,7 @@ Feltnavn |      Aksjon / Forklaring
 
 
 Minimum en kategori må registreres, for eksempel "Offentlig eiendom" (eller "Kommunal eiendom"). 
-Dersom det er aktuelt å leie ut andre eiendommer og bygg via Aktivkommune, og som ikke er kommunalt eiendom, kan dere også legge inn en kategori som heter "Privat eiendom" (eller "Ikke-kommunal eiendom")
+Dersom det er aktuelt å leie ut andre eiendommer og bygg via Aktivkommune, og som ikke er kommunal eiendom, kan dere også legge inn en kategori som heter "Privat eiendom" (eller "Ikke-kommunal eiendom")
 
 Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
