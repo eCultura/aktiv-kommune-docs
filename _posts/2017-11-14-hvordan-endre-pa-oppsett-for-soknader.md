@@ -8,27 +8,27 @@ permalink: http://manual.aktiv-kommune.no/?p=281
 published: true
 post_date: 2017-11-14 10:31:59
 ---
-Det er mulig å sette opp en del innstillinger om [språk](https://manual.aktiv-kommune.no/?p=340), felter osv i Aktiv kommune.
+Det er mulig å sette opp en del innstillinger om [språk](https://manual.aktiv-kommune.no/?p=340), felter osv i Aktivkommune.
 
 # Kort om noen innstillinger for Aktivkommune
 
-Under installasjonen av Aktivkommune skal det legges inn informasjon om 
+Under installasjonen av Aktivkommune må det legges inn informasjon om følgende tre
 * URL til nettside, 
 * e-post innstillinger og 
 * link til logo med kommunevåpen 
 
-Det er mulig å endre på andre forhold, men det anbefales ikke. Minimum konfigurering er de tre punktene ovenfor.
+Det er mulig å endre på andre forhold i systemet via dette skjermbildet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
 
 Endringene gjøres under kommandoen: 
 <strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
 
-I løsningen er det mulig å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder,  kan dette gå utover hastigheten på visningen i frontend. 
+I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder, kan dette gå utover hastigheten på visningen i frontend. 
 
 >For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
 
 ## Endre språkfil
 
-Aktiv kommune er tilrettelagt for både bokmål og nynorsk. Språket kan endres ved å:
+Aktivkommune er tilrettelagt for både bokmål og nynorsk. Språket kan endres ved å:
 <div class="entry-content">
 <div class="pf-content">
 <ul>
@@ -42,7 +42,7 @@ Aktiv kommune er tilrettelagt for både bokmål og nynorsk. Språket kan endres 
 
 ## Endre oppsett for søknader
 
-Det er også mulig å endre oppsettet for søknader. For å gjøre dette går du til:
+Det er også mulig å endre oppsettet for søknader. For å gjøre dette velger du kommandoen:
 
 <strong>BOOKING =&gt; INNSTILLINGER =&gt; SØKNADS OPPSETT</strong>
 
@@ -55,10 +55,10 @@ Det er lagt inn standardiserte tekster, men du kan gjøre de endringene du ønsk
 
 ## Fyll ut feltene for oppsettet for søknader:
 
-Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. Både tekst og hjelpetekster blir satt inn her. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
+Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
-Feltnavn| Aksjon / Forklaring
---------------------------------|----------------------------------------------------------------
+Feltnavn   |Aksjon / Forklaring
+------------------------------|----------------------------------------------------------------
 **Ny søknad:** |Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
