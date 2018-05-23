@@ -39,7 +39,7 @@ Under arkfanen *Brukerdata* fyller du ut informasjonen om brukeren:
 **Utløpsdato:** |Når brukeren ikke lengre skal ha tilgang. Denne er satt til "aldri" som standard.
 **Kvote:** |Kvote for hvor store filer brukeren kan laste opp.
 
-> Det er mulig å forandre kravene til passordstyrke (passordregler). Systemet leveres med normalt god passordstyrke.
+> Det er mulig å forandre kravene til passordstyrke (passordregler). Systemet leveres med normalt god passordstyrke. Endringer gjøres i SETUP-delen av systemet, og det er driftsoperatør av Aktivkommune som bør gjøre endringene.
 
 Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhøre. Minimum en gruppe må velges.
 
