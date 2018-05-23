@@ -45,6 +45,7 @@ Under arkfanen *Grupper* kan du hake av for hvilke grupper brukeren skal tilhør
 
 Under arkfanen *Applikasjoner* gir du tilgang til moduler og definerer hvorvidt brukeren skal ha tilgang som bruker eller administrator.
 > Arkfanen "Applikasjoner" trenger normalt ikke brukes så lenge brukeren er tilknyttet minst en brukergruppe under arkfanen "Grupper"
+
 Når du har fylt inn den informasjonen som skal inn, klikker du på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
@@ -52,24 +53,33 @@ Brukeren er da lagt til, og du må klikke på *Avbryt* for å komme ut av skjerm
 
 ## Begrenset tilgang til Aktivkommune
 De tre rollene Saksbehandler, Superbruker og Systemadministrator i Aktivkommune har med noen unntak følgende rettigheter:
-* Systemadministrator og Superbruker – Tilgang til å opprette nye, deaktivere/slette og endre elementer i Aktivkommune
-* Saksbehandler – Normalt kun tilgang til å endre på elementer i Aktivkommune.
-Eksempel på elementer er; områder, bydeler, eiendommer, bygg, ressursgrupper, ressurser
+* Systemadministrator og Superbruker – Tilgang til å opprette nye, deaktivere/slette og alle typer elementer i Aktivkommune
+* Saksbehandler – Normalt kun tilgang til å endre på bookingelementer i Aktivkommune.
 
-Saksbehandlere kan opprette nye organisasjoner, sende epost, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura osv må det gis utvidet rettighet (fortrinnsvis som "Superbruker" eller unntaksvis som "Systemadministrator"). Under <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
+>Eksempel på elementer er; områder, bydeler, eiendommer, bygg, ressursgrupper, utleieobjekter (ressurser), organisasjoner
+
+>Eksempel på bookingelementer er: ressursgrupper, utleieobjekter (ressurser), organisasjoner
+
+<strong>Saksbehandlere </strong>kan opprette nye organisasjoner, sende e-post, håndtere søknader og rapportere. For at en saksbehandler skal kunne administrere bygg, sesonger, ukeplaner, faktura og så videre, så må det gis utvidet rettighet (fortrinnsvis som "Superbruker" eller unntaksvis som "Systemadministrator"). 
+Gjennom kommandoen
+ <strong>BYGG / ANLEGG =&gt; RESSURSER OG SESONGER =&gt; RETTIGHETER </strong>
+
+gis de enkelte brukerne rettigheter til å redigere ulike bygg, ressurser og sesonger.
+
 
 ## Inaktivering av bruker
 
-Brukere skal ikke slettes fra systemet, men settes som <em>inaktiv</em> om de ikke lengre skal ha tilgang til systemet. For å gjøre dette velger du:
+Brukere skal generelt ikke slettes fra systemet, men settes som <em>inaktiv</em> dersom de ikke lengre skal ha tilgang til systemet. For å gjøre dette velger du:
 
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; ADMINISTRERE BRUKERE</strong>
 
-Så klikker du på *Rediger* for den aktuelle brukeren. På det nye skjermbildet  tar du vekk haken for *Bruker er aktiv* og klikker på
+Klikk deretter på *Rediger* for den aktuelle brukeren. På det nye skjermbildet  tar du vekk haken for *Bruker er aktiv* og klikker på
 ![lagre2](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png)
 
 Brukeren er da inaktiv og har ikke lengre tilgang til systemet. Brukeren kan gjøres aktiv igjen om det blir aktuelt, for eksempel etter endt permisjon.
+
 <h2>Brukergrupper</h2>
-Første gang administrator går inn i løsningen bør det opprettes minst en gruppe for å gi brukere tilgang til Aktiv kommune på gruppenivå. Da er det mulig å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator) heller enn å gi enkelttilganger til en ny bruker under *Applikasjoner*.
+Første gang administrator logger seg på løsningen, bør det opprettes minst en gruppe for å gi brukere tilgang til Aktivkommune på gruppenivå. Da er det mulig å gi tilgang ved at bruker blir meldt inn i en brukergruppe (saksbehandler, superbruker eller systemadministrator) heller enn å gi enkelttilganger til en ny bruker under *Applikasjoner*.
 
 Du gir en bruker tilgang til grupper via kommandoen:
 
