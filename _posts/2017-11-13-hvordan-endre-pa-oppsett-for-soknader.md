@@ -11,7 +11,7 @@ permalink: http://manual.aktiv-kommune.no/?p=281
 published: true
 post_date: 2017-11-13 10:31:59
 ---
-Før oppstart er det behov for å legge inn litt basisinformasjon i systemet, og samtidig foreta noen valg, for eksempel om [språk](https://manual.aktiv-kommune.no/?p=340).
+Før oppstart er det også behov for å legge inn litt basisinformasjon i systemet, og samtidig foreta noen valg, for eksempel om [språk](https://manual.aktiv-kommune.no/?p=340). Denne seksjonen beskriver minimum av hva som må registreres for å komme i gang.
 
 # Kort om noen innstillinger for Aktivkommune
 
@@ -35,7 +35,7 @@ For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Det er også mulig å endre på andre forhold i systemet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
+>Det er også mulig å endre på andre forhold i systemet, men vi anbefaler at dette ikke gjøres uten forespørsel til driftsleverandør. Minimum konfigurering er de tre punktene ovenfor.
 
 
 ## Endre språk(fil)
@@ -77,8 +77,8 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
 
-Feltnavn | Aksjon/Forklaring
------------------------|-------------------------------------------------------
+Feltnavn |      Aksjon / Forklaring
+---------------------|----------------------------
 **Ny søknad:**|Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
@@ -96,4 +96,4 @@ Feltnavn | Aksjon/Forklaring
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Neste steg er å sette innstillinger for
+Neste steg er å registrere områder, bydeler og eiendommer.
