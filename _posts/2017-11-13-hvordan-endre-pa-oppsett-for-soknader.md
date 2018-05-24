@@ -25,6 +25,7 @@ Velg kommandoen:
 <strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
 
 og følgende skjermbilde dukker opp:
+
 ![Skjermbilde-ADM-BOOKING-KONFIGU-600x400](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIGU.png)
 
 I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder, kan dette gå utover hastigheten på visningen i frontend. 
@@ -50,9 +51,11 @@ https://site1.aktiv-kommune.no/<em>[kommunenavn eller instansnavn]</em>/setup/</
  	<li>Velg <em>Manage Languages</em></li>
  	<li>Velg <em>Install</em></li>
 
->NB! Du må være superbruker eller systemadministrator for å kunne endre i SETUP (passord er sendt til systemadministrator i kommunen i egen e-post) </li>
 
 </ul>
+
+>NB! Du må være superbruker eller systemadministrator for å kunne endre i SETUP (passord er sendt til systemadministrator i kommunen i egen e-post) </li>
+
 </div>
 </div>
 
@@ -74,7 +77,7 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
 Feltnavn | Aksjon/Forklaring
------------------------|--------------------------------------------------------
+-----------------------|-------------------------------------------------------
 **Ny søknad:**|Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
@@ -92,4 +95,4 @@ Feltnavn | Aksjon/Forklaring
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Neste steg? Har du behov for å opprette flere områder eller bydeler i systemet, så går du [hit](https://manual.aktiv-kommune.no/?p=291).
+Neste steg er å sette innstillinger for
