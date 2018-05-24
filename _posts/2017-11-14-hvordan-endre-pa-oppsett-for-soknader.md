@@ -8,16 +8,16 @@ permalink: http://manual.aktiv-kommune.no/?p=281
 published: true
 post_date: 2017-11-14 10:31:59
 ---
-Det er mulig å sette opp en del innstillinger om [språk](https://manual.aktiv-kommune.no/?p=340), felter osv i Aktivkommune.
+Før oppstart er det behov for å legge inn litt informasjon i systemet, og samtidig foreta noen valg, for eksempel om [språk](https://manual.aktiv-kommune.no/?p=340).
 
 # Kort om noen innstillinger for Aktivkommune
 
-Under installasjonen av Aktivkommune må det legges inn informasjon om følgende tre
+Under installasjonen av Aktivkommune må det legges inn informasjon om følgende tre forhold
 * URL til nettside, 
 * e-post innstillinger og 
 * link til logo med kommunevåpen 
 
-Det er mulig å endre på andre forhold i systemet via dette skjermbildet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
+Det er også mulig å endre på andre forhold i systemet via dette skjermbildet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
 
 Endringene gjøres under kommandoen: 
 <strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
@@ -28,7 +28,7 @@ I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike ut
 
 ## Endre språkfil
 
-Aktivkommune er tilrettelagt for både bokmål og nynorsk. Språket kan endres ved å:
+Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli tilrettelagt for samisk. Språket kan endres ved å:
 <div class="entry-content">
 <div class="pf-content">
 <ul>
@@ -51,7 +51,7 @@ Skjermbildet ser da slik ut:
 
 Endringene som gjøres her påvirker hjelpeteksten på søknaden i frontend.
 
-Det er lagt inn standardiserte tekster, men du kan gjøre de endringene du ønsker å utføre.
+Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse tekstene. Husk at det må være korte og presise formuleringer. For mye tekst vil kunne "trøtte" ut publikum, og det vil heller ikke bli lest om det blir (for) mye informasjon.
 
 ## Fyll ut feltene for oppsettet for søknader:
 
@@ -76,4 +76,4 @@ Feltnavn   |Aksjon / Forklaring
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Neste steg? Har du behov for å opprette andre kommuner eller bydeler går du [hit](https://manual.aktiv-kommune.no/?p=291).
+Neste steg? Har du behov for å opprette flere områder eller bydeler i systemet, så går du [hit](https://manual.aktiv-kommune.no/?p=291).
