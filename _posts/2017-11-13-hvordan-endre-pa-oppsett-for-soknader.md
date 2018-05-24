@@ -20,16 +20,21 @@ Under installasjonen av Aktivkommune må det legges inn informasjon om følgende
 * e-post innstillinger og 
 * link til logo med kommunevåpen 
 
-![skjermbildet søknadsoppsett](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde ADM BOOKING KONFIG.png)
+Velg kommandoen: 
+<strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
 
-Det er også mulig å endre på andre forhold i systemet via dette skjermbildet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
-
-Endringene gjøres under kommandoen: 
-<strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
+og følgende skjermbilde dukker opp:
+![Skjermbilde ADM BOOKING KONFIG](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde ADM BOOKING KONFIG.png)
 
 I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder, kan dette gå utover hastigheten på visningen i frontend. 
 
 >For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
+
+Når du er ferdig med å fylle ut informasjonen, klikker du på
+![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+Det er også mulig å endre på andre forhold i systemet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
+
 
 ## Endre språk(fil)
 
@@ -37,9 +42,11 @@ Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli til
 <div class="entry-content">
 <div class="pf-content">
 <ul>
- 	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: https://site1.aktiv-kommune.no/<em>[kommunenavn eller instansnavn]</em>/setup/</li>
- 	<li>Logg inn med brukernavn og passord 
-NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er sendt til systemadministrator i kommunen i egen e-post)</li>
+ 	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: 
+https://site1.aktiv-kommune.no/<em>[kommunenavn eller instansnavn]</em>/setup/</li>
+ 	<li>Logg inn med brukernavn og passord </li>
+
+>NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er sendt til systemadministrator i kommunen i egen e-post) </li>
  	<li>Velg <em>Manage Languages</em></li>
  	<li>Velg <em>Install</em></li>
 </ul>
@@ -63,8 +70,8 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
-Feltnavn|   Aksjon / Forklaring
----------------------------|---------------------------------------------------------------
+Feltnavn     |   Aksjon / Forklaring
+-----------------------|----------------------------------------------------------
 **Ny søknad:** |Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
