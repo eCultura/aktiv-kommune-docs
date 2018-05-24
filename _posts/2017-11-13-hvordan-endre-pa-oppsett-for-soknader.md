@@ -20,6 +20,8 @@ Under installasjonen av Aktivkommune må det legges inn informasjon om følgende
 * e-post innstillinger og 
 * link til logo med kommunevåpen 
 
+![skjermbildet søknadsoppsett](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde ADM BOOKING KONFIG.png)
+
 Det er også mulig å endre på andre forhold i systemet via dette skjermbildet, men vi anbefaler at dette ikke gjøres uten forespørsel. Minimum konfigurering er de tre punktene ovenfor.
 
 Endringene gjøres under kommandoen: 
@@ -35,8 +37,9 @@ Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli til
 <div class="entry-content">
 <div class="pf-content">
 <ul>
- 	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: https://site1.aktiv-kommune.no/<em>[kommunenavn]</em>/setup/</li>
- 	<li>Logg inn med brukernavn og passord NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er tilsendt i egen e-post)</li>
+ 	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: https://site1.aktiv-kommune.no/<em>[kommunenavn eller instansnavn]</em>/setup/</li>
+ 	<li>Logg inn med brukernavn og passord 
+NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er sendt til systemadministrator i kommunen i egen e-post)</li>
  	<li>Velg <em>Manage Languages</em></li>
  	<li>Velg <em>Install</em></li>
 </ul>
