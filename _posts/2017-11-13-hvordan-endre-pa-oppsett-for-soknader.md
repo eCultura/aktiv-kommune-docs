@@ -6,9 +6,9 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=281
 published: true
-post_date: 2017-11-14 10:31:59
+post_date: 2017-11-13 10:31:59
 ---
-Før oppstart er det behov for å legge inn litt informasjon i systemet, og samtidig foreta noen valg, for eksempel om [språk](https://manual.aktiv-kommune.no/?p=340).
+Før oppstart er det behov for å legge inn litt basisinformasjon i systemet, og samtidig foreta noen valg, for eksempel om [språk](https://manual.aktiv-kommune.no/?p=340).
 
 # Kort om noen innstillinger for Aktivkommune
 
