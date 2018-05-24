@@ -35,7 +35,7 @@ For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
->Det er også mulig å endre på andre forhold i systemet, men vi anbefaler at dette ikke gjøres uten forespørsel til driftsleverandør. Minimum konfigurering er de tre punktene ovenfor.
+>Det er også mulig å endre på andre forhold i systemet, men vi anbefaler at dette ikke gjøres uten forespørsel til driftsleverandør.
 
 
 ## Endre språk(fil)
@@ -70,16 +70,15 @@ Skjermbildet ser da slik ut:
 
 Endringene som gjøres her påvirker hjelpeteksten på søknaden i frontend.
 
-Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse tekstene. Husk at det må være korte og presise formuleringer. For mye tekst vil kunne "trøtte" ut publikum, og det vil heller ikke bli lest om det blir (for) mye informasjon.
+Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse tekstene. Husk at det må være korte og presise formuleringer. For mye tekst vil kunne "trøtte" ut publikum, informasjonen vil trolig ikke bli lest om det blir (for) mye informasjon på skjermbildet.
 
 ## Fyll ut feltene for oppsettet for søknader:
 
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
-
-Feltnavn |      Aksjon / Forklaring
----------------------|----------------------------
-**Ny søknad:**|Denne teksten kommer i toppen av starten på søknaden i frontend.
+Feltnavn | Aksjon / Forklaring
+---------------------|-------------------------------------
+**Ny søknad:** |Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
 **Ekstra informasjon på arrangement:** |Teksten hører til feltet hvor man kan opplyse om spesielle behov i forbindelse med arrangementet.
