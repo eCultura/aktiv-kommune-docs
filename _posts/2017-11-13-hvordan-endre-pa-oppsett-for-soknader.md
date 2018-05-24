@@ -76,6 +76,7 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
+
 Feltnavn | Aksjon/Forklaring
 -----------------------|-------------------------------------------------------
 **Ny søknad:**|Denne teksten kommer i toppen av starten på søknaden i frontend.
