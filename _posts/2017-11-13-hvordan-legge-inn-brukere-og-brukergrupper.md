@@ -8,7 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: http://manual.aktiv-kommune.no/?p=267
 published: true
-post_date: 2017-11-13 10:28:21
+post_date: 2017-11-13 09:50:21
 ---
 For å kunne opprette, oppdatere og endre informasjon om brukere og brukergrupper, så må du ha tilgang som systemadministrator eller superbruker.
 
