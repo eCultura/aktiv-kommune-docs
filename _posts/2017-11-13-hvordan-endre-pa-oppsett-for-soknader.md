@@ -27,11 +27,9 @@ Velg kommandoen:
 og følgende skjermbilde dukker opp:
 ![Skjermbilde-ADM-BOOKING-KONFIGU-600x400](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIGU.png)
 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIG-300x130.png" alt="" width="400" height="300" class="alignnone size-medium wp-image-1412" />
-
 I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder, kan dette gå utover hastigheten på visningen i frontend. 
 
->For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
+For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
 
 Når du er ferdig med å fylle ut informasjonen, klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
@@ -46,12 +44,14 @@ Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli til
 <div class="pf-content">
 <ul>
  	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: 
+
 https://site1.aktiv-kommune.no/<em>[kommunenavn eller instansnavn]</em>/setup/</li>
  	<li>Logg inn med brukernavn og passord </li>
-
->NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er sendt til systemadministrator i kommunen i egen e-post) </li>
  	<li>Velg <em>Manage Languages</em></li>
  	<li>Velg <em>Install</em></li>
+
+>NB! Du må være superbruker eller systemadministrator for å kunne endre i SETUP (passord er sendt til systemadministrator i kommunen i egen e-post) </li>
+
 </ul>
 </div>
 </div>
@@ -73,9 +73,9 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
-Feltnavn     |   Aksjon / Forklaring
------------------------|----------------------------------------------------------
-**Ny søknad:** |Denne teksten kommer i toppen av starten på søknaden i frontend.
+Feltnavn | Aksjon/Forklaring
+-----------------------|--------------------------------------------------------
+**Ny søknad:**|Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
 **Ekstra informasjon på arrangement:** |Teksten hører til feltet hvor man kan opplyse om spesielle behov i forbindelse med arrangementet.
