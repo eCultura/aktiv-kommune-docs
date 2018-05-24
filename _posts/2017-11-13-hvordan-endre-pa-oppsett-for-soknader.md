@@ -25,7 +25,7 @@ Velg kommandoen:
 <strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
 
 og følgende skjermbilde dukker opp:
-![Skjermbilde-ADM-BOOKING-KONFIG-300x130](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIG-300x130.png)
+![Skjermbilde-ADM-BOOKING-KONFIGU-600x400](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIGU.png)
 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIG-300x130.png" alt="" width="400" height="300" class="alignnone size-medium wp-image-1412" />
 
