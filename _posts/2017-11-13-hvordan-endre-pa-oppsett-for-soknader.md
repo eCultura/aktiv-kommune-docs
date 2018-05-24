@@ -24,7 +24,9 @@ Velg kommandoen:
 <strong>ADMINISTRASJON =&gt; BOOKING =&gt; KONFIGURASJON</strong>
 
 og følgende skjermbilde dukker opp:
-![Skjermbilde ADM BOOKING KONFIG](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde ADM BOOKING KONFIG.png)
+![Skjermbilde-ADM-BOOKING-KONFIG-300x130](http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIG-300x130.png)
+
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/05/Skjermbilde-ADM-BOOKING-KONFIG-300x130.png" alt="" width="300" height="130" class="alignnone size-medium wp-image-1412" />
 
 I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike utleieobjekter (ressurser). Dersom det legges inn høytoppløselige bilder, kan dette gå utover hastigheten på visningen i frontend. 
 
