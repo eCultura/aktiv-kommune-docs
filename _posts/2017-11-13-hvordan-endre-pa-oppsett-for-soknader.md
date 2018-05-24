@@ -1,6 +1,9 @@
 ---
 ID: 281
-post_title: Endre innstillinger
+post_title: >
+  Konfigurere innstillinger for nettside,
+  standard e-poster, språk og
+  søknadsoppsett
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
@@ -26,23 +29,23 @@ I løsningen er det mulig (ikke et krav) å legge inn bilder/foto av de ulike ut
 
 >For å unngå problemer med omskalering av bilder i nettleser brukes et verktøy kalt Magic. Dette verktøyet skalerer bilder ved opplasting i løsningen ut fra verdier som er lagt inn under «Image maxhight/width» under konfigurasjon. Default verdi er 300x300.
 
-## Endre språkfil
+## Endre språk(fil)
 
-Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli tilrettelagt for samisk. Språket kan endres ved å:
+Aktivkommune er tilrettelagt for både bokmål og nynorsk, og skal også bli tilrettelagt for samisk. Språket kan endres ved å gjøre følgende:
 <div class="entry-content">
 <div class="pf-content">
 <ul>
- 	<li>Gå til https://site1.aktiv-kommune.no/<em>[kommunenavn]</em>/setup/</li>
- 	<li>Logg inn med riktig passord som er tilsendt i tidligere epost</li>
+ 	<li>Gå til SETUP for din kommune (instans) ved å skrive inn følgende URL: https://site1.aktiv-kommune.no/<em>[kommunenavn]</em>/setup/</li>
+ 	<li>Logg inn med brukernavn og passord NB! Du må være superbruker eller systemadministrator for å kunne gjøre dette (passord er tilsendt i egen e-post)</li>
  	<li>Velg <em>Manage Languages</em></li>
  	<li>Velg <em>Install</em></li>
 </ul>
 </div>
 </div>
 
-## Endre oppsett for søknader
+## Endre oppsett for søknadsskjema
 
-Det er også mulig å endre oppsettet for søknader. For å gjøre dette velger du kommandoen:
+Det er også mulig å endre noe på oppsettet for hvordan søknadsskjemaet skal se ut. For å gjøre dette velger du kommandoen:
 
 <strong>BOOKING =&gt; INNSTILLINGER =&gt; SØKNADS OPPSETT</strong>
 
@@ -57,8 +60,8 @@ Det er lagt inn standardiserte tekster, men du kan foreta endringer på disse te
 
 Hvordan søknadsskjemaet (for publikum og lag/organisasjoner) ser ut, blir bestemt og endret i dette skjermbildet. For råd og tips her, ta gjerne kontakt med driftsoperatør i Stavanger for å få råd om "beste praksis".
 
-Feltnavn   |Aksjon / Forklaring
-------------------------------|----------------------------------------------------------------
+Feltnavn|   Aksjon / Forklaring
+---------------------------|---------------------------------------------------------------
 **Ny søknad:** |Denne teksten kommer i toppen av starten på søknaden i frontend.
 **Aktiviteter:** |Denne teksten kommer under "Hvorfor" og over nedtrekksmenyen hvor man velger aktiviterer man skal utføre.
 **Informasjon om aktiviteten/arrangementet:** |Denne teksten hører til feltet hvor man gir mer informasjon om aktiviteten man skal utføre.
