@@ -86,7 +86,7 @@ Her velger du et bygg for så å klikke på "Rediger". I <em>Lokasjonskode</em> 
 Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-
+DENSISTE DELEN HER MÅ FLYTTES ...
 <strong>Knytte ressursgrupper i Bookingmodulen til eiendommer eller bygg i Eiendomsmodulen</strong>
 Når du har registrert minimum en eiendom eller et bygg i Eiendomsmodulen, er det klart for å registrere ressursgrupper (bygg/anlegg) i bookingmodulen inn mot eiendommen eller bygget. Dette skjer via kommandoen:
 
