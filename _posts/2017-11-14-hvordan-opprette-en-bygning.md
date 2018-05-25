@@ -13,8 +13,9 @@ De to siste elementene som må registreres før selve utleieobjektene (ressursen
 Et bygg kan opprettes på to måter i Aktivkommune, og dette ser ved første øyekast både noe tungvint og merkelig ut - for hvorfor blir bygg opprettet to steder?:
 Forklaringen er denne:
 
-Begrepet "Bygg" tilhører FDV-dimensjonen av Portico Estate, og registreres i eiendomsmodulen (altså "inngang" via kommandoen EIENDOM).
-Begrepet "Bygg/anlegg" tilhører bookingmodulen i Portico Estate, og registreres i bookingmodulen (altså "inngang" via kommandoen BOOKING)
+Begrepet "Bygg" tilhører FDV-dimensjonen av Portico Estate, og registreres i eiendomsmodulen (altså "inngang" via kommandoen EIENDOM). "Bygg" henviser til et fysisk og konkret bygg. For eksempel: Det fysiske bygget som kalles "Sandslihallen".
+
+Begrepet "Bygg/anlegg" tilhører bookingmodulen i Portico Estate, og registreres i bookingmodulen (altså "inngang" via kommandoen BOOKING). "Bygg/anlegg" henviser til en ressursgruppe, som representerer en grupper utleieobjekter(i systemet omtalt som ressurser). Denne ressursgruppen kan være en henvisning til det samme fysiske bygget som er omtalt i Eiendomsmodulen, men det kan like gjerne være en gruppe av ressurser som har tilknytning til et fysisk bygg. For eksempel kan ressursgruppen "Kanoer Sandslihallen" være gruppen av utleiekanoer som har base i eller ved bygget "Sandslihallen". En annen ressursgruppe som kalles "Sandslihallen", og som også er tilknyttet bygget "Sandlihallen", kan inneholde alle utleieobjekter(ressurser) som er inne i denne hallen, for eksempel to basketballhaller, et styrkerom, en klatrevegg og to møterom. 
 
 
 <ul>
@@ -70,7 +71,7 @@ For å opprette en ressursgruppe (det vil si bygg, anlegg eller utstyrsgrupper) 
 
 Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
 
-Et eksempel: Når du har opprettet et bygg (i Eiendomsmodulen) som heter "FRAMO-hallen", så må du likevel opprette en ressursgruppe (i Bookingmodulen) som også heter "FRAMO-hallen". Dette skjer gjennom kommandoen "BOOING-> BYGG/ANLEGG". I neste omgang er det utleieobjektene i (ressursgruppen) "FRAMO-hallen" som må opprettes og "kobles på" aktuell ressursgruppe.
+Et eksempel: Når du har opprettet et bygg (i Eiendomsmodulen) som heter "Sandslihallen", så må du likevel opprette (minimun) en ressursgruppe (i Bookingmodulen), der den ene ressursgruppen gjerne kan få et navn som også heter "Sandslihallen". Dette skjer gjennom kommandoen "BOOING-> BYGG/ANLEGG". I neste omgang skal det opprettes utleieobjekter(ressurser) som koples på/legges i (ressursgruppen) "Sandslihallen".
 
 
 <strong>Knytte bygg til en eiendom </strong>
