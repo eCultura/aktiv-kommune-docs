@@ -64,21 +64,28 @@ Feltnavn| Aksjoner/Forklaringer
 
 ## Opprette ressursgruppe i bookingmodulen
 
+
 For å opprette en ressursgruppe (det vil si bygg, anlegg eller utstyrsgrupper) i bookingmodulen, må du bruke denne kommandoen:
 <strong>BOOKING =&gt; BYGG/ANLEGG </strong>
 
 Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
 
+Et eksempel: Når du har opprettet et bygg (i Eiendomsmodulen) som heter "FRAMO-hallen", så må du likevel opprette en ressursgruppe (i Bookingmodulen) som også heter "FRAMO-hallen". Dette skjer gjennom kommandoen "BOOING-> BYGG/ANLEGG". I neste omgang er det utleieobjektene i (ressursgruppen) "FRAMO-hallen" som må opprettes og "kobles på" aktuell ressursgruppe.
 
-<strong>Knytte bygg til eiendom i Booking</strong>
 
-Når en eiendom er registrert, så kan det registreres bygg og/eller anlegg som er plassert på eller tilknyttet denne eiendommen. Dette skjer via kommandoen:
+<strong>Knytte bygg til en eiendom </strong>
+
+Når du har registrert minimum en eiendom og et bygg i Eiendomsmodulen, er det klart for å koble bygget til aktuell eiendom. Velg kommandoen:
 
 <strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
 
-Her velger du et bygg for så å klikke på "Rediger". I <em>Lokasjonskode</em> skriver du inn koden som ble registrert når du registrerte eiendom (sifferkode).
+Her velger du et bygg for så å klikke på "Rediger". I <em>Lokasjonskode</em> skriver du inn koden som ble registrert når du registrerte eiendom (vanligvis en tallbasert kode).
 
 Når du er ferdig klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+
+<strong>Knytte ressursgrupper i Bookingmodulen til eiendommer eller bygg i Eiendomsmodulen</strong>
+Når du har registrert minimum en eiendom eller et bygg i Eiendomsmodulen, er det klart for å registrere ressursgrupper (bygg/anlegg) i bookingmodulen inn mot eiendommen eller bygget. Dette skjer via kommandoen:
 
 &nbsp;
