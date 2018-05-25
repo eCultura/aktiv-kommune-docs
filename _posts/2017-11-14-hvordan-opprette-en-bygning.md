@@ -21,24 +21,23 @@ Begrepet "Bygg/anlegg" tilhører bookingmodulen i Portico Estate, og registreres
  	<li>Oppretting av fysisk bygg i eiendoms-modul skjer gjennom kommandoen:
  <strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong></li>
 
- 	<li>For å klargjøre et bygg (eller anlegg) for utleie, må du velge kommandoen:
+ 	<li>For å opprette en ressursgruppe (det vil i praksis ofte være et bygg eller anlegg) som skal danne en basis for utleieobjekter, må du velge kommandoen:
  <strong>BOOKING =&gt; BYGG/ANLEGG</strong> (NB! Utleieobjekt (ressurs) må også kobles på senere)</li>
 </ul>
 
-Under "BYGG/ANLEGG" opprettes bygg, anlegg og utstyrsgrupper som utgjør en basis for utleie av ressurser. I bookingsammenheng snakker vi ofte derfor om begrepet "Ressursgruppe", mens i systemet Aktivkommune blir dette kalt "Bygg/anlegg".
+Under "BYGG/ANLEGG" opprettes bygg, anlegg og utstyrsgrupper som utgjør en basis for utleie av ressurser. I bookingsammenheng snakker vi ofte derfor om begrepet "Ressursgruppe", mens i systemet Aktivkommune blir dette kalt "Bygg/anlegg". I starten er disse begrepene gjerne noe forvirrende, men med litt bruk av systemet, så vil dette bli forståelige begreper. 
 
 &gt;Begrepet <strong>"Ressursgruppe"</strong> dekker både:
 * <strong>Bygg </strong>(skoler, idrettsbygg, kulturbygg, flerbruksbygg m.m.)
 * <strong>Anlegg </strong>(uteanlegg; både idrett og kultur, friluftsområder, parker, torg etc.)
 * <strong>Utstyrsgrupper </strong>(flyttbare eller faste installasjoner; f.eks. instrumenter, idrettsutstyr, kanoer, AV-utstyr etc.
 
-I sammenheng med Aktivkommune blir kommandoen "BYGG/ANLEGG" like ofte omtalt som en "Ressursgruppe"; 
-En ressursgruppe er en samling med (utleie)ressurser.
+.
 
 &gt;Det er bare superbrukere og systemadministratorer som kan legge inn og redigere "Bygg" i Eiendomsmodulen. Og det er bare disse to brukergruppene som kan legge inn og redigere "ressursgrupper" (BYGG/ANLEGG) i Bookingmodulen.
 
 ## Opprette bygg i eiendomsmodulen
-For å opprette et (fysisk) bygg brukes følgende kommando:
+Før en ressursgruppe skal kunne knyttes til et bygg, må det (fysiske) bygget opprettes (i Eiendomsmodulen). Dette skjer ved bruk av denne kommandoen:
 
 <strong>EIENDOM =&gt; LOKASJON =&gt; BYGNING</strong>
 
@@ -58,17 +57,18 @@ Feltnavn| Aksjoner/Forklaringer
 **Adresse:** |Klikk på rute og du får opp forslag til adresser, velg rett gateadresse og nummer.
 **Status:** |Velg OK fra nedtrekksmenyen.
 **Merknad:** |Hvis det er noe spesielt med bygningen du ønsker å kommentere,  så skriver du det her. Opplysningen er kun til internt bruk.
-**Utleieområde:**| <kan stå uten verdi i bookingsammenheng>
-**Bruttoareal:**|<kan stå uten verdi i bookingsammenheng>
-**Nettoareal:**| <kan stå uten verdi i bookingsammenheng>
+**Utleieområde:**| ..kan stå uten verdi i bookingsammenheng..
+**Bruttoareal:**|.. kan stå uten verdi i bookingsammenheng..
+**Nettoareal:**| ..kan stå uten verdi i bookingsammenheng..
 **Bruksareal:**| <kan stå uten verdi i bookingsammenheng>
 
-## Opprette bygg, anlegg og utstyrsgrupper i bookingmodulen
+## Opprette ressursgruppe i bookingmodulen
 
-For å opprette bygg, anlegg og utstyrsgrupper i bookingmodulen bruks følgende kommando:
+For å opprette en ressursgruppe (det vil si bygg, anlegg eller utstyrsgrupper) i bookingmodulen, må du bruke denne kommandoen:
 <strong>BOOKING =&gt; BYGG/ANLEGG </strong>
 
 Mer om hvordan dette gjøres leser du om [her](https://manual.aktiv-kommune.no/?p=166).
+
 
 <strong>Knytte bygg til eiendom i Booking</strong>
 
