@@ -11,12 +11,13 @@ post_date: 2017-11-14 11:00:18
 De to siste elementene som må registreres før selve utleieobjektene (ressursene) kan opprettes (utleieobjekter er beskrevet under rollen saksbehandler), er bygg og ressursgrupper.
 
 Et bygg kan opprettes på to måter i Aktivkommune, og dette ser ved første øyekast både noe tungvint og merkelig ut - for hvorfor blir bygg opprettet to steder?
-Forklaringen er denne:
 
->Begrepet "Bygg" tilhører FDV-dimensjonen av Portico Estate, og registreres i eiendomsmodulen (altså "inngang" via kommandoen EIENDOM). "Bygg" henviser til et fysisk og konkret bygg. For eksempel: Det fysiske bygget som kalles "Sandslihallen".
+Dette forklares enklest gjennom et et eksempel:
+Et bygg som vi gir navnet "Sandslihallen" har to ressursgrupper som er knyttet til bygget. Vi kalles disse ressursgruppene for "Kanoer Sandslihallen" og "Sandslihallen". Den ene ressursgruppen inneholder utstyr som leies ut (10 kanoer) , og i den andre leies det ut romressurser, for eksempel to basketballhaller, et styrkerom, en klatrevegg og to møterom.
 
->Begrepet "Bygg/anlegg" tilhører bookingmodulen i Portico Estate, og registreres i bookingmodulen (altså "inngang" via kommandoen BOOKING). "Bygg/anlegg" henviser til en <em>ressursgruppe</em> som representerer en gruppe utleieobjekter(ressurser). Denne ressursgruppen kan være en henvisning til det samme fysiske bygget som er omtalt i Eiendomsmodulen, men det kan like gjerne være en gruppe av ressurser som bare har en <em>tilknytning </em> til et fysisk bygg. For eksempel kan ressursgruppen "Kanoer Sandslihallen" være gruppen av utleiekanoer. Kanoene har base i eller ved bygget "Sandslihallen". En annen ressursgruppe som kalles "Sandslihallen", og som også er tilknyttet bygget "Sandslihallen", kan inneholde alle utleieobjekter(ressurser) som er <em>inne </em> i denne hallen, for eksempel to basketballhaller, et styrkerom, en klatrevegg og to møterom. 
+>Begrepet "Bygg" tilhører FDV-dimensjonen av Portico Estate, og registreres i eiendomsmodulen (altså "inngang" via kommandoen EIENDOM). "Bygg" henviser til et fysisk og konkret bygg. I eksempelet over: Selve det fysiske bygget som kalles "Sandslihallen".
 
+>Begrepet "Bygg/anlegg" tilhører bookingmodulen i Portico Estate, og registreres i bookingmodulen (altså "inngang" via kommandoen BOOKING). "Bygg/anlegg" henviser til en <em>ressursgruppe</em> som representerer en gruppe utleieobjekter(ressurser). Denne ressursgruppen har svært ofte en henvisning til det samme fysiske bygget som er omtalt i Eiendomsmodulen, men det kan like gjerne være en gruppe av ressurser som bare har en <em>tilknytning </em> til et fysisk bygg. I eksempelet over. Den ene ressursgruppen som kalles "Kanoer Sandslihallen" er en samling 10 utleiekanoer. Kanoene har base i eller ved bygget "Sandslihallen". Den andre ressursgruppe som kalles "Sandslihallen" har samme navn som selve bygget, og er også tilknyttet bygget "Sandslihallen",  inneholder alle utleieobjekter(romressurser) som er <em>inne </em> i denne hallen.
 
 <ul>
  	<li>Oppretting av fysisk bygg i eiendoms-modul skjer gjennom kommandoen:
