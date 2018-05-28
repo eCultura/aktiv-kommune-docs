@@ -8,7 +8,7 @@ permalink: http://manual.aktiv-kommune.no/?p=700
 published: true
 post_date: 2017-11-13 10:01:42
 ---
-Før Aktivkommune kan komme i produksjon, så må systemet konfigureres. På denne og de følgende sider forklares og vises de aksjoner som minimum må gjennomføres for å få systemet til å virke. Ikke alle konfigureringer ser i bookingsammenheng ikke like naturlige og logiske ut å gjennomføre, men siden Aktivkommune er basert på et FDV-system (forklart under), så må noen av innstillingene og "byggeklossene" i likevel gjennomføres. Første begrep som må få (minimum) en verdi er <em>kategori</em> (om eierforhold til de eiendommer og bygg som utleieobjektene er knyttet til).
+Før Aktivkommune kan komme i produksjon, så må systemet konfigureres. På denne og de følgende sider forklares og vises de aksjoner som minimum må gjennomføres for å få systemet til å virke. Ikke alle konfigureringer ser i bookingsammenheng ikke like naturlige og logiske ut å gjennomføre, men siden Aktivkommune er basert på et FDV-system (forklart under), så må noen av innstillingene og "byggeklossene" i likevel gjennomføres. Første begrep som må få (minimum) en verdi er begrepet <em>kategori</em> (i bookingsammenheng: kategori omtaler eierforhold til de eiendommer og bygg som ressursgruppene og utleieobjektene er knyttet til).
 
 &gt;Begrepet <em>kategori </em>har sitt utspring fra FDV-delen av Portico Estate, og er i utgangspunktet knyttet til eierforhold for bygg og eiendommer i kommune. Det kan i Aktivkommune-sammenheng være fristende å endre på disse slik at de uttrykkene blir mer knyttet til booking og utleieobjekter. Men enn så lenge vil beste praksis være å la kategori være FDV-relatert. Det vil si at kommunene utgangspunktet bruker følgende inndeling:
 * eiendom  
