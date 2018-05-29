@@ -10,17 +10,32 @@ permalink: http://manual.aktiv-kommune.no/?p=265
 published: true
 post_date: 2017-12-03 10:25:00
 ---
-En aktivitet sier noe om hvilke aktiviteter ulike lag og organisasjoner driver med. Dette vil være nødvendig å fylle ut flere plasser i systemet, blant annet legger man inn hvilken aktivitet et bygg/anlegg tilhører. Det må opprettes minst en aktivitet i systemet. 
+I Aktivkommune er begrepet <em>aktivitet </em> knyttet til hva utleieobjektet (ressursen) brukes til. Vanligvis er følgende fire toppnivåer brukt i utleiesammenheng:
+* Idrett
+* Kultur
+* Skole
+* Byrom/friluftsliv
 
-En aktivitet kan opprettes slik:
+Noen bruksområder for "aktivitet" er disse:
+I frontend (publikumsdelen) av systemet er det mulig å sortere ressursgrupper (og utleieobjekter) etter hvilken aktivitet de naturlig hører inn under. Velger du "idrett", så vises bare utleieobjekter som "Idrett" disponerer/hører til "Idrett"
 
-BOOKING => INNSTILINGER => AKTIVITETER
+I backend (saksbehandlingsdelen) er det den aktiviteten som blir knyttet til ressursgruppen (bygget/anlegget) (se <a href="http://manual.aktiv-kommune.no/?p=166">"Hvordan legge til ny ressursgruppe"</a>) som avgjør hvilken fagavdeling i kommunen som skal behandle søknaden.
 
-Skjermbildet ser da slikt ut: 
+Det er nødvendig å tilknytte/velge "aktivitet" flere plasser i systemet:
+ * du registrere hvilken aktivitet som en ressursgruppe (et bygg/anlegg) tilhører (backend), og 
+ * i søknadsskjemaet må søker avgjøre hvilken hovedaktivitet som bookingen mest naturlig hører inn under.
+
+>Det må opprettes minimum en aktivitet i systemet. Vi anbefaler at det opprettes aktiviteter som har samme navn eller tilsvarer de fire toppnivåene som er nevnt over.
+
+En aktivitet opprettes (og endres) ved bruk av kommandoen
+
+<strong>BOOKING => INNSTILLINGER => AKTIVITETER</strong>
+
+Skjermbildet som kommer opp ser slik ut: 
 
 ![skjermbilde aktivitet](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/skjermbildeaktivitet-300x251.png)
 
-Her kan man endre de eksisterende aktivitetene ved å klikke på mappene og lagre når ønsket endring er utført. 
+Her kan man endre informasjon om de eksisterende aktivitetene ved å klikke på mappene,  og trykke "lagre" når ønsket endring er utført. 
 
 Finner man ikke en egnet aktivitet eller ønsker å opprette en ny aktivitet, så gjøres dette ved å klikke på 
 ![verktoy](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/verktoy.png)
@@ -29,11 +44,13 @@ Deretter velger du
 
 ### Fyll ut informasjon om aktiviteten:
 
-**Aktiviteter:** Hvilken aktivitet det er.
-**Beskrivelse:** Beskrivelse av aktiviteten.
-**Overordnet kategori:** Hvis aktiviteten din er en underkategori av en annen aktivitet så kan du her knytte aktiviteten opp mot hovedaktiviteten. Eks: Teater kan være en aktivitet som er underordnet kultur. 
+Feltnavn|  Aksjon / Forklaring
+----------------------|-----------------------------------------------------------------
+**Aktiviteter:** |Navn på aktivitet/ Hvilken aktivitet det er.
+**Beskrivelse:** |Beskrivelse av aktiviteten.
+**Overordnet kategori:** |Hvis aktiviteten din er en underkategori av en annen aktivitet så kan du her knytte aktiviteten opp mot hovedaktiviteten. Eksempel: Aktiviteten "Teater" kan være en aktivitet som er underordnet  toppnivået "kultur", og "Fotball" er en underaktivitet knyttet til toppnivået "Idrett".
 
 Når alt er fylt ut så legger du til aktiviteten ved å klikke på 
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
-Hvordan man ønsker å opprette aktiviteter, er opp til hver enkelt kommune. Det er viktig å ha i bakhodet at oppsettet av aktiviteter kan påvirke ulike funksjoner i systemet (eksempelvis filtrering i frontend), og hvis du ønsker å vike fra oppsettet som er i systemet så ta gjerne en sjekk med systemeier. En aktivitet kan ikke slettes, men settes som inaktiv i systemet.
+Hvordan man ønsker å opprette aktiviteter, er opp til hver enkelt kommune. Det er viktig å ha i bakhodet at oppsettet av aktiviteter kan påvirke ulike funksjoner i systemet (eksempelvis filtrering i frontend), og hvis du ønsker å vike fra oppsettet som er i systemet, ta gjerne en sjekk med driftsleverandør (Stavanger kommune). En aktivitet som er opprette kan ikke slettes, men settes som inaktiv i systemet. Dette gjøres for at systemet ikke skal miste historikk.
