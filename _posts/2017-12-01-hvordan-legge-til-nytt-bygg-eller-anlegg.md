@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=166
 published: true
 post_date: 2017-12-01 15:53:35
 ---
-Filmen viser i korte trekk hvordan du legger til en ny ressursgruppe (i Aktivkommune omtalt som bygg/anlegg). For mer utdypet informasjon les teksten under.
+Filmen viser i korte trekk hvordan du legger til en ny ressursgruppe (i systemet Aktivkommune omtalt som bygg/anlegg). For mer utdypet informasjon les teksten under.
 
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/nytt-bygg-eller-anlegg.mp4
 
@@ -53,4 +53,4 @@ For å opprette nytt bygg/anlegg (ny ressursgruppe) klikk på
 Når du er ferdig klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Når man har opprettet bygg/anlegg så er det neste steget å opprette utleieobjekter /[ressurser](http://manual.aktiv-kommune.no/?p=522) som er tilknyttet ressursgruppen (bygg/anlegg/ utstyrspool).
+Når man har opprettet bygg/anlegg så er det neste steget å opprette [utleieobjekter/ressurser](http://manual.aktiv-kommune.no/?p=522) som er tilknyttet ressursgruppen (bygget/anlegget/ utstyrsgruppen).
