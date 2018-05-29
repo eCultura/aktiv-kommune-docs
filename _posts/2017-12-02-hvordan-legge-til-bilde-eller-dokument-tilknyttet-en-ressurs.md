@@ -26,10 +26,13 @@ For å opprette nytt bilde/dokumenter klikker du på
 ![ny](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/NY.png)
 
 ### Fyll ut informasjonen om bildet/dokumentet:
-**Dokumentet:** Legg til filen du ønsker å legge til ved å klikke på *Bla gjennom...* og velg fil. 
-**Beskrivelse:** En kort beskrivelse av bildet/dokumentet.
-**Kategori:** Velg rett kategori fra nedtrekksmenyen som filen du har lagt ved passer i.
-**Bygg/anlegg:** Navn på ressursgruppe (bygg/anlegg) du vil knytte bildet til. 
+
+Feltnavn| Aksjon/ Forklaring
+-------------------|----------------------------------------
+**Dokumentet:** |Legg til filen du ønsker å legge til ved å klikke på *Bla gjennom...* og velg fil. 
+**Beskrivelse:** |En kort beskrivelse av bildet/dokumentet.
+**Kategori:** |Velg aktuell kategori fra nedtrekksmenyen som filen du har lagt ved passer i.
+**Bygg/anlegg:** |Navn på ressursgruppe (bygg/anlegg) du vil knytte bildet til. 
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
