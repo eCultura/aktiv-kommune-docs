@@ -11,7 +11,12 @@ post_date: 2017-12-02 12:01:51
 Filmen viser i korte trekk hvordan du oppretter en sesong og rammetid. For mer utdypet informasjon les teksten under.
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Sesong-og-rammetid.mp4
 
-Til en ressurs defineres en sesong. En sesong er et gitt tidsrom som ressursen kan leies eller lånes ut. Det opprettes en sesong for hvert bygg/anlegg, og sesongene varierer derfor fra bygg/anlegg til bygg/anlegg.
+Til et utleieobjekt (en ressurs) må det defineres/knyttes til en sesong. En sesong er et gitt tidsrom som utleieobjektet/ressursen kan leies eller lånes ut. Det opprettes en sesong for hver ressursgruppe (bygg/anlegg), og sesongene varierer derfor fra ressursgruppe til ressursgruppe.
+
+>En sesong har gjerne ulik oppstart og varighet. Det er opp til kommunen selv å definere hva som er mest hensiktsmessig. Vanligvis vil sesonger for romressurser/inneressurser følge skoleåret (vår og høst-sesong), mens uteanlegg ofte følger årstidene (vinter- og sommersesong). Men kommunen står fritt i å definere lenge og varighet.
+.
+
+>Tips: Sesonger avgjøre når et utleieobjekt kan leies ut. For noen utleieobjekter er det kanskje ikke aktuelt å leie ut enkeltdager (f.eks. offentlige høytidsdager/helligdager) eller i perioder (ferier/oppussing). Trikset er da å definere sesongen på ordinært vis, og at du før <em>publisering </em> (se under) av sesongen legger inn en rekke arrangementer som du kaller for "Stengt på grunn av ..oppgi årsak.."). Det vil dermed bli synlig i kalenderen at utleieobjektet ikke kan leies i aktuell periode.
 
 For å opprette en sesong velger du kommandoen:
 
@@ -32,7 +37,7 @@ Feltnavn|   Aksjon / Forklaring
 **Bygg/anlegg:** |Navn på ressursgruppe (bygg/anlegg) som sesongen tilhører.
 **Saksbehandler:** |Navn på saksbehandler.
 **Ressurser:** |Hak av de utleieobjekter/ressursene du skal knytte til sesongen. Utleieobjektene du kan velge kommer opp når du har valgt bygg/anlegg.
-**Status:** |Velg fra nedtrekksmenyen hvilken status sesongen skal ha. Planlegging er når du ikke er klar for at den skal være synlig for booking. Velg "Publisert" når sesongen skal bli synlig i frontend og kan bookes av innbyggere/lag/organisasjoner. Sesongen blir arkivert er når du setter sesongen inaktiv. 
+**Status:** |Velg fra nedtrekksmenyen hvilken status sesongen skal ha. Status "Planlegging" er når du ikke er klar for at den skal være synlig for booking. Velg status "Publisert" når sesongen skal bli synlig i frontend og kan bookes av innbyggere/lag/organisasjoner. Sesongen blir arkivert er når du setter sesongen inaktiv. 
 **Fra:** |Sesong er gyldig fra (dato).
 **Til:** |Sesong er gyldig til (dato). 
 
