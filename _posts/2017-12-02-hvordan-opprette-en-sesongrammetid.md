@@ -16,7 +16,7 @@ Til et utleieobjekt (en ressurs) må det defineres/knyttes til en sesong. En ses
 >En sesong har gjerne ulik oppstart og varighet. Det er opp til kommunen selv å definere hva som er mest hensiktsmessig. Vanligvis vil sesonger for romressurser/inneressurser følge skoleåret (vår og høst-sesong), mens uteanlegg ofte følger årstidene (vinter- og sommersesong). Men kommunen står fritt i å definere lenge og varighet.
 .
 
->Tips: Sesonger avgjøre når et utleieobjekt kan leies ut. For noen utleieobjekter er det kanskje ikke aktuelt å leie ut enkeltdager (f.eks. offentlige høytidsdager/helligdager) eller i perioder (ferier/oppussing). Trikset er da å definere sesongen på ordinært vis, og at du før <em>publisering </em> (se under) av sesongen legger inn en rekke arrangementer som du kaller for "Stengt på grunn av ..oppgi årsak.."). Det vil dermed bli synlig i kalenderen at utleieobjektet ikke kan leies i aktuell periode.
+>Tips: Sesonger avgjør når et utleieobjekt er mulig å booke. For noen utleieobjekter er det kanskje ikke aktuelt å leie ut enkeltdager (f.eks. offentlige høytidsdager/helligdager) eller i perioder (ferier/oppussing). Trikset er da å definere sesongen på ordinært vis, men at du før <em>publisering </em> (se under) av sesongen legger inn en rekke arrangementer som du kaller for "Stengt på grunn av ..oppgi årsak.."). Det vil dermed bli synlig i kalenderen at utleieobjektet ikke kan leies i aktuell periode.
 
 For å opprette en sesong velger du kommandoen:
 
