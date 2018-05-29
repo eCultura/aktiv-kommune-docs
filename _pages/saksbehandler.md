@@ -16,12 +16,12 @@ Før utleievirksomheten kan starte, må systemet settes opp med nok informasjon.
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan behandle søknader i Aktivkommune
-Som saksbehandler kan du ta i mot, behandle og følge opp søknader som kommer inn. De følgende sidene forklarer og viser hvordan søkandsbehandlingen foregår:
+Som saksbehandler kan du ta i mot, behandle og følge opp søknader som kommer inn. De følgende sidene forklarer og viser hvordan søknadsbehandlingen foregår:
 
 [display-posts category="Søknader" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan komme i gang med fakturering
-I Aktivkommune er det mulighet for å kunne ta betaling for utleie (det er ikke påkrevd). Flere kommuner tar ikke betaling for utleie i det hele, mens andre kommuner har ulik praksis for hvem som skal betale, og hvem som ikke skal betale for leie. Ta kontakt med driftleverandør om du ønsker tips for hvordan betaling/fakturering kan foregå. Følgende sider viser hvordan fakturering settes opp og utføres:
+I Aktivkommune er det mulighet for å kunne ta betaling for utleie (det er ikke påkrevd). Flere kommuner tar ikke betaling for utleie i det hele, mens andre kommuner har ulik praksis for hvem som skal betale, og hvem som ikke skal betale for leie. Ta kontakt med driftsleverandør om du ønsker tips for hvordan betaling/fakturering kan foregå. Følgende sider viser hvordan fakturering settes opp og utføres:
 [display-posts category="Fakturering" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 Prosesskart for søknadsprosessen kan du se [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-søknadsprosessen-nivå-1-PDF.pdf)
