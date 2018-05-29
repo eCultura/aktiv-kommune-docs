@@ -16,16 +16,16 @@ I Aktivkommune er begrepet <em>aktivitet </em> knyttet til hva utleieobjektet (r
 * Skole
 * Byrom/friluftsliv
 
-Noen bruksområder for "aktivitet" er disse:
-I frontend (publikumsdelen) av systemet er det mulig å sortere ressursgrupper (og utleieobjekter) etter hvilken aktivitet de naturlig hører inn under. Velger du "idrett", så vises bare utleieobjekter som "Idrett" disponerer/hører til "Idrett"
+Noen bruksområder for "aktivitet" i systemet er disse:
+I frontend (publikumsdelen) av systemet er det mulig å sortere ressursgrupper (og dermed utleieobjekter) etter hvilken aktivitet de naturlig hører inn under. Velger du "idrett", så vises bare utleieobjekter som "Idrett" disponerer/hører til "Idrett".
 
-I backend (saksbehandlingsdelen) er det den aktiviteten som blir knyttet til ressursgruppen (bygget/anlegget) (se <a href="http://manual.aktiv-kommune.no/?p=166">"Hvordan legge til ny ressursgruppe"</a>) som avgjør hvilken fagavdeling i kommunen som skal behandle søknaden.
+I backend (saksbehandlingsdelen) er det den aktiviteten som blir knyttet til ressursgruppen (bygget/anlegget) (se <a href="http://manual.aktiv-kommune.no/?p=166">"Hvordan legge til ny ressursgruppe"</a>) som avgjør hvilken fagavdeling i kommunen som skal <em>behandle </em> søknaden. Blir en ressursgruppe (og et utleieobjekt) knyttet til aktiviteten "skole", så er det skoleavdelingen eller representanter for skoleavdelingen som behandler og avgjør søknadene som kommer inn på det aktuelle utleieobjektet.
 
-Det er nødvendig å tilknytte/velge "aktivitet" flere plasser i systemet:
- * du registrere hvilken aktivitet som en ressursgruppe (et bygg/anlegg) tilhører (backend), og 
+"Aktivitet" benyttes flere steder i systemet:
+ * du registrerer hvilken aktivitet som en ressursgruppe (et bygg/anlegg) tilhører (backend), og 
  * i søknadsskjemaet må søker avgjøre hvilken hovedaktivitet som bookingen mest naturlig hører inn under.
 
->Det må opprettes minimum en aktivitet i systemet. Vi anbefaler at det opprettes aktiviteter som har samme navn eller tilsvarer de fire toppnivåene som er nevnt over.
+>Det må opprettes minimum en aktivitet i systemet. Vi anbefaler at det opprettes aktiviteter som har samme navn eller som kan representere de fire toppnivåene som er nevnt over.
 
 En aktivitet opprettes (og endres) ved bruk av kommandoen
 
@@ -53,4 +53,4 @@ Feltnavn|  Aksjon / Forklaring
 Når alt er fylt ut så legger du til aktiviteten ved å klikke på 
 ![legg til](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png)
 
-Hvordan man ønsker å opprette aktiviteter, er opp til hver enkelt kommune. Det er viktig å ha i bakhodet at oppsettet av aktiviteter kan påvirke ulike funksjoner i systemet (eksempelvis filtrering i frontend), og hvis du ønsker å vike fra oppsettet som er i systemet, ta gjerne en sjekk med driftsleverandør (Stavanger kommune). En aktivitet som er opprette kan ikke slettes, men settes som inaktiv i systemet. Dette gjøres for at systemet ikke skal miste historikk.
+Hvordan man ønsker å opprette aktiviteter, er opp til hver enkelt kommune. Det er uansett viktig å ha i tankene at oppsettet av aktiviteter kan påvirke ulike funksjoner i systemet (eksempelvis filtrering i frontend), og hvis du ønsker å vike fra oppsettet som er i systemet, ta gjerne en sjekk med driftsleverandør (Stavanger kommune). En aktivitet som er opprettet kan ikke slettes, men settes som inaktiv i systemet. Dette gjøres for at systemet ikke skal miste historikk.
