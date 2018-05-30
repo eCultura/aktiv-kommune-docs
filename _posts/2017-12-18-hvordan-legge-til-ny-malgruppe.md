@@ -8,11 +8,13 @@ permalink: http://manual.aktiv-kommune.no/?p=493
 published: true
 post_date: 2017-12-18 14:08:07
 ---
-For å få mulighet til å ta ut statistikker for hvem som leier og bruker utleieobjektene (rom , anlegg, utstyr), så er begrepet målgrupper tatt i bruk i Aktivkommune. 
-Det er kommunene selv som bestemmer hvilke og hvor mange målgrupper som skal være med i statistikken. 
-I nåværende versjon av systemet er det publikum/lag/organisasjoner som krysser av for målgrupper i søknadsskjemaet. 
-Saksbehandler har mulighet for å korrigere denne avkryssingen senere i saksbehandlingen om det er behov for det.
-Det er mulig at både praksis og utforming på dette blir korrigert i de kommende versjoner av systemet.
+For å få mulighet til å ta ut statistikker for hvem som leier og bruker utleieobjektene (rom , anlegg, utstyr), så er begrepet <em>målgrupper </em> tatt i bruk i Aktivkommune. 
+Det er kommunene selv som bestemmer hvilke og hvor mange målgrupper som skal opprettes og som dermed skal være med i statistikken. 
+
+I nåværende versjon av systemet er det publikum/lag/organisasjoner som krysser av for aktuell målgruppe i søknadsskjemaet. 
+Om det er behov for det, så har saksbehandler mulighet til å korrigere denne avkryssingen senere i saksbehandlingen.
+
+Det er sannsynlig at både praksis og utforming på denne funksjonen blir korrigert i de kommende versjoner av systemet. Målsettingen er at søknadsprosessen skal være så enkel som mulig, og vi tror at statistikken blir bedre om det er saksbehandler som krysser av for målgruppe (basert på søknadstekst elles og erfaringer fra tidligere). 
 
 
 For å opprette og definere en målgruppe bruker du kommandoen
