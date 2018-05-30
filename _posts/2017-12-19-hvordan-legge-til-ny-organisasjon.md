@@ -19,9 +19,9 @@ Organisasjonsnummeret finner du på <a href="https://www.brreg.no/">Brønnøysun
 
 Når du har organisasjonsnummeret, velg kommandoen:
 
-BOOKING => ORGANISASJONER 
+<strong>BOOKING => ORGANISASJONER </strong>
 
-Skjermbildet ser da slik ut:
+Skjermbildet som kommer opp ser slik ut:
 ![skjermbilde ny organisasjon](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbilde-ny-org.png)
 
 For å legge til ny organisasjon klikker du på
@@ -39,7 +39,7 @@ Feltnavn | Hva skal gjøres her?/ Forklaring
 **E-post:** |E-post til kontaktperson i organisasjonen.
 **Fakturainformasjon:** |Velg en av nedtrekksmeny valgene.
 **Intern kunde:** |For internt bruk i kommunen.
-**Ressursnummer:** |For internt bruk i kommunen.
+**Ressursnummer:** |For internt bruk i kommunen. Knyttet til økonomi/fakturering
 **Gate:** |Organisasjonens adresse.
 **Postnummer:** |Organisasjonens postnummer.
 **Poststed:** |Organisasjonens poststed.
