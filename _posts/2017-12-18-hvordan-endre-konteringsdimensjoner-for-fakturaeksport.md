@@ -15,16 +15,17 @@ Når en kommune skal generere fakturafil i Aktivkommune sende denne til et økon
 
 >NB! I forkant må det i kommunens økonomisystem opprettes en egen systemkode for AktivKommune. Både VISMA og AGRESSO trenger å vite hvilke fagsystemer som leverer data, og importfilen (fakturafilen) fra Aktivkommune må inneholde en egen systemkode som forteller at det er data fra Aktivkommune som skal leses inn. <em>Legge inn eksempel fra LINDÅS??</em>
 
-Før fakturering kan skje må kommunens konteringsdimensjoner etableres i Aktivkommune. For å få definert og opprettet de rette konteringsdimensjoner må kommunens økonomi/regnskaps-avdeling bli involvert slik at de rette dimensjoner blir etablert.
+Før fakturering kan gjennomføres, må kommunens konteringsdimensjoner etableres i Aktivkommune. For å få definert og opprettet de rette konteringsdimensjoner må kommunens økonomi/regnskaps-avdeling bli involvert slik at de rette dimensjoner blir etablert.
 
-For å få definert konteringsdimensjoner i Aktivkommune:
+For å få definert konteringsdimensjoner i Aktivkommune velger du kommandoen:
 
 <strong>BOOKING => INNSTILLINGER => KONTERINGSDIMENSJONER</strong>
+
 Et nytt skjermbilde dukker opp, og du må registrere følgende felter:
 
 Feltnavn   |   Aksjon/ Forklaring
 -------------------------------|----------------------------------------------
-Article (pos 283 - 297)|Skriv inn ordet "Varenavn" eller "Artikkel". (De konkrete varekoder og varenavn registeres under 'konteringsstrenger'. Dette skjer senere i et annet skjermbilde)
+Article (pos 283 - 297)|Skriv inn ordet "Varekode/Varenavn" eller "Artikkelkode/Artikkelnavn". (De konkrete varekoder og varenavn registeres under 'konteringsstrenger'. Dette skjer senere i et annet skjermbilde)
 Dim1 (pos 862 - 869)|Skriv inn ordet "Art". /Konteringsdimensjon (VISMA)
 Dim2 (pos 870 - 877)|Skriv inn ordet "Ansvar". /Konteringsdimensjon (VISMA)
 Dim3 (pos 878 - 885)|Skriv inn ordet "Tjeneste". /Konteringsdimensjon (VISMA)
