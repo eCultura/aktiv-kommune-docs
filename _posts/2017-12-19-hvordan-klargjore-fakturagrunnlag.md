@@ -33,10 +33,13 @@ Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
-Når du har klargjort fakturagrunnlaget kan du starte med å [generere fakturafil](http://manual.aktiv-kommune.no/?p=567)
+Når du har klargjort fakturagrunnlaget,  kan du gå videre i prosessen med å [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
 
-## Spesifikt for Bergen (Agressobruker): 
-Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil skal sendes til LRS innen den 10. hver måned. For å starte med klargjøringen er veien slik:
+
+
+## Spesifikt for Agresso-bruker (Bergen): 
+
+Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil skal sendes til LRS (Lønns- og RegnskapsSenteret) innen den 10. hver måned. For å starte med klargjøringen, velg kommandoen:
 
 <strong>BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING</strong>
 
@@ -58,4 +61,4 @@ Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
-Når du har klargjort fakturagrunnlaget kan du starte med å [generere fakturafil](http://manual.aktiv-kommune.no/?p=567)
+Når du har klargjort fakturagrunnlaget, kan du gå videre i prosessen og [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
