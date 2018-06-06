@@ -13,7 +13,7 @@ post_date: 2017-12-19 12:20:33
 De ulike kommunene har forskjellige utleiepriser og -regler. Aktivkommune er tilrettelagt for fakturering av utvalgte (eller alle) utleieforhold, avhengig av hva kommunen selv har bestemt skal være gratis utleie/utlån og hva som skal være fakturerbart. Aktivkommune er tilrettelagt for eksport av fakturagrunnlag til økonomisystemene Agresso og Visma. Det er mulig å tilrettelegge slik eksport også til andre økonomisystemer.
 
 ## Rutine for klargjøring av fakturagrunnlag
-For å starte med klargjøring starter du med kommandoen:
+For å starte med klargjøring av fakturagrunnlag, velger du først kommandoen:
 
 <strong>BOOKING => FAKTURAEKSPORTER => KLAR FOR FAKTURERING</strong>
 
@@ -29,15 +29,17 @@ Klikk så på "Vis ikke eksporterte filer" slik at du får opp filer for bare de
 
 Det kommer da opp en liste. Listen kan sorteres, trykk her på pris slik at de med høyest pris kommer først på på listen. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert riktig, det vil si at organisasjonsnummer og fødselsnummer er rett i forhold til søknad/leieforhold.
 
-Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport». Det aktuelle husets navn registreres i begge felt. Klikk så på «Eksport» en gang til.
+Listen er nå klar til å eksporteres. 
+Dette gjøres ved å klikke på «Eksport». Det aktuelle byggnavn/anleggsnavn registreres i begge felt. 
+Klikk så på «Eksport» en gang til.
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
-Når du har klargjort fakturagrunnlaget,  kan du gå videre i prosessen med å [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
+Når du har godkjent og klargjort fakturagrunnlaget,  kan du gå videre i prosessen med å [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
 
 
 
-## Spesifikt for Agresso-bruker (Bergen): 
+## Rutine for Agresso-brukere (Bergen): 
 
 Den som har ansvar for å fakturere har fra 1.- 9. hver måned til å utføre arbeidet. Kun én fil skal sendes til LRS (Lønns- og RegnskapsSenteret) innen den 10. hver måned. For å starte med klargjøringen, velg kommandoen:
 
