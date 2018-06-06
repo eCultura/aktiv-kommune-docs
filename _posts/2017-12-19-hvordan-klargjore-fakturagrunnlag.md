@@ -63,4 +63,4 @@ Listen er nå klar til å eksporteres. Dette gjøres ved å klikke på «Eksport
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
-Når du har klargjort fakturagrunnlaget, kan du gå videre i prosessen og [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
+Når du har klargjort fakturagrunnlaget, kan du gå videre i prosessen med å [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
