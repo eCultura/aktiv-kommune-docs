@@ -24,7 +24,7 @@ For å få definert konteringsdimensjoner i Aktivkommune velger du kommandoen:
 Et nytt skjermbilde dukker opp, og du må registrere følgende felter:
 
 Feltnavn   |   Aksjon/ Forklaring
--------------------------------|----------------------------------------------
+-----------------------------------|---------------------------------------------------
 Article (pos 283 - 297)|Skriv inn ordet "Varekode/Varenavn" eller "Artikkelkode/Artikkelnavn". (De konkrete varekoder og varenavn registeres under 'konteringsstrenger'. Dette skjer senere i et annet skjermbilde)
 Dim1 (pos 862 - 869)|Skriv inn ordet "Art". /Konteringsdimensjon (VISMA)
 Dim2 (pos 870 - 877)|Skriv inn ordet "Ansvar". /Konteringsdimensjon (VISMA)
@@ -40,7 +40,7 @@ Skjermbildet for en VISMA-kommune(Lindås kommune) ser eksempelvis slik ut:
 ![Oppsett-av-konteringsdimensjoner](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Oppsett-av-konteringsdimensjoner.png)
 
 
-Under "Ekstern kontering"(på engelsk '!external account'" er det for output-formatet lagt inn "Agresso" som 'default'-verdi. Bruker din kommune Visma som økonomisystem, så klikker du på nedtrekksmenyen og velger Visma.
+Under "Ekstern kontering"(på engelsk '!external account') er det for output-formatet lagt inn "Agresso" som 'default'-verdi. Dersom din kommune bruker Visma som økonomisystem, så klikker du på nedtrekksmenyen og velger Visma.
 
 >Du kan også endre til andre økonomisystemer om dette er ønskelig. Disse systemene må i så fall få tilpasset en egen integrasjon. Meld fra til driftleverandør (Stavanger) om dette trengs. 
 
