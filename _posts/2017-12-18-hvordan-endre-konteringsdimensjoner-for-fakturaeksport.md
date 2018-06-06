@@ -23,7 +23,7 @@ For å få definert konteringsdimensjoner i Aktivkommune velger du kommandoen:
 
 Et nytt skjermbilde dukker opp, og du må registrere følgende felter:
 
-Feltnavn   |   Aksjon/ Forklaring
+Feltnavn                           |   Aksjon/ Forklaring
 -----------------------------------|---------------------------------------------------
 Article (pos 283 - 297)|Skriv inn ordet "Varekode/Varenavn" eller "Artikkelkode/Artikkelnavn". (De konkrete varekoder og varenavn registeres under 'konteringsstrenger'. Dette skjer senere i et annet skjermbilde)
 Dim1 (pos 862 - 869)|Skriv inn ordet "Art". /Konteringsdimensjon (VISMA)
