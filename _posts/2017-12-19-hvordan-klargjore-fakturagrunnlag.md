@@ -39,8 +39,8 @@ Når du har godkjent og klargjort fakturagrunnlaget,  kan du gå videre i proses
 
 >En vanlig sjekkliste for godkjenning av fakturagrunnlag er denne:
 1. Dersom arrangementet/tildelingen  har en kronesum, er denne i henhold til kommunens prisliste?
-2. Dersom arrangementet/tildelingen <em>ikke </em> har en kronesum, er dette riktig i henhold til kommunens regelverk for utleie?
-3. Om pris må justeres, opp eller ned, skriv inn begrunnelse for <em>hvorfor </em> prisen endres. (gjøres i Aktivkommune). Det loggføres i systemet hver gang prisen justeres; og historikken viser fra og til-pris, dato/tid for justeringen og hvilken saksbehandler som har registrert endringen.
+2. Dersom arrangementet/tildelingen <em>ikke </em> har en kronesum, er dette riktig i henhold til kommunens regelverk for (gratis) utlån/utleie?
+3. Om pris må justeres, opp eller ned, skriv inn begrunnelse for <em>hvorfor </em> prisen endres (gjøres i Aktivkommune). Selve prisendringen må gjøres fra selve arrangementet/ tildeling. Det loggføres i systemet hver gang prisen justeres; og historikken viser fra og til-pris, dato/tid for justeringen og hvilken saksbehandler som har registrert endringen.
 
 
 ## Rutine for Agresso-brukere (Bergen): 
