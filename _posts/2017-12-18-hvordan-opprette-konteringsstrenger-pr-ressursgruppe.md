@@ -21,7 +21,7 @@ For å legge inn en ny konteringsstreng, velg kommandoen:
 <strong>BOOKING ->  INNSTILLINGER ->  KONTERINGSSTRENG</strong>
  
 Følgende skjermbilde dukker opp:
-![Oppsett-av-konteringsdimensjoner](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - ny.png)
+![Oppsett-av-konteringsdimensjoner](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-ny.png)
 
 Trykk på knappen <strong>«Ny konteringsstreng»</strong>
 
@@ -53,12 +53,12 @@ Finn og klikk deretter på den aktuelle vare(linjen) – (klikk på markert linj
  
 
 Et nytt skjermbilde dukker opp:
-![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - endre på den.png)
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-endre på den.png)
 
-Trykk på knappen «Endre»
+Trykk på knappen <strong>«Endre konteringsstreng»</strong>
 
 Et nytt skjermbilde dukker opp (se «opprette ny konteringsstreng» over)
-![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - bilde 1.png)
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-bilde 1.png)
 
 Skriv inn aktuelle endring(er), og trykk på
 
