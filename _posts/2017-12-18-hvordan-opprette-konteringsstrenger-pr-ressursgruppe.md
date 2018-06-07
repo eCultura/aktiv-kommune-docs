@@ -20,10 +20,10 @@ For å legge inn en ny konteringsstreng, velg kommandoen:
 
 <strong>BOOKING ->  INNSTILLINGER ->  KONTERINGSSTRENG</strong>
  
-Trykk på knappen <strong>«Ny konteringsstreng»</strong>
-
 Følgende skjermbilde dukker opp:
+![Oppsett-av-konteringsdimensjoner](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - ny.png)
 
+Trykk på knappen <strong>«Ny konteringsstreng»</strong>
 
 Fyll ut følgende felt (alle felt er obligatoriske om ikke annet er angitt):
 
@@ -40,7 +40,7 @@ Fagavdelingskode (for buntnummer)|<kode for buntnummer; / bruk gjerne bare en bo
 Topptekst til faktura | <Tekst som forklarer hva leien/fakturaen gjelder for> (ikke obligatorisk)/Men den kan inneholde verdifull informasjon for mottaker.
 
 Når du er ferdig med å registrere, trykk på
- «Lagre»
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 
 ## Endring av (eksisterende) konteringsstreng:
@@ -49,19 +49,21 @@ Dersom du vil endre på noe av informasjonen (konteringsstrengen) tilknyttet en 
 
 <strong>BOOKING -> INNSTILLINGER -> KONTERINGSSTRENG</strong>
 
-Finn og klikk deretter på den aktuelle vare(linjen) – (markert linje/blå skift) 
+Finn og klikk deretter på den aktuelle vare(linjen) – (klikk på markert linje/blå skrift) 
  
 
 Et nytt skjermbilde dukker opp:
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - endre.png)
 
 Trykk på knappen «Endre»
 
 Et nytt skjermbilde dukker opp (se «opprette ny konteringsstreng» over)
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Skriv inn aktuelle endring(er), 
-og trykk 
+Skriv inn aktuelle endring(er), og trykk på
 
-«Lagre»
+![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
 når du er ferdig.
 
-Systemet er nå klargjort for fakturering. Neste steg er å behandle søknader og bestemme pris
+Systemet er nå klargjort for fakturering. Neste steg er å behandle søknader og bestemme pris.
