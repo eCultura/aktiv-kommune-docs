@@ -33,7 +33,7 @@ Dim4 (pos 886 - 893)|..ubrukt..
 Dim5 (pos 894 - 905)|Skriv inn ordet "Prosjekt" (default verdi er 9)./ Dette feltet må ha et siffer, ellers feiler fakturafilen
 Dim_value_1 (pos 914 - 925)|Skriv inn ordet "Oppdragsgiver"
 Dim_value_4 (pos 950 - 961)|
-Dim_value_5 (pos 962 - 973)|Skriv inn "Kontakt avd." / Kontaktavdelingkode/navn kommer på faktura.
+Dim_value_5 (pos 962 - 973)|Skriv inn "Kontakt avd." / Kontaktavdelingskode/navn kommer på faktura.
 
 
 Skjermbildet for en VISMA-kommune(Lindås kommune) ser eksempelvis slik ut: 
@@ -46,3 +46,8 @@ Under "Ekstern kontering"(på engelsk '!external account') er det for output-for
 
 Når du har lagt inn aktuelle opplysninger, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+
+Neste steg er å opprette det nødvendige konteringsstrengene tilknyttet hver ressursgruppe (bygg/anlegg). Dette gjøres her
+http://manual.aktiv-kommune.no/?p=622
+
+<a href="http://manual.aktiv-kommune.no/?p=622">opprette konteringsstrenger</a>
