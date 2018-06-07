@@ -27,20 +27,30 @@ Klikk deretter på
 
 Klikk så på "Vis ikke eksporterte filer" slik at du får opp filer for bare den gjeldende perioden.
 
-Det kommer da opp en liste. Listen kan sorteres, trykk på pris (kolonnen) slik at de med høyest pris kommer først på på listen. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert riktig, det vil si at organisasjonsnummer og fødselsnummer er rett i forhold til søknad/leieforhold.
+Det kommer da opp en liste. 
+Listen kan sorteres for hver kolonne.
+Trykk på <em>"Pris"</em> (kolonneoverskriften) slik at de med høyest pris kommer først/øverst på listen. 
+Listen er teknisk sett klar til å eksporteres. Men før du sender listen til "fakturaeksport", er det nødvendig å sjekke om fakturagrunnlaget er korrekt. 
 
-Listen er nå klar til å eksporteres. 
-Dette gjøres ved å klikke på «Eksport». Det aktuelle byggnavn/anleggsnavn registreres i begge felt. 
+Kontrollisten vil trolig være litt ulik fra kommune til kommune, men vi kommer med noen kontrolltips i listen under:
+
+>En vanlig sjekkliste for godkjenning av fakturagrunnlag er denne:
+For hver rad i listen, sjekk dette:
+1. Kontroller at kunde-id (organisasjonsnummer/fødselsnummer /ressursnummer (interne kunder)) er registrert riktig, det vil si at organisasjonsnummer og fødselsnummer er rett i forhold til søknad/leieforhold.
+2. Dersom arrangementet/tildelingen har en kronesum, er denne i henhold til kommunens prisliste?
+3. Dersom arrangementet/tildelingen <em>ikke </em> har en kronesum, er dette riktig i henhold til kommunens regelverk for (gratis) utlån/utleie?
+4. Om pris må justeres, opp eller ned, skriv inn begrunnelse for <em>hvorfor </em> prisen endres (gjøres i Aktivkommune). Selve prisendringen må gjøres fra selve arrangementet/ tildelingen. Det loggføres i systemet hver gang prisen justeres; og historikken viser fra og til-pris, dato/tid for justeringen og hvilken saksbehandler som har registrert endringen.
+
+Når nødvendig kontroll er gjennomført, kan selve fakturaeksporten startes:
+
+Eksporten startes ved å klikke på «Eksport». 
+De aktuelle byggnavn/anleggsnavn(ressursgrupper) som skal inngå i fakturaeksporten registreres i begge felt. 
 Klikk så på «Eksport» en gang til.
  
 Det lages da en fil som legger seg under «Klar for generering». 
 
-Når du har godkjent og klargjort fakturagrunnlaget,  kan du gå videre i prosessen med å [generere en fakturafil](http://manual.aktiv-kommune.no/?p=567)
+Når du har godkjent og klargjort fakturagrunnlaget,  kan du gå videre i prosessen med å [generere og sende en fakturafil](http://manual.aktiv-kommune.no/?p=567)
 
->En vanlig sjekkliste for godkjenning av fakturagrunnlag er denne:
-1. Dersom arrangementet/tildelingen har en kronesum, er denne i henhold til kommunens prisliste?
-2. Dersom arrangementet/tildelingen <em>ikke </em> har en kronesum, er dette riktig i henhold til kommunens regelverk for (gratis) utlån/utleie?
-3. Om pris må justeres, opp eller ned, skriv inn begrunnelse for <em>hvorfor </em> prisen endres (gjøres i Aktivkommune). Selve prisendringen må gjøres fra selve arrangementet/ tildelingen. Det loggføres i systemet hver gang prisen justeres; og historikken viser fra og til-pris, dato/tid for justeringen og hvilken saksbehandler som har registrert endringen.
 
 
 ## Rutine for Agresso-brukere (Bergen): 
