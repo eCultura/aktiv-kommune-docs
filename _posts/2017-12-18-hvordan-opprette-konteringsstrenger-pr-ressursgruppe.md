@@ -45,6 +45,8 @@ Topptekst til faktura | <Tekst som forklarer hva leien/fakturaen gjelder for> (i
 Når du er ferdig med å registrere, trykk på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
+Gjenta denne operasjonen slik at alle aktuelle ressursgrupper (bygg/anlegg) har fått sin egen konteringsstreng.
+
 
 ## Hvordan endre (eksisterende) konteringsstreng?
 
@@ -69,4 +71,4 @@ Skriv inn aktuelle endring(er), og trykk på
 når du er ferdig.
 
 Systemet er nå klargjort for fakturering. 
-Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.<a href="http://manual.aktiv-kommune.no/?p=1477">forberede fakturagrunnlag.</a>
+Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter<a href="http://manual.aktiv-kommune.no/?p=571">forberede og klargjøre fakturagrunnlag.</a>
