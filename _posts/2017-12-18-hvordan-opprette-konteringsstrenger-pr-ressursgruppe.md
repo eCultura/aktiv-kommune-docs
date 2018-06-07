@@ -26,6 +26,8 @@ Følgende skjermbilde dukker opp:
 Trykk på knappen <strong>«Ny konteringsstreng»</strong>
 
 Skjermbilde for "ny konteringsstreng" dukker opp.
+![Oppsett-av-konteringsdimensjoner](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-opprette-ny.png)
+
 Fyll ut følgende felt (alle felt er obligatoriske om ikke annet er angitt):
 
 Feltnavn    |    Aksjon / Forklaring
@@ -58,8 +60,7 @@ Et nytt skjermbilde dukker opp:
 
 Trykk på knappen <strong>«Endre»</strong>
 
-Et nytt skjermbilde dukker opp (se «opprette ny konteringsstreng» over)
-
+Et nytt skjermbilde dukker opp (se avsnitt om «opprette ny konteringsstreng» over)
 
 Skriv inn aktuelle endring(er), og trykk på
 
