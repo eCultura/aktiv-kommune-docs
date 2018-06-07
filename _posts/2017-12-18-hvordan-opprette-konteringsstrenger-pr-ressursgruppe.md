@@ -53,12 +53,12 @@ Finn og klikk deretter på den aktuelle vare(linjen) – (klikk på markert linj
  
 
 Et nytt skjermbilde dukker opp:
-![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - endre.png)
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - endre på den.png)
 
 Trykk på knappen «Endre»
 
 Et nytt skjermbilde dukker opp (se «opprette ny konteringsstreng» over)
-![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng - bilde 1.png)
 
 Skriv inn aktuelle endring(er), og trykk på
 
