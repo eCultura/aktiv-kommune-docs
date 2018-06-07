@@ -12,6 +12,8 @@ post_date: 2017-12-19 12:20:33
 
 De ulike kommunene har forskjellige utleiepriser og -regler. Aktivkommune er tilrettelagt for fakturering av utvalgte (eller alle) utleieforhold, avhengig av hva kommunen selv har bestemt skal være gratis utleie/utlån og hva som skal være fakturerbart. Aktivkommune er tilrettelagt for eksport av fakturagrunnlag til økonomisystemene Agresso og Visma. Det er mulig å tilrettelegge slik eksport også til andre økonomisystemer.
 
+Har din kommune ikke noen praksis for å fakturere for utleie, så kan dere enkelt og greit hoppe over dette punktet (og sette pris til kr. 0,- for alle utleieforhold).
+
 ## Rutine for klargjøring av fakturagrunnlag
 For å starte med klargjøring av fakturagrunnlag, velger du først kommandoen:
 
