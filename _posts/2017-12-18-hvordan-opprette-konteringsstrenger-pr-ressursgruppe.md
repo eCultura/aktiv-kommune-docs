@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=1477
 published: true
 post_date: 2017-12-18 10:21:50
 ---
-Når konteringsdimensjoner er opprettet (se XXX), er neste steg å opprette de konkrete konteringsstrenger. 
+Når konteringsdimensjoner er opprettet (se om <a href="http://manual.aktiv-kommune.no/?p=622">opprettelse av konteringsdimensjoner</a>), er neste steg å opprette de konkrete konteringsstrenger. 
 
 >Regnskap/økonomi-avdelingen i de ulike kommunene har noe ulik tilnærming til hvordan de skal merke både innbetalinger og utbetalinger knyttet til enkeltbygg og og enkelt anlegg (i Aktivkommune omtalt som ressursgruppe). Det er derfor viktig å få avklart hvilke verdier/koder som skal registreres for de ulike konteringsdimensjonene.
 
@@ -69,4 +69,4 @@ Skriv inn aktuelle endring(er), og trykk på
 når du er ferdig.
 
 Systemet er nå klargjort for fakturering. 
-Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.
+Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.<a href="http://manual.aktiv-kommune.no/?p=622">forberede fakturagrunnlag.</a>
