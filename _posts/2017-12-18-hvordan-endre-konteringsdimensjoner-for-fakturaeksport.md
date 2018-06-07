@@ -45,4 +45,4 @@ Under "Ekstern kontering"(på engelsk '!external account') er det for output-for
 Når du har lagt inn aktuelle opplysninger, klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
-Neste steg er å <a href="http://manual.aktiv-kommune.no/?p=622">opprette de nødvendige konteringsstrengene</a> tilknyttet hver ressursgruppe (bygg/anlegg).
+Neste steg er å <a href="http://manual.aktiv-kommune.no/?p=1477">opprette de nødvendige konteringsstrengene</a> tilknyttet hver ressursgruppe (bygg/anlegg).
