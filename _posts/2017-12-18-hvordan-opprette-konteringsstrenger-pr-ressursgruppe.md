@@ -69,4 +69,4 @@ Skriv inn aktuelle endring(er), og trykk på
 når du er ferdig.
 
 Systemet er nå klargjort for fakturering. 
-Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.<a href="http://manual.aktiv-kommune.no/?p=622">forberede fakturagrunnlag.</a>
+Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.<a href="http://manual.aktiv-kommune.no/?p=1477">forberede fakturagrunnlag.</a>
