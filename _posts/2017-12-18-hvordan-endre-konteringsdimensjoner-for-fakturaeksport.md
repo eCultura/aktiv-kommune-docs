@@ -48,6 +48,6 @@ Når du har lagt inn aktuelle opplysninger, klikker du på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 Neste steg er å opprette det nødvendige konteringsstrengene tilknyttet hver ressursgruppe (bygg/anlegg). Dette gjøres her
-http://manual.aktiv-kommune.no/?p=622
+http://manual.aktiv-kommune.no/?p=1422
 
 <a href="http://manual.aktiv-kommune.no/?p=622">opprette konteringsstrenger</a>
