@@ -14,9 +14,9 @@ Når konteringsdimensjoner er opprettet (se XXX), er neste steg å opprette de k
 
 >Regnskap/økonomi-avdelingen i de ulike kommunene har noe ulik tilnærming til hvordan de skal merke både innbetalinger og utbetalinger knyttet til enkeltbygg og og enkelt anlegg (i Aktivkommune omtalt som ressursgruppe). Det er derfor viktig å få avklart hvilke verdier/koder som skal registreres for de ulike konteringsdimensjonene.
 
-##
+## Hvordan opprette ny konteringsstreng?
 
-For å legge inn en ny konteringsstreng, velg kommandoen:
+For å legge inn en ny konteringsstreng, velger du kommandoen:
 
 <strong>BOOKING ->  INNSTILLINGER ->  KONTERINGSSTRENG</strong>
  
@@ -25,6 +25,7 @@ Følgende skjermbilde dukker opp:
 
 Trykk på knappen <strong>«Ny konteringsstreng»</strong>
 
+Skjermbilde for "ny konteringsstreng" dukker opp.
 Fyll ut følgende felt (alle felt er obligatoriske om ikke annet er angitt):
 
 Feltnavn    |    Aksjon / Forklaring
@@ -43,14 +44,14 @@ Når du er ferdig med å registrere, trykk på
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
 
 
-## Endring av (eksisterende) konteringsstreng:
+## Hvordan endre (eksisterende) konteringsstreng?
 
 Dersom du vil endre på noe av informasjonen (konteringsstrengen) tilknyttet en vare (et varenavn), så velger du kommandoen:
 
 <strong>BOOKING -> INNSTILLINGER -> KONTERINGSSTRENG</strong>
 
 Finn og klikk deretter på den aktuelle vare(linjen) – (klikk på markert linje/blå skrift) 
- 
+![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-bilde-1.png) 
 
 Et nytt skjermbilde dukker opp:
 ![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-endre-på-den.png)
@@ -58,7 +59,7 @@ Et nytt skjermbilde dukker opp:
 Trykk på knappen <strong>«Endre»</strong>
 
 Et nytt skjermbilde dukker opp (se «opprette ny konteringsstreng» over)
-![Konteringsstreng - endre](http://manual.aktiv-kommune.no/wp-content/uploads/2018/06/Konteringsstreng-bilde-1.png)
+
 
 Skriv inn aktuelle endring(er), og trykk på
 
@@ -66,4 +67,5 @@ Skriv inn aktuelle endring(er), og trykk på
 
 når du er ferdig.
 
-Systemet er nå klargjort for fakturering. Neste steg er å behandle søknader og bestemme pris.
+Systemet er nå klargjort for fakturering. 
+Neste steg i faktureringsprosessen er å behandle søknader og bestemme pris (vanlig saksbehandling), og deretter forberede fakturagrunnlag.
