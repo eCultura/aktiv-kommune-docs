@@ -12,7 +12,7 @@ post_date: 2017-11-10 10:53:36
 ---
 <strong>Oppbygning </strong>
 
-Før Aktiv kommune tas i bruk må det opprettes en del grunndata og da er det viktig at superbruker forstår oppsettet på løsningen. Prosesskart for nødvendige forbredelser en superbruker (og systemadministrator) må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-3.pdf). Under forklares de ulike bookingbegrepene sesong, tildeling, booking og arrangement.
+Før Aktiv kommune tas i bruk må det opprettes en del grunndata og da er det viktig at superbruker forstår oppsettet på løsningen. Prosesskart for nødvendige forberdelser en superbruker (og systemadministrator) må gjøre før han/hun kan ta i bruk systemet finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-nødvendige-forberedelser-for-systemadministrator-før-oppstart-PDF-3.pdf). Under forklares de ulike bookingbegrepene sesong, tildeling, booking og arrangement.
 
 <strong><em>Noen sentrale begreper: </em></strong>
 <ul>
