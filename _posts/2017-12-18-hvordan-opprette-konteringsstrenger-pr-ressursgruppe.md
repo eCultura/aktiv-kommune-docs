@@ -1,8 +1,8 @@
 ---
 ID: 1477
 post_title: >
-  Hvordan opprette konteringsstrenger for
-  en vare (ressursgruppe; bygg / anlegg)?
+  Hvordan opprette konteringsstreng for en
+  vare (ressursgruppe; bygg / anlegg)?
 author: Ragnar Buset
 post_excerpt: ""
 layout: post
@@ -32,7 +32,7 @@ Fyll ut følgende felt (alle felt er obligatoriske om ikke annet er angitt):
 
 Feltnavn    |    Aksjon / Forklaring
 ----------------------------|------------------------------------------
-Navn: | Skriv inn <Varekode og varenavn>, f.eks. 4231 Sandslihallen
+Navn: | Skriv inn <Varekode og varenavn>, f.eks. 4231 (Utleie av) Sandslihallen
 Tjeneste: |<kode for tjeneste>/ kode hentet fra Tjeneste-kontoplanen
 Varenummer (artikkel):	| <varekode/artikkelnummer>
 Art:	| Skriv inn <kode for art>/ kode hentet fra Arts-kontoplanen
