@@ -16,18 +16,17 @@ Før Aktivkommune tas i bruk må det opprettes en del grunndata og da er det vik
 
 <strong><em>Noen sentrale begreper: </em></strong>
 <ul>
-<li><strong>Sesonger og rammetider</strong>. 
- 
-En sesong er i Aktivkommune en bestemt tidsperiode som er avgrenset av en startdato og en sluttdato. En sesong varer gjerne et halvt år og baserer seg på rammetider som gjentas hver uke. Etter at en sesong er opprettet på en ressursgruppe (det vil si et bygg eller et anlegg), lages det en ukeplan med alle rammetider. Denne ukeplanen gjelder ut hele sesongen. En vårsesong for ressursgruppen/bygget Stavanger idrettshall varer fra 1.januar 2018 til 30.juni 2018, og rammetiden (den tiden som utleie kan skje kan settes fra kl. 08.00 til kl. 20.00 alle hverdager.</li>
+<li><strong>Sesonger og rammetider</strong>
+En sesong er i Aktivkommune en bestemt tidsperiode som er avgrenset av en startdato og en sluttdato. En sesong varer gjerne et halvt år og baserer seg på rammetider som gjentas hver uke. Etter at en sesong er opprettet på en ressursgruppe (det vil si et bygg eller et anlegg), lages det en ukeplan med alle rammetider. Denne ukeplanen gjelder ut hele sesongen. En vårsesong for ressursgruppen/bygget Stavanger idrettshall varer fra 1.januar 2018 til 30.juni 2019, og rammetiden (den tiden som utleie kan skje kan settes fra kl. 08.00 til kl. 20.00 alle hverdager.</li>
 
 <li><strong>Tildeling</strong>
-Dette er en rammetid gitt til en organisasjon. Organisasjoner kan selv fordele denne tildelingen videre til sine undergrupper. Eksempel: Idrettslaget "Skjalg" får tildelt tid hver tirsdag fra kl. 16 til 22 på en bestemt ressurs (f.eks. bane 1 i Stavanger idrettshall). Dette er en <em>tildeling.</em></li>
+En <em>tildeling </em>er en avgrenset tid gitt til en organisasjon. Organisasjonen kan selv fordele denne tildelingen videre til sine undergrupper. Eksempel: Idrettslaget "Skjalg" får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på en bestemt ressurs (f.eks. bane 1 i Stavanger idrettshall). Dette er en <em>tildeling.</em></li>
 
 <li><strong>Interntildeling</strong>
-Mens en tildeling registreres på en (hoved)organisasjon, registreres en interntildeling som regel til en (under)gruppe eller et lag i denne organisasjonen. Eksempel: Representanter fra idrettslaget "Skjalg" interntildeler videre sin tildelte tid (se over) til sine undergrupper; jenter 2003 får tiden fra kl. 16 -18, og gutter 2005 får tiden fra kl. 18 - 20, og juniorene får tiden fra kl. 20-22 på den aktuelle tirsdagen. Av den ene tildelingen har altså "Skjalg" laget tre interntildelinger innad i klubben.</li>
+Mens en tildeling registreres på en (hoved)organisasjon, registreres en <em>interntildeling </em> som regel til en (under)gruppe eller et lag i denne organisasjonen. Eksempel: Representanter fra idrettslaget "Skjalg" interntildeler videre sin tildelte tid (se over) videre til sine undergrupper; jenter 2003 får tiden fra kl. 16 -18, og gutter 2005 får tiden fra kl. 18 - 20, og juniorene får tiden fra kl. 20-22 på den aktuelle tirsdagen. Av den ene tildelingen har altså "Skjalg" laget tre interntildelinger innad i klubben.</li>
 
 <li><strong>Arrangement </strong>
-Arrangement er enkeltstående hendelse over en eller flere dager. Den kan legges over tildelinger ved behov. Typisk vil et arrangement være enkeltstående konserter, idrettsarrangement, bydager, politiske valg osv. Eksempel: På en bestemt tirsdag, den 13.februar, skal det være landskamp i Stavanger idrettshall, og Håndballforbundet søker om å få et arrangement den dagen. Arrangementet overstyrer tildelingen (og dermed også interntildelingene). Dermed må de tre gruppene i idrettslaget "Skjalg" enten avlyse sine treninger den aktuelle tirsdagen, eller finne alternative steder å trene på.</li>
+Et <em>arrangement </em> er enkeltstående hendelse over en eller flere dager. Et arrangement kan i systemet legges over tildelinger ved behov. Typisk vil et arrangement være enkeltstående konserter, idrettsarrangement, bydager, politiske valg osv. Eksempel: På en bestemt tirsdag, den 13.februar, skal det være landskamp i Stavanger idrettshall, og Håndballforbundet søker om å få et arrangement den dagen. Arrangementet overstyrer tildelingen (og dermed også interntildelingene). Dermed må de tre gruppene i idrettslaget "Skjalg" enten avlyse sine treninger den aktuelle tirsdagen, eller finne alternative steder å trene på.</li>
 
 </ul>
 &nbsp;
