@@ -11,7 +11,8 @@ permalink: >
 published: true
 post_date: 2017-11-11 19:01:07
 ---
-Når Aktivkommune installeres blir det opprettet både en systemadministrator for løsningen og en «dummybruker» for innlogging fra frontend. 
+Når Aktivkommune installeres blir det opprettet både en systemadministrator for løsningen og en «dummybruker» for innlogging fra frontend. Disse to brukertypene er utgangspunktet for de roller som er tilknyttet systemet. Mer om dette senere.
+
 Før Aktivkommune tas i bruk av superbruker og/eller systemadministrator, er det viktig å studere innholdet under.
 
 ## Nødvendige forberedelser før oppstart
