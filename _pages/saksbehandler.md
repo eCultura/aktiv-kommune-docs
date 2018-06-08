@@ -12,7 +12,7 @@ post_date: 2017-11-11 19:00:18
 **Viktig!** Før du tar i bruk Aktivkommune som saksbehandler, så bør du lese denne brukerveiledningen.
 
 ## Hvordan komme i gang med Aktivkommune?
-Før utleievirksomheten kan starte, må systemet settes opp med nok informasjon. Både superbruker/administrator (se egen omtale) og saksbehandler må gjennomføre noen minimumsregistreringer i systemet før systemet kan settes i ordinær produksjon/drift. For saksbehandler er det følgende punkter som må gjennomgås:
+Før utleievirksomheten kan starte, må systemet settes opp med nok informasjon. Både superbruker/administrator (se <a href="http://manual.aktiv-kommune.no/?page_id=118">nødvendige forberedelse for superbruker/systemadministrator</a>) og saksbehandler må gjennomføre noen minimumsregistreringer i systemet før systemet kan settes i ordinær produksjon/drift. For saksbehandler er det følgende punkter som må gjennomgås:
 [display-posts category="Nødvendige forberedelser" posts_per_page="-1" include_date="false" order="ASC" orderby="date"]
 
 ## Hvordan behandle søknader i Aktivkommune?
