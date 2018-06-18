@@ -1,7 +1,7 @@
 ---
 ID: 914
 post_title: >
-  Forstå oppsettet og strukturen til
+  Forstå strukturen til og bruken av
   Aktivkommune
 author: Marie Aune
 post_excerpt: ""
@@ -11,13 +11,13 @@ published: true
 post_date: 2017-11-10 10:53:36
 ---
 ## <strong>Oppbygning i AktivKommune og lokale forhold</strong>	 	
-Før Aktivkommune tas i bruk må det opprettes en del grunndata. For å kunne gjøre dette på beste måte er det viktig at superbruker/systemadministrator forstår oppsettet i AktivKommune, og evner å tilpasse systemet til de lokale forhold. Med <em>lokale</em>  forhold menes i hovedsak disse områdene:
+Før Aktivkommune kan tas i bruk må det opprettes en del grunndata. For å kunne gjøre dette på beste måte er det viktig at superbruker/systemadministrator forstår oppsettet og strukturen i AktivKommune, og evner å tilpasse systemet til de lokale forhold. Med <em>lokale</em>  forhold menes i hovedsak disse områdene:
 
-1) Organisering og administrasjon. Hvordan er din kommune organisert, og hvem har ansvar og oppgaver innen for utleie av kommunale ressurser (bygg, anlegg, utstyr)? Hvem skal være superbruker og hvem skal være saksbehandler?
+1) Organisering og administrasjon. Hvordan er din kommune organisert, og hvem har ansvar for og oppgaver tilknyttet utleie av de ulike kommunale ressurser (bygg, anlegg, utstyr)? Hvem skal være superbruker og hvem skal være saksbehandler?
 
-2) Hvordan er geografien og hvilke ressurser skal leies ut i din kommune? Hvilke områder og bydeler skal vises via AktivKommune, og hvilke ord og benevninger skal brukes? En fotballplass kan ha et offisielt navn, men den kan samtidig på folkemunne gjerne ha ett kallenavn. Hvordan bør da navngivningen da være? Det må lokalkunnskap til for å få dette til på en god måte.
+2) Hvordan er geografien og hvilke ressurser skal leies ut i din kommune? Hvilke områder og bydeler skal vises via AktivKommune, og hvilke ord og benevninger skal brukes? Et fotballanlegg kan ha et offisielt navn, men den kan samtidig på folkemunne gjerne ha ett kallenavn. Hvordan bør da navngivningen da være? Det må lokalkunnskap til for å få dette til på en god måte.
 
-3) Forstå utleieprosessen fra A til Å. Hvordan bør utleieprosessen se ut, tilpasset ut i fra de lokale forholdene over? Alt fra vurderingen om og hvordan din kommune skal leie ut en ressurs (A) til sluttrapporter/statistikker tilknyttet leieforholdet (Å) må din kommune ha en formening om. Ta gjerne kontakt med driftsleverandør/brukerstøtte for AktivKommune om du har spørsmål som ikke dekkes av denne veilederen, eller om veilederen er uklart eller mangelfull på noen punkter.
+3) Forstå utleieprosessen fra A til Å. Hvordan bør utleieprosessen se ut, tilpasset ut i fra de lokale forholdene over? Alt fra vurderingen om og hvordan din kommune skal leie ut en ressurs (A) til sluttrapporter/statistikker tilknyttet leieforhold og utleieobjektene (Å) må din kommune ha en formening om. Ta gjerne kontakt med driftsleverandør/brukerstøtte for AktivKommune om du har spørsmål som ikke dekkes av denne veilederen, eller om veilederen er uklart eller mangelfull på noen punkter.
 
 Selv om AktivKommune dekker de sentrale prosessene i en utleieprosess, så støttes kanskje ikke alle deler av din kommunes utleieprosesser i systemet.  
 Noen (del)prosesser skjer utenom systemet; for eksempel det årlige tildelingsmøtet der idrettlagene får tildelt tid skjer utenom systemet. Bare resultatene (rammetidene) fra dette tildelingsmøtet blir lagt inn i AktivKommune. 
