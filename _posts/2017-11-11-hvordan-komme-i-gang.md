@@ -121,23 +121,13 @@ Forklaring for noen av feltnavnene som må fylles ut kommer her:
 
 Feltnavn| Aksjoner/ Forklaringer
 ------------------------|---------------------------------------------
-Angi tittel for nettstedet: | På det nye skjermbildet finner du Utseende; Skriv inn ønsket navn under "Tittel for nettstedet." Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
-Angi url for logo:| Oppgi adressen til det stedet der (kommune)-logoen er plassert. Eksempel: Fjell kommune heter sin logo fra følgende url: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
-E-post brukerstøtte:| Her legger du inn e-posten til brukerstøtte lokalt i din kommune. NB! Det må etableres en rutine i din kommune slik at e-posten jevnlig blir sjekket og lest. Eksempel fra Fjell kommune: informasjon@fjell.kommune.no
+<strong>Angi tittel for nettstedet:</strong> | På det nye skjermbildet finner du Utseende; Skriv inn ønsket navn under "Tittel for nettstedet." Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
+<strong>Angi url for logo:</strong>| Oppgi adressen til det stedet der (kommune)-logoen er plassert. Eksempel: Fjell kommune heter sin logo fra følgende url: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
+<strong>E-post brukerstøtte:</strong>| Her legger du inn e-posten til brukerstøtte lokalt i din kommune.  NB! Det må etableres en rutine i din kommune slik at denne e-posten jevnlig blir sjekket og lest. 
 
-Feltnavn| Aksjoner/Forklaringer
----------------|---------------------------------
-<strong>Angi tittel for nettstedet</strong>:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
-Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
-https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
-Se <a href="https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen">Wikipedia</a>
-E-post brukerstøtte:|Her legger man inn epostkontoen for brukerstøtte. NB! Det må etableres en rutine for å sjekke og lese eventuelle e-poster. Eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no
 
-<li>Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.</li>
-<li>Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
-https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
-Se <a href="https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen">Wikipedia</a></li>
-<li>E-post brukerstøtte:|Her legger man inn epostkontoen for brukerstøtte. NB! Det må etableres en rutine for å sjekke og lese eventuelle e-poster. Eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no</li>
+
+
 
  	<li>For å skrive inn tekst som skal være på forsiden / startsiden velger du:
 <strong>ADMINISTRASJON =&gt; BOOKINGFRONTEND =&gt; METADATA</strong>
