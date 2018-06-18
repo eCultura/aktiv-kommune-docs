@@ -123,24 +123,26 @@ Feltnavn| Aksjoner/ Forklaringer
 ---------------------------------|----------------------------------------------------
 <strong>Angi tittel for nettstedet:</strong> | På det nye skjermbildet finner du Utseende; Skriv inn ønsket navn under "Tittel for nettstedet." Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
 <strong>Angi url for logo:</strong>| Oppgi adressen til det stedet der (kommune)-logoen er plassert. Eksempel: Fjell kommune heter sin logo fra følgende url: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
-<strong>E-post brukerstøtte:</strong>| Her legger du inn e-posten til brukerstøtte lokalt i din kommune.  NB! Det må etableres en rutine i din kommune slik at denne e-posten jevnlig blir sjekket og lest. 
+<strong>E-post brukerstøtte:</strong>| Her legger du inn e-posten til brukerstøtte lokalt i din kommune.  
+
+>NB! Det må etableres en rutine i din kommune slik at brukerstøtte-e-posten jevnlig blir sjekket og lest. 
 
 
 
+For å skrive inn tekst som skal være på forsiden / startsiden velger du kommandoen:
 
-
- 	<li>For å skrive inn tekst som skal være på forsiden / startsiden velger du:
 <strong>ADMINISTRASJON =&gt; BOOKINGFRONTEND =&gt; METADATA</strong>
-og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidetekst"</li>
+og skriver inn aktuell tekst i feltene "Tekst over framsidebilde" og "Framsidetekst"
 
 
 Når du er ferdig å fylle ut, klikker du på
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/lagre3.png" alt="lagre" />
 
 ## Opprette eier-kategorier.
-Før oppstart må det legges til minimum en kategori for eierforholdet; Dette gjøres underkommandoen:
+Før oppstart må det legges til minimum en kategori for eierforholdet; Dette gjøres ved å bruke kommandoen:
 
 <strong>ADMINISTRASJON => EIENDOM => EIER => (Eier kategorier).</strong>
+
 Velg "Ny" , og legg inn minimum en eierkategori.
 
 > Vanligvis er det nok å legge inn "offentlig" eller "kommunal" eiet, men i den grad kommunen har disposisjonsrett og skal drive utleie på private bygg og anlegg, så må også motsatt kategori legges inn, for eksempel "ikke-kommunal" eiet eiendom/bygg også legges inn.
