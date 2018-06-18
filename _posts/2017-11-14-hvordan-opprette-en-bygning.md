@@ -62,7 +62,7 @@ Feltnavn| Aksjoner/Forklaringer
 **Utleieområde:**| ..kan stå uten verdi i bookingsammenheng..
 **Bruttoareal:**|.. kan stå uten verdi i bookingsammenheng..
 **Nettoareal:**| ..kan stå uten verdi i bookingsammenheng..
-**Bruksareal:**| <kan stå uten verdi i bookingsammenheng>
+**Bruksareal:**|.. <kan stå uten verdi i bookingsammenheng>
 
 ## Opprette ressursgruppe i bookingmodulen
 
