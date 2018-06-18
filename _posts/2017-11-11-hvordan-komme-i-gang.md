@@ -115,8 +115,9 @@ Følgende steg må gjennomføres før oppstart:
 Velg først kommandoen:
 <strong>ADMINISTRASJON =&gt; ADMIN =&gt; GLOBAL KONFIGURASJON</strong>
 
-Forklaring for noen av feltnavnene som må fylles ut kommer her:
 (NB! De felt som ikke blir omtalt her trenger ikke å bli fylt ut)
+
+Forklaring for noen av feltnavnene som må fylles ut kommer her:
 
 Feltnavn| Aksjoner/Forklaringer
 ---------------|---------------------------------
