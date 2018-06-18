@@ -31,15 +31,17 @@ Under forklares bookingbegrepene sesong, rammetid, tildeling, interntildeling og
 En <em>sesong </em> er i Aktivkommune en bestemt tidsperiode som er avgrenset av en startdato og en sluttdato, mens <em>rammetid </em> er avgrenset av et fra og til klokkeslett for hver av de syv ukedagene. En sesong varer ofte et halvt år og inneholder ukentlige rammetider. Etter at en sesong er opprettet på en ressursgruppe (det vil si et bygg eller et anlegg), lages det en ukeplan med alle rammetider (det vil si den tiden som utleie kan skje). Denne ukeplanen gjelder ut hele sesongen. 
 Eksempel:En vårsesong for ressursgruppen/bygget Stavanger idrettshall kan for eksempel vare fra 1.januar 2018 til 30.juni 2018, og rammetiden  kan settes fra kl. 08.00 til kl. 22.00 alle hverdager, og kl.13.00- 20.00 lørdager og søndager.</li>
 
-<ul>
+
 <li><strong>Tildeling</strong>
 En <em>tildeling </em>er en avgrenset tid gitt til en organisasjon. Organisasjonen kan selv fordele denne tildelingen videre til sine undergrupper. 
-Eksempel: Idrettslaget "Skjalg" får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på en bestemt ressurs (f.eks. bane 1 i Stavanger idrettshall). Dette er en <em>tildeling.</em></li>
+Eksempel: Idrettslaget "Skjalg" får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på en bestemt ressurs (f.eks. bane 1 i Stavanger idrettshall). Dette er en <em>tildeling.</em>
+</li>
 
-<ul>
+
 <li><strong>Interntildeling</strong>
 Mens en tildeling registreres på en (hoved)organisasjon, registreres en <em>interntildeling </em> som regel til en (under)gruppe eller et lag i denne organisasjonen. 
-Eksempel: Representanter fra idrettslaget "Skjalg" interntildeler videre sin tildelte tid (se over) videre til sine undergrupper; jenter 2003 får tiden fra kl. 16 -18, og gutter 2005 får tiden fra kl. 18 - 20, og juniorene får tiden fra kl. 20-22 på den aktuelle tirsdagen. Av den ene tildelingen har altså "Skjalg" laget tre interntildelinger innad i klubben.</li>
+Eksempel: Representanter fra idrettslaget "Skjalg" interntildeler videre sin tildelte tid (se over) videre til sine undergrupper; jenter 2003 får tiden fra kl. 16 -18, og gutter 2005 får tiden fra kl. 18 - 20, og juniorene får tiden fra kl. 20-22 på den aktuelle tirsdagen. Av den ene tildelingen har altså "Skjalg" laget tre interntildelinger innad i klubben.
+</li>
 
 
 <li><strong>Arrangement </strong>
