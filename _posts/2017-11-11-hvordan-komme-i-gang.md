@@ -120,7 +120,7 @@ Velg først kommandoen:
 Forklaring for noen av feltnavnene som må fylles ut kommer her:
 
 Feltnavn| Aksjoner/ Forklaringer
-------------------------|---------------------------------------------
+---------------------------------|----------------------------------------------------
 <strong>Angi tittel for nettstedet:</strong> | På det nye skjermbildet finner du Utseende; Skriv inn ønsket navn under "Tittel for nettstedet." Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
 <strong>Angi url for logo:</strong>| Oppgi adressen til det stedet der (kommune)-logoen er plassert. Eksempel: Fjell kommune heter sin logo fra følgende url: https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
 <strong>E-post brukerstøtte:</strong>| Her legger du inn e-posten til brukerstøtte lokalt i din kommune.  NB! Det må etableres en rutine i din kommune slik at denne e-posten jevnlig blir sjekket og lest. 
