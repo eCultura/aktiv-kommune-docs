@@ -118,9 +118,9 @@ Velg først kommandoen:
 Forklaring for noen av feltnavnene som må fylles ut kommer her:
 (NB! De felt som ikke blir omtalt her trenger ikke å bli fylt ut)
 
-Feltnavn| Aksjoner/ forklaring
-----------------------------|------------------------------------------------------------
-Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
+Feltnavn| Aksjoner/Forklaringer
+---------------|---------------------------------
+<strong>Angi tittel for nettstedet</strong>:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
 Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
 https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
 Se <a href="https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen">Wikipedia</a>
