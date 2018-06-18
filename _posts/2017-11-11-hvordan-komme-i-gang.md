@@ -25,7 +25,7 @@ Etter at driftsavtale er inngått, vil driftsleverandør først opprette en egen
 </ul>
 og til
 <ul>
- 	<li>2. de utleieobjekter og ressurser (rom, anlegg, utstyr) som din kommune ønsker å leie ut.</li>
+ 	<li>2. de utleieobjekter (ressurser; rom, anlegg, utstyr) som din kommune ønsker å leie ut.</li>
 </ul>
 En instans er altså helt avgrenset til en konkret kommune, og det vil ikke være noen som helst kobling mellom de ulike instansene (kommunene); hverken på brukernivå eller for utleieressursene. Systemet vil rettnok takle kommunesammenslåinger, men dette temaet blir ikke gjennomgått i dette avsnittet.
 
@@ -99,7 +99,7 @@ Du må være pålogget med "Superbruker"-rettigheter for å kunne gjøre resten 
 De aller viktigste konfigureringer av bookingsystemet gjøres av en person som har tilgang som superbruker. En instans bør ha flere enn en superbruker, men dette er ikke et absolutt krav.
 
 
-> En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis være alle kommandoer i booking-delen og noen av kommandoene i eiendoms-delen av Portico Estate
+> En <em>superbruker</em> vil kunne gjøre det meste i systemet, men antall menyvalg/kommandoer er "skrellet" ned til et minimum, det vil i praksis være alle kommandoer i booking-delen og noen av kommandoene i eiendoms-delen av Portico Estate.
 
 
 <h2>Support/backup på roller/tilganger.</h2>
