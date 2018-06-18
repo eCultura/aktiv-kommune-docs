@@ -108,7 +108,7 @@ Driftsleverandør vil ha egen pålogging til kommunens instans. Skulle for eksem
 <h2>Oppsett av nettside (frontend); Om framsidebilder, logo og framsidetekst</h2>
 Kommunene må selv legge inn logo (kommunelogo), framsidebilde og tekst/informasjon. Det er ikke etablert en beste praksis her, så tipset er å se hva andre kommuner har gjort for å få dette til.
 
-<strong>BØR VI OPPGI LENKER TIL ANDRE KOMMUNER HER?</strong>
+<strong>Her er det mulig å legge inn LENKER - som eksempel på forsider?</strong>
 
 Følgende steg må gjennomføres før oppstart:
 
@@ -118,8 +118,14 @@ Velg først kommandoen:
 Forklaring for noen av feltnavnene som må fylles ut kommer her:
 (NB! De felt som ikke blir omtalt her trenger ikke å bli fylt ut)
 
-Feltnavn | Aksjoner/ forklaring
---------------------------|------------------------------------------------------
+Feltnavn| Aksjoner/ forklaring
+----------------------------|------------------------------------------------------------
+Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.
+Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
+https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
+Se <a href="https://no.wikipedia.org/wiki/Wikipedia:V%C3%A5pengalleri/Kommunev%C3%A5pen">Wikipedia</a>
+E-post brukerstøtte:|Her legger man inn epostkontoen for brukerstøtte. NB! Det må etableres en rutine for å sjekke og lese eventuelle e-poster. Eksempel på e-postadresse (for Fjell kommune): informasjon@fjell.kommune.no
+
 <li>Angi tittel for nettstedet:|På det nye skjermbildet finner du <em>Utseende</em>, og deretter kan du skrive inn ønsket navn under <em>Angi tittel for nettstedet</em>. Dette navnet trenger ikke ha noen sammenheng med instansnavnet som er nevnt over, men kan gjerne være det samme.</li>
 <li>Angi url for logo (hvor ligger (kommune)logoen):|eksempel: Fjell kommune henter sin logo fra:
 https://no.wikipedia.org/wiki/Sund_(Hordaland)#/media/File:Sund_komm.svg
