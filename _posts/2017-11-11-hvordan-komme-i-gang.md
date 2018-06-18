@@ -55,7 +55,7 @@ Disse tre brukergruppene bør omgående skifte navn til noe mer forståelig, og 
 
 Hver kommune kan definere nye brukergrupper ut over disse tre, men dette frarådes fordi support og brukermanualer i utgangspunktet kun omfatter disse tre gruppene.
 
-For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Utleieobjekter (ressurser) </em>). Mer om dette i avsnittet "XXXXXXXX - kommer senere- XXXXX "
+For større kommuner kan det være aktuelt å opprette Saksbehandlere som kun har tilgang til et begrenset antall utleieressurser (det vil si konkrete <em>Ressursgrupper</em> og <em>Utleieobjekter (ressurser) </em>). Mer om dette i avsnittet <a href="http://manual.aktiv-kommune.no/?p=166">Hvordan legge til ny ressursgruppe(nytt bygg eller anlegg)</a>" og <a href="http://manual.aktiv-kommune.no/?p=522">Hvordan legge til nytt utleieobjekt (ny ressurs)?</a>
 
 Systemet blir levert med to default brukere:
 
