@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/?p=1093
 published: true
 post_date: 2018-04-10 15:04:01
 ---
-Delegater har mulighet til å registrere og endre tildelinger på vegne av organisasjonens styre. Det er styremedlemmer (registrert i frivilligregisteret i Brønnøysund som kan delegere fullmakt/tilgang til ny delegater. 
+Delegater har mulighet til å endre tildelinger (og opprette interntildelinger) på vegne av organisasjonens styre. De kan også opprette og endre (under)grupper i organisasjonen. Det er styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang til nye delegater. 
 
 For å registrere en ny delegat for din organisasjon, klikk på din organisasjon øverst i menylinjen. Følgende skjermbilde dukker opp:
 
