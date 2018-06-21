@@ -1,6 +1,6 @@
 ---
 ID: 37
-post_title: Velkommen til Aktiv kommune manualen
+post_title: Velkommen til AktivKommune manualen
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: page
@@ -8,9 +8,9 @@ permalink: http://manual.aktiv-kommune.no/
 published: true
 post_date: 2017-11-11 12:43:36
 ---
-# Om Aktiv kommune
+# Om AktivKommune
 
-Aktiv kommune er en bookingløsning som er utviklet i samarbeid mellom Stavanger, Bergen, Fjell og Ålesund kommune. Løsningen er skybasert og håndterer administrasjon og utleie av kommunale bygg, anlegg som for eksempel idrettshaller og kulturlokaler og kommualt eiet utstyr som for eksempel AV-utstyr, idrettsutstyr og kanoer.
+AktivKommune er en bookingløsning som er utviklet i samarbeid mellom Stavanger, Bergen, Fjell og Ålesund kommune. Løsningen er skybasert og håndterer administrasjon og utleie av kommunale bygg, anlegg som for eksempel idrettshaller og kulturlokaler og kommualt eiet utstyr som for eksempel AV-utstyr, idrettsutstyr og kanoer.
 
 Løsningen tilbyr:
 <ul>
@@ -51,5 +51,7 @@ Rollene er:
 
 * <strong>Utvikler </strong>
    -    > om systemet og utviklingen av det; kun for spesielt interesserte
+
+> Enkelte sider er passord-beskyttet. Passord blir delt ut til administratorer for de kommuner som bruker løsningen.
 
 &nbsp;
