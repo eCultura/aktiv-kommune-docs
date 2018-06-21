@@ -13,9 +13,10 @@ post_date: 2018-04-10 15:04:01
 Delegater har mulighet til å endre <em>innholdet</em> i tildelinger som er gitt til sin organisasjon. Å endre <em>innholdet</em> i en tildeling er det samme som å kunne opprette og endre på interntildelinger på vegne av sin organisasjonen. 
 Delegatene kan også opprette og endre (under)grupper i organisasjonen. Det er i utgangspunktet bare styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang til nye delegater i sin organisasjon.
 
-> Tildeling. En <em>tildeling </em>er en avgrenset brukstid gitt til en organisasjon på et bestemt utleieobjekt. Organisasjonen kan selv fordele denne tildelingen videre til sine undergrupper. <strong>Et eksempel</strong>: Idrettslaget «Skjalg» får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på et bestemt utleieobjekt (f.eks. bane 1 i Stavanger idrettshall). Dette er en konkret tildeling.
+> <strong>Tildeling</strong>
+ En <em>tildeling </em>er en avgrenset brukstid gitt til en organisasjon på et bestemt utleieobjekt. Organisasjonen kan selv fordele denne tildelingen videre til sine undergrupper. <strong>Et eksempel</strong>: Idrettslaget «Skjalg» får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på et bestemt utleieobjekt (f.eks. bane 1 i Stavanger idrettshall). Dette er en konkret tildeling.
 .
-> Interntildeling
+> <strong>Interntildeling</strong>
  Mens en tildeling registreres på en (hoved)organisasjon, registreres en interntildeling  som regel til en (under)gruppe eller et lag i denne organisasjonen. <strong>Et eksempel</strong>: Representanter(delegater) fra idrettslaget «Skjalg» interntildeler videre sin tildelte tid (se eksempel for tildeling over) videre til sine undergrupper; jenter 2003 får tiden fra kl. 16 -18, og gutter 2005 får tiden fra kl. 18 – 20, og juniorene får tiden fra kl. 20-22 på den aktuelle tirsdagen. Av den ene <em>tildelingen </em> har altså «Skjalg» laget tre interntildelinger innad i klubben.
 
 
