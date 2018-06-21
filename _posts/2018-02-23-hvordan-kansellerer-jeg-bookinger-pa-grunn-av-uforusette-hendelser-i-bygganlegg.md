@@ -12,28 +12,34 @@ published: true
 post_date: 2018-02-23 16:09:53
 ---
 Noen ganger opplever vi at et bygg/et anlegg (altså en ressursgruppe) som er leid ut ikke kan leies ut på grunn av at noe utforutsett har skjedd. Dette kan for eksempel være at det har kommet en vannlekasje, eller at utleieobjektet (ressursen) har blitt ødelagt og ikke kan brukes. Uansett grunn må innbyggere eller lag/organisasjoner som har fått godkjent en booking (et arrangement eller en tildeling) varsles om at de ikke lengre kan bruke utleieobjektet. 
+Bruk gjerne kommandoen:
+
+    **BOOKING => SØKNADER => KALENDER-UKEPLAN**
+
+for å få oversikt over tildelinger og arrangementer på det aktuelle bygget/ anlegget, og som må avlyses/varsles på grunn av den uforutsette situasjonen.
 
 ## Avlyse/kansellere en tildeling
 Måten en tildeling blir kansellert/avlyst på er denne: 
 Saksbehandler legger inn et arrangement i det tidsrommet som utleieobjektet og/eller ressursgruppen blir utilgjengelig. Det nye "arrangementet" vil da overskrive (ta over tiden) til tildelingen som ligger der fra før. (Det nye arrangementet bør få tittelen "Stengt på grunn av....", se lenger ned på denne siden)
-På denne måten får søker (innbygger eller lag/organisasjon) automatisk varsel (e-post og/eller SMS) om at det er oppstått en situasjon som gjør at tildelingen deres er avlyst og ikke lar seg gjennomføre. 
+På denne måten får søker (innbygger eller lag/organisasjon) automatisk varsel (via e-post og/eller SMS) om at det er oppstått en situasjon som gjør at tildelingen deres er avlyst og ikke lar seg gjennomføre. 
 
 ## Avlyse/kansellere et arrangement.
-Dersom det er godkjent arrangementer på den ressursgruppen som er blitt utilgjengelig for utleie, så må saksbehandler fjerne/slette alle arrangementer som er godkjent i aktuell periode. Saksbehandler må derfor med å gå inn på søknaden for de aktuelle arrangementer og <em><strong>avslå </strong></em> arrangementer som er i godkjent i tidsrommet som bygget/anlegget er utilgjengelig. 
+Dersom det er godkjent arrangementer på den ressursgruppen som er blitt utilgjengelig for utleie, så må saksbehandler fjerne/slette alle arrangementer som er godkjent i aktuell periode. Saksbehandler må derfor med å gå inn på hver aktuelle søknad og trykke på knappen <em><strong>Avslå søknad </strong></em> for alle arrangementer som er i godkjent i tidsrommet som bygget/anlegget skal være utilgjengelig. 
 
 Dette gjør du ved å bruke kommandoen: 
 **BOOKING => SØKNADER => ARRANGEMENTER**
 
-Her sorterer du i filteret slik at du får rett bygg under kolonnen "bygg/anlegg". Du vil da se alle godkjente arrangement tilhørende dette bygget/anlegget. 
+Her sorterer du i filteret slik at du får rett bygg under kolonnen "bygg/anlegg". Bruk gjerne også "Søk"-feltet. Du vil da se alle godkjente arrangement tilhørende dette bygget/anlegget. 
 Finn de arrangementene som ligger i tidsrommet hvor bygget/anlegget skal stenges. 
 
-Klikk på et av arrangementene. Du vil da bli tatt til et nytt skjermbilde som viser deg informasjon om det aktuelle arrangementet. På bunnen av denne siden er det en knapp som heter *<strong>Tilbake</strong>*. Når du klikker på denne blir du tatt til søknaden. Her kan du i bunnen av siden <strong>avslå </strong> søknaden hvis du allerede er saksbehandler. 
-Hvis du ikke er opprinnelig saksbehandler, må du først bli saksbehandler for søknaden, for deretter å avså søknaden. 
+Klikk på et av arrangementene. Du vil da bli tatt til et nytt skjermbilde som viser deg informasjon om det aktuelle arrangementet. På bunnen av denne siden er det en knapp som heter *<strong>Tilbake</strong>* (eller "Attende" på nynorsk). Når du klikker på den knappen blir du tatt til søknaden. Her kan du i bunnen av siden trykke på knappen <strong>Avslå søknad</strong> hvis du allerede er saksbehandler. Husk å skrive en informativ kommentar til søker. 
 
-Fortsett å avslå søknader (kansellere arrangementer) til du har avslått alle arrangementene som ligger i tidsrommet hvor bygget/anlegget er utilgjengelig. 
-Når dette er gjort, går du til steg nummer to som er å opprette et nytt arrangement for å overskrive alle tildelinger slik at lag/organisasjoner/søker også får melding (se avsnittet "Avlyse/kansellere en tildeling" over). 
+> Hvis du ikke er opprinnelig saksbehandler, må du først bli saksbehandler for søknaden, for deretter å avså søknaden. 
 
-For å opprette et "stengt/lukket"-arrangement bruker du kommandoen
+Fortsett å avslå søknader (kansellere arrangementer) til du har avslått alle arrangementene som ligger i tidsrommet hvor bygget/anlegget skal være utilgjengelig for utleie. 
+Når dette er gjort, går du til steg nummer to som er å opprette et nytt arrangement for å overskrive alle tildelinger slik at de aktuelle lag/organisasjoner/søkere får melding om kanselleringen (se avsnittet "Avlyse/kansellere en tildeling" over). 
+
+For å opprette et "stengt"-arrangement bruker du kommandoen
 **BOOKING => SØKNADER**
 
 Her klikker du på 
