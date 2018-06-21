@@ -10,7 +10,8 @@ permalink: http://manual.aktiv-kommune.no/?p=1093
 published: true
 post_date: 2018-04-10 15:04:01
 ---
-Delegater har mulighet til å endre tildelinger (og opprette interntildelinger) på vegne av organisasjonens styre. De kan også opprette og endre (under)grupper i organisasjonen. Det er styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang til nye delegater. 
+Delegater har mulighet til å endre <em>innholdet</em> i tildelinger som er gitt til sin organisasjon. Å endre <em>innholdet</em> i en tildeling er det samme som å kunne opprette og endre på interntildelinger <a href="http://manual.aktiv-kommune.no/?p=914">(les mer om interntildelinger her)</a> på vegne av sin organisasjonen. 
+Delegatene kan også opprette og endre (under)grupper i organisasjonen. Det er i utgangspunktet bare styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang til nye delegater i sin organisasjon.
 
 For å registrere en ny delegat for din organisasjon, klikk på din organisasjon øverst i menylinjen. Følgende skjermbilde dukker opp:
 
