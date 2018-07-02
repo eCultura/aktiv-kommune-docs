@@ -4,7 +4,7 @@ post_title: Opprette bygg og ressursgrupper
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=321
+permalink: http://manual.aktiv-kommune.no/arkiv/321
 published: true
 post_date: 2017-11-14 11:00:18
 ---
@@ -63,6 +63,17 @@ Feltnavn| Aksjoner/Forklaringer
 **Bruttoareal:**|.. kan stå uten verdi i bookingsammenheng..
 **Nettoareal:**| ..kan stå uten verdi i bookingsammenheng..
 **Bruksareal:**|.. <kan stå uten verdi i bookingsammenheng>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 ## Opprette ressursgruppe i bookingmodulen
 
