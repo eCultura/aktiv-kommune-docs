@@ -4,11 +4,11 @@ post_title: Hvordan legge til ny målgruppe?
 author: Marie Aune
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=493
+permalink: http://manual.aktiv-kommune.no/arkiv/493
 published: true
 post_date: 2017-12-18 14:08:07
 ---
-For å få mulighet til å ta ut statistikker for hvem som leier og bruker utleieobjektene (rom , anlegg, utstyr), så er begrepet <em>målgrupper</em>  tatt i bruk i Aktivkommune. Det er kommunene selv som bestemmer hvilke og hvor mange målgrupper som skal opprettes og som dermed skal være med i statistikken. 
+For å få mulighet til å ta ut statistikker for hvem som leier og bruker utleieobjektene (rom , anlegg, utstyr), så er begrepet <em>målgrupper</em>  tatt i bruk i AktivKommune. Det er kommunene selv som bestemmer hvilke og hvor mange målgrupper som skal opprettes og som dermed skal være med i statistikken. 
 
 I nåværende versjon av systemet er det publikum/lag/organisasjoner som krysser av for aktuell målgruppe i søknadsskjemaet. 
 Om det er behov for det, så har saksbehandler mulighet til å korrigere denne avkryssingen senere i saksbehandlingen.
@@ -36,6 +36,17 @@ Feltnavn  |    Aksjon/ Forklaring
 **Målgruppe:** |Navn på målgruppe.
 **Sortering:** |  ..Ikke i bruk...
 **Beskrivelse:** |Beskrivelse av målgruppen. Eksempel: Barn fra 0 til og med 16 år. 
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
