@@ -4,7 +4,7 @@ post_title: 'Legge til ny kategori &#8211; (om eierforhold tilknyttet utleieobje
 author: Marie Aune
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=700
+permalink: http://manual.aktiv-kommune.no/arkiv/700
 published: true
 post_date: 2017-11-13 10:01:42
 ---
@@ -34,6 +34,17 @@ Feltnavn |      Aksjon / Forklaring
 ---------------------|----------------------------
 **ID:** |Stigende løpenummer
 **Beskrivelse:** |Beskrivelse av kategorien / hva er kategorien.
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 
 Minimum en kategori må registreres, for eksempel "Offentlig eiendom" (eller "Kommunal eiendom"). 
