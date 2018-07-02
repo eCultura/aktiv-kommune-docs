@@ -26,8 +26,9 @@ Under <strong><em> filter </em> </strong>
 kan du velge <em>status</em>, <em>bygg/anlegg </em> og <em>aktiviteter</em>.
  
 Velg <strong>status </strong>"NY". 
-Deretter kan du, om ønskelig,  velge enkelt-<strong>bygg/anlegg </strong>, som du vil se nye søknader for. 
+Deretter kan du, om ønskelig,  skrive inn navnet på enkelt-<strong>bygg/anlegg </strong> som du vil se nye søknader for. 
 Du kan også filtrere søknader etter <strong>aktiviteter </strong>(toppnivå; f.eks idrett eller kultur). 
+Du kan kombinere de tre filtreringsmetodene om ønskelig.
 
 ## Bli saksbehandler
 For å starte saksbehandlingen av en søknad, så klikker du først på selve søknaden, og deretter på
