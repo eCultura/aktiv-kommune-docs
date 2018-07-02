@@ -8,8 +8,8 @@ permalink: http://manual.aktiv-kommune.no/arkiv/715
 published: true
 post_date: 2017-11-11 09:56:11
 ---
-For å kunne sende e-post ut til innbyggere må du inn å endre på e-post innstillingene.
-For å gjøre dette går du til:
+For å kunne sende e-post ut til innbyggere i forbindelse med saksbehandlingen av søknader, må du inn å endre på e-post innstillingene.
+For å gjøre dette velger du kommandoen:
 
 <strong>ADMINISTRASJON =&gt; BOOKING</strong>
 
@@ -23,7 +23,7 @@ Når du har gjort dette klikker du på
 
 Både systemadministrator og saksbehandler kan endre på e-post svarene som sendes i forbindelse med en søknad.
 
-For å gjøre dette går du til
+For å gjøre dette velger du kommandoen:
 
 <strong>BOOKING =&gt; INNSTILLINGER =&gt; E-POST OPPSETT</strong>
 
