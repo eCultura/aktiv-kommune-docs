@@ -22,7 +22,9 @@ Nye søknader finner du ved å bruke kommandoen:
 Skjermbildet ser da slik ut:
 ![skjermbilde søknader](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildesoknader.png)
 
-Under <em>filter </em> kan du velge status, bygg/anlegg og aktiviteter. 
+Under <strong><em> filter </em> </strong>
+kan du velge status, bygg/anlegg og aktiviteter.
+ 
 Velg status "NY". 
 Deretter kan du velge bygg/anlegg du vil se nye søknader for. 
 Du kan også filtrere etter aktiviteter i forhold til bygg/anlegg og/eller status. 
@@ -58,10 +60,10 @@ Når denne informasjonen er fylt ut, må kan du enten velge:
 **Sjekkliste:**
 Før en søknadsbehandling kan godkjennes,  bør saksbehandler sjekke at følgende punkter er ivaretatt: 
 
-Nummer|  Sjekkliste
+Nummer|  Forslag til sjekkliste
 -----------|-------------------------------------------
 1.|Det må være ledig tid i kalenderen for den aktuelle ressursen.
-2.|Søkerens kunde-ID, (det vil si enten organisasjonsnummer (9 siffer), fødselsnummer(11 siffer) eller lokalt ressursnummer (for Agresso: 5 eller 6 siffer)) må være registrert i økonomisystemet. Dersom dette ikke er tilfelle må du opprette aktuell kunde-id i økonomisystemet. Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
+2.|Søkerens kunde-ID (det vil si enten organisasjonsnummer (9 siffer), fødselsnummer(11 siffer) eller lokalt ressursnummer (for Agresso: 5 eller 6 siffer) må være registrert i økonomisystemet. Dersom dette ikke er tilfelle må du opprette aktuell kunde-id i økonomisystemet. Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
 3.|Du må sjekke at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
 4.|Pris skal være i henhold til prisliste og målgruppe. Om saksbehandler avviker fra prislisten og legger inn ny pris, skal det begrunnes i systemet for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Da vil feltet "Kommentar til ny pris" dukke opp. 
 
@@ -80,13 +82,15 @@ td {padding: 10px;}
 
 Når dette er gjort kan søknad godkjennes. 
 
-##Avvise søknad?
-Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredsstiller kravene til å leie), må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
+## Avvise søknad?
+Dersom søknaden ikke skal godkjennes (søker har ombestemt seg eller saksbehandler mener at søker ikke tilfredsstiller kravene til å leie), må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
 ## Booking av ressurser
 
 Et utleieobjekt (en ressurs) kan bookes på to måter:
-1. En tildeling (som kan splittes opp i flere interntildelinger)
+
+
+<blockquote> 1. En tildeling (som kan splittes opp i flere interntildelinger)
 2. Et arrangement.
 
 Forklaring:
