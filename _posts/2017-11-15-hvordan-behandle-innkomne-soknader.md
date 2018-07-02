@@ -8,9 +8,9 @@ permalink: http://manual.aktiv-kommune.no/arkiv/298
 published: true
 post_date: 2017-11-15 12:29:50
 ---
-Prosesskart for behandligen av søknader som er arrangementer (korttidsleie; en bestemt kveld eller dato) finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf-1.pdf)
+Prosesskart for behandligen av søknader som er <em>arrangementer</em> (korttidsleie; en bestemt kveld eller dato) finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-saksbehandling-av-søknadsprosessen-nivå-2-06-i-nivå-1-pdf-1.pdf)
 
-Prosesskart for behandling av søknader som er en tildeling (langtidsleie som gjelder for en hel sesong) finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-søknadsprosess-langtidsleiesesong-nivå-1-PDF.pdf)
+Prosesskart for behandling av søknader som er en <em>tildeling</em> (langtidsleie som gjelder for en hel sesong) finner du [her.](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Aktivkommune-prosesskart-for-søknadsprosess-langtidsleiesesong-nivå-1-PDF.pdf)
 
 # Søknadsbehandling
 Saksbehandlere må daglig inn i AktivKommune for å sjekke om det har kommet inn søknader om å leie de respektive bygg/anlegg vedkommende har ansvar for. 
@@ -23,10 +23,10 @@ Skjermbildet ser da slik ut:
 ![skjermbilde søknader](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildesoknader.png)
 
 Under <strong><em> filter </em> </strong>
-kan du velge status, bygg/anlegg og aktiviteter.
+kan du velge <em>status</em>, <em>bygg/anlegg </em> og <em>aktiviteter</em>.
  
-Velg status "NY". 
-Deretter kan du velge bygg/anlegg du vil se nye søknader for. 
+Velg <strong>status </strong>"NY". 
+Deretter kan du, om ønskelig,  velge enkelt-<strong>bygg/anlegg </strong>, som du vil se nye søknader for. 
 Du kan også filtrere etter aktiviteter i forhold til bygg/anlegg og/eller status. 
 
 ## Bli saksbehandler
