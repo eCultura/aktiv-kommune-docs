@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/arkiv/522
 published: true
 post_date: 2017-12-02 09:06:38
 ---
->Et utleieobjekt (i Aktivkommune omtalt som "ressurs") er selve kjernen i bookingsystemet. Det er selve utleieobjektet som leies ut, og den må derfor være unik. En ressurs er alltid tilknyttet en "ressursgruppe" (som er opprettet ved BOOKING=>BYGG/ANLEGG). Et eksempel: Idrettsbygget "Voldahallen" har tre saler. Dersom det skal være mulig å leie disse salene hver for seg, så må de tre salene skilles ved å opprette tre utleieobjekter (ressurser) tilknyttet ressursgruppen (bygget) "Voldahallen". Ressursene må få unike navn innenfor ressursgruppen. for eksempel "Sal A, Sal B og Sal C". Men skal hele Voldahallen leies ut til et større arrangement, så må altså alle de tre salene bookes/bestilles samtidig.
+>Et utleieobjekt (i AktivKommune omtalt som "ressurs") er selve kjernen i bookingsystemet. Det er selve utleieobjektet som leies ut, og den må derfor være unik. En ressurs er alltid tilknyttet en "ressursgruppe" (som i AktivKommune er opprettet ved kommandoen BOOKING=>BYGG/ANLEGG). Et eksempel: Idrettsbygget "Voldahallen" har tre saler. Dersom det skal være mulig å leie disse salene hver for seg, så må de tre salene skilles ved å opprette tre utleieobjekter (ressurser) tilknyttet ressursgruppen (bygget) "Voldahallen". Ressursene må få <em>unike</em>  navn innenfor ressursgruppen. for eksempel "Sal A, Sal B og Sal C". Skal <em>hele </em> Voldahallen leies ut til et større arrangement, så må altså alle de tre salene bookes/bestilles samtidig.
 
 Filmen viser i korte trekk hvordan du legger til en nytt utleieobjekt (ny ressurs). For mer utdypet informasjon les teksten under.
 http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/Ny-ressurs.mp4
@@ -40,10 +40,10 @@ For å opprette nytt utleieobjekt (ressurs) klikker du på
 ### Fyll ut informasjonen om utleieobjektet/ressursen: 
 Feltnavn | Forklaring / Aksjon
 --------------------------------|-----------------------------------------------------
-**Navn:** |Navn på utleieobjekt/ressurs. NB! DET ER DETTE navnet SOM BLIR SØKBART og VISES I BOOKINGFRONTEND.
+**Navn:** |Navn på utleieobjekt/ressurs. NB! Det er dette navnet SOM BLIR SØKBART og VISES I BOOKINGFRONTEND. Det bør derfor legges litt tankearbeid bak de navnene som velges her.
 **Sortering:** |   ---Ikke i bruk.---
 **Bygg/anlegg:** |Bygg/anlegg (<strong>RESSURSGRUPPEN</strong>) som ressursen skal knyttes til. Bygg/anlegg (Ressursgruppe) må legges til før man legger til ressurs. For å legge til ny ressursgruppe (nytt bygg/anlegg) se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg (ressursgruppe) er lagt inn. 
-**Type:** |Velg hvilken ressurstype du legger til fra nedtrekksmenyen.
+**Type:** |Velg aktuell ressurstype fra nedtrekksmenyen.
 **Beskrivelse:** |Beskrivelse av utleieobjektet/ressursen. Vi anbefaler en svært kort og beskrivende tekst, eller ingen tekst i det hele.
 **Organisasjons ID-er:** |Her kan du legge inn en kommaseparert liste med organisasjons ID-er(9-sifret organisasjonsnummer) som vil få e-post dersom noen avbestiller denne ressursen. <em>For eksempel: 976245539, 994239929, 975674614</em>. NB! Disse organisasjonene må være registrert under "BOOKING=>ORGANISAJONER" for å få melding.
 
