@@ -45,5 +45,16 @@ Aktuelle Feltnavn|  Aksjon / Forklaring
 **Tema:** |Hva som vises som emne i e-post linjen.
 **Ekstra e-post tekst for kommentar:** |Ønsker man å tilføre ekstra kommentar så skrives det her.
 
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
+
 Når du er ferdig klikker du på
 ![Lagre] (http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
