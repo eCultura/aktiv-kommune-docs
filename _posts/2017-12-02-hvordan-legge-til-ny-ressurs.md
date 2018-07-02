@@ -20,7 +20,7 @@ Når du har opprettet en ressursgruppe (et bygg/anlegg), så må du tilknytte ut
 
 Et utleieobjekt (ressurs) kan være:
 1. en del av et bygg, som f.eks. en hall, garderobe, et rom eller 
-2. en del av et uteområde, f.eks. en park, en fotballbane, eller
+2. en del av et uteområde/anlegg, f.eks. en park, en fotballbane, eller
 3. utstyr som kan leies/lånes ut, f.eks. AV-utstyr, håndballmål, kanoer.
 
 Et utleieobjekt (ressurs) kan rent teoretisk inngå i flere ressursgrupper, men for praktisk bruk anbefales det at et utleieobjekt, f.eks. en gymsal tilknyttet en skole opprettes en gang, og at Skolen disponerer gymsalen på dagtid (fra kl.08 - 16), og at idrett disponerer gymsalen på kveldstid (fra kl. 16 - 22). Dette styres gjennom begrepene "Sesong og rammetid" (for å lese mer om dette,  se henvisning helt nederst på denne siden)
