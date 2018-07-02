@@ -4,11 +4,11 @@ post_title: Hvordan legge til aldersgruppe?
 author: Marie Aune
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=565
+permalink: http://manual.aktiv-kommune.no/arkiv/565
 published: true
 post_date: 2017-12-19 15:38:43
 ---
-Begrepet <em>aldersgrupper</em>  har i Aktivkommune to funksjoner:
+Begrepet <em>aldersgrupper</em>  har i AktivKommune to funksjoner:
 
 1. Statistikkformål: Aldersgrupper har, sammen med målgrupper, som formål å gjøre det enklere å samle inn statistikk over hvem som bruker utleieobjektene.
 2. Fakturering: Flere kommuner praktiserer gratis utleie til barn og ungdom, mens for voksne er det laget en prisliste som danner grunnlag for fakturering av utleie. Med aldergrupper vil saksbehandler kunne avgjøre om utleieforholdet skal faktureres eller ikke, og samtidig kunne sette korrekt utleiepris basert på prislisten.
@@ -36,6 +36,17 @@ Feltnavn  |    Aksjon/ Forklaring
 **Navn:** |Navn på aldersgruppen, f.eks. Barn 0-6 år, Barn 0-16 år
 **Sortering:** | ..Ikke i bruk...
 **Beskrivelse:** |Beskrivelse av aldersgruppen.
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 
 
