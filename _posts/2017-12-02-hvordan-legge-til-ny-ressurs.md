@@ -6,7 +6,7 @@ post_title: >
 author: Marie Aune
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=522
+permalink: http://manual.aktiv-kommune.no/arkiv/522
 published: true
 post_date: 2017-12-02 09:06:38
 ---
@@ -46,6 +46,17 @@ Feltnavn | Forklaring / Aksjon
 **Type:** |Velg hvilken ressurstype du legger til fra nedtrekksmenyen.
 **Beskrivelse:** |Beskrivelse av utleieobjektet/ressursen. Vi anbefaler en svært kort og beskrivende tekst, eller ingen tekst i det hele.
 **Organisasjons ID-er:** |Her kan du legge inn en kommaseparert liste med organisasjons ID-er(9-sifret organisasjonsnummer) som vil få e-post dersom noen avbestiller denne ressursen. <em>For eksempel: 976245539, 994239929, 975674614</em>. NB! Disse organisasjonene må være registrert under "BOOKING=>ORGANISAJONER" for å få melding.
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
