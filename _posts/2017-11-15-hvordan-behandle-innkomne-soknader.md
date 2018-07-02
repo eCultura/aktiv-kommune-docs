@@ -15,7 +15,7 @@ Prosesskart for behandling av søknader som er en tildeling eller sesong finner 
 # Søknadsbehandling
 Saksbehandlere må daglig inn i Aktivkommune for å sjekke om det har kommet inn søknader om å leie de respektive bygg/anlegg vedkommende har ansvar for. 
 
-Nye søknader finner du ved å gå til:
+Nye søknader finner du ved å bruke kommandoen:
 
 <strong>BOOKING => SØKNADER</strong>
 
@@ -33,22 +33,21 @@ Du er nødt til å bli saksbehandler for å kunne godkjenne eller behandle søkn
 Når vi er blitt saksbehandler kan vi i bunnen av det nye bildet umiddelbart avslå en søknad uten å gjøre noe først. 
 
 Skal du derimot godkjenne en søknad, må du utføre noen handlinger.
-Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement (se forklaring under *Booking av ressurser* nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot velget ditt. Når denne informasjonen er fylt ut vil man kunne klikke:
+Det første som må til er at du under *Når?* må velge om søknaden skal være en tildeling eller et arrangement (se forklaring under *Booking av ressurser* nedenfor). Valget ditt her sender deg til et nytt skjermbilde som ber om mer informasjon rettet mot valget ditt. Når denne informasjonen er fylt ut vil man kunne klikke:
 ![Godkjenn](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/godkjenn.png) som lagrer endringene du har gjort og sender deg tilbake til søknaden,
 ![tilbake](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/tilbake.png) som tar deg tilbake til søknaden, eller
 ![avbryt](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/avbryt.png) som avbryter prosessen og tar deg tilbake til hovedsiden for arrangementer eller tildelinger.
 
-Før en søknadsbehandlig ferdigstilles må saksbehandler sjekke at følgende punkter er ivaretatt: 
+Før en søknadsbehandling ferdigstilles må saksbehandler sjekke at følgende punkter er ivaretatt: 
 **Sjekkliste:**
 
-Nr. |  Sjekkliste
------|-------------------------------------------
+Nr|  Sjekkliste
+-------|-------------------------------------------
 1. |Det må være ledige ressurser i kalenderen i Aktivkommune.
-2. |Søkerens organisasjonsnummer/fødselsnummer(11 siffer)/ressursnummer må være registrert i Agresso. Dersom dette ikke er tilfelle må du opprette kunde-id for søker ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på mail til Agressokunde: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse for å kunne fortsette saksbehandlingen. 
+2. |Søkerens kunde-ID, (det vil si enten organisasjonsnummer (9 siffer), fødselsnummer(11 siffer) eller  lokalt ressursnummer (for Agresso: 5 eller 6 siffer)) må være registrert i økonomisystemet. Dersom dette ikke er tilfelle må du opprette aktuell kunde-id i økonomisystemet. 
 Obs! Hvis søker er intern (ansatt i kommunen) skal han/hun oppgi ressursnummeret sitt. 
-3. |Du må se at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
-4. |Pris skal være i henhold til prisliste og målgruppe. Om saksbehandler avviker fra prislisten og legger inn ny pris, skal det begrunnes i systemer for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Da vil feltet "Kommentar til ny pris" dukke opp. 
-
+3. |Du må sjekke at søker får nødvendig og praktisk informasjon vedrørende leieforholdet. Dette gjøres ved å registrere informasjon i feltet "Legg til kommentar".
+4. |Pris skal være i henhold til prisliste og målgruppe. Om saksbehandler avviker fra prislisten og legger inn ny pris, skal det begrunnes i systemet for å sikre dokumentasjon. Dette gjøres ved å fjerne "0" som pris. Da vil feltet "Kommentar til ny pris" dukke opp. 
 
 <style>
 table, th, td {
@@ -60,24 +59,39 @@ td {padding: 10px;}
 
 </style>
 
+> For Agressobrukere/ Bergen: Ny Kunde-Id opprettes ved å fylle ut [følgende skjema](https://allmenningen.bergen.kommune.no/styrende-dokumenter/BKDOK-2011-00886). Skjemaet sendes deretter på e-post til: agresso.kunde@bergen.kommune.no . Du trenger ikke vente på bekreftelse fra LRS for å kunne fortsette saksbehandlingen.
 
-Når dette er gjort kan søknad godkjennes. Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredstiller kravene til å leie) må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
 
 
-## Booking av Ressurser
 
-En ressurs kan bookes på to måter:
-1. Arrangement.
-2. Tildeling.
+Når dette er gjort kan søknad godkjennes. 
+
+##Avvise søknad?
+Dersom søknaden ikke skal godkjennes (søker har ombestemt seg/saksbehandler mener at søker ikke tilfredsstiller kravene til å leie), må saksbehandler avvise søknaden. Dette gjøres ved å gå inn i selve søknaden og avslå den. Se egen veiledning for [Hvordan avslå en en søknad.](https://manual.aktiv-kommune.no/?p=300) 
+
+
+## Booking av ressurser
+
+Et utleieobjekt (en ressurs) kan bookes på to måter:
+1. En tildeling (som kan splittes opp i flere interntildelinger)
+2. Et arrangement.
 
 Forklaring:
-Tildeling er laveste nivå – og kan for eksempel gis til et idrettslag for en sesong.
-- vises som opptatt i kalenderen.
-- kan ikke dobbelbookes.
+En <strong>tildeling </strong>:
+- er en <em>gjentakende </em> booking av en aktuell ressurs. Et eksempel: Ressursen "Sal 1" tildeles til et idrettslag hver torsdag kveld (fra kl. 18 til 22) og gjelder hele eller deler av en sesong.
+- vises som <em>opptatt </em> i kalenderen.
+- kan ikke dobbeltbookes.
+
 En tildeling kan splittes opp i flere interntildelinger om dette er ønskelig.
 
-Interntildeling legges oppå Tildelingen – og gjelder for eksempel en gruppe innenfor idrettslaget som har fått tildelingen.
-- vises fortsatt som opptatt, men nå med eier av tildelingen som «bruker».
-- kan ikke dobbelbookes.
+En <strong>interntildeling </strong>:
+– er en "del" av en tildeling. Et eksempel: en gruppe innenfor idrettslaget som har fått en tildeling, får interntildelt treningstid; f.eks. fra kl. 20 til kl. 21 i eksempelet over ("Om tildeling").
+- vises fortsatt som opptatt, men nå er gruppen ny "eier" av booket tid. Kortnavn til gruppen vises i kalenderen for ressursen "Sal 1", se <a href="http://manual.aktiv-kommune.no/arkiv/1079">Hvordan legge til en ny undergruppe eller avdeling i din organisasjon?</a>.
+- kan ikke dobbeltbookes.
 
-Arrangement kan legges over en tildeling/interntildeling– og vil overta plassen i kalenderen.
+Et <strong> arrangement </strong>:
+- er et enkeltarrangement på en bestemt dato og klokkeslett, og vises som opptatt i kalenderen.
+- kan ikke dobbeltbookes.
+- kan bookes/legges over en tildeling/interntildeling. 
+
+Et arrangement vil altså overta plassen i kalenderen for aktuell ressurs, f.eks. torsdag 6.februar kl. 19-22. Og dersom det finnes tildelinger eller interntildelinger i aktuelt tidsrom fra før, så må saksbehandler avlyse/kansellere den opprinnelige tildelingen/interntildelingen.
