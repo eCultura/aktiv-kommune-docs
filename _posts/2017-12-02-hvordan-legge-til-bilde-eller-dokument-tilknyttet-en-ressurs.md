@@ -6,7 +6,7 @@ post_title: >
 author: Marie Aune
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=559
+permalink: http://manual.aktiv-kommune.no/arkiv/559
 published: true
 post_date: 2017-12-02 11:01:59
 ---
@@ -33,6 +33,17 @@ Feltnavn| Aksjon/ Forklaring
 **Beskrivelse:** |En kort beskrivelse av bildet/dokumentet.
 **Kategori:** |Velg aktuell kategori fra nedtrekksmenyen som filen du har lagt ved passer i.
 **Bygg/anlegg:** |Navn på ressursgruppe (bygg/anlegg) du vil knytte bildet til. 
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
 
 Når du er ferdig, klikker du på 
 ![lagre](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png)
