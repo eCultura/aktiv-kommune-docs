@@ -40,10 +40,10 @@ For å opprette nytt utleieobjekt (ressurs) klikker du på
 ### Fyll ut informasjonen om utleieobjektet/ressursen: 
 Feltnavn | Forklaring / Aksjon
 --------------------------------|-----------------------------------------------------
-**Navn:** |Navn på utleieobjekt/ressurs. NB! Det er dette navnet SOM BLIR SØKBART og VISES I BOOKINGFRONTEND. Det bør derfor legges litt tankearbeid bak de navnene som velges her.
+**Navn:** |Navn på utleieobjekt/ressurs. NB! Det er dette navnet SOM BLIR SØKBART og VISES i nettsiden som publikum ser (bookingfrontend). Navnene som velges her bør være korte og presise, og kanskje også ha et lokalt tilsnitt (hva kalles ressursen i lokalmiljøet/ til daglig).
 **Sortering:** |   ---Ikke i bruk.---
 **Bygg/anlegg:** |Bygg/anlegg (<strong>RESSURSGRUPPEN</strong>) som ressursen skal knyttes til. Bygg/anlegg (Ressursgruppe) må legges til før man legger til ressurs. For å legge til ny ressursgruppe (nytt bygg/anlegg) se [her](http://manual.aktiv-kommune.no/?p=166). Man vil få opp forslag når man skriver om bygg/anlegg (ressursgruppe) er lagt inn. 
-**Type:** |Velg aktuell ressurstype fra nedtrekksmenyen.
+**Type:** |Velg aktuell ressurstype fra nedtrekksmenyen. (Uteanlegg må inntil videre defineres som "lokale", en noe misvisende beskrivelse)
 **Beskrivelse:** |Beskrivelse av utleieobjektet/ressursen. Vi anbefaler en svært kort og beskrivende tekst, eller ingen tekst i det hele.
 **Organisasjons ID-er:** |Her kan du legge inn en kommaseparert liste med organisasjons ID-er(9-sifret organisasjonsnummer) som vil få e-post dersom noen avbestiller denne ressursen. <em>For eksempel: 976245539, 994239929, 975674614</em>. NB! Disse organisasjonene må være registrert under "BOOKING=>ORGANISAJONER" for å få melding.
 
@@ -88,7 +88,7 @@ Målgrupper og deltakerstatistikk er også i søknaden differensiert per toppniv
 2. Dersom en kommune vil ha statistikk på hva utleieobjektet/ressursen brukes til, så vil man raskt kunne se om det er IDRETT eller KULTUR som bruker utleieobjektet/ressursen. En svakhet her er at det av og til er et idrettslag som benytter en "kulturressurs" (f.eks. et møterom i et kulturhus), eller omvendt; det kan komme et kulturarrangement i en "idrettsressurs" (idrettshall). Men er saksbehandler klar over feilkildene, så kan statistikken korrigeres og avvik forklares.
 
 ## Kalender
-Kalenderen vises per uleieobjekt/ressurs, og kan vises i to nivåer:
+Kalenderen vises per utleieobjekt/ressurs, og kan vises i to nivåer:
 1) Per utleieobjekt/ressurs
 - Når en viser kalender for et utleieobjekt/en ressurs, vil det fremgå hva som er ledig tid.
 2) Per ressursgruppe («Bygg/Anlegg»)
