@@ -36,9 +36,9 @@ Feltnavn|  Aksjon / Forklaring
 --------------|-------------------------------
 Navn| Navn til delegaten
 Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.
-<li>E-post| Skriv inn E-postadressen til delegaten</li>
-<li>Telefon| Skriv inn telefon-nummer til delegaten</li>
-Organisasjon| Skriv inn og velg rett organisasjon / gruppe
+E-post| Skriv inn E-postadressen til delegaten
+Telefon| Skriv inn telefon-nummer til delegaten
+Organisasjon| Skriv inn organisasjon/gruppenavn og velg rett organisasjon / gruppe
 
 
 <style>
