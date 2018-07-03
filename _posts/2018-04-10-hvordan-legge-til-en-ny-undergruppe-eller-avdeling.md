@@ -41,5 +41,7 @@ td {padding: 10px;}
 
 </style>
 
+Trykk "Legg til" når du er ferdig.
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/leggtil.png" alt="" width="84" height="43" class="alignnone size-full wp-image-487" />
 
 > NB! Dersom du er delegat for flere organisasjoner, så må du være nøye med å oppgi hvilken organisasjon du representerer før du legger til nye undergrupper eller interntildelinger.
