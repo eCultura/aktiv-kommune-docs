@@ -6,12 +6,13 @@ post_title: >
 author: Linn Jensen
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=1093
+permalink: >
+  http://manual.aktiv-kommune.no/arkiv/1093
 published: true
 post_date: 2018-04-10 15:04:01
 ---
-Delegater har mulighet til å endre <em>innholdet</em> i tildelinger som er gitt til sin organisasjon. Å endre <em>innholdet</em> i en tildeling er det samme som å kunne opprette og endre på interntildelinger på vegne av sin organisasjonen. 
-Delegatene kan også opprette og endre (under)grupper i organisasjonen. Det er i utgangspunktet bare styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang til nye delegater i sin organisasjon.
+Delegater på vegne av sin organisasjon mulighet til å endre <em>innholdet</em> på de tildelinger som er gitt til organisasjon. Å endre <em>innholdet</em> i en tildeling er det samme som å kunne opprette og endre på interntildelinger på vegne av organisasjonen. 
+Delegatene kan også opprette og endre (under)grupper i organisasjonen. Det er i utgangspunktet bare styremedlemmer (registrert i frivilligregisteret i Brønnøysund) som kan delegere fullmakt/tilgang videre til nye delegater i sin organisasjon.
 
 > <strong>Tildeling</strong>
  En <em>tildeling </em>er en avgrenset brukstid gitt til en organisasjon på et bestemt utleieobjekt. Organisasjonen kan selv fordele denne tildelingen videre til sine undergrupper. <strong>Et eksempel</strong>: Idrettslaget «Skjalg» får tildelt tid hver tirsdag fra kl. 16 til 22 (vårsesongen 2019) på et bestemt utleieobjekt (f.eks. bane 1 i Stavanger idrettshall). Dette er en konkret tildeling.
@@ -28,10 +29,13 @@ Klikk på «Ny delegert», og et nytt skjermbilde dukker opp.
 
 I det nye skjermbildet kan du legge inn opplysninger om delegaten:
 <ul>
- 	<li>Navn til delegaten</li>
- 	<li>Fødselsnummer (11-siffer)</li>
- 	<li>E-post til delegaten</li>
- 	<li>Telefonnr. til delegaten</li>
+Feltnavn | Aksjon / Forklaring
+---------------|--------------------------------
+ 	<li>Navn| Navn til delegaten</li>
+ 	<li>Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.</li>
+ 	<li>E-post| Skriv inn E-postadressen til delegaten</li>
+ 	<li>Telefon| Skriv inn telefon-nummer til delegaten</li>
+
 
 Trykk "<strong>Legg til</strong>" til slutt.
 </ul>
