@@ -34,10 +34,11 @@ I det nye skjermbildet kan du legge inn opplysninger om delegaten:
 
 Feltnavn|  Aksjon / Forklaring
 --------------|-------------------------------
-<li>Navn| Navn til delegaten</li>
-<li>Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.</li>
+Navn| Navn til delegaten
+Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.
 <li>E-post| Skriv inn E-postadressen til delegaten</li>
 <li>Telefon| Skriv inn telefon-nummer til delegaten</li>
+Organisasjon| Skriv inn og velg rett organisasjon / gruppe
 
 
 <style>
