@@ -34,3 +34,15 @@ Område/Bydel| Velg det området eller bydelen som er mest aktuell for organisas
 Aktiviteter| Velg den aktivitetstypen som passer best. Om du ikke finner din aktivitet, ta kontakt med saksbehandler i din kommune. Denne kan registrere inn ny aktivitetstype.
 Beskrivelse | Her kan du skrive en kort beskrivelse av hva din organisasjon gjør, eventuelt formål.
 Bookingansvarlig| Legg inn kontaktinformasjon  til bookingansvarlig.
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
+
+Trykk "Lagre" når du er ferdig.
