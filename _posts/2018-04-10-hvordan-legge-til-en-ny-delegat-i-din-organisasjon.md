@@ -31,13 +31,14 @@ For å registrere en ny delegat for din organisasjon, klikk på din organisasjon
 Klikk på «Ny delegert», og et nytt skjermbilde dukker opp.
 
 I det nye skjermbildet kan du legge inn opplysninger om delegaten:
-<ul>
-Feltnavn | Aksjon / Forklaring
----------------|--------------------------------
-Navn| Navn til delegaten
-Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.
-E-post| Skriv inn E-postadressen til delegaten
-Telefon| Skriv inn telefon-nummer til delegaten
+
+Feltnavn|  Aksjon / Forklaring
+--------------|-------------------------------
+<li>Navn| Navn til delegaten</li>
+<li>Fødselsnummer| Skriv inn fødselsnummer til delegaten (11-siffer). Denne opplysningen trenger systemet for å kunne gjenkjenne personer som logger seg på via ID-porten.</li>
+<li>E-post| Skriv inn E-postadressen til delegaten</li>
+<li>Telefon| Skriv inn telefon-nummer til delegaten</li>
+
 
 <style>
 table, th, td {
@@ -52,4 +53,3 @@ td {padding: 10px;}
 
 
 Trykk "<strong>Legg til</strong>" til slutt.
-</ul>
