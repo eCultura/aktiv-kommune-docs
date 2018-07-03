@@ -2,26 +2,35 @@
 ID: 338
 post_title: >
   Hvordan endre informasjon for lag eller
-  ny organisasjon?
+  legge til ny organisasjon?
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=338
+permalink: http://manual.aktiv-kommune.no/arkiv/338
 published: true
 post_date: 2017-11-21 10:46:04
 ---
-Daglig leder, styremedlemmer og personer som er lagt til som <em>delegater</em> i Aktiv kommune kan endre informasjon for sitt lag eller organisasjon. For å utføre endringer må du logge inn i Aktiv kommune med ID porten. Din organisasjon vil da vise i menylinjen øverst til høyre. Klikk på organisasjonen i menylinjen for å se organisasjonens informasjon.
+Daglig leder, styremedlemmer og personer som er lagt til som <em>delegater</em> i AktivKommune kan endre informasjon for sitt lag eller organisasjon.
 
-Dersom du har tilgang til å endre denne informasjonen vil du se en "endre" knapp øverst til venstre på siden. Klikk på denne for å endre eller legge til informasjon om:
-<ul>
- 	<li>Organisasjonsnavn</li>
- 	<li>Kortnavn på organisasjon</li>
- 	<li>Organisasjonsnummer</li>
- 	<li>Hjemmeside</li>
- 	<li>Kontakttelefon</li>
- 	<li>Epost</li>
- 	<li>Adresse</li>
- 	<li>Aktivitetstype</li>
- 	<li>Beskrivelse</li>
- 	<li>Kontaktdetaljer til bookingansvarlig</li>
-</ul>
+For å utføre endringer må du logge inn i AktivKommune via ID-porten. Din organisasjon vil da vise i menylinjen øverst til høyre. Klikk på organisasjonen i menylinjen for å se organisasjonens informasjon.
+
+Dersom du har tilgang til å endre denne informasjonen, vil du se en "endre/rediger" knapp øverst til venstre på siden.
+ 
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="" width="87" height="41" class="alignnone size-full wp-image-644" />
+Klikk på denne for å endre eller legge til informasjon om:
+
+Feltnavn |  Aksjon / Forklaring
+--------------------|---------------------------------------------
+Organisasjon| Skriv inn det offisielle organisasjonsnavnet
+Kortnavn (til organisasjon) | Skriv inn et kortnavn på organisasjonen. Dette navnet blir synlig i kalenderen når organisasjonen har fått en tildeling eller et arrangement.
+Organisasjonsnummer | Skriv inn det 9-sifrede organisasjonsnummeret (Brønnøysund: se: brreg.no )
+Hjemmeside | Om organisasjonen har ei heimeside på internett, skriv inn denne adressa. (f.eks. http://www.organisasjonsnavn.no)
+Telefon| Om organisasjonen har en felles kontakttelefon ("sentralbord"), skriv inn dette her.
+E-post| Om organisasjonen har en felles e-postadresse, skriv inn denne her.
+Gate| Om organisasjonen har ei adresse, skriv gateadressa her.
+Postnummer| Firesifret postnummer
+Poststed | Skriv inn poststed.
+Område/Bydel| Velg det området eller bydelen som er mest aktuell for organisasjonen.
+Aktiviteter| Velg den aktivitetstypen som passer best. Om du ikke finner din aktivitet, ta kontakt med saksbehandler i din kommune. Denne kan registrere inn ny aktivitetstype.
+Beskrivelse | Her kan du skrive en kort beskrivelse av hva din organisasjon gjør, eventuelt formål.
+Bookingansvarlig| Legg inn kontaktinformasjon  til bookingansvarlig.
