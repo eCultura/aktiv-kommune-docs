@@ -11,12 +11,15 @@ published: true
 post_date: 2017-11-11 16:33:19
 ---
 For å bestille leietid på en ressurs/utleieobjekt (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
-1. Finn aktuell ressurs/utleieobjekt
-2. Finn aktuelt leietidspunkt (ledig eller ikke ledig)
-3. Fyll ut søknad
-4. Motta bekreftelse på søknad
-5. Eventuell korrigering av søknad
-6. Om status for søknaden
+
+Steg | Aktivitet
+---------|-------------------------------------
+1. |Finn aktuell ressurs/utleieobjekt
+2. |Finn aktuelt leietidspunkt (ledig eller ikke ledig)
+3. |Fyll ut søknad
+4. |Motta bekreftelse på søknad
+5. |Eventuell korrigering av søknad
+6. |Om status for søknaden
 
 Mer om de ulike stegene her:
 ## 1. Finn aktuell ressurs/utleieobjekt
@@ -68,6 +71,16 @@ Feltnavn| Forklaring/ Aksjon
 **(*) Ansvarlig søker/ Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
 **(*) Juridiske betingelser** |Du må akseptere de juridiske betingelsene for å få lov til å leie. 
 **Vedlegg** |Har du behov for å legge ved vedlegg/filer (et dokument, bilde) kan dette gjøres her.
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {padding: 10px;}
+
+</style>
 
 Når søknaden er ferdig utfylt, sender du den ved å klikke på 
 ![send](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/sendfrontend.png) 
