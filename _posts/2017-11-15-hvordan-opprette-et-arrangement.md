@@ -12,7 +12,9 @@ Saksbehandlere i kommunen har mulighet for å opprette arrangementer, tildeling 
 
 ### Arrangement
 
-Et arrangement opprettes vanligvis med opprinnelse i en søknad. Arrangement kan også opprettes av saksbehandlere i kommunen, der de vet det vil oppstå ulike hendelser som konserter, stevner, bydager osv. Bookinger tildeles ved to forskjellige metoder, som <em>tildeling</em> (hel sesong) eller som <em>arrangement</em> (enkelthendelse).
+Et arrangement opprettes vanligvis med opprinnelse i en søknad. Arrangement kan også opprettes av saksbehandlere i kommunen, der de vet det vil oppstå ulike hendelser som konserter, stevner, bydager osv. Bookinger tildeles ved to forskjellige metoder; 
+som <em>tildeling</em> (gjentakende bookinger for en hel sesong) eller 
+som <em>arrangement</em> (enkelthendelse).
 
 Arrangement prioriteres høyere enn tildelinger i Aktiv kommune og vil overskrive en tildeling. Dersom en tildeling blir overskrevet kan det sendes varsel til kontaktperson for tildelingen. For å bli varslet om avlyste arrangement som overskriver tidligere tildelinger, anbefales det å opprette tildelinger før man legger til arrangementer. Dersom man heller oppretter arrangementer før man legger til tildelinger vil det varsles om at tildelingen ikke blir opprettet, men man vil ikke få varsel dersom et overlappende arrangement avlyses.
 
