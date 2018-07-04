@@ -6,7 +6,7 @@ post_title: >
 author: Arild M. Halvorsen
 post_excerpt: ""
 layout: post
-permalink: http://manual.aktiv-kommune.no/?p=85
+permalink: http://manual.aktiv-kommune.no/arkiv/85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
@@ -78,7 +78,12 @@ Du vil så få et nytt skjermbilde med oppsummering av søknaden din. Øverst vi
 Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto. Så om du ikke finner e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
 ## 5. Eventuell korrigering på søknad
-Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. Ved å skrive inn tekst i <strong>"Legg til en kommentar"</strong> , og deretter trykke på "<strong>Legg til kommentar</strong>", så sender du de nye og oppdaterte opplysningene til saksbehandler. Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
+Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. 
+Ved å skrive inn tekst i <strong>"Legg til en kommentar"</strong> , og 
+deretter trykke på "<strong>Legg til kommentar</strong>", 
+så sender du de nye og oppdaterte opplysningene til saksbehandler. 
+
+Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
 
 ## 6. Om status for søknaden
 Søknaden din vil normalt ha en av de følgende statuser;
