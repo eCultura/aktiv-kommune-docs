@@ -8,10 +8,9 @@ permalink: http://manual.aktiv-kommune.no/arkiv/300
 published: true
 post_date: 2017-11-15 12:32:36
 ---
-Hvis en søknad
+Hvis 
 <ul>
-* ikke oppfyller kravene 
-* ikke blir prioritert øverst blant flere søknader</ul>
+* en søknad ikke oppfyller kravene  eller ikke blir prioritert øverst blant flere søknader</ul>
 eller 
 
 <ul>
@@ -26,7 +25,9 @@ så må saksbehandler avslå søknaden.
 
 
 For å gjøre dette velger du kommandoen:
+
 <strong>BOOKING => SØKNADER</strong>
+
 
 Skjermbildet ser da slik ut:
 ![skjermbilde søknad](http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/Skjermbildesoknader.png)
