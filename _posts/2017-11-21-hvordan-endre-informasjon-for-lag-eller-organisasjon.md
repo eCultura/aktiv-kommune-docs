@@ -16,8 +16,9 @@ For å utføre endringer må du logge inn i AktivKommune via ID-porten. Din orga
 
 Dersom du har tilgang til å endre denne informasjonen, vil du se en "endre/rediger" knapp øverst til venstre på siden.
  
+Klikk på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="" width="87" height="41" class="alignnone size-full wp-image-644" />
-Klikk på denne for å endre eller legge til informasjon om:
+for å endre eller legge til informasjon om:
 
 Feltnavn |  Aksjon / Forklaring
 --------------------|---------------------------------------------
