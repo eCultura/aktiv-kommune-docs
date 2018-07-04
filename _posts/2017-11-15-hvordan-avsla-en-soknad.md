@@ -10,17 +10,10 @@ post_date: 2017-11-15 12:32:36
 ---
 Hvis 
 <ul>
-* en søknad ikke oppfyller kravene  eller ikke blir prioritert øverst blant flere søknader</ul>
-eller 
-
-<ul>
-* søkeren ikke lengre ønsker å leie eller låne bygg/anlegg eller ressurs</ul>
-eller 
-
-<ul>
+* en søknad ikke oppfyller kravene  eller ikke blir prioritert øverst blant flere søknader eller 
+* søkeren ikke lengre ønsker å leie/låne et bygg/anlegg/ressurs  eller
 * ressursen/utleieobjektet ikke lenger er tilgjengelig for utleie (pga. skade e.l.),
 </ul>
-
 så må saksbehandler avslå søknaden. 
 
 
