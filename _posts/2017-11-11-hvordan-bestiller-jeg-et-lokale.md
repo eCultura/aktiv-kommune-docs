@@ -23,7 +23,7 @@ Steg | Aktivitet
 
 Mer om de ulike stegene her:
 ## 1. Finn aktuell ressurs/utleieobjekt
-Når du ønsker å leie et lokale, anlegg eller utstyr, så går du til nettsiden for Aktivkommune i din kommune. 
+Når du ønsker å leie et lokale, anlegg eller utstyr, så går du til nettsiden for AktivKommune i din kommune. 
 
 Hvis du vet navnet på ressursen (det vil si et lokale, et anlegg eller utstyr) du ønsker å leie, så kan du skrive navnet på ressursen i frisøkfeltet. Når du har skrevet det du ønsker, trykker du på *enter* eller klikker på 
 ![forstørrelsesglass](http://manual.aktiv-kommune.no/wp-content/uploads/2018/01/forstorrelsesglass.png)
