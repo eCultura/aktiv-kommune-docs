@@ -48,8 +48,11 @@ Skal du godkjenne en søknad, må du utføre følgende aktiviteter:
 
 Det første som må til er at du under punktet <strong>*Når?* </strong>
 må velge om søknaden skal være :
+<ul>
 1. en tildeling eller 
 2. et arrangement 
+</ul>
+
 
 (se nærmere forklaring under *Booking av ressurser* nedenfor). 
 
