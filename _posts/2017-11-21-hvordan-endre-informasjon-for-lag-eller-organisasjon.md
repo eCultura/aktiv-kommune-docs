@@ -27,11 +27,13 @@ Organisasjonsnummer | Skriv inn det 9-sifrede organisasjonsnummeret (Brønnøysu
 Hjemmeside | Om organisasjonen har ei heimeside på internett, skriv inn denne adressa. (f.eks. http://www.organisasjonsnavn.no)
 Telefon| Om organisasjonen har en felles kontakttelefon ("sentralbord"), skriv inn dette her.
 E-post| Om organisasjonen har en felles e-postadresse, skriv inn denne her.
+Fakturainformasjon |Her velger du om organisasjonen skal legges inn med 9-sifret org-nummer eller om faktureringen skal gå via enkeltperson (11-sifret fødselsnummer)
 Gate| Om organisasjonen har ei adresse, skriv gateadressa her.
-Postnummer| Firesifret postnummer
+Postnummer| Skriv inn et firesifret postnummer
 Poststed | Skriv inn poststed.
 Område/Bydel| Velg det området eller bydelen som er mest aktuell for organisasjonen.
-Aktiviteter| Velg den aktivitetstypen som passer best. Om du ikke finner din aktivitet, ta kontakt med saksbehandler i din kommune. Denne kan registrere inn ny aktivitetstype.
+Vis i portal| Her kan saksbehandler avgjøre om organisasjonen/laget skal være synlig i frontend av AktivKommune, eller ikke.
+Aktiviteter| Velg den aktivitetstypen som passer best. Om du ikke finner din aktivitet, ta kontakt med saksbehandler i din kommune. Saksbehandler kan registrere inn ny aktivitetstype.
 Beskrivelse | Her kan du skrive en kort beskrivelse av hva din organisasjon gjør, eventuelt formål.
 Bookingansvarlig| Legg inn kontaktinformasjon  til bookingansvarlig.
 
@@ -45,4 +47,5 @@ td {padding: 10px;}
 
 </style>
 
-Trykk "Lagre" når du er ferdig.
+Trykk "Lagre" 
+når du er ferdig.
