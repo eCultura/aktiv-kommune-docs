@@ -18,7 +18,7 @@ som <em>arrangement</em> (enkelthendelse).
 
 Arrangement prioriteres høyere enn tildelinger i AktivKommune og vil overskrive en tildeling. Dersom en tildeling blir overskrevet kan det sendes varsel til kontaktperson for tildelingen. For å bli varslet om avlyste arrangement som overskriver tidligere tildelinger, anbefales det å opprette tildelinger før man legger til arrangementer. Dersom man heller oppretter arrangementer før man legger til tildelinger vil det varsles om at tildelingen ikke blir opprettet, men man vil ikke få varsel dersom et overlappende arrangement avlyses.
 
-Det er også mulig å legge inn hendelser som arrangement, f.eks. dersom det har vært brann, vannskader på bygget eller bygget er stengt på grunn av vedlikehold.
+> Det er også mulig å legge inn hendelser som arrangement, f.eks. dersom det har vært brann, vannskader på bygget eller bygget er stengt på grunn av vedlikehold.
 
 I menyen kan man opprette arrangementer ved å velge kommandoen: 
 <strong>BOOKING =&gt; SØKNADER =&gt; ARRANGEMENTER. </strong>
@@ -34,9 +34,9 @@ Merk spesielt punkt <strong>«Når»</strong> ; Her kan man angi fra/til en dato
 Legg inn resten av informasjonen som er nødvendig og velg <strong>«Lagre». </strong>
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="" width="74" height="41" class="alignnone size-full wp-image-460" />
 Arrangementet blir opprettet og du kommer over i bildet som viser at arrangementet er opprettet.
-<ul>
->Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
-</ul>
+
+> Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
+
 
 ### Registrering av kontaktinformasjon og fakturainformasjon
 
@@ -62,9 +62,8 @@ Når alle tidspunkter er lagt inn fylles resten av informasjon om navn, epost, p
 Velg til slutt <strong>«Godkjenn»</strong> nede til venstre. Arrangementene opprettes i kalender og du kommer over i bildet som viser kobling til alle arrangementer som er opprettet.
 
 <img class="alignnone wp-image-1101 size-full" src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/04/flere-arrangement-1.png" alt="" width="820" height="379" />
-<ul>
- >Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
-</ul>
+
+> Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
 
 Du kan også klikke deg inn på hvert enkelt arrangementet som har blitt opprettet. Du vil da se at dato og tid under punktet <strong>«Når?» </strong>endrer seg. 
 
