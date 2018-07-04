@@ -12,12 +12,16 @@ post_date: 2017-11-21 10:46:04
 ---
 Daglig leder, styremedlemmer og personer som er lagt til som <em>delegater</em> i AktivKommune kan endre informasjon for sitt lag eller organisasjon.
 
-For å utføre endringer må du logge inn i AktivKommune via ID-porten. Din organisasjon vil da vise i menylinjen øverst til høyre. Klikk på organisasjonen i menylinjen for å se organisasjonens informasjon.
+For å utføre endringer må du logge inn i AktivKommune via ID-porten. 
+Etter at du har logget deg på via ID-porten, vil din organisasjon vises i menylinjen øverst til høyre. (til venstre for "Orgnr/Logg ut")
+Klikk på organisasjonsnavnet i menylinjen, og et nytt skjermbilde dukker opp.
 
-Dersom du har tilgang til å endre denne informasjonen, vil du se en "endre/rediger" knapp øverst til venstre på siden.
+Som delegat har du tilgang til å endre og legge til informasjon for din organisasjon. En "endre/rediger" knapp øverst til venstre på den organisasjonens side.
  
 Klikk på 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="" width="87" height="41" class="alignnone size-full wp-image-644" />
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="" width="87" height="41" class="alignnone size-full wp-image-644" /> 
+eller 
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/07/Skjermbilde-av-ENDRE-knapp.png" alt="" width="69" height="35" class="alignnone size-full wp-image-1611" />
 for å endre eller legge til informasjon om organisasjonen/ laget:
 
 Feltnavn |  Aksjon / Forklaring
