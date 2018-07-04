@@ -14,7 +14,7 @@ Hvis en søknad
 eller 
 * søkeren ikke lengre ønsker å leie eller låne bygg/anlegg eller ressurs
 eller 
-* ressursen/utleieobjektet ikke lenger er tilgjengelig for utleie (pga skade e.l.),
+* ressursen/utleieobjektet ikke lenger er tilgjengelig for utleie (pga. skade e.l.),
 
 så må saksbehandler avslå søknaden. 
 
