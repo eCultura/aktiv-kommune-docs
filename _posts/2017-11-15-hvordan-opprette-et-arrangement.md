@@ -16,7 +16,7 @@ Et arrangement opprettes vanligvis med opprinnelse i en søknad. Arrangement kan
 som <em>tildeling</em>  (gjentakende bookinger for en hel sesong) eller 
 som <em>arrangement</em> (enkelthendelse).
 
-Arrangement prioriteres høyere enn tildelinger i Aktiv kommune og vil overskrive en tildeling. Dersom en tildeling blir overskrevet kan det sendes varsel til kontaktperson for tildelingen. For å bli varslet om avlyste arrangement som overskriver tidligere tildelinger, anbefales det å opprette tildelinger før man legger til arrangementer. Dersom man heller oppretter arrangementer før man legger til tildelinger vil det varsles om at tildelingen ikke blir opprettet, men man vil ikke få varsel dersom et overlappende arrangement avlyses.
+Arrangement prioriteres høyere enn tildelinger i AktivKommune og vil overskrive en tildeling. Dersom en tildeling blir overskrevet kan det sendes varsel til kontaktperson for tildelingen. For å bli varslet om avlyste arrangement som overskriver tidligere tildelinger, anbefales det å opprette tildelinger før man legger til arrangementer. Dersom man heller oppretter arrangementer før man legger til tildelinger vil det varsles om at tildelingen ikke blir opprettet, men man vil ikke få varsel dersom et overlappende arrangement avlyses.
 
 Det er også mulig å legge inn hendelser som arrangement, f.eks. dersom det har vært brann, vannskader på bygget eller bygget er stengt på grunn av vedlikehold.
 
@@ -31,9 +31,11 @@ Velg <strong>«Ny»</strong>-knappen over arrangementsoversikten og du kommer ov
 
 Merk spesielt punkt <strong>«Når»</strong> ; Her kan man angi fra/til en dato for å legge et arrangement over flere sammenhengende dager, eller angi enkeltdager med <strong>«Legg til dato»</strong>. Bruk «Legg til dato» dersom du oppretter et arrangementet som går over flere dager, men som ikke pågår hele dagen i perioden.
 
-Legg inn resten av informasjonen som er nødvendig og velg «Lagre». Arrangementet blir opprettet og du kommer over i bildet som viser at arrangementet er opprettet.
+Legg inn resten av informasjonen som er nødvendig og velg <strong>«Lagre». </strong>
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="" width="74" height="41" class="alignnone size-full wp-image-460" />
+Arrangementet blir opprettet og du kommer over i bildet som viser at arrangementet er opprettet.
 <ul>
- 	<li><em>Merk</em>: Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.</li>
+>Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
 </ul>
 
 ### Registrering av kontaktinformasjon og fakturainformasjon
@@ -43,7 +45,7 @@ Krav til kontaktinformasjon og fakturainformasjon vil variere avhengig av type a
 
 <img class="alignnone wp-image-1099 size-full" src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/04/fakturainformasjon.png" alt="" width="1645" height="311" />
 
-Organisasjoner som allerede er lagt inn i Aktiv kommune kan velges fra en liste ved å skrive navnet eller organisasjonsnummer under «Organisasjon». Dersom arrangementet registreres av en person endrer man «Organisasjonsnummer» til «Fødselsnummer» og fyller inn informasjonen som kreves.
+Organisasjoner som allerede er lagt inn i AktivKommune kan velges fra en liste ved å skrive navnet eller organisasjonsnummer under «Organisasjon». Dersom arrangementet registreres av en person endrer man «Organisasjonsnummer» til «Fødselsnummer» og fyller inn informasjonen som kreves.
 
 ### Arrangement – fordelt på flere dager
 
@@ -61,8 +63,9 @@ Velg til slutt <strong>«Godkjenn»</strong> nede til venstre. Arrangementene op
 
 <img class="alignnone wp-image-1101 size-full" src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/04/flere-arrangement-1.png" alt="" width="820" height="379" />
 <ul>
- 	<li><em>Merk</em>: Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.</li>
+ >Det kommer opp varsel dersom arrangementet kommer i konflikt med en booking eller tildeling. Skjema for varsling av kontaktpersonen for den tidligere bookingen ligger lenger nede i skjermbildet.
 </ul>
 
 Du kan også klikke deg inn på hvert enkelt arrangementet som har blitt opprettet. Du vil da se at dato og tid under punktet <strong>«Når?» </strong>endrer seg. 
+
 Her har du mulighet til å sende ut varsel, gjøre endringer, eller sette til <strong>«Inaktiv»</strong> hvis et av arrangementene blir avlyst uten å påvirke de andre arrangementene.
