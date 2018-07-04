@@ -18,7 +18,7 @@ Dersom du har tilgang til å endre denne informasjonen, vil du se en "endre/redi
  
 Klikk på 
 <img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/rediger.png" alt="" width="87" height="41" class="alignnone size-full wp-image-644" />
-for å endre eller legge til informasjon om:
+for å endre eller legge til informasjon om organisasjonen/ laget:
 
 Feltnavn |  Aksjon / Forklaring
 --------------------|---------------------------------------------
@@ -49,4 +49,5 @@ td {padding: 10px;}
 </style>
 
 Trykk "Lagre" 
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre2.png" alt="" width="67" height="30" class="alignnone size-full wp-image-683" />
 når du er ferdig.
