@@ -10,7 +10,7 @@ permalink: http://manual.aktiv-kommune.no/arkiv/85
 published: true
 post_date: 2017-11-11 16:33:19
 ---
-For å bestille leietid på en ressurs/utleieobjekt (et lokale, et anlegg eller utstyr), må du gjennom følgende steg:
+For å bestille leietid på en ressurs/utleieobjekt (et lokale, et anlegg eller utstyr), er følgende aktiviteter aktuelle:
 
 Steg | Aktivitet
 ---------|-------------------------------------
@@ -19,7 +19,7 @@ Steg | Aktivitet
 3. |Fyll ut søknad
 4. |Motta bekreftelse på søknad
 5. |Eventuell korrigering av søknad
-6. |Om status for søknaden
+6. |Eventuell sjekk av status for søknaden
 
 Mer om de ulike stegene her:
 ## 1. Finn aktuell ressurs/utleieobjekt
@@ -62,13 +62,13 @@ I søknadsskjemaet er det en rekke opplysninger som må fylles ut. De felt som e
 
 Feltnavn| Forklaring/ Aksjon
 --------------------------------------------------|------------------------------------------------
-**(*) Hvorfor?** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekksmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
+**(*) Hvorfor?** |Informasjon om aktiviteten/arrangementet. Velg fra nedtrekkmenyen. Legg inn navn på aktivitet/arrangement slik det skal vises i kalenderen. Gi så en kort beskrivelse av aktiviteten/arrangementet. 
 **(*) Hvor mange?** |Oppgi forventet eller estimert antall deltakere. 
 **(*) Hvor?** |Velg bygg/anlegg for aktiviteten/arrangementet og tilhørende ressurser du ønsker å leie. 
 **(*) Når?** |Velg dato og klokkeslett for gjeldende leieperiode. Du kan legge til flere datoer ved å klikke på *Legg til dato* . Alternativt kan du skrive i kommentarfeltet at du ønsker å leie/låne ressursen f.eks. tirsdager hver andre uke  fra kl. 18 til 21.
-**(*) Hvem?** |Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. 
+**(*) Hvem?** |Kryss av for hvilken hovedmålgruppe aktiviteten/arrangementet er rettet mot. Velg den aktiviteten som dekker best om flere valg er aktuelle.
 **(*) Kontaktinformasjon** |Oppgi kontaktinformasjonen til bestillingsansvarlig.
-**(*) Ansvarlig søker/ Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekksmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
+**(*) Ansvarlig søker/ Fakturainformasjon** |Velg fødselsnummer eller organisasjonsnummer fra nedtrekkmenyen. Skriv inn fødselsnummer/organisasjonsnummer. Skriv også inn fakturaadresse. 
 **(*) Juridiske betingelser** |Du må akseptere de juridiske betingelsene for å få lov til å leie. 
 **Vedlegg** |Har du behov for å legge ved vedlegg/filer (et dokument, bilde) kan dette gjøres her.
 
@@ -88,7 +88,9 @@ Når søknaden er ferdig utfylt, sender du den ved å klikke på
 ## 4. Bekreftelse på mottatt søknad
 Du vil så få et nytt skjermbilde med oppsummering av søknaden din. Øverst vil en tekst med grønn bakgrunn fortelle hva som skjer med søknaden.
 
-Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto. Så om du ikke finner e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
+Du får også tilsendt en e-post som bekrefter at søknaden er sendt/mottatt, og hvor det ligger en lenke som du kan følge søknadsprosessen din via. 
+
+> I noen få tilfeller kan det hende at denne e-posten havner i "Spam"-mappen på din e-postkonto. Dersom du ikke finner e-posten i "Innboksen", så  kan du lete i "Spam"-mappen.
 
 ## 5. Eventuell korrigering på søknad
 Skulle du ønske å endre på eller komme med tilleggs-opplysninger som du har gitt i søknaden, eller søke om et annet tidspunkt, så kan du klikke på lenken som ligger i e-post-svaret du fikk. 
@@ -98,12 +100,15 @@ så sender du de nye og oppdaterte opplysningene til saksbehandler.
 
 Se også avsnittet: [kanseller søknad](http://manual.aktiv-kommune.no/?p=958) for hvordan du kansellerer søknaden (eller avbestiller eller avlyser bookingen om den alt har blitt godkjent av saksbehandler)
 
-## 6. Om status for søknaden
+## 6. Eventuell sjekk av status for søknaden
 Søknaden din vil normalt ha en av de følgende statuser;
+<ul>
 * "Ny"
 * "Under behandling"
 * "Godkjent" eller "Avslått"
+</ul>
 
-Du vil kunne følge status til søknaden ved å trykke på lenken til søknaden som er oppgitt i en av e-postene du har fått i forbindelse med søknadsprosessen.
+
+Du vil kunne følge status til søknaden ved å trykke på <strong>lenken til søknaden </strong>som er oppgitt i en av e-postene du har fått i forbindelse med søknadsprosessen.
 
 Du vil få en egen melding via e-post når søknaden blir "<strong>Godkjent</strong>" eller "<strong>Avslått</strong>". Det nytter ikke å svare på e-postene du får fra systemet, men du kan sende meldinger til saksbehandler via systemet, se punkt 5 over.
