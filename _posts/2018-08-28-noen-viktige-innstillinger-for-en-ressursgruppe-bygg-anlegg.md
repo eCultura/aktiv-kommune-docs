@@ -42,7 +42,7 @@ Trykk på knappen "Endre"
 
 Følgende side dukker opp:
 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-del-3-122x300.png" alt="" width="500" height="1000" class="alignnone size-medium wp-image-1667" />
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-del-3-1-131x300.png" alt="" width="131" height="300" class="alignnone size-medium wp-image-1673" />
 
 Gjør de endringer du mener skal gjelde for dette bygget/anlegget.
 
