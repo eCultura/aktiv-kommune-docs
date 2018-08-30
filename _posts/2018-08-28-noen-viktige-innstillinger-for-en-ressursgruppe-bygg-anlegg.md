@@ -13,11 +13,16 @@ post_date: 2018-08-28 09:40:57
 ---
 Etter at en ressursgruppe (et konkret bygg/anlegg) er opprettet, så må superbruker/saksbehandler ta stilling til hvilke tjenester som skal gjelde (være aktive) for utleieobjektene i den aktuelle ressursgruppen.
 
-Følgende tjenester og visninger må avklares internt i kommunen
+Følgende tjenester og visninger må avklares internt i kommunen:
 1. <em>Skal det være mulig å sende søknad på denne ressursgruppen?</em> Det kan i enkelte sesonger være uaktuelt å leie ut lokalet/anlegget (f.eks. på grunn av ombygging). For å vise at lokalet er "stengt" eller fullbooket osv, så kan det være aktuelt å skru av muligheten for å sende søknader på aktuelt utleiebobjekt.
-2. Skal kalenderen være synlig i frontend? 
-3. Skal det være mulig å sende melding til byggforvalter fra frontend?
-4. Skal det være mulig å vise ekstra kalender for publikumsbading
+
+2. <em>Skal kalenderen være synlig i frontend?</em> Det er mulig å ta bort kalendervisning i frontend. I skrivende stund har vi ingen gode eksempler for hvorfor kalender ikke skal være synlig, men muligheten ligger klar ved behov.
+
+3. <em>Skal det være mulig å sende melding til byggforvalter fra frontend?</em> Fra siden som omtaler ressursgruppen (bygget/anlegget) er det mulig for publikum å sende en melding til saksbehandler for bygg/anlegg. Det viser seg at meldinger som blir sendt i flere tilfeller ikke er til rett person, eller kommunen har kanskje ikke gode nok rutiner på å lese og svare på disse meldingene.
+
+>NB! Om din kommune velger å ta i bruk muligheten for å sende meldinger, så må dere lage en rutine  på lese og svare på meldingene. Meldingene finner saksbehandler ved å velge kommandoen: BOOKING -> MELDINGER, og velg deretter de filter du vil søke på (Status, type, bygg, alle/dine)
+
+4. Skal det være mulig å vise ekstra kalender for publikumsbading? For svømmehaller kan det av og til være aktuelt å vise tider for publikumsbading i en egen kaldender. Er det aktuelt, legg i så fall inn
 
 > Selv om det er mulig å ha ulike innstillinger for de enkelte ressursgruppene, så anbefaler vi at alle ressursgrupper i utgangspunktet har de samme innstillinger
 
@@ -36,9 +41,15 @@ Trykk på knappen "Endre"
 
 Følgende side dukker opp:
 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-244x300.png" alt="" width="800" height="1200" class="alignnone size-medium wp-image-1658" />
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger del 3.png" alt="" width="800" height="1500" class="alignnone size-medium wp-image-1658" />
 
 Gjør de endringer du mener skal gjelde for dette bygget/anlegget.
-Se innstillinger over.
+
+Anbefalte innstillinger på de fire områdene nevnt over er disse:
+
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-del-2.png" alt="" width="187" height="201" class="alignnone size-full wp-image-1668" />
+
+Men det er fullt mulig å ha andre valg her!
 
 Husk å trykke "LAGRE" til slutt.
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2017/12/lagre.png" alt="" width="74" height="41" class="alignnone size-full wp-image-460" />
