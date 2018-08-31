@@ -19,7 +19,7 @@ Følgende tjenester og visninger må avklares internt i kommunen:
 
 2. <em><strong>Skal kalenderen være synlig i frontend?</strong></em> Det er mulig å ta bort kalendervisning i frontend. I skrivende stund har vi ingen gode eksempler for hvorfor kalender ikke skal være synlig, men muligheten ligger klar ved behov.
 
-3. <em><strong>Skal det være mulig å sende melding til byggforvalter fra frontend?</strong></em> Fra siden som omtaler ressursgruppen (bygget/anlegget) er det mulig for publikum å sende en melding til saksbehandler for bygg/anlegg. Det viser seg at meldinger som blir sendt i flere tilfeller ikke er til rett person, eller kommunen har kanskje ikke gode nok rutiner på å lese og svare på disse meldingene.
+3. <em><strong>Skal det være mulig å sende melding til byggforvalter fra frontend?</strong></em> Fra siden som omtaler ressursgruppen (bygget/anlegget) er det mulig for publikum å sende en melding til saksbehandler for bygg/anlegg. Det viser seg at meldinger som blir sendt i flere tilfeller ikke er til rett person, eller kommunen har kanskje ikke gode nok rutiner på å lese og svare på disse meldingene. I utgangspunktet anbefaler vi derfor å "skru av" denne muligheten for publikum. Det er mulig at dette endres i kommende versjoner av AktivKommune gjennom at funksjonaliteten blir bedre.
 
 4. <em><strong>Skal det være mulig å vise ekstra kalender for publikumbading?</strong></em> For svømmehaller kan det av og til være aktuelt å vise tider for publikumbading i en egen kalender.
 
@@ -42,7 +42,7 @@ Trykk på knappen "Endre"
 
 Følgende side dukker opp:
 
-<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-del-3-1-131x300.png" alt="" width="131" height="300" class="alignnone size-medium wp-image-1673" />
+<img src="http://manual.aktiv-kommune.no/wp-content/uploads/2018/08/Endre-bygg-anlegg-innstillinger-del-3-1-131x300.png" alt="" width="250" height="600" class="alignnone size-medium wp-image-1673" />
 
 Gjør de endringer du mener skal gjelde for dette bygget/anlegget.
 
